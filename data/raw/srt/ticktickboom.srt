@@ -1,0 +1,7232 @@
+1
+00:00:56,410 --> 00:00:59,731
+Jonathan Larson : Hi I'm Jon
+
+2
+00:01:01,083 --> 00:01:03,279
+Jonathan Larson : I'm a musicaltheater writer
+
+3
+00:01:03,280 --> 00:01:05,604
+Jonathan Larson : One of the last of my species
+
+4
+00:01:06,506 --> 00:01:10,907
+Jonathan Larson : Sorry So so you know lately I've been hearing this sound
+
+5
+00:01:12,210 --> 00:01:16,374
+Jonathan Larson : Everywhere I go like a tick tick tick
+
+6
+00:01:16,472 --> 00:01:17,940
+Jonathan Larson : Like a time bomb
+
+7
+00:01:17,941 --> 00:01:23,482
+Jonathan Larson : in some cheesy Bmovie or Saturday morning cartoon The fuse has been lit
+
+8
+00:01:23,507 --> 00:01:27,168
+Jonathan Larson : The clock counts down the seconds as the flame
+
+9
+00:01:27,192 --> 00:01:34,065
+Jonathan Larson : gets closer and closer and closer until all at once
+
+10
+00:01:48,214 --> 00:01:50,831
+Jonathan Larson : Happy anniversary I love you so much
+
+11
+00:01:54,270 --> 00:01:56,715
+Susan : Before the Pulitzer Prize
+
+12
+00:01:57,314 --> 00:01:58,275
+Susan : Before
+
+13
+00:01:58,276 --> 00:02:02,802
+Man1 : We dedicate this opening night and every performance to our friend Jonathan Larson
+
+14
+00:02:07,922 --> 00:02:10,408
+Susan : Everything you're about to see is true
+
+15
+00:02:12,135 --> 00:02:14,638
+Susan : Except for the parts Jonathan made up
+
+16
+00:02:23,209 --> 00:02:27,416
+Jonathan Larson : The date is January 26th 1990
+
+17
+00:02:27,417 --> 00:02:31,829
+Jonathan Larson : The setting the barren unfashionable noman'sland
+
+18
+00:02:31,830 --> 00:02:34,830
+Jonathan Larson : between SoHo and Greenwich Village
+
+19
+00:02:34,913 --> 00:02:40,199
+Jonathan Larson : I have two keyboards a Macintosh computer A cat
+
+20
+00:02:40,714 --> 00:02:43,936
+Jonathan Larson : An impressive collection of compact discs
+
+21
+00:02:43,937 --> 00:02:46,900
+Jonathan Larson : cassettes and records of other people's music
+
+22
+00:02:46,911 --> 00:02:52,052
+Jonathan Larson : Bookshelves sagging under the weight of plays and novels I didn't write
+
+23
+00:02:52,094 --> 00:02:56,021
+Jonathan Larson : I have an original dystopian rock musical
+
+24
+00:02:57,179 --> 00:03:00,678
+Jonathan Larson : that I have spent the last eight years of my life writing
+
+25
+00:03:01,498 --> 00:03:04,685
+Jonathan Larson : and rewriting and rewriting
+
+26
+00:03:07,194 --> 00:03:11,461
+Jonathan Larson : I have rejection letters from every major and minor producer
+
+27
+00:03:11,462 --> 00:03:14,680
+Jonathan Larson : theater company record label and film studio in existence
+
+28
+00:03:14,688 --> 00:03:16,692
+Jonathan Larson : And in just over a week
+
+29
+00:03:19,149 --> 00:03:21,304
+Jonathan Larson : I will be 30 years old
+
+30
+00:03:23,022 --> 00:03:26,647
+Jonathan Larson : Older than Stephen Sondheim when he had his first Broadway show
+
+31
+00:03:26,648 --> 00:03:31,042
+Jonathan Larson : Older than Paul McCartney when he wrote his last song with John Lennon
+
+32
+00:03:31,042 --> 00:03:34,948
+Jonathan Larson : By the time my parents were 30 they already had two kids
+
+33
+00:03:34,947 --> 00:03:39,131
+Jonathan Larson : they had careers with steady paychecks a mortgage
+
+34
+00:03:39,131 --> 00:03:43,427
+Jonathan Larson : And in eight days my youth will be over forever
+
+35
+00:03:43,427 --> 00:03:46,115
+Jonathan Larson : And what exactly do I have to show for myself
+
+36
+00:03:48,750 --> 00:03:50,680
+Jonathan Larson : Happy birthday
+
+37
+00:03:51,364 --> 00:03:56,850
+Jonathan Larson : Stop the clock
+
+38
+00:03:56,875 --> 00:04:02,508
+Jonathan Larson : Take time out
+
+39
+00:04:02,509 --> 00:04:05,090
+Jonathan Larson : Time to regroup
+
+40
+00:04:05,091 --> 00:04:10,734
+Jonathan Larson : Before you lose the bout
+
+41
+00:04:10,734 --> 00:04:16,334
+Roger Bart;Jonathan Larson : Freeze the frame
+
+42
+00:04:16,359 --> 00:04:21,876
+Jonathan Larson;Roger Bart : Back it up
+
+43
+00:04:21,884 --> 00:04:24,464
+Jonathan Larson : Time to refocus
+
+44
+00:04:24,465 --> 00:04:29,935
+Jonathan Larson : Before they wrap it up
+
+45
+00:04:29,960 --> 00:04:32,712
+Jonathan Larson : Years are getting shorter
+
+46
+00:04:32,713 --> 00:04:35,747
+Jonathan Larson : Lines on your face are getting longer
+
+47
+00:04:35,748 --> 00:04:38,585
+Jonathan Larson : Feel like you're treading water
+
+48
+00:04:38,610 --> 00:04:41,341
+Jonathan Larson : But the riptide's getting stronger
+
+49
+00:04:41,342 --> 00:04:43,835
+Jonathan Larson : Don't panic don't jump ship
+
+50
+00:04:43,860 --> 00:04:46,820
+Jonathan Larson : Can't fight it like taxes
+
+51
+00:04:46,926 --> 00:04:52,024
+Jonathan Larson : At least it happens Only once in your life
+
+52
+00:04:52,065 --> 00:04:54,839
+Jonathan Larson : They're singing Happy Birthday
+
+53
+00:04:54,840 --> 00:04:57,789
+Jonathan Larson : You just want to lay down and cry
+
+54
+00:04:57,789 --> 00:05:02,807
+Jonathan Larson : Not just another birthday it's 3090
+
+55
+00:05:02,832 --> 00:05:05,173
+Jonathan Larson : Why can't you stay 29
+
+56
+00:05:05,198 --> 00:05:08,562
+Jonathan Larson : Hell you still feel like you're 22
+
+57
+00:05:08,562 --> 00:05:12,137
+Jonathan Larson : Turn 30 1990 Bang You're dead
+
+58
+00:05:12,161 --> 00:05:15,476
+Jonathan Larson : What can you do
+
+59
+00:05:15,501 --> 00:05:20,711
+Jonathan Larson : What can you do
+
+60
+00:05:20,736 --> 00:05:24,298
+Jonathan Larson : What can you do
+
+61
+00:05:25,265 --> 00:05:26,795
+Michael : I made ten copies
+
+62
+00:05:27,311 --> 00:05:29,064
+Jonathan Larson : You are an angel on earth
+
+63
+00:05:29,065 --> 00:05:30,717
+Michael : This is the last time Seriously
+
+64
+00:05:30,742 --> 00:05:31,868
+Jonathan Larson : I know Thank you
+
+65
+00:05:32,708 --> 00:05:33,525
+Jonathan Larson : No no no I got you
+
+66
+00:05:33,568 --> 00:05:34,197
+Michael : I'm gonna pay
+
+67
+00:05:34,402 --> 00:05:35,236
+Jonathan Larson : Hey I don't want you
+
+68
+00:05:35,237 --> 00:05:37,236
+Carolyn : Somebody needs to take out this trash
+
+69
+00:05:37,237 --> 00:05:39,458
+Freddy : So I hear you're moving out of Jon's place
+
+70
+00:05:39,459 --> 00:05:40,958
+Freddy : That's the end of an era
+
+71
+00:05:40,968 --> 00:05:44,461
+Freddy : We hear him sobbing in the fridge most mornings It's very sad
+
+72
+00:05:45,023 --> 00:05:47,259
+Jonathan Larson : No no no We are not talking about that
+
+73
+00:05:47,260 --> 00:05:49,646
+Jonathan Larson : Wait Carolyn you're coming next Friday right
+
+74
+00:05:49,700 --> 00:05:50,873
+Carolyn : What's happening Friday
+
+75
+00:05:52,457 --> 00:05:53,623
+Michael : Surprised he hasn't mentioned it
+
+76
+00:05:53,624 --> 00:05:54,647
+Freddy : That sounds vaguely familiar
+
+77
+00:05:54,672 --> 00:05:58,325
+Jonathan Larson : Guys this is the biggest break I've ever had This is that moment
+
+78
+00:05:58,350 --> 00:06:01,890
+Jonathan Larson : It's the first time people are gonna see the show that aren't just us
+
+79
+00:06:01,915 --> 00:06:04,081
+Freddy : It's good you're not putting too much pressure on it
+
+80
+00:06:05,754 --> 00:06:11,155
+Jonathan Larson : But it's true though It's like you get to a certain age and you stop being a writer who waits tables
+
+81
+00:06:11,156 --> 00:06:13,986
+Jonathan Larson : and you become a waiter with a hobby
+
+82
+00:06:13,987 --> 00:06:16,327
+Michael : BooBoo you need to ask yourself in this moment
+
+83
+00:06:16,353 --> 00:06:19,678
+Michael : are you letting yourself be led by fear or by love
+
+84
+00:06:23,154 --> 00:06:25,254
+Roger Bart : Clear the runway
+
+85
+00:06:25,255 --> 00:06:28,415
+Roger Bart : Make another pass
+
+86
+00:06:28,416 --> 00:06:30,677
+Roger Bart : Try one more approach
+
+87
+00:06:30,678 --> 00:06:33,670
+Roger Bart : Before you're out of gas
+
+88
+00:06:33,671 --> 00:06:36,224
+Jonathan Larson : Friends are getting fatter
+
+89
+00:06:36,225 --> 00:06:39,328
+Jonathan Larson : Hairs on your head are getting thinner
+
+90
+00:06:39,329 --> 00:06:41,988
+Jonathan Larson : Feel like a cleanup batter
+
+91
+00:06:41,989 --> 00:06:44,836
+Jonathan Larson : On a team that ain't a winner
+
+92
+00:06:44,837 --> 00:06:47,555
+Roger Bart : Don't freak out don't strike out
+
+93
+00:06:47,556 --> 00:06:50,569
+Roger Bart : Can't fight it like City Hall
+
+94
+00:06:50,588 --> 00:06:52,538
+Jonathan Larson : At least you're not alone
+
+95
+00:06:52,557 --> 00:06:55,593
+Jonathan Larson : Your friends are there too
+
+96
+00:06:55,593 --> 00:06:58,280
+Jonathan Larson : And they're singing Happy Birthday
+
+97
+00:06:58,288 --> 00:07:01,423
+Jonathan Larson;Michael : You just wish you could run away
+
+98
+00:07:01,424 --> 00:07:03,681
+Jonathan Larson : Who cares about a birthday
+
+99
+00:07:03,700 --> 00:07:06,860
+Jonathan Larson;Michael : But 3090 hey
+
+100
+00:07:06,867 --> 00:07:09,196
+Jonathan Larson : Can you be optimistic
+
+101
+00:07:09,197 --> 00:07:12,186
+Jonathan Larson;Michael : You're no longer the ingénue
+
+102
+00:07:12,211 --> 00:07:14,760
+Jonathan Larson;Michael : Turn 30 1990
+
+103
+00:07:14,761 --> 00:07:16,114
+Jonathan Larson : Boom You're passé
+
+104
+00:07:16,213 --> 00:07:19,457
+Jonathan Larson;Michael : What can you do
+
+105
+00:07:19,458 --> 00:07:24,553
+Jonathan Larson;Michael : What can you do
+
+106
+00:07:24,554 --> 00:07:28,067
+Jonathan Larson : What can you do
+
+107
+00:07:28,652 --> 00:07:30,020
+Susan : You just quit
+
+108
+00:07:30,045 --> 00:07:33,786
+Jonathan Larson : Well no I didn't just quit quit I gave I gave my notice
+
+109
+00:07:33,787 --> 00:07:35,472
+Susan : That's exactly the same thing
+
+110
+00:07:35,473 --> 00:07:36,926
+Jonathan Larson : No I have two weeks left
+
+111
+00:07:37,324 --> 00:07:40,264
+Jonathan Larson : I'm allowing myself to be led by love
+
+112
+00:07:41,088 --> 00:07:41,522
+Susan : What
+
+113
+00:07:42,156 --> 00:07:44,491
+Jonathan Larson : You know Rosa's got another client Craig Carnelia
+
+114
+00:07:44,516 --> 00:07:47,069
+Susan : This is Rosa your agent who hasn't returned your calls in a year
+
+115
+00:07:47,088 --> 00:07:47,968
+Jonathan Larson : Yeah yeah That's the one
+
+116
+00:07:47,993 --> 00:07:52,519
+Jonathan Larson : So she invited the entire theater industry to Craig's musical workshop last year
+
+117
+00:07:52,520 --> 00:07:58,278
+Jonathan Larson : And by intermission some producer... had already written him a check for ten thousand dollars
+
+118
+00:07:59,400 --> 00:08:01,461
+Susan : I just wish that you didn't have to think like that
+
+119
+00:08:01,462 --> 00:08:03,322
+Jonathan Larson : Well it's expensive to make art
+
+120
+00:08:03,355 --> 00:08:05,297
+Susan : No baby it's expensive to make art here
+
+121
+00:08:05,341 --> 00:08:06,987
+Jonathan Larson : Yeah but worth every penny
+
+122
+00:08:07,504 --> 00:08:09,045
+Susan : That's beautiful
+
+123
+00:08:09,069 --> 00:08:10,057
+Jonathan Larson : I know right
+
+124
+00:08:10,257 --> 00:08:12,287
+Susan : How are you gonna pay for this Jonathan
+
+125
+00:08:17,081 --> 00:08:19,530
+Jonathan Larson : Peter Pan and Tinkerbell
+
+126
+00:08:19,667 --> 00:08:22,482
+Jonathan Larson : Which way to Never Never Land
+
+127
+00:08:22,829 --> 00:08:25,216
+Jonathan Larson : Emerald City's gone to hell
+
+128
+00:08:25,502 --> 00:08:28,438
+Jonathan Larson : Since the wizard blew off his command Blew off his command
+
+129
+00:08:28,654 --> 00:08:31,309
+Jonathan Larson : On the streets you hear the voices
+
+130
+00:08:31,334 --> 00:08:33,542
+Jonathan Larson : Lost children crocodiles
+
+131
+00:08:33,567 --> 00:08:35,200
+Jonathan Larson : You're not into
+
+132
+00:08:35,225 --> 00:08:37,931
+Jonathan Larson : Making choices wicked witches
+
+133
+00:08:37,956 --> 00:08:40,605
+Jonathan Larson : Poppy fields or men behind the curtain
+
+134
+00:08:40,606 --> 00:08:43,249
+Jonathan Larson : Tiger lilies ruby slippers
+
+135
+00:08:43,250 --> 00:08:46,144
+Jonathan Larson;Karessa Johnson;Roger Bart : Clock is ticking that's for certain
+
+136
+00:08:46,145 --> 00:08:47,987
+Jonathan Larson : They're singing Happy Birthday
+
+137
+00:08:47,988 --> 00:08:48,710
+Jonathan Larson;Roger Bart;Karessa Johnson : Happy birthday
+
+138
+00:08:48,711 --> 00:08:51,600
+Jonathan Larson;Roger Bart;Karessa Johnson : I just wish it all were a dream
+
+139
+00:08:51,601 --> 00:08:54,288
+Jonathan Larson : It feels much more like doomsday
+
+140
+00:08:54,289 --> 00:08:56,587
+Jonathan Larson;Roger Bart;Karessa Johnson : Fuck 3090 3090
+
+141
+00:08:56,627 --> 00:08:59,375
+Jonathan Larson : Seems like I'm in for a twister
+
+142
+00:08:59,427 --> 00:09:02,325
+Jonathan Larson : I don't see a rainbow do you
+
+143
+00:09:02,326 --> 00:09:05,049
+Jonathan Larson;Roger Bart;Karessa Johnson : Turn 30 in the 90s
+
+144
+00:09:05,050 --> 00:09:07,637
+Jonathan Larson : Look into my hands now The ball has passed
+
+145
+00:09:07,947 --> 00:09:10,296
+Jonathan Larson : I want the spoils but not too fast
+
+146
+00:09:10,297 --> 00:09:13,452
+Jonathan Larson : The world is calling It's now or Neverland
+
+147
+00:09:13,477 --> 00:09:16,136
+Jonathan Larson : Why can't I stay a child forever and
+
+148
+00:09:16,262 --> 00:09:18,552
+Jonathan Larson : 3090 3090
+
+149
+00:09:18,951 --> 00:09:24,191
+Jonathan Larson;Karessa Johnson;Roger Bart : 3090 3090 3090 30 3090 30 3090
+
+150
+00:09:24,653 --> 00:09:29,866
+Jonathan Larson;Roger Bart;Karessa Johnson : What can I do What can I do
+
+151
+00:09:29,891 --> 00:09:33,924
+Jonathan Larson;Roger Bart;Karessa Johnson : 3090 30 3090
+
+152
+00:09:33,926 --> 00:09:41,292
+Karessa Johnson;Roger Bart;Jonathan Larson : What can I do
+
+153
+00:09:47,976 --> 00:09:51,016
+Jonathan Larson : Ladies and gentlemen please give it up for our band
+
+154
+00:09:51,017 --> 00:09:53,574
+Jonathan Larson : and also for my very very very dear friends
+
+155
+00:09:54,160 --> 00:09:57,250
+Jonathan Larson : Roger and Karessa on vocals
+
+156
+00:10:02,208 --> 00:10:03,231
+Jonathan Larson : Friday night
+
+157
+00:10:03,687 --> 00:10:07,284
+Deborah : Hi Jonathan it's Deborah Susan dropped off your music for tonight's dance
+
+158
+00:10:12,581 --> 00:10:14,149
+Jonathan Larson : Hey Pookie
+
+159
+00:10:14,150 --> 00:10:14,850
+Michael : Hi
+
+160
+00:10:15,329 --> 00:10:16,132
+Jonathan Larson : How was Philly
+
+161
+00:10:16,324 --> 00:10:20,246
+Michael : I went from the airport to a conference room and then back to the airport three hours later
+
+162
+00:10:21,223 --> 00:10:22,214
+Jonathan Larson : Sounds amazing
+
+163
+00:10:22,215 --> 00:10:22,673
+Michael : Mm
+
+164
+00:10:25,690 --> 00:10:29,499
+Jonathan Larson : Yeah he was the lead of every play in high school college
+
+165
+00:10:29,509 --> 00:10:32,229
+Jonathan Larson : And then we moved to New York
+
+166
+00:10:32,229 --> 00:10:38,636
+Michael : I am sick of waking up at 500 to get in line outside the Equity Building and wait all day
+
+167
+00:10:38,661 --> 00:10:43,466
+Michael : praying that the director actually even agrees to see anyone that's nonunion and then
+
+168
+00:10:43,467 --> 00:10:46,369
+Michael : when I finally do get in the room I sing
+
+169
+00:10:46,394 --> 00:10:49,120
+Michael : I don't know six measures if I'm lucky before they cut me off
+
+170
+00:10:49,121 --> 00:10:52,728
+Michael : and call me the wrong name Juan Pedro Carlos
+
+171
+00:10:52,729 --> 00:10:57,172
+Jonathan Larson : And then a week later he got a job at a fancy advertising company
+
+172
+00:10:57,495 --> 00:11:00,345
+Jonathan Larson : making high five figures
+
+173
+00:11:00,375 --> 00:11:01,648
+Jonathan Larson : Healthcare dental
+
+174
+00:11:03,176 --> 00:11:04,162
+Jonathan Larson : He never looked back
+
+175
+00:11:04,469 --> 00:11:09,222
+Michael : You know for someone who's broke you could probably spend a little bit less on party planning
+
+176
+00:11:09,755 --> 00:11:11,760
+Jonathan Larson : Well what is the point of money
+
+177
+00:11:11,769 --> 00:11:13,670
+Jonathan Larson : if you're not gonna spend it on the people you love
+
+178
+00:11:13,695 --> 00:11:15,803
+Michael : Yeah except you don't have any money
+
+179
+00:11:16,175 --> 00:11:16,755
+Jonathan Larson : Oh right
+
+180
+00:11:16,820 --> 00:11:18,875
+Michael : This has been sitting here for a week
+
+181
+00:11:18,875 --> 00:11:19,510
+Jonathan Larson : I'm on it
+
+182
+00:11:19,534 --> 00:11:22,169
+Michael : Mmhm Yeah You seem very on it
+
+183
+00:11:22,176 --> 00:11:25,499
+Michael : Pretty soon you won't have me around to remind you to pay your bills on time
+
+184
+00:11:25,524 --> 00:11:27,408
+Jonathan Larson : How will I ever survive
+
+185
+00:11:27,408 --> 00:11:30,415
+Michael : That's a very real question Have you found a new roommate yet
+
+186
+00:11:30,986 --> 00:11:34,417
+Jonathan Larson : I've been a little busy You know My workshop is next week
+
+187
+00:11:34,418 --> 00:11:35,753
+Michael : Wait what workshop
+
+188
+00:11:39,973 --> 00:11:40,786
+Jonathan Larson : That was funny
+
+189
+00:11:46,043 --> 00:11:47,264
+Michael : What time's the show tonight
+
+190
+00:11:49,583 --> 00:11:50,496
+Jonathan Larson : Uh
+
+191
+00:11:51,509 --> 00:11:52,504
+Jonathan Larson : Curtain's at 800
+
+192
+00:11:52,528 --> 00:11:53,002
+Michael : Mm
+
+193
+00:11:53,609 --> 00:11:57,411
+Michael : I've heard the dancing's amazing but the music sucks
+
+194
+00:12:14,123 --> 00:12:18,434
+Jonathan Larson : in a small town in the Midwest She went to college to study biology
+
+195
+00:12:18,459 --> 00:12:20,614
+Jonathan Larson : she thought she'd become a doctor maybe teach
+
+196
+00:12:20,615 --> 00:12:22,485
+Jonathan Larson : But then she fell in love
+
+197
+00:12:23,324 --> 00:12:25,525
+Jonathan Larson : with modern dance instead
+
+198
+00:12:26,395 --> 00:12:28,762
+Jonathan Larson : Every parent's dream right
+
+199
+00:12:29,341 --> 00:12:31,982
+Jonathan Larson : She moved to New York without knowing a soul
+
+200
+00:12:31,983 --> 00:12:37,482
+Jonathan Larson : Four years later she's already danced with every major choreographer in the city Paul Trisha Merce
+
+201
+00:12:38,108 --> 00:12:42,752
+Jonathan Larson : 1990 This was the year she was finally gonna join a company
+
+202
+00:12:42,777 --> 00:12:46,687
+Jonathan Larson : Not just go from job to job Actually have a home an artistic family
+
+203
+00:12:46,688 --> 00:12:50,922
+Jonathan Larson : And she was ready This was her year She knew it
+
+204
+00:12:50,922 --> 00:12:54,382
+Jonathan Larson : And then she fractured her ankle during a dress rehearsal
+
+205
+00:13:01,069 --> 00:13:03,446
+Jonathan Larson : she's dancing again it's just
+
+206
+00:13:04,338 --> 00:13:08,418
+Jonathan Larson : whatever that moment was when she knew
+
+207
+00:13:09,163 --> 00:13:11,365
+Jonathan Larson : all of a sudden she doesn't know anymore
+
+208
+00:13:12,276 --> 00:13:14,148
+Jonathan Larson : But Susan is a real artist
+
+209
+00:13:14,158 --> 00:13:18,291
+Jonathan Larson : She doesn't care about seeing her name in the New York Times
+
+210
+00:13:18,764 --> 00:13:22,699
+Jonathan Larson : It doesn't matter to her if she's dancing in front of five people
+
+211
+00:13:23,004 --> 00:13:24,730
+Jonathan Larson : or in front of five thousand
+
+212
+00:13:26,517 --> 00:13:28,164
+Jonathan Larson : And then there's the matter of us
+
+213
+00:13:38,383 --> 00:13:41,577
+Radio : Love shack Baby love shack
+
+214
+00:13:41,971 --> 00:13:45,134
+Love shack Baby love shack
+
+215
+00:13:50,133 --> 00:13:51,877
+Susan : You know he can't afford all of this right
+
+216
+00:13:54,871 --> 00:13:57,535
+Michael : Well he loves making a fuss especially about you
+
+217
+00:13:58,204 --> 00:13:58,603
+Susan : Hm
+
+218
+00:14:04,515 --> 00:14:06,723
+Freddy : After everything we've done for him
+
+219
+00:14:06,777 --> 00:14:07,176
+Jonathan Larson : Stop
+
+220
+00:14:07,200 --> 00:14:08,060
+Freddy : he walks away
+
+221
+00:14:08,048 --> 00:14:10,208
+Jonathan Larson : Freddy look I'm leaving you my mixtapes
+
+222
+00:14:10,620 --> 00:14:12,426
+Jonathan Larson : You can play them in remembrance of me
+
+223
+00:14:12,477 --> 00:14:15,632
+Michael : Jonathan Larson's famous Moondance Diner mixtape
+
+224
+00:14:16,518 --> 00:14:18,878
+Michael : Who doesn't love showtunes with their French toast
+
+225
+00:14:18,909 --> 00:14:22,609
+Jonathan Larson : Actually it's not just showtunes It's a very eclectic mix
+
+226
+00:14:22,776 --> 00:14:24,297
+Carolyn : Someone's very touchy about mixtapes
+
+227
+00:14:24,322 --> 00:14:24,929
+Michael : Apparently
+
+228
+00:14:24,938 --> 00:14:27,365
+Freddy : Okay listen I'm happy for you I really am
+
+229
+00:14:27,366 --> 00:14:27,927
+Jonathan Larson : Oh yeah
+
+230
+00:14:27,965 --> 00:14:34,389
+Freddy : I'm also extremely bitter and jealous and envious and sort of hateful towards you right now I mean
+
+231
+00:14:35,551 --> 00:14:36,491
+Freddy : he's getting out
+
+232
+00:14:37,258 --> 00:14:38,161
+Jonathan Larson : And you're gonna be next
+
+233
+00:14:38,641 --> 00:14:40,507
+Freddy : Well I got a callback last week
+
+234
+00:14:40,953 --> 00:14:41,651
+Jonathan Larson : Great
+
+235
+00:14:41,924 --> 00:14:42,917
+Freddy : For a cruise
+
+236
+00:14:42,941 --> 00:14:44,018
+Carolyn : What's wrong with a cruise
+
+237
+00:14:45,139 --> 00:14:48,234
+Freddy : It's an Arctic cruise so pretty much everything
+
+238
+00:14:48,259 --> 00:14:52,119
+Freddy : Uh every single thing is wrong with that It's in the Arctic
+
+239
+00:14:52,899 --> 00:14:53,687
+Jonathan Larson : How you feeling
+
+240
+00:14:53,959 --> 00:14:54,716
+Freddy : Um
+
+241
+00:14:55,325 --> 00:14:56,458
+Freddy : It's been a really good week
+
+242
+00:14:57,003 --> 00:15:00,849
+Freddy : Tcell count is good My doctor feels cautiously optimistic
+
+243
+00:15:00,913 --> 00:15:03,106
+Jonathan Larson : Okay good You look great
+
+244
+00:15:03,602 --> 00:15:04,803
+Freddy : Oh my God thank you I know
+
+245
+00:15:05,944 --> 00:15:08,119
+Freddy : But for the cruise I'm gonna have to sort of
+
+246
+00:15:08,210 --> 00:15:10,035
+Carolyn : Tighten up pull it up Make it tight
+
+247
+00:15:10,800 --> 00:15:14,288
+Roger Bart : Scott and I we used to sing madrigals in high school
+
+248
+00:15:14,313 --> 00:15:16,089
+Jonathan Larson : What Really
+
+249
+00:15:16,090 --> 00:15:18,077
+Scott : I hated singing I just did it for the pussy
+
+250
+00:15:19,517 --> 00:15:23,097
+Roger Bart : Ran into Scott in SoHo and he really really
+
+251
+00:15:24,991 --> 00:15:25,524
+Jonathan Larson : Got it
+
+252
+00:15:25,784 --> 00:15:28,166
+Scott : I never get to go to artist parties you know
+
+253
+00:15:28,419 --> 00:15:30,984
+Scott : It sucks The drugs there are always the best
+
+254
+00:15:30,985 --> 00:15:32,461
+Jonathan Larson : Mm Mmhm
+
+255
+00:15:32,486 --> 00:15:33,504
+Roger Bart : Scott's in finance
+
+256
+00:15:34,051 --> 00:15:34,945
+Jonathan Larson : Shocking
+
+257
+00:15:35,121 --> 00:15:36,469
+Scott : Yeah What do you do
+
+258
+00:15:36,493 --> 00:15:38,392
+Jonathan Larson : I'm the future of musical theater Scott
+
+259
+00:15:42,127 --> 00:15:44,940
+Jonathan Larson : Welcome I'm gonna get another drink
+
+260
+00:15:47,804 --> 00:15:49,184
+Scott : That guy's hilarious
+
+261
+00:16:04,876 --> 00:16:07,776
+Jonathan Larson : This is the life bobo bobo bo
+
+262
+00:16:07,777 --> 00:16:10,622
+Jonathan Larson : This is the life bobo bobo bo
+
+263
+00:16:10,692 --> 00:16:13,527
+Jonathan Larson : This is the life bobo bobo bo
+
+264
+00:16:13,528 --> 00:16:16,325
+Jonathan Larson : Bohemia
+
+265
+00:16:16,597 --> 00:16:19,350
+Jonathan Larson : Shower's in the kitchen There might be some soap
+
+266
+00:16:19,563 --> 00:16:22,303
+Jonathan Larson : Dishes in the sink Brush your teeth if you can cope
+
+267
+00:16:22,591 --> 00:16:24,000
+Jonathan Larson : Toilet's in the closet
+
+268
+00:16:24,009 --> 00:16:27,228
+Jonathan Larson : You better hope There's a light bulb in there
+
+269
+00:16:27,229 --> 00:16:28,291
+Woman1 : Not today
+
+270
+00:16:28,301 --> 00:16:31,269
+Jonathan Larson : Revolving door roommates Prick up your ears
+
+271
+00:16:31,278 --> 00:16:33,889
+Jonathan Larson : Fourteen people in just four years
+
+272
+00:16:34,329 --> 00:16:37,170
+Jonathan Larson : Ann and Max and Jonathan And Carolyn and Kerri
+
+273
+00:16:37,171 --> 00:16:39,272
+Jonathan Larson : David Tim No Tim was just a guest from June
+
+274
+00:16:39,402 --> 00:16:42,832
+Jonathan Larson : To January Margaret Lisa David Susie Stephen Joe and Sam
+
+275
+00:16:43,005 --> 00:16:46,046
+Jonathan Larson : And Elsa the bill collector's dream Who still is on the lam
+
+276
+00:16:46,071 --> 00:16:48,444
+Jonathan Larson : Don't forget the neighbors Michelle and Gay
+
+277
+00:16:48,694 --> 00:16:51,534
+Jonathan Larson : More like a family than a family hey
+
+278
+00:16:51,809 --> 00:16:54,759
+Jonathan Larson : The time is flying And everything is dying
+
+279
+00:16:54,784 --> 00:16:57,722
+Jonathan Larson : I thought by now I'd have a dog a kid a wife
+
+280
+00:16:57,822 --> 00:17:00,804
+Jonathan Larson : The ship is sort of sinking So let's start drinking
+
+281
+00:17:00,805 --> 00:17:03,398
+Jonathan Larson : Before we start thinking Is this the life
+
+282
+00:17:03,855 --> 00:17:06,653
+Jonathan Larson : This is the life bobo bobo bo
+
+283
+00:17:06,678 --> 00:17:09,458
+Jonathan Larson;All : This is the life bobo bobo bo
+
+284
+00:17:09,791 --> 00:17:12,432
+All : This is the life bobo bobo bo
+
+285
+00:17:12,457 --> 00:17:14,407
+All : Bohemia
+
+286
+00:17:15,508 --> 00:17:17,382
+All : Bohemia One more time
+
+287
+00:17:18,534 --> 00:17:23,342
+All;Jonathan Larson : Bohemia
+
+288
+00:17:23,367 --> 00:17:24,793
+Jonathan Larson : Bobo bobo bo
+
+289
+00:17:32,347 --> 00:17:34,194
+Scott : That was freaking amazing
+
+290
+00:17:34,880 --> 00:17:35,546
+Scott : Whoo
+
+291
+00:17:37,442 --> 00:17:40,215
+Jonathan Larson : Whoa
+
+292
+00:17:41,488 --> 00:17:44,068
+Jonathan Larson : Hi Everyone's leaving
+
+293
+00:17:44,132 --> 00:17:45,877
+Susan : I just needed some fresh air
+
+294
+00:17:46,002 --> 00:17:47,182
+Jonathan Larson : Okay
+
+295
+00:17:47,207 --> 00:17:49,956
+Jonathan Larson : It's freezing up here
+
+296
+00:17:50,156 --> 00:17:51,342
+Susan : Where is your coat
+
+297
+00:17:51,569 --> 00:17:53,115
+Jonathan Larson : Oh I don't know It's uh
+
+298
+00:17:54,190 --> 00:17:56,010
+Jonathan Larson : It's at the bottom of a very large pile
+
+299
+00:17:56,011 --> 00:17:56,643
+Jonathan Larson : Oh
+
+300
+00:17:57,585 --> 00:17:58,032
+Jonathan Larson : Mm
+
+301
+00:18:03,550 --> 00:18:05,383
+Jonathan Larson : Wow That's pretty
+
+302
+00:18:06,451 --> 00:18:07,814
+Susan : That's the prison barge
+
+303
+00:18:09,173 --> 00:18:09,967
+Jonathan Larson : Oh yeah
+
+304
+00:18:12,938 --> 00:18:17,888
+Susan : I heard uh in Jacob's Pillow they're hiring new teachers for the dance school
+
+305
+00:18:18,733 --> 00:18:19,748
+Jonathan Larson : Oh yeah
+
+306
+00:18:19,772 --> 00:18:20,310
+Susan : Yeah
+
+307
+00:18:20,368 --> 00:18:23,428
+Susan : Work a couple of hours a week Then the rest of the time is yours
+
+308
+00:18:24,254 --> 00:18:25,580
+Susan : Free studio space whenever you want
+
+309
+00:18:25,592 --> 00:18:28,587
+Jonathan Larson : Hey Whoa Can we just talk for a second
+
+310
+00:18:28,611 --> 00:18:29,139
+Susan : Mm
+
+311
+00:18:29,164 --> 00:18:32,076
+Jonathan Larson : Can we just talk about how amazing you were tonight
+
+312
+00:18:34,151 --> 00:18:37,211
+Susan;Jonathan Larson : Thank you I am not messing around
+
+313
+00:18:37,482 --> 00:18:39,802
+Jonathan Larson : I could just watch you dancing forever
+
+314
+00:18:44,958 --> 00:18:46,338
+Susan : I was thinking of maybe applying
+
+315
+00:18:46,474 --> 00:18:47,193
+Jonathan Larson : Hm
+
+316
+00:18:47,217 --> 00:18:48,733
+Susan : To the job in Jacob's Pillow
+
+317
+00:18:49,798 --> 00:18:52,111
+Susan : We went there last summer remember
+
+318
+00:18:52,129 --> 00:18:52,671
+Jonathan Larson : Oh
+
+319
+00:18:52,696 --> 00:18:53,911
+We saw the new Mark Morris
+
+320
+00:18:53,936 --> 00:18:55,197
+Jonathan Larson : Oh yeah
+
+321
+00:18:55,221 --> 00:18:55,594
+Susan : Yeah
+
+322
+00:18:56,491 --> 00:18:57,952
+Jonathan Larson : That's the place in the Berkshires
+
+323
+00:18:57,976 --> 00:18:58,687
+Susan : Mmhm
+
+324
+00:18:58,687 --> 00:19:01,213
+Jonathan Larson : So you're gonna move to the Berkshires
+
+325
+00:19:02,005 --> 00:19:07,023
+Susan : And not have to work 30 hours a week doing word processing to pay the rent why not
+
+326
+00:19:07,278 --> 00:19:09,527
+Susan : I might actually be able to get back into shape
+
+327
+00:19:10,785 --> 00:19:13,960
+Jonathan Larson : Okay Yeah All right Let's do it Let's move
+
+328
+00:19:15,939 --> 00:19:16,714
+Susan : I'm being serious
+
+329
+00:19:16,738 --> 00:19:17,985
+Jonathan Larson : Hey I'm being serious
+
+330
+00:19:17,986 --> 00:19:21,870
+Jonathan Larson : We're gonna live in a log cabin We're gonna hunt acorns
+
+331
+00:19:21,939 --> 00:19:24,712
+Jonathan Larson : We're gonna We're gonna gather squirrels
+
+332
+00:19:25,175 --> 00:19:27,501
+Susan : What are you even talking about
+
+333
+00:19:28,121 --> 00:19:29,413
+Susan : It's the Berkshires
+
+334
+00:19:29,551 --> 00:19:32,311
+Susan : People have vacation homes there You've been there
+
+335
+00:19:32,884 --> 00:19:35,829
+Jonathan Larson : I'm so sorry Can we Can we please go inside
+
+336
+00:19:35,830 --> 00:19:37,302
+Jonathan Larson : Sorry I just feel like I'm scared
+
+337
+00:19:37,303 --> 00:19:39,651
+Jonathan Larson : I'm beginning to lose sensation in my extremities
+
+338
+00:19:39,676 --> 00:19:40,919
+Susan : You are such a baby
+
+339
+00:19:41,715 --> 00:19:42,722
+Susan : Take this
+
+340
+00:19:45,763 --> 00:19:47,109
+Jonathan Larson : Whoa Hold on
+
+341
+00:19:50,656 --> 00:19:51,389
+Susan : You like
+
+342
+00:19:54,619 --> 00:19:56,672
+Susan : I thought that you were in a hurry to get back inside
+
+343
+00:20:14,074 --> 00:20:16,465
+Susan : You know that job in the Berkshires
+
+344
+00:20:16,827 --> 00:20:18,335
+Jonathan Larson : Yeah sounds amazing
+
+345
+00:20:18,360 --> 00:20:19,384
+Susan : I already applied for it
+
+346
+00:20:19,409 --> 00:20:20,164
+Jonathan Larson : Oh yeah
+
+347
+00:20:20,188 --> 00:20:20,707
+Susan : Yeah
+
+348
+00:20:21,167 --> 00:20:22,155
+Susan : And I got it
+
+349
+00:20:22,180 --> 00:20:23,101
+Jonathan Larson : Oh
+
+350
+00:20:23,653 --> 00:20:24,699
+Jonathan Larson : Oh yeah That's great
+
+351
+00:20:26,859 --> 00:20:27,872
+Susan : It starts in June
+
+352
+00:20:28,585 --> 00:20:30,579
+Jonathan Larson : Okay So this is just for the summer
+
+353
+00:20:30,698 --> 00:20:32,638
+Susan : No Mmmm it's permanent
+
+354
+00:20:36,171 --> 00:20:36,811
+Susan : Jon
+
+355
+00:20:38,020 --> 00:20:39,655
+Jonathan Larson : Whoa
+
+356
+00:20:39,679 --> 00:20:45,009
+Michael : the Berkshires That is like so far from Midtown
+
+357
+00:20:45,010 --> 00:20:46,383
+Jonathan Larson : Yeah Yeah
+
+358
+00:20:46,909 --> 00:20:48,443
+Jonathan Larson : Why is she doing this right now
+
+359
+00:20:48,860 --> 00:20:51,393
+Jonathan Larson : And she says I want you to come with me
+
+360
+00:20:51,394 --> 00:20:52,481
+Michael : What did you say
+
+361
+00:20:52,505 --> 00:20:53,859
+Jonathan Larson : I said Oh
+
+362
+00:20:57,400 --> 00:21:02,886
+Jonathan Larson : What am I supposed to say I didn't know what to say I mean like I can't I can't leave New York
+
+363
+00:21:02,887 --> 00:21:03,957
+Michael : Oh tell her to move in with you
+
+364
+00:21:04,397 --> 00:21:05,124
+Jonathan Larson : Move in where
+
+365
+00:21:05,149 --> 00:21:06,522
+Michael : You need a new roommate right
+
+366
+00:21:06,657 --> 00:21:09,635
+Michael : It's two birds one stone You are very welcome
+
+367
+00:21:10,467 --> 00:21:15,139
+Jonathan Larson : Okay so what what about the guy that you were dating David I thought you guys were great together
+
+368
+00:21:15,433 --> 00:21:16,538
+Michael : It didn't work out
+
+369
+00:21:18,411 --> 00:21:23,611
+Michael : Oh There's a focus group at the office this week and they're  looking for a few more people How about I sign you up
+
+370
+00:21:24,853 --> 00:21:27,567
+Jonathan Larson : So you can lure me to the dark side
+
+371
+00:21:27,568 --> 00:21:30,195
+Michael : No So I can introduce you to my colleagues
+
+372
+00:21:30,196 --> 00:21:32,057
+Michael : and show them how brilliant you are
+
+373
+00:21:32,082 --> 00:21:33,615
+Jonathan Larson : I don't want a job in advertising
+
+374
+00:21:33,660 --> 00:21:37,110
+Michael : I don't want you to have a job in advertising I want you to have a job in
+
+375
+00:21:37,795 --> 00:21:38,685
+Michael : jingle writing
+
+376
+00:21:40,997 --> 00:21:41,498
+Michael : listen
+
+377
+00:21:41,648 --> 00:21:46,801
+Michael : You come up with jingles all the time for fun Jon You come up with songs about cereal we're eating
+
+378
+00:21:47,308 --> 00:21:48,808
+Michael : You could get paid for that
+
+379
+00:21:48,934 --> 00:21:49,760
+Jonathan Larson : Well you know
+
+380
+00:21:51,851 --> 00:21:54,424
+Jonathan Larson : I will be getting paid for my music anyway So
+
+381
+00:21:55,370 --> 00:21:56,019
+Michael : That's true
+
+382
+00:21:59,783 --> 00:22:03,702
+Michael : And we are here Home sweet home
+
+383
+00:22:09,710 --> 00:22:13,610
+Jonathan Larson : Oh my God
+
+384
+00:22:15,522 --> 00:22:19,415
+Jonathan Larson : Michael tosses the keys to the parking attendant
+
+385
+00:22:20,895 --> 00:22:23,655
+Jonathan Larson : What apartment building has a parking attendant
+
+386
+00:22:28,559 --> 00:22:31,513
+Jonathan Larson : An old white lady with a tiny dog
+
+387
+00:22:32,145 --> 00:22:33,825
+Jonathan Larson : Is this real life
+
+388
+00:22:34,488 --> 00:22:35,430
+Michael : No more
+
+389
+00:22:35,726 --> 00:22:42,214
+Michael : Walking 13 blocks With 30 pounds of laundry In the freezing dead of winter
+
+390
+00:22:44,532 --> 00:22:52,124
+Michael : No more Walking up six flights of stairs Or throwing down the key Because there is no buzzer
+
+391
+00:22:54,265 --> 00:22:59,338
+Michael : No more faulty wiring No more crooked floors
+
+392
+00:22:59,363 --> 00:23:02,857
+Michael : No more spitting out my Ultra Brite
+
+393
+00:23:02,882 --> 00:23:09,475
+Michael : On top of dirty dishes In the one and only sink
+
+394
+00:23:10,107 --> 00:23:14,894
+Michael : Hello to my walking closets
+
+395
+00:23:14,895 --> 00:23:18,845
+Michael : Tidy as Park Avenue
+
+396
+00:23:19,262 --> 00:23:23,803
+Michael : Hello my butcher block table
+
+397
+00:23:23,804 --> 00:23:30,823
+Michael : I could get used I could get used I could get used to you
+
+398
+00:23:34,537 --> 00:23:42,390
+Michael : No more Climbing over sleeping people Before you get out the door Of your own building
+
+399
+00:23:44,664 --> 00:23:45,850
+Jonathan Larson;Michael : No more
+
+400
+00:23:45,851 --> 00:23:49,336
+Michael : Noxious fumes from gas heaters That are illegal
+
+401
+00:23:49,337 --> 00:23:52,218
+Jonathan Larson : Or will blow up While you are sleeping
+
+402
+00:23:54,351 --> 00:23:57,152
+Michael;Jonathan Larson : No more Leaky ceilings
+
+403
+00:23:57,171 --> 00:23:59,596
+Michael;Jonathan Larson : No more Holes in the floor
+
+404
+00:23:59,597 --> 00:24:05,288
+Jonathan Larson : No more Taking a shower in the kitchen While your roommate's Eating breakfast
+
+405
+00:24:05,289 --> 00:24:09,279
+Jonathan Larson;Michael : And you're getting water On his cornflakes
+
+406
+00:24:10,453 --> 00:24:15,071
+Jonathan Larson;Michael : Hello to shiny New parquet wood floors
+
+407
+00:24:15,072 --> 00:24:19,600
+Jonathan Larson;Michael : As waxed as a wealthy girl's legs
+
+408
+00:24:19,601 --> 00:24:23,803
+Jonathan Larson;Michael : Hello dear Mr Dishwasher
+
+409
+00:24:23,804 --> 00:24:32,670
+Jonathan Larson;Michael : I could get used I could get used I could get used I could get Used to you I could get used to you
+
+410
+00:24:32,671 --> 00:24:35,053
+Jonathan Larson : No more exotic
+
+411
+00:24:35,054 --> 00:24:37,566
+Michael : No more neurotic
+
+412
+00:24:37,567 --> 00:24:41,842
+Jonathan Larson;Michael : No more anything But pleasantly robotic
+
+413
+00:24:41,867 --> 00:24:43,048
+Michael : We're movin on up
+
+414
+00:24:43,072 --> 00:24:44,367
+Jonathan Larson : We're movin on up
+
+415
+00:24:44,367 --> 00:24:46,928
+Michael;Jonathan Larson : To the East Side To the East Side
+
+416
+00:24:46,953 --> 00:24:55,584
+Jonathan Larson;Michael : To a deluxe apartment In the sky
+
+417
+00:24:57,781 --> 00:25:02,233
+Jonathan Larson;Michael : Hello to dear Mr Doorman
+
+418
+00:25:02,234 --> 00:25:05,920
+Jonathan Larson;Michael : Who looks like Captain Kangaroo
+
+419
+00:25:05,921 --> 00:25:10,253
+Jonathan Larson;Michael : Hello dear fellow and how do you do
+
+420
+00:25:10,278 --> 00:25:11,468
+Michael : I could get used
+
+421
+00:25:11,469 --> 00:25:12,475
+Jonathan Larson : I could get used
+
+422
+00:25:12,476 --> 00:25:13,531
+Michael : I could get used
+
+423
+00:25:13,532 --> 00:25:14,528
+Jonathan Larson : I could get used
+
+424
+00:25:14,529 --> 00:25:15,456
+Michael : I could get
+
+425
+00:25:15,457 --> 00:25:17,840
+Jonathan Larson;Michael : used to you
+
+426
+00:25:17,841 --> 00:25:19,604
+Michael : yeah I could get used
+
+427
+00:25:19,605 --> 00:25:20,559
+Jonathan Larson : I could get used
+
+428
+00:25:20,560 --> 00:25:21,607
+Michael;Jonathan Larson : Even seduced
+
+429
+00:25:21,608 --> 00:25:22,606
+Jonathan Larson;Michael : Even seduced
+
+430
+00:25:22,607 --> 00:25:23,584
+Michael : I could get
+
+431
+00:25:23,585 --> 00:25:27,560
+Michael;Jonathan Larson : Used to you Ow
+
+432
+00:25:28,087 --> 00:25:28,847
+Michael : ah
+
+433
+00:25:32,528 --> 00:25:34,568
+man2 : of the closing doors
+
+434
+00:25:34,872 --> 00:25:36,892
+man2 : I swear to God I'm talking to you in the back
+
+435
+00:25:36,893 --> 00:25:38,308
+man2 : Stand clear of the closing doors
+
+436
+00:25:39,614 --> 00:25:41,181
+Ira Weitzman : You still don't have the song
+
+437
+00:25:41,988 --> 00:25:44,881
+Jonathan Larson : This has never happened to me before I
+
+438
+00:25:45,274 --> 00:25:45,909
+Jonathan Larson : I don't know
+
+439
+00:25:45,957 --> 00:25:47,687
+Jonathan Larson : I usually write a song in a day
+
+440
+00:25:47,688 --> 00:25:50,826
+Jonathan Larson : Last week I wrote a song about sugar It took me three hours
+
+441
+00:25:50,827 --> 00:25:51,876
+Ira Weitzman : Song about sugar
+
+442
+00:25:51,890 --> 00:25:53,114
+Jonathan Larson : Sugar
+
+443
+00:25:53,115 --> 00:25:55,689
+Jonathan Larson : She is refined For a small price
+
+444
+00:25:55,690 --> 00:25:57,779
+Jonathan Larson : She blows my mind
+
+445
+00:25:57,845 --> 00:25:59,025
+Ira Weitzman : Why would you do that
+
+446
+00:25:59,725 --> 00:26:00,559
+Jonathan Larson : An exercise
+
+447
+00:26:01,232 --> 00:26:01,819
+Ira Weitzman : In what
+
+448
+00:26:02,351 --> 00:26:04,338
+Jonathan Larson : I like to see if I can write a song about anything
+
+449
+00:26:05,131 --> 00:26:08,203
+Ira Weitzman : Why don't you try to see if you can write a song for your musical
+
+450
+00:26:08,204 --> 00:26:11,377
+Ira Weitzman : that's being presented to an audience in six days instead
+
+451
+00:26:11,558 --> 00:26:12,799
+Jonathan Larson : Eiro Weissman
+
+452
+00:26:12,800 --> 00:26:15,316
+Jonathan Larson : Head of musical theater at Playwrights Horizons
+
+453
+00:26:15,317 --> 00:26:21,170
+Jonathan Larson : The first and so far only actual theater person to offer to put on a workshop of
+
+454
+00:26:21,503 --> 00:26:25,429
+Jonathan Larson : I'm starting to think that maybe I don't need it
+
+455
+00:26:25,867 --> 00:26:26,784
+Ira Weitzman : You do need it
+
+456
+00:26:26,808 --> 00:26:27,641
+Jonathan Larson : You know
+
+457
+00:26:29,408 --> 00:26:31,230
+Jonathan Larson : you're the only person who ever said that
+
+458
+00:26:31,475 --> 00:26:32,379
+Jonathan Larson : Just so you know
+
+459
+00:26:32,379 --> 00:26:35,836
+Ira Weitzman : You're telling me in the five years you've been writing this musical
+
+460
+00:26:35,861 --> 00:26:36,947
+Jonathan Larson : Eight years actually
+
+461
+00:26:37,171 --> 00:26:41,164
+Ira Weitzman : no one else has told you that you're missing a song for Elizabeth in the second act
+
+462
+00:26:43,830 --> 00:26:44,394
+Jonathan Larson : No one
+
+463
+00:26:51,820 --> 00:26:53,873
+Jonathan Larson : One person did say that
+
+464
+00:27:01,900 --> 00:27:06,114
+Jonathan Larson : For years I was part of this musical theater writing workshop
+
+465
+00:27:08,865 --> 00:27:15,381
+Jonathan Larson : Liquid crystal digital readout
+
+466
+00:27:15,382 --> 00:27:19,561
+Jonathan Larson : Floating on a sea of gray
+
+467
+00:27:20,151 --> 00:27:25,181
+Jonathan Larson : Once a week we would gather the few surviving members of our dwindling tribe
+
+468
+00:27:26,121 --> 00:27:30,672
+Jonathan Larson : We would watch one of us present what we'd been working on to a panel of well
+
+469
+00:27:32,391 --> 00:27:33,356
+Jonathan Larson : real writers
+
+470
+00:27:34,751 --> 00:27:42,041
+Jonathan Larson : The theater legends who created the Broadway shows that we'd grown up dragging our parents into the city to see
+
+471
+00:27:42,668 --> 00:27:46,392
+Jonathan Larson : Dividing the day away
+
+472
+00:27:49,638 --> 00:27:56,181
+Jonathan Larson : Counting slowly Measuring moments
+
+473
+00:27:56,182 --> 00:28:01,348
+Jonathan Larson : The night I presented people began to buzz as soon as we walked through the door
+
+474
+00:28:02,481 --> 00:28:03,588
+Jonathan Larson : Is it really him
+
+475
+00:28:05,268 --> 00:28:06,355
+Jonathan Larson : It was
+
+476
+00:28:08,320 --> 00:28:11,846
+Jonathan Larson : Stephen Sondheim
+
+477
+00:28:16,840 --> 00:28:18,313
+Walter Bloom : All right I'll start
+
+478
+00:28:19,787 --> 00:28:20,823
+Walter Bloom : I'm lost
+
+479
+00:28:21,553 --> 00:28:23,870
+Walter Bloom : I I don't know what the show is
+
+480
+00:28:23,871 --> 00:28:25,667
+Walter Bloom : Is it social commentary
+
+481
+00:28:25,691 --> 00:28:30,338
+Walter Bloom : Is it science fiction And the music is the same thing Is it rock Is it Broadway Is it both
+
+482
+00:28:30,580 --> 00:28:32,886
+Walter Bloom : Is it neither Steve what did you think
+
+483
+00:28:36,379 --> 00:28:39,857
+Stephen Sondheim : I have to say I disagree pretty strongly Walter
+
+484
+00:28:39,882 --> 00:28:42,996
+Stephen Sondheim : I think this is a musical that knows exactly what it is
+
+485
+00:28:44,479 --> 00:28:46,920
+Walter Bloom : Yes Yes Of course yes Abso
+
+486
+00:28:46,956 --> 00:28:50,293
+Stephen Sondheim : The world that you've created is really original
+
+487
+00:28:50,294 --> 00:28:51,695
+Stephen Sondheim : It's fascinating
+
+488
+00:28:51,696 --> 00:28:56,090
+Stephen Sondheim : The problem is it's not particularly easy to follow the
+
+489
+00:28:56,114 --> 00:29:01,547
+Stephen Sondheim : emotional thread The details distract us from connecting with the characters
+
+490
+00:29:02,190 --> 00:29:02,778
+Stephen Sondheim : Does that make sense
+
+491
+00:29:02,802 --> 00:29:03,440
+Jonathan Larson : Okay Okay
+
+492
+00:29:03,465 --> 00:29:06,412
+Walter Bloom : Yes yes We're on the same page That's exactly how I felt
+
+493
+00:29:06,407 --> 00:29:09,587
+Walter Bloom : We're saying the same thing just differently
+
+494
+00:29:09,588 --> 00:29:12,976
+Walter Bloom : But the music okay I'm sorry The music just wasn't there
+
+495
+00:29:12,980 --> 00:29:15,224
+Stephen Sondheim : I actually I thought the songs were swell
+
+496
+00:29:15,694 --> 00:29:17,864
+Walter Bloom : Yeah okay Yes Yes
+
+497
+00:29:17,882 --> 00:29:19,591
+Walter Bloom : The individual songs
+
+498
+00:29:19,623 --> 00:29:23,948
+Stephen Sondheim : I particularly like the one the young man sings at the end of the first act
+
+499
+00:29:23,949 --> 00:29:27,375
+Stephen Sondheim : First rate lyric and tune Well done
+
+500
+00:29:29,151 --> 00:29:32,590
+Jonathan Larson : First rate lyric and tune
+
+501
+00:29:32,591 --> 00:29:33,098
+Jonathan Larson : Thank you
+
+502
+00:29:33,238 --> 00:29:38,781
+Jonathan Larson : Those five words were enough to keep me going for the next two years
+
+503
+00:29:40,839 --> 00:29:44,471
+Stephen Sondheim : You're missing a song for the young woman Uh
+
+504
+00:29:44,611 --> 00:29:45,386
+Jonathan Larson : Elizabeth
+
+505
+00:29:45,410 --> 00:29:48,501
+Stephen Sondheim : Elizabeth It's the turning point in the show
+
+506
+00:29:48,573 --> 00:29:52,249
+Stephen Sondheim : Your protagonist is either gonna go in this direction or that direction
+
+507
+00:29:52,269 --> 00:29:55,429
+Stephen Sondheim : Someone has to wake him up shake some sense into him
+
+508
+00:29:56,155 --> 00:29:56,742
+Jonathan Larson : Okay
+
+509
+00:29:57,929 --> 00:30:01,522
+Walter Bloom : It's so funny because I was gonna say the exact same thing
+
+510
+00:30:02,882 --> 00:30:06,342
+Jonathan Larson : Can we talk musicians Because if it's only gonna be four
+
+511
+00:30:06,642 --> 00:30:10,313
+Jonathan Larson : then I gotta figure out how I'm gonna split up the bass parts
+
+512
+00:30:10,314 --> 00:30:11,922
+Jonathan Larson : This is for you Here you go
+
+513
+00:30:12,190 --> 00:30:13,349
+Ira Weitzman : Thank you Yeah Uh
+
+514
+00:30:13,446 --> 00:30:15,374
+Ira Weitzman : Jon this is a reading
+
+515
+00:30:15,398 --> 00:30:15,892
+Jonathan Larson : Mm
+
+516
+00:30:15,893 --> 00:30:16,958
+Ira Weitzman : You'll have a piano
+
+517
+00:30:17,859 --> 00:30:19,419
+Jonathan Larson : I wrote a rock score
+
+518
+00:30:19,627 --> 00:30:23,842
+Jonathan Larson : So at the very least I'll need a synth and drums and a guitar and
+
+519
+00:30:23,843 --> 00:30:28,231
+Ira Weitzman : A great song should sound great without any instruments
+
+520
+00:30:28,256 --> 00:30:29,556
+Jonathan Larson : Mm Okay
+
+521
+00:30:29,609 --> 00:30:31,189
+Jonathan Larson : Let's just do the song as a cappella
+
+522
+00:30:32,020 --> 00:30:34,528
+Jonathan Larson : Oh actually you know what Maybe we'll just skip the songs
+
+523
+00:30:34,529 --> 00:30:37,883
+Jonathan Larson : and then we can get the audience in and out in half an hour
+
+524
+00:30:37,884 --> 00:30:43,111
+Ira Weitzman : I will take a look at the budget and I will see if I can dig up some money for another musician
+
+525
+00:30:43,136 --> 00:30:43,964
+Jonathan Larson : Two more
+
+526
+00:30:44,678 --> 00:30:47,251
+Jonathan Larson : And piano is the absolute bare minimum for this
+
+527
+00:30:48,104 --> 00:30:49,404
+Ira Weitzman : Have you spoken to Rosa
+
+528
+00:30:51,104 --> 00:30:55,642
+Jonathan Larson : Hey Rosa this is Jonathan Larson your client
+
+529
+00:30:55,643 --> 00:30:58,068
+Jonathan Larson : I've left multiple messages with your secretary
+
+530
+00:30:58,069 --> 00:31:00,075
+Ira Weitzman : Rosa Stevens is still your agent right
+
+531
+00:31:00,099 --> 00:31:02,698
+Jonathan Larson : Oh yeah No yeah we We talk constantly
+
+532
+00:31:03,079 --> 00:31:05,900
+Ira Weitzman : Has she sent out the invites for the presentation yet
+
+533
+00:31:05,901 --> 00:31:08,163
+Ira Weitzman : We haven't gotten a lot of RSVPs
+
+534
+00:31:10,136 --> 00:31:10,958
+Ira Weitzman : It's fine
+
+535
+00:31:10,982 --> 00:31:11,405
+Jonathan Larson : Mm
+
+536
+00:31:11,577 --> 00:31:15,099
+Ira Weitzman : Nobody has more contacts in the industry than Rosa
+
+537
+00:31:15,124 --> 00:31:17,177
+Ira Weitzman : I'm sure she'll get some good people there for you
+
+538
+00:31:18,370 --> 00:31:19,057
+Jonathan Larson : Yeah yeah
+
+539
+00:31:21,570 --> 00:31:22,545
+Ira Weitzman : see you Monday
+
+540
+00:31:22,569 --> 00:31:23,363
+Jonathan Larson : Yes sir
+
+541
+00:31:24,196 --> 00:31:25,617
+Ira Weitzman : First day of rehearsal
+
+542
+00:31:26,810 --> 00:31:29,765
+Ira Weitzman : And finish the song already Please
+
+543
+00:31:30,716 --> 00:31:34,203
+Jonathan Larson : Thank you Ira Thank you for all this Thank you
+
+544
+00:31:49,553 --> 00:31:51,884
+Jonathan Larson : Yeah I want to leave a message for Mr Sondheim
+
+545
+00:31:51,884 --> 00:31:54,165
+Jonathan Larson : This is um my name is Jonathan Larson
+
+546
+00:31:54,190 --> 00:31:56,293
+Jonathan Larson : Hi there this is a message for Joe Papp
+
+547
+00:31:56,299 --> 00:31:57,412
+Jonathan Larson : For Bernie Gersten
+
+548
+00:31:57,413 --> 00:31:59,692
+Jonathan Larson : For the Artistic Director of the Shubert Organization
+
+549
+00:31:59,700 --> 00:32:00,606
+Jonathan Larson : For La MaMa
+
+550
+00:32:00,607 --> 00:32:03,500
+Jonathan Larson : So it's Larson LARSON
+
+551
+00:32:03,525 --> 00:32:04,693
+Jonathan Larson : No not Parson
+
+552
+00:32:04,694 --> 00:32:07,359
+Jonathan Larson : It's something that's never been done before It's gonna be quite the event
+
+553
+00:32:07,384 --> 00:32:10,725
+Jonathan Larson : It has tremendous commercial possibility
+
+554
+00:32:10,750 --> 00:32:13,584
+Jonathan Larson : We're filling up fast I want to make sure you got your spot
+
+555
+00:32:13,585 --> 00:32:15,251
+Jonathan Larson : I know that his time is limited
+
+556
+00:32:15,252 --> 00:32:17,164
+Jonathan Larson : Oh It would be such a treat
+
+557
+00:32:17,165 --> 00:32:18,203
+Jonathan Larson : Zero pressure
+
+558
+00:32:18,204 --> 00:32:19,574
+Jonathan Larson : Haha I really want you there
+
+559
+00:32:19,599 --> 00:32:20,623
+Jonathan Larson : So can I count you in
+
+560
+00:32:20,624 --> 00:32:22,291
+Jonathan Larson : There'll be a seat reserved for him
+
+561
+00:32:22,292 --> 00:32:24,640
+Jonathan Larson : Superbia It's at 1000 a. m
+
+562
+00:32:24,641 --> 00:32:25,702
+Jonathan Larson : This Friday at 1000 a. m
+
+563
+00:32:25,726 --> 00:32:27,455
+Jonathan Larson : I'm so excited about Friday
+
+564
+00:32:27,456 --> 00:32:28,565
+Jonathan Larson : I wouldn't want you to miss it
+
+565
+00:32:28,566 --> 00:32:31,219
+Jonathan Larson : That's all the information I can give you
+
+566
+00:32:48,501 --> 00:32:51,577
+Jonathan Larson : They should put every Sondheim musical on PBS
+
+567
+00:32:51,688 --> 00:32:52,652
+Man3 : Attention
+
+568
+00:32:52,888 --> 00:32:54,694
+Jonathan Larson : Well, sunday's a pretty good start
+
+569
+00:32:55,120 --> 00:32:59,003
+Michael : I don't understand why can't he just tell her he loves her
+
+570
+00:32:59,570 --> 00:33:02,063
+Michael : Why can't he be an artist and love her
+
+571
+00:33:02,550 --> 00:33:04,043
+Jonathan Larson : He He does love her
+
+572
+00:33:04,317 --> 00:33:06,077
+Michael : Yeah but like he can't express it
+
+573
+00:33:06,509 --> 00:33:08,347
+Jonathan Larson : That's a personal problem Yeah
+
+574
+00:33:08,348 --> 00:33:09,442
+Jonathan Larson : I'm sayin
+
+575
+00:33:10,552 --> 00:33:11,572
+Michael : Men
+
+576
+00:33:13,993 --> 00:33:15,909
+Michael : Bernadette in that corset
+
+577
+00:33:16,814 --> 00:33:18,594
+Michael : Like that waist is just like
+
+578
+00:33:20,245 --> 00:33:21,451
+Jonathan Larson : How did he do that
+
+579
+00:33:29,814 --> 00:33:36,020
+Radio : Day by day Let the sunshine
+
+580
+00:33:36,898 --> 00:33:40,404
+Radio : It's the end of the world As we know it
+
+581
+00:33:42,793 --> 00:33:43,495
+Michael : Did you crack it yet
+
+582
+00:33:43,496 --> 00:33:44,785
+Jonathan Larson : Oh I'm getting so close
+
+583
+00:33:46,165 --> 00:33:47,513
+Michael : Call me if you need inspiration
+
+584
+00:33:47,537 --> 00:33:50,382
+Jonathan Larson : No no don't go Hang out
+
+585
+00:33:50,408 --> 00:33:52,365
+Jonathan Larson : You can you can sleep in your old room
+
+586
+00:33:54,105 --> 00:33:54,971
+Michael : Write the song BooBoo
+
+587
+00:34:00,301 --> 00:34:05,340
+TV : North Carolina Senator Jesse Helms is worried the legislation was sending the wrong message
+
+588
+00:34:05,586 --> 00:34:11,976
+TV : Let me say that if IV drug users and homosexual men would stop their activities today
+
+589
+00:34:12,305 --> 00:34:16,059
+TV : there would never be another case of AIDS in this country
+
+590
+00:34:16,900 --> 00:34:19,437
+TV : other than the ones already in progress
+
+591
+00:34:19,701 --> 00:34:21,873
+TV : Henry Champ at the US Capitol
+
+592
+00:34:22,610 --> 00:34:27,054
+TV : ... has overwhelmingly approved legislation providing nearly 3 billion dollars
+
+593
+00:34:35,282 --> 00:34:38,398
+Jonathan Larson;Susan : Hi Hey Oh my God I love you
+
+594
+00:34:40,211 --> 00:34:42,528
+Susan : Uh they want an answer by Wednesday
+
+595
+00:34:42,991 --> 00:34:44,941
+Susan : So I was wondering if we could maybe talk about it
+
+596
+00:34:46,020 --> 00:34:47,031
+Jonathan Larson : Uh
+
+597
+00:34:47,397 --> 00:34:49,259
+Susan;Jonathan Larson : The job Oh
+
+598
+00:34:51,256 --> 00:34:52,831
+Jonathan Larson : Yeah Um
+
+599
+00:34:53,731 --> 00:34:56,117
+Jonathan Larson : Can we uh talk about it tomorrow
+
+600
+00:34:56,552 --> 00:34:59,143
+Jonathan Larson : Cause I have to finish this song right now Is that okay
+
+601
+00:34:59,804 --> 00:35:00,501
+Susan : Sure
+
+602
+00:35:02,305 --> 00:35:03,328
+Jonathan Larson : You sure you're sure
+
+603
+00:35:04,348 --> 00:35:05,004
+Susan : I'm sure
+
+604
+00:35:06,788 --> 00:35:07,336
+Jonathan Larson : Okay
+
+605
+00:35:10,386 --> 00:35:11,568
+Jonathan Larson : You don't seem sure
+
+606
+00:35:13,488 --> 00:35:14,320
+Susan : Good night Jonathan
+
+607
+00:35:14,321 --> 00:35:16,188
+Jonathan Larson : Okay good night Um
+
+608
+00:35:17,006 --> 00:35:17,773
+Jonathan Larson : I'll be in
+
+609
+00:35:52,807 --> 00:35:55,886
+Jonathan Larson : Break of day the dawn is here
+
+610
+00:35:56,906 --> 00:36:00,285
+Jonathan Larson : Johnny's up and pacing
+
+611
+00:36:01,128 --> 00:36:04,411
+Jonathan Larson : Compromise or persevere
+
+612
+00:36:04,412 --> 00:36:09,550
+Jonathan Larson : His mind is racing
+
+613
+00:36:09,767 --> 00:36:13,207
+Jonathan Larson : Johnny has no guide
+
+614
+00:36:13,505 --> 00:36:17,554
+Jonathan Larson : Johnny wants to hide
+
+615
+00:36:17,555 --> 00:36:19,666
+Jonathan Larson : Can he make his mark
+
+616
+00:36:19,667 --> 00:36:25,211
+Jonathan Larson : If he gives up his spark
+
+617
+00:36:25,749 --> 00:36:27,680
+Jonathan Larson : Johnny can't decide
+
+618
+00:36:36,211 --> 00:36:39,896
+Jonathan Larson : Susan longs to live by the sea
+
+619
+00:36:39,897 --> 00:36:43,763
+Jonathan Larson : She's through with competition
+
+620
+00:36:43,764 --> 00:36:47,821
+Jonathan Larson : Susan wants a life with me
+
+621
+00:36:47,822 --> 00:36:52,864
+Jonathan Larson : Johnny's got a tough decision
+
+622
+00:36:52,865 --> 00:36:56,814
+Jonathan Larson : Johnny has no guide
+
+623
+00:36:57,109 --> 00:37:02,941
+Jonathan Larson;Karessa Johnson : Johnny wants to hide Can he settle down
+
+624
+00:37:02,942 --> 00:37:08,547
+Karessa Johnson;Jonathan Larson : And still not drown Drown
+
+625
+00:37:08,548 --> 00:37:12,980
+Jonathan Larson;Karessa Johnson : Johnny can't decide
+
+626
+00:37:13,060 --> 00:37:16,644
+Jonathan Larson : Michael's gotta have it all
+
+627
+00:37:16,645 --> 00:37:21,039
+Jonathan Larson : His luck will never end
+
+628
+00:37:21,379 --> 00:37:24,410
+Jonathan Larson : Johnny's backed against a wall
+
+629
+00:37:24,419 --> 00:37:26,732
+Jonathan Larson : Can he bend his dream
+
+630
+00:37:26,733 --> 00:37:28,905
+Jonathan Larson : Just like his friend
+
+631
+00:37:31,663 --> 00:37:39,339
+Jonathan Larson;Karessa Johnson : Johnny sees that Susan's right Susan's right Ambition eats right through you
+
+632
+00:37:39,406 --> 00:37:41,147
+Roger Bart : Michael doesn't see why
+
+633
+00:37:41,171 --> 00:37:48,191
+Roger Bart;Jonathan Larson;Karessa Johnson : Johnny Holds so tight I hold so tight To the things That Johnny feels are true
+
+634
+00:37:48,258 --> 00:37:56,112
+Roger Bart;Jonathan Larson;Karessa Johnson : Johnny has no guide Johnny has no guide Johnny wants to hide Johnny wants to hide
+
+635
+00:37:56,113 --> 00:38:03,443
+Jonathan Larson;Roger Bart;Karessa Johnson : How can you soar When you're nailed to the floor
+
+636
+00:38:03,823 --> 00:38:05,763
+Jonathan Larson;Roger Bart;Karessa Johnson : Johnny can't decide
+
+637
+00:38:07,908 --> 00:38:15,734
+Roger Bart;Jonathan Larson;Karessa Johnson : Johnny has no guide Johnny has no guide Johnny wants to hide Johnny wants to hide
+
+638
+00:38:15,735 --> 00:38:23,444
+Jonathan Larson;Roger Bart;Karessa Johnson : How do you know When it's time to let go
+
+639
+00:38:23,445 --> 00:38:24,573
+Jonathan Larson : Johnny can't
+
+640
+00:38:24,597 --> 00:38:29,793
+Jonathan Larson;Roger Bart;Karessa Johnson : decide Johnny can't decide Johnny can't decide Johnny can't decide Decide
+
+641
+00:38:29,801 --> 00:38:35,994
+Jonathan Larson;Roger Bart;Karessa Johnson : Decide Johnny can't decide Johnny can't decide Johnny can't decide
+
+642
+00:38:35,995 --> 00:38:42,394
+Jonathan Larson;Roger Bart;Karessa Johnson : Johnny can't decide Decide Decide
+
+643
+00:38:42,419 --> 00:38:45,330
+Jonathan Larson;Roger Bart;Karessa Johnson : Decide decide Decide Decide decide
+
+644
+00:38:45,331 --> 00:38:51,296
+Roger Bart;Jonathan Larson;Karessa Johnson : Decide
+
+645
+00:38:53,448 --> 00:39:00,455
+Jonathan Larson : Johnny can't decide
+
+646
+00:39:01,524 --> 00:39:03,239
+Carolyn : What is in the emergency room
+
+647
+00:39:03,240 --> 00:39:04,259
+Jonathan Larson : What
+
+648
+00:39:05,091 --> 00:39:07,322
+Carolyn : He woke up Saturday morning with a fever he could
+
+649
+00:39:08,734 --> 00:39:10,045
+Carolyn : He couldn't stop shivering
+
+650
+00:39:10,983 --> 00:39:12,190
+Jonathan Larson : Wait wait no Wait
+
+651
+00:39:13,350 --> 00:39:16,456
+Jonathan Larson : La He told me last week his Tcell count
+
+652
+00:39:16,676 --> 00:39:20,212
+Jonathan Larson : The doctor said that it was exactly where they wanted it four days ago
+
+653
+00:39:20,213 --> 00:39:21,213
+Carolyn : I guess it changed
+
+654
+00:39:23,333 --> 00:39:24,620
+Jonathan Larson : Shit
+
+655
+00:39:29,999 --> 00:39:30,748
+Jonathan Larson : He's gonna be fine
+
+656
+00:39:30,749 --> 00:39:32,351
+Carolyn : Yeah you know you're right
+
+657
+00:39:32,408 --> 00:39:34,522
+Jonathan Larson : I mean it He's gonna be fine Think about it
+
+658
+00:39:34,736 --> 00:39:37,416
+Jonathan Larson : You know how stubborn he is He's a pain in the ass
+
+659
+00:39:38,022 --> 00:39:38,491
+Jonathan Larson : Right
+
+660
+00:39:38,515 --> 00:39:39,223
+Carolyn : Yeah
+
+661
+00:39:39,248 --> 00:39:43,126
+Jonathan Larson : Frankly we should be pissed at him that he's left us understaffed At Sunday brunch
+
+662
+00:39:43,127 --> 00:39:43,389
+Carolyn : Right
+
+663
+00:39:43,444 --> 00:39:44,181
+Jonathan Larson : You know what I'm saying
+
+664
+00:39:44,182 --> 00:39:45,029
+Carolyn : Yeah
+
+665
+00:39:47,950 --> 00:39:48,543
+Jonathan Larson : Okay
+
+666
+00:39:51,918 --> 00:39:57,522
+Jonathan Larson : Friday, shit I should go to the hospital When am I gonna go to the hospital I need to write
+
+667
+00:39:57,523 --> 00:40:02,409
+Jonathan Larson : When am I gonna write I need to talk to Susan I need to see Freddy I should call Susan Why can't I write this song
+
+668
+00:40:02,562 --> 00:40:05,021
+Jonathan Larson : How can you possibly be thinking about your show
+
+669
+00:40:05,022 --> 00:40:06,947
+Jonathan Larson : when your friend is in the hospital
+
+670
+00:40:06,939 --> 00:40:08,015
+Jonathan Larson : What am I doing here?
+
+671
+00:40:08,336 --> 00:40:12,636
+Jonathan Larson : I need to leave I need to walk out that door and go
+
+672
+00:40:14,478 --> 00:40:17,958
+Jonathan Larson : But it's 930 on a Sunday morning at the Moondance Diner
+
+673
+00:40:18,898 --> 00:40:20,371
+Jonathan Larson : I'm not going anywhere
+
+674
+00:40:22,950 --> 00:40:23,340
+man4 : Eggs up
+
+675
+00:40:28,345 --> 00:40:31,513
+Citizen : Do you have any of that wonderful Jewish bread
+
+676
+00:40:32,054 --> 00:40:35,249
+Citizen : It's holly dear They call it holly bread
+
+677
+00:40:35,564 --> 00:40:37,264
+Jonathan Larson : Would you like some challah bread
+
+678
+00:40:37,264 --> 00:40:38,970
+man4 : Somebody pick up these goddamn eggs
+
+679
+00:40:40,469 --> 00:40:42,182
+man4 : Ya tranquilo Termina tu obra
+
+680
+00:40:43,029 --> 00:40:45,482
+Jonathan Larson : Harrington for four Harrington Harrington
+
+681
+00:40:47,819 --> 00:40:48,503
+Citizen : Uh ex
+
+682
+00:40:50,053 --> 00:40:51,903
+Jonathan Larson : Moondance What do you want
+
+683
+00:40:52,716 --> 00:40:54,189
+Jonathan Larson : That was a good ...
+
+684
+00:40:54,953 --> 00:40:58,133
+Jonathan Larson : Do we take reservations No we do not We're a diner
+
+685
+00:40:59,153 --> 00:41:00,251
+Carolyn : Where's my rye bread
+
+686
+00:41:00,252 --> 00:41:00,955
+Jonathan Larson : Name please
+
+687
+00:41:01,311 --> 00:41:01,949
+Citizen : Richard
+
+688
+00:41:01,950 --> 00:41:03,990
+Jonathan Larson : Richard How many
+
+689
+00:41:04,417 --> 00:41:05,739
+Citizen : Caplan Richard Caplan
+
+690
+00:41:05,729 --> 00:41:06,949
+Jonathan Larson : How many in your party
+
+691
+00:41:07,155 --> 00:41:08,576
+Citizen : With a C
+
+692
+00:41:08,600 --> 00:41:09,656
+Jonathan Larson : Got it How many in your party
+
+693
+00:41:09,658 --> 00:41:11,298
+Citizen : C as in cat
+
+694
+00:41:11,809 --> 00:41:12,484
+Jonathan Larson : I understand
+
+695
+00:41:12,508 --> 00:41:13,383
+Citizen : Can we order
+
+696
+00:41:13,425 --> 00:41:14,835
+Jonathan Larson : One second How many in your party
+
+697
+00:41:15,017 --> 00:41:17,256
+Citizen : It's not a math test
+
+698
+00:41:17,310 --> 00:41:18,003
+Jonathan Larson : Order
+
+699
+00:41:20,471 --> 00:41:21,672
+Jonathan Larson : Thank you for your patience
+
+700
+00:41:22,313 --> 00:41:24,086
+Citizen : I said an omelet with no yolks
+
+701
+00:41:25,625 --> 00:41:26,783
+Citizen : This is why you're just a waiter
+
+702
+00:41:28,258 --> 00:41:28,988
+Jonathan Larson : Tension
+
+703
+00:41:32,812 --> 00:41:34,874
+Carolyn : Major vomit situation in the ladies room
+
+704
+00:41:35,601 --> 00:41:36,093
+Citizen : Check
+
+705
+00:41:36,578 --> 00:41:37,943
+Citizen : Can we get two more mimosas please
+
+706
+00:41:37,944 --> 00:41:39,562
+Citizen : Cause she got a new job okay
+
+707
+00:41:39,708 --> 00:41:44,267
+Citizen : Either put some Baileys in this coffee or put some vodka in this orange juice please
+
+708
+00:41:44,288 --> 00:41:44,791
+Citizen : Something
+
+709
+00:41:47,034 --> 00:41:48,528
+Jonathan Larson : Balance
+
+710
+00:41:54,080 --> 00:41:54,640
+man4 : BLT up
+
+711
+00:41:55,505 --> 00:41:57,505
+man4 : Si se quejan de que se enfría no es culpa mía
+
+712
+00:41:58,438 --> 00:41:59,793
+Jonathan Larson : Fudge
+
+713
+00:42:00,214 --> 00:42:01,076
+Jonathan Larson : Carolyn
+
+714
+00:42:01,432 --> 00:42:02,347
+Carolyn : Can we get the check
+
+715
+00:42:04,471 --> 00:42:05,093
+Jonathan Larson : Carolyn
+
+716
+00:42:05,940 --> 00:42:09,485
+Citizen : Excuse me Do you have any Baileys One sec Jesus Christ
+
+717
+00:42:12,314 --> 00:42:13,534
+Jonathan Larson : Brunch
+
+718
+00:42:22,995 --> 00:42:26,496
+All : Sunday
+
+719
+00:42:26,497 --> 00:42:32,290
+All : In the blue silver chromium diner
+
+720
+00:42:32,291 --> 00:42:37,166
+All : On the green purple Yellow red stools
+
+721
+00:42:37,450 --> 00:42:41,783
+Jonathan Larson : Sit the fools
+
+722
+00:42:42,056 --> 00:42:47,071
+Jonathan Larson : Who should eat at home
+
+723
+00:42:47,072 --> 00:42:53,117
+Jonathan Larson : Instead they pay on Sunday Sunday
+
+724
+00:42:53,142 --> 00:42:58,655
+All : For a cool orange juice or a bagel
+
+725
+00:42:58,946 --> 00:43:03,198
+All : On the soft green cylindrical stools
+
+726
+00:43:03,584 --> 00:43:07,637
+Jonathan Larson : Sit the fools
+
+727
+00:43:07,638 --> 00:43:12,977
+Jonathan Larson : Drinking cinnamon coffee
+
+728
+00:43:12,978 --> 00:43:19,694
+Jonathan Larson;All : Or decaffeinated tea
+
+729
+00:43:19,719 --> 00:43:24,425
+All : Forever Forever
+
+730
+00:43:25,112 --> 00:43:29,960
+All : Forever
+
+731
+00:43:29,961 --> 00:43:35,114
+All : In the blue silver chromium diner
+
+732
+00:43:35,272 --> 00:43:39,625
+All : Drips the green orange violet drool
+
+733
+00:43:39,900 --> 00:43:44,193
+All : From the fools
+
+734
+00:43:44,280 --> 00:43:49,534
+All : Who'd pay less at home
+
+735
+00:43:49,768 --> 00:43:56,069
+Citizen : Drinking coffee Light
+
+736
+00:43:57,189 --> 00:44:01,815
+All : And dark
+
+737
+00:44:02,313 --> 00:44:07,406
+Jonathan Larson : And cholesterol
+
+738
+00:44:07,465 --> 00:44:12,276
+Jonathan Larson : And bums bums bums bums Bums bums bums bums
+
+739
+00:44:12,277 --> 00:44:16,963
+All : bums People screaming for their toast
+
+740
+00:44:17,301 --> 00:44:22,474
+All : In a small SoHo cafe
+
+741
+00:44:22,700 --> 00:44:31,254
+All : On an island in Two Rivers
+
+742
+00:44:32,982 --> 00:44:37,056
+All;Jonathan Larson : On an ordinary
+
+743
+00:44:37,081 --> 00:44:41,730
+All : Sunday
+
+744
+00:44:41,850 --> 00:44:46,669
+All : Sunday
+
+745
+00:44:46,670 --> 00:44:52,270
+All : Sunday
+
+746
+00:44:53,904 --> 00:45:00,761
+Jonathan Larson : Brunch
+
+747
+00:45:06,432 --> 00:45:07,345
+Jonathan Larson : Monday morning
+
+748
+00:45:09,646 --> 00:45:14,404
+Jonathan Larson : My first day of rehearsals for the
+
+749
+00:45:14,601 --> 00:45:18,975
+Jonathan Larson : in case you'd forgotten missing its crucial Act Two musical number
+
+750
+00:45:20,161 --> 00:45:22,830
+Jonathan Larson : I make my way there through the land of the dead
+
+751
+00:45:23,752 --> 00:45:25,116
+Jonathan Larson : the Theater District
+
+752
+00:45:35,728 --> 00:45:37,767
+Man5 : Walk through Times Square And what do you see
+
+753
+00:45:37,768 --> 00:45:40,180
+Man5 : Ugliness where Architecture used to be
+
+754
+00:45:40,189 --> 00:45:42,406
+Man5 : The glamour and style Have been replaced by gaud
+
+755
+00:45:42,406 --> 00:45:44,888
+Man5 : Like the sixtydollar spectacle It's all a fraud
+
+756
+00:45:44,899 --> 00:45:46,257
+Man5 : That's the play game
+
+757
+00:45:46,258 --> 00:45:47,312
+Man5 : That's the play game
+
+758
+00:45:47,313 --> 00:45:49,766
+Man5 : So why do I want To play the play game
+
+759
+00:45:49,767 --> 00:45:50,924
+Man5 : That's the play game
+
+760
+00:45:50,925 --> 00:45:51,981
+Man5 : That's the play game
+
+761
+00:45:52,006 --> 00:45:54,485
+Man5 : I must be insane To play the play game
+
+762
+00:45:54,486 --> 00:45:56,343
+Man5 : Even off Broadway It's no guarantee
+
+763
+00:45:56,344 --> 00:45:58,810
+Man5 : That some MBA Won't decide what you see
+
+764
+00:45:59,133 --> 00:46:01,306
+Man5 : Just like America lackin innovation
+
+765
+00:46:01,307 --> 00:46:03,793
+Man5 : Just gettin by On glitz and reputation
+
+766
+00:46:03,794 --> 00:46:05,867
+Man5 : Just like America on the decline
+
+767
+00:46:05,868 --> 00:46:08,435
+Man5 : Unconcerned with the product Just the bottom line
+
+768
+00:46:08,436 --> 00:46:11,240
+Man5 : Write for the movies write for TV So what if it's crap
+
+769
+00:46:11,241 --> 00:46:12,816
+Man5 : At least you won't write for free
+
+770
+00:46:12,817 --> 00:46:15,159
+Man5 : Make thousands of dollars For a first draft
+
+771
+00:46:15,160 --> 00:46:17,466
+Man5 : Your life won't depend On whether Frank Rich laughed
+
+772
+00:46:17,467 --> 00:46:20,035
+Man5 : So just forget Shakespeare Beckett Molière
+
+773
+00:46:20,036 --> 00:46:21,077
+Man5 : That's the play game
+
+774
+00:46:21,125 --> 00:46:22,432
+Jonathan Larson : That's the play game
+
+775
+00:46:22,433 --> 00:46:24,886
+Jonathan Larson : Why do I want to play the play game
+
+776
+00:46:25,819 --> 00:46:29,345
+Jonathan Larson : That's the play game Must be insane To play the play game
+
+777
+00:46:29,370 --> 00:46:30,507
+Man5 : That's the play game
+
+778
+00:46:30,531 --> 00:46:31,762
+Man5 : That's the play game
+
+779
+00:46:31,763 --> 00:46:32,845
+Man5 : That's the play game
+
+780
+00:46:32,870 --> 00:46:33,974
+Man5 : That's the play game
+
+781
+00:46:33,975 --> 00:46:35,181
+Man5 : That's the play game
+
+782
+00:46:35,182 --> 00:46:36,359
+Man5 : That's the play game
+
+783
+00:46:36,360 --> 00:46:37,584
+Man5 : That's the play game
+
+784
+00:46:38,102 --> 00:46:39,288
+Man5 : Why do I care
+
+785
+00:46:39,869 --> 00:46:42,892
+Man6 : I'll be auditioning for the role of Old Deuteronomy
+
+786
+00:46:43,485 --> 00:46:47,201
+Ira Weitzman : On behalf of Playwrights Horizons I want to welcome everyone
+
+787
+00:46:47,202 --> 00:46:52,543
+Ira Weitzman : and thank you all for taking part in this very exciting new musical
+
+788
+00:46:52,544 --> 00:46:56,065
+Ira Weitzman : by a very exciting young writer Jonathan Larson
+
+789
+00:46:59,003 --> 00:47:00,631
+Ira Weitzman : He's not even 30
+
+790
+00:47:00,632 --> 00:47:03,151
+Jonathan Larson : Oh wow Thank you Ira
+
+791
+00:47:03,152 --> 00:47:09,090
+Jonathan Larson : Um this is the first real workshop that this musical has ever had
+
+792
+00:47:10,234 --> 00:47:13,416
+Jonathan Larson : And now you guys are part of the family So
+
+793
+00:47:13,961 --> 00:47:16,466
+Jonathan Larson : any questions before we uh get going
+
+794
+00:47:18,387 --> 00:47:19,411
+Jonathan Larson : Yeah no Yeah
+
+795
+00:47:19,435 --> 00:47:20,076
+Woman2 : Um
+
+796
+00:47:20,625 --> 00:47:24,415
+Woman2 : Could you um Could you explain it maybe
+
+797
+00:47:25,036 --> 00:47:26,118
+Jonathan Larson : Yeah Explain what
+
+798
+00:47:27,096 --> 00:47:30,132
+Woman2 : Oh just the musical The story
+
+799
+00:47:30,573 --> 00:47:34,733
+Woman2 : It's a little um confusing in certain places Not in a bad way
+
+800
+00:47:34,893 --> 00:47:39,493
+Jonathan Larson : Superbia on a poisoned planet Earth
+
+801
+00:47:39,733 --> 00:47:43,149
+Jonathan Larson : where the vast majority of humanity spend their entire lives
+
+802
+00:47:43,149 --> 00:47:47,327
+Jonathan Larson : just staring at the screens of their media transmitters
+
+803
+00:47:47,328 --> 00:47:51,780
+Jonathan Larson : watching the tiny elite of the rich and powerful
+
+804
+00:47:51,781 --> 00:47:56,193
+Jonathan Larson : who film their own fabulous lives like TV shows
+
+805
+00:47:57,839 --> 00:48:02,754
+Jonathan Larson : A world where human emotion has been outlawed
+
+806
+00:48:03,566 --> 00:48:08,179
+Jonathan Larson : This will be the first musical written for the MTV generation
+
+807
+00:48:08,180 --> 00:48:09,672
+Jonathan Larson : This is my
+
+808
+00:48:09,673 --> 00:48:13,125
+Man7 : Is it supposed to be aliens I wasn't sure if it was all like aliens
+
+809
+00:48:13,126 --> 00:48:18,049
+Jonathan Larson : Nope not aliens Um But it is set in the future
+
+810
+00:48:21,226 --> 00:48:24,046
+Cristin : The color scheme for the day Is blackredblack
+
+811
+00:48:24,047 --> 00:48:27,182
+Cristin : The drug of course Will be the kilowatt
+
+812
+00:48:27,183 --> 00:48:31,798
+Cristin : The trend today is to say The adjective fun a lot
+
+813
+00:48:31,799 --> 00:48:33,716
+Jonathan Larson : It's perfect Keep going Keep going
+
+814
+00:48:33,716 --> 00:48:36,978
+Cristin : Studd star you have received Two nominations
+
+815
+00:48:36,979 --> 00:48:39,148
+Cristin : Face of the Year And Best Hair
+
+816
+00:48:40,133 --> 00:48:42,985
+Cristin : Prepare a speech For your photo opportunity
+
+817
+00:48:42,986 --> 00:48:45,346
+Cristin : Your agent Tim Pursent will be there
+
+818
+00:48:45,347 --> 00:48:46,582
+Jonathan Larson : I love it I love it
+
+819
+00:48:47,157 --> 00:48:49,959
+Jonathan Larson : You told me you needed a drummer Oh my goodness
+
+820
+00:48:50,317 --> 00:48:52,771
+Jonathan Larson : Hey Good night Wonderful work Really wonderful work
+
+821
+00:48:53,485 --> 00:48:58,656
+Jonathan Larson : No I I told you I needed a band
+
+822
+00:48:58,864 --> 00:49:01,752
+Ira Weitzman : It's 100 dollars for every musician
+
+823
+00:49:02,052 --> 00:49:07,588
+Jonathan Larson : Yeah And your annual operating budget is half a million dollars
+
+824
+00:49:07,967 --> 00:49:10,701
+Ira Weitzman : So far we're up to 12 RSVPs Jon
+
+825
+00:49:10,985 --> 00:49:14,011
+Ira Weitzman : You don't need a band with an audience of 12 people You'll outnumber them
+
+826
+00:49:16,299 --> 00:49:18,179
+Ira Weitzman : If you want more musicians
+
+827
+00:49:18,213 --> 00:49:20,873
+Ira Weitzman : you're gonna have to find the money for it somewhere else
+
+828
+00:49:22,059 --> 00:49:23,023
+Ira Weitzman : I'm sorry
+
+829
+00:49:25,711 --> 00:49:26,691
+Jonathan Larson : Thank you for everything
+
+830
+00:49:39,692 --> 00:49:42,543
+Jonathan Larson : I went to three friends funerals last year
+
+831
+00:49:43,714 --> 00:49:46,201
+Jonathan Larson : The oldest one was 27
+
+832
+00:49:47,314 --> 00:49:50,723
+Jonathan Larson : Pam Gordon Ally
+
+833
+00:49:51,719 --> 00:49:53,230
+Jonathan Larson : Freddy's not even
+
+834
+00:49:54,070 --> 00:49:56,518
+Jonathan Larson : He turned 25 two weeks ago
+
+835
+00:49:57,106 --> 00:49:59,446
+Jonathan Larson : And nobody's doing enough
+
+836
+00:50:00,024 --> 00:50:01,470
+Jonathan Larson : I'm not doing enough
+
+837
+00:50:01,968 --> 00:50:05,872
+Jonathan Larson : There's not enough time or maybe I'm just wasting my time
+
+838
+00:50:05,873 --> 00:50:08,601
+Jonathan Larson : And what about Susan's time When am I gonna talk to Susan
+
+839
+00:50:08,602 --> 00:50:11,538
+Jonathan Larson : What am I gonna say I don't know what to say
+
+840
+00:50:11,539 --> 00:50:15,221
+Jonathan Larson : So Susan waits and the time keeps ticking
+
+841
+00:50:15,299 --> 00:50:18,085
+Jonathan Larson : Tick tick tick
+
+842
+00:50:18,334 --> 00:50:21,117
+Jonathan Larson : And I have three days left until the workshop
+
+843
+00:50:21,118 --> 00:50:24,692
+Jonathan Larson : Three days left to write this song And if the song doesn't work
+
+844
+00:50:24,693 --> 00:50:28,026
+Jonathan Larson : the show doesn't work and then it's all been a waste of time
+
+845
+00:50:28,027 --> 00:50:30,542
+Jonathan Larson : Who gives a shit about a song
+
+846
+00:50:30,762 --> 00:50:32,280
+Jonathan Larson : And I miss Michael
+
+847
+00:50:32,844 --> 00:50:34,718
+Jonathan Larson : I need to talk to Michael
+
+848
+00:50:35,172 --> 00:50:37,678
+Jonathan Larson : I don't have time to talk to Michael
+
+849
+00:50:43,535 --> 00:50:48,568
+Singers : Everyone who ever has Or ever will be anyone will be there
+
+850
+00:50:49,498 --> 00:50:52,530
+Singers : Never in the history Of entertainment will there be an affair
+
+851
+00:50:52,531 --> 00:50:54,488
+Jonathan Larson;Singers : Make sure you're not speeding up
+
+852
+00:50:54,752 --> 00:50:56,175
+Singers : Quite like it
+
+853
+00:50:56,343 --> 00:50:58,829
+Singers : The event of the century
+
+854
+00:50:58,829 --> 00:51:01,291
+Singers : The quintessential social adventure
+
+855
+00:51:01,292 --> 00:51:03,559
+Jonathan Larson : I'm missing consonants in quintessential social adventure right
+
+856
+00:51:05,353 --> 00:51:05,558
+Susan : Hi
+
+857
+00:51:05,559 --> 00:51:06,983
+Susan : It sounds great
+
+858
+00:51:06,984 --> 00:51:07,287
+Jonathan Larson : Thanks
+
+859
+00:51:08,201 --> 00:51:09,494
+Jonathan Larson : Why didn't you tell me you were coming
+
+860
+00:51:09,886 --> 00:51:11,087
+Susan : I thought it might be a nice surprise
+
+861
+00:51:11,088 --> 00:51:12,294
+Jonathan Larson : Oh no It is It is
+
+862
+00:51:12,301 --> 00:51:14,262
+Susan : Okay It's Tuesday
+
+863
+00:51:16,097 --> 00:51:16,509
+Jonathan Larson : Mm
+
+864
+00:51:17,580 --> 00:51:21,040
+Susan : I need to give them the decision about the job by tomorrow so
+
+865
+00:51:21,075 --> 00:51:21,358
+Jonathan Larson : Hmm
+
+866
+00:51:21,359 --> 00:51:24,119
+Susan : Is there a moment where you can take a break
+
+867
+00:51:25,302 --> 00:51:28,884
+Jonathan Larson : I can't No the actors take breaks I don't I don't have any breaks
+
+868
+00:51:29,302 --> 00:51:31,068
+Susan : I just don't know what I'm gonna do So
+
+869
+00:51:32,022 --> 00:51:32,564
+Jonathan Larson : Um
+
+870
+00:51:33,184 --> 00:51:35,194
+Jonathan Larson : Can you Can you ask for an extension
+
+871
+00:51:36,124 --> 00:51:38,885
+Jonathan Larson : I'm sorry can we Can we talk about this tonight
+
+872
+00:51:39,439 --> 00:51:41,055
+Jonathan Larson : I'm so One second
+
+873
+00:51:41,389 --> 00:51:43,553
+Jonathan Larson : This is Can we get this section
+
+874
+00:51:57,721 --> 00:51:58,630
+Cristin : A nomination
+
+875
+00:51:58,631 --> 00:51:59,412
+Roger Bart;Cristin : A nomination
+
+876
+00:51:59,413 --> 00:52:01,317
+Cristin : A nomination for a Face Award
+
+877
+00:52:01,318 --> 00:52:02,531
+Roger Bart;Cristin : A Face Award
+
+878
+00:52:02,532 --> 00:52:03,852
+Cristin : Let's plug in
+
+879
+00:52:04,187 --> 00:52:06,122
+Roger Bart : Does this mean That I'll be on the air
+
+880
+00:52:06,123 --> 00:52:07,360
+Cristin : You already were
+
+881
+00:52:07,361 --> 00:52:09,244
+Cristin : Last night what a sight you were
+
+882
+00:52:09,277 --> 00:52:09,657
+Roger Bart : I was
+
+883
+00:52:09,695 --> 00:52:11,648
+Cristin : You were You played with my laser
+
+884
+00:52:11,649 --> 00:52:13,089
+Cristin : You thought it was a razor
+
+885
+00:52:13,090 --> 00:52:16,555
+Cristin : I'm positive that's what Caused such a scene
+
+886
+00:52:16,622 --> 00:52:20,068
+Roger Bart : We can get on the air My music box on the air
+
+887
+00:52:20,068 --> 00:52:22,853
+Roger Bart : Where Who What does this mean
+
+888
+00:52:22,854 --> 00:52:28,707
+Cristin : Everyone who ever has Or ever will be anyone will be there
+
+889
+00:52:30,986 --> 00:52:33,652
+Citizen : I can give you 50 for everything
+
+890
+00:52:35,056 --> 00:52:37,325
+Jonathan Larson : You're gonna sell it for five times that amount
+
+891
+00:52:37,349 --> 00:52:38,729
+Citizen : Fifty's the best I can do
+
+892
+00:52:43,089 --> 00:52:43,782
+Jonathan Larson : Cash
+
+893
+00:52:44,174 --> 00:52:44,536
+Citizen : Great
+
+894
+00:52:49,178 --> 00:52:52,062
+Citizen : Oh no He's keeping the ???
+
+895
+00:52:53,566 --> 00:52:54,259
+Citizen : Day by Day
+
+896
+00:52:56,265 --> 00:52:57,906
+Jonathan Larson : Yeah yeah I love it Ah
+
+897
+00:52:57,931 --> 00:52:59,713
+Jonathan Larson : ah ah
+
+898
+00:52:59,945 --> 00:53:03,369
+Michael : I'd love to take you to lunch
+
+899
+00:53:03,370 --> 00:53:04,260
+Michael : Celebrate your birthday
+
+900
+00:53:04,269 --> 00:53:05,462
+Jonathan Larson : I can't this week
+
+901
+00:53:06,528 --> 00:53:09,920
+Michael : I could really use your advice on some things
+
+902
+00:53:09,921 --> 00:53:12,444
+Jonathan Larson : Hey Michael I'm sorry can I call you back later
+
+903
+00:53:12,445 --> 00:53:14,933
+Jonathan Larson : I'm just I'm right in the middle of something here
+
+904
+00:53:15,833 --> 00:53:18,359
+Michael : Oh uh that focus group I mentioned
+
+905
+00:53:19,219 --> 00:53:21,418
+Michael : They're still looking for one more person to sign up
+
+906
+00:53:21,439 --> 00:53:24,185
+Michael : It's Thursday at eleven, I know money's tight for you right now
+
+907
+00:53:24,803 --> 00:53:25,586
+Michael : You know what Never mind
+
+908
+00:53:25,587 --> 00:53:28,167
+Jonathan Larson : Uh wait How much does it pay
+
+909
+00:53:28,440 --> 00:53:31,061
+Michael : It's only 75 bucks but it could be a thing
+
+910
+00:53:35,022 --> 00:53:35,670
+Jonathan Larson : I'll be there
+
+911
+00:53:36,007 --> 00:53:38,089
+Jonathan Larson : Thank you really That's Yeah thank you
+
+912
+00:53:38,090 --> 00:53:38,638
+Michael : Wow
+
+913
+00:53:38,808 --> 00:53:40,435
+Jonathan Larson : Okay bye Byebye
+
+914
+00:53:40,555 --> 00:53:41,688
+Michael : All right see you
+
+915
+00:54:02,352 --> 00:54:04,061
+Ira Weitzman : You were right I know
+
+916
+00:54:05,101 --> 00:54:11,109
+Singers : Never in the history Of entertainment will there be An affair quite like it
+
+917
+00:54:11,283 --> 00:54:13,891
+Singers : The event of the century
+
+918
+00:54:13,892 --> 00:54:20,009
+Singers : The quintessential social adventure We cannot afford to miss This night of bliss
+
+919
+00:54:20,010 --> 00:54:26,328
+Singers : The 31st annual Face Awards Presentation ceremony Live via satellite in color
+
+920
+00:54:26,329 --> 00:54:33,074
+Singers : It's an 18 hour function With commercial interruption From a marvelous glorious Slam bang glamorama
+
+921
+00:54:33,099 --> 00:54:42,758
+Singers : Everyone who's anyone knows Everyone who's anyone knows Everyone who's anyone knows Everyone who's anyone knows Everyone who's anyone knows everyone will be
+
+922
+00:54:42,851 --> 00:54:48,580
+Singers : There
+
+923
+00:54:55,967 --> 00:54:56,893
+Karessa Johnson : Can I hear it
+
+924
+00:54:57,968 --> 00:54:58,542
+Jonathan Larson : Huh
+
+925
+00:54:58,745 --> 00:54:59,587
+Karessa Johnson : The new song
+
+926
+00:55:02,164 --> 00:55:03,678
+Jonathan Larson : Any day now
+
+927
+00:55:05,128 --> 00:55:07,916
+Karessa Johnson : You're killin me Larson
+
+928
+00:55:17,955 --> 00:55:19,121
+Jonathan Larson : Oh sh
+
+929
+00:55:19,780 --> 00:55:20,895
+Jonathan Larson : Shh
+
+930
+00:55:32,568 --> 00:55:34,409
+Susan : Hey It's me Just pick up the phone
+
+931
+00:55:35,455 --> 00:55:36,841
+Susan : I know you're screening your calls
+
+932
+00:55:38,077 --> 00:55:40,254
+Susan : Every light is on in your apartment right now
+
+933
+00:55:47,866 --> 00:55:49,146
+Susan : I can see you
+
+934
+00:55:55,981 --> 00:55:58,114
+Jonathan Larson : Hey Hi You could have called first
+
+935
+00:55:58,908 --> 00:56:00,062
+Susan : I just did
+
+936
+00:56:00,426 --> 00:56:00,821
+Jonathan Larson : Mm
+
+937
+00:56:01,046 --> 00:56:02,546
+Susan : It's good to see you too
+
+938
+00:56:05,756 --> 00:56:07,843
+Jonathan Larson : I didn't mean it like that
+
+939
+00:56:09,409 --> 00:56:10,549
+Susan : Jesus Jonathan
+
+940
+00:56:11,787 --> 00:56:13,334
+Susan : I need you to talk to me
+
+941
+00:56:14,087 --> 00:56:15,995
+Jonathan Larson : I'm writing Susan I'm writing
+
+942
+00:56:16,020 --> 00:56:19,104
+Susan : You're gonna write a great American musical in the next ten minutes
+
+943
+00:56:19,105 --> 00:56:21,612
+Jonathan Larson : Thank you for being so supportive of my work
+
+944
+00:56:21,613 --> 00:56:23,852
+Susan : Because you've been such a champion of mine
+
+945
+00:56:24,299 --> 00:56:25,459
+Jonathan Larson : What's that supposed to mean
+
+946
+00:56:25,460 --> 00:56:26,653
+Susan : What do you think it means
+
+947
+00:56:28,380 --> 00:56:32,477
+Jonathan Larson : And now ladies and gentlemen we present you with
+
+948
+00:56:33,617 --> 00:56:38,660
+Jonathan Larson : scenes from a modern romance as told in song
+
+949
+00:56:46,994 --> 00:56:52,411
+Susan : I'm sorry I'm sorry I I'm not allowed to talk about my needs What needs
+
+950
+00:56:52,451 --> 00:56:53,233
+Jonathan Larson : Did I say that
+
+951
+00:56:53,257 --> 00:56:54,985
+Susan : You didn't have to say it It's implied
+
+952
+00:56:55,010 --> 00:56:56,350
+Jonathan Larson : How is it implied
+
+953
+00:56:56,616 --> 00:57:00,376
+Susan : You're the artist and I'm the girlfriend That's how you feel right
+
+954
+00:57:01,005 --> 00:57:05,811
+Jonathan Larson : I feel bad That you feel bad
+
+955
+00:57:05,819 --> 00:57:11,481
+Jonathan Larson : About me feeling bad About you feeling bad
+
+956
+00:57:11,488 --> 00:57:16,978
+Jonathan Larson : About what I said About what you said
+
+957
+00:57:17,003 --> 00:57:20,748
+Jonathan Larson : About me not being able
+
+958
+00:57:20,749 --> 00:57:27,436
+Jonathan Larson : To share a feeling
+
+959
+00:57:27,876 --> 00:57:29,731
+Jonathan Larson : Can we talk about this later please
+
+960
+00:57:29,755 --> 00:57:31,908
+Susan : When Jonathan When is later
+
+961
+00:57:31,909 --> 00:57:34,468
+Jonathan Larson : Not tonight
+
+962
+00:57:35,686 --> 00:57:39,306
+Karessa Johnson : If I thought that What you thought
+
+963
+00:57:39,446 --> 00:57:44,099
+Karessa Johnson : Was that I hadn't thought About sharing my thoughts
+
+964
+00:57:44,100 --> 00:57:48,232
+Karessa Johnson : Then my reaction To your reaction
+
+965
+00:57:48,233 --> 00:57:54,542
+Karessa Johnson : To my reaction Would have been more revealing
+
+966
+00:57:54,543 --> 00:57:58,094
+Jonathan Larson : I have been rehearsing all day I have been up since four this morning
+
+967
+00:57:58,095 --> 00:58:02,914
+Jonathan Larson : I have been trying to write a song for a week and I am nowhere
+
+968
+00:58:02,926 --> 00:58:06,446
+Jonathan Larson : I was afraid that you'd be afraid If I told you that
+
+969
+00:58:06,470 --> 00:58:09,188
+Jonathan Larson : I was afraid of intimacy
+
+970
+00:58:09,209 --> 00:58:11,948
+Susan : I've been telling you how unhappy I am for months
+
+971
+00:58:12,182 --> 00:58:18,388
+Jonathan Larson : If you don't have a problem With my problem Maybe the problem's Simply codependency
+
+972
+00:58:18,389 --> 00:58:20,621
+Jonathan Larson : Everyone's unhappy in New York
+
+973
+00:58:20,944 --> 00:58:22,500
+Jonathan Larson : That's what New York is
+
+974
+00:58:22,525 --> 00:58:23,425
+Jonathan Larson : I was wrong to
+
+975
+00:58:23,450 --> 00:58:24,356
+Karessa Johnson : Say you were wrong to
+
+976
+00:58:24,381 --> 00:58:25,316
+Jonathan Larson : Say I was wrong about
+
+977
+00:58:25,340 --> 00:58:26,048
+Karessa Johnson : You being wrong
+
+978
+00:58:26,072 --> 00:58:27,190
+Jonathan Larson : When you rang to say that
+
+979
+00:58:27,191 --> 00:58:28,492
+Karessa Johnson : the ring was the wrong thing to bring
+
+980
+00:58:28,493 --> 00:58:32,266
+Jonathan Larson : If I meant what I said When I said rings bored me
+
+981
+00:58:32,291 --> 00:58:34,339
+Susan : I don't know how to get through to you anymore
+
+982
+00:58:34,364 --> 00:58:36,705
+Susan : You keep shutting me out you keep putting up these fences
+
+983
+00:58:36,729 --> 00:58:38,287
+Jonathan Larson : I'm not I'm not shutting you out
+
+984
+00:58:38,311 --> 00:58:40,575
+Susan : You're a million miles away all the time
+
+985
+00:58:40,600 --> 00:58:42,408
+Jonathan Larson : Actually I'm right here
+
+986
+00:58:42,432 --> 00:58:43,798
+Susan : Are you Jonathan
+
+987
+00:58:44,031 --> 00:58:46,384
+Susan : Actually Because I know you
+
+988
+00:58:46,385 --> 00:58:48,239
+Jonathan Larson;Karessa Johnson : I'm not mad That you got mad
+
+989
+00:58:48,258 --> 00:58:53,183
+Jonathan Larson;Karessa Johnson : When I got mad When you said I should go drop dead
+
+990
+00:58:53,341 --> 00:58:55,354
+Jonathan Larson : If I were you And I'd done what I'd done
+
+991
+00:58:55,379 --> 00:59:00,432
+Jonathan Larson : I'd do what you did When I gave you the ring Having said what I said
+
+992
+00:59:00,794 --> 00:59:04,850
+Jonathan Larson : You're right I've been distracted but I promise you after the workshop I'm I'm gonna
+
+993
+00:59:04,851 --> 00:59:05,855
+Susan : After the workshop
+
+994
+00:59:06,526 --> 00:59:08,769
+Jonathan Larson : After the workshop
+
+995
+00:59:08,794 --> 00:59:11,180
+Susan : Everything is after the workshop
+
+996
+00:59:11,181 --> 00:59:12,080
+Jonathan Larson : Yeah
+
+997
+00:59:12,341 --> 00:59:15,158
+Susan : What if the workshop happens and nothing changes
+
+998
+00:59:15,159 --> 00:59:17,246
+Susan : No producer with a big check
+
+999
+00:59:17,251 --> 00:59:19,377
+Susan : You don't go straight to Broadway
+
+1000
+00:59:19,674 --> 00:59:25,112
+Susan : You're still a waiter you're still living in this apartment you're still broke
+
+1001
+00:59:25,184 --> 00:59:28,709
+Susan : What then Jonathan What about me
+
+1002
+00:59:29,412 --> 00:59:39,431
+Jonathan Larson;Karessa Johnson : I feel bad that you feel bad About me feeling bad About you feeling bad about what I said About what you said About me not being Able to share a feeling Feeling badly about you
+
+1003
+00:59:39,456 --> 00:59:41,305
+Jonathan Larson : I can't move to the Berkshires
+
+1004
+00:59:42,478 --> 00:59:45,513
+Jonathan Larson : I can't leave my career behind
+
+1005
+00:59:45,514 --> 00:59:46,856
+Susan : You think I don't know that
+
+1006
+00:59:48,009 --> 00:59:48,543
+Jonathan Larson : What
+
+1007
+00:59:49,742 --> 00:59:54,365
+Jonathan Larson : What are you What is this What do you want
+
+1008
+00:59:56,375 --> 01:00:00,506
+Susan : I guess I just I wanted you to tell me not to go
+
+1009
+01:00:03,672 --> 01:00:13,430
+Jonathan Larson;Karessa Johnson : If I thought that what you thought Was I hadn't thought About sharing my thoughts Then my reaction to your reaction To my reaction Would have been more revealing When I reacted to you
+
+1010
+01:00:13,735 --> 01:00:16,164
+Jonathan Larson : Of course I don't want you to go
+
+1011
+01:00:16,791 --> 01:00:17,599
+Really
+
+1012
+01:00:17,776 --> 01:00:19,510
+Jonathan Larson : Obviously
+
+1013
+01:00:19,511 --> 01:00:21,264
+Susan : Cause this is the first time you've ever said it
+
+1014
+01:00:42,531 --> 01:00:43,501
+Susan : Oh my God
+
+1015
+01:00:44,377 --> 01:00:46,439
+Jonathan Larson : Now it's out in the open
+
+1016
+01:00:47,191 --> 01:00:49,921
+Susan : You're thinking about how you can turn this into a song Aren't you
+
+1017
+01:00:51,374 --> 01:00:53,504
+Karessa Johnson : Now it's off our chest
+
+1018
+01:00:55,121 --> 01:00:57,118
+Jonathan Larson : No What
+
+1019
+01:00:57,899 --> 01:01:02,332
+Susan : You know what Jonathan I'm done
+
+1020
+01:01:03,559 --> 01:01:06,458
+Jonathan Larson : Susan Susan wait
+
+1021
+01:01:06,459 --> 01:01:09,595
+Susan : I hope that you have an amazing workshop
+
+1022
+01:01:10,332 --> 01:01:13,132
+Jonathan Larson : Susan hold on Susan
+
+1023
+01:01:13,133 --> 01:01:18,238
+Jonathan Larson;Karessa Johnson : Now it's 400 a. m And we have  therapy tomorrow It's too late to screw
+
+1024
+01:01:18,263 --> 01:01:21,303
+Jonathan Larson;Karessa Johnson : So let's just get some rest
+
+1025
+01:01:45,487 --> 01:01:48,184
+Woman3 : So just waiting on one more person
+
+1026
+01:01:49,043 --> 01:01:49,936
+Woman3 : Enjoy those waters
+
+1027
+01:01:51,811 --> 01:01:52,160
+Woman3 : So
+
+1028
+01:01:53,800 --> 01:01:54,382
+Jonathan Larson : I'm Jon
+
+1029
+01:01:54,407 --> 01:01:56,520
+Woman3 : Yes Mr Larson you're Michael's friend
+
+1030
+01:01:56,545 --> 01:01:57,226
+Jonathan Larson : Yeah How are you
+
+1031
+01:01:57,250 --> 01:01:58,218
+Woman3 : Good You're late
+
+1032
+01:01:58,598 --> 01:01:59,463
+Woman3 : Oh
+
+1033
+01:01:59,464 --> 01:02:00,025
+Jonathan Larson : Okay
+
+1034
+01:02:00,111 --> 01:02:01,006
+Jonathan Larson : Sorry about that
+
+1035
+01:02:01,030 --> 01:02:01,478
+Woman3 : No That's okay
+
+1036
+01:02:01,468 --> 01:02:03,007
+Jonathan Larson : No because of the subway
+
+1037
+01:02:03,008 --> 01:02:04,067
+Woman3 : Yeah I'm sure
+
+1038
+01:02:04,187 --> 01:02:05,721
+Woman3 : Take a seat when you can
+
+1039
+01:02:05,794 --> 01:02:06,227
+Jonathan Larson : Hi
+
+1040
+01:02:06,554 --> 01:02:07,193
+Citizen : Welcome
+
+1041
+01:02:08,080 --> 01:02:08,567
+Jonathan Larson : Thanks
+
+1042
+01:02:08,640 --> 01:02:10,768
+Citizen : You sure there's no way to get into the bathroom
+
+1043
+01:02:10,768 --> 01:02:12,488
+Woman3 : Oh no you're not allowed to use the bathroom
+
+1044
+01:02:12,625 --> 01:02:14,854
+I'm Sorry did she mention when we were gonna get paid
+
+1045
+01:02:15,256 --> 01:02:18,360
+Woman3 : Okay um so now that we're all here
+
+1046
+01:02:18,977 --> 01:02:19,847
+Woman3 : Hi
+
+1047
+01:02:20,114 --> 01:02:20,587
+Jonathan Larson : Hey
+
+1048
+01:02:20,588 --> 01:02:24,527
+Woman3 : Why don't we begin with a quick brainstorming session Right
+
+1049
+01:02:24,646 --> 01:02:27,839
+Woman3 : Just to get those creative juices flowing You know what I mean It'll be fun
+
+1050
+01:02:30,021 --> 01:02:31,673
+Jonathan Larson : Two hours of this
+
+1051
+01:02:32,038 --> 01:02:34,729
+Jonathan Larson : For one extra musician
+
+1052
+01:02:35,396 --> 01:02:38,128
+Woman3 : So why don't we start by you just throwing out some ideas
+
+1053
+01:02:38,129 --> 01:02:41,762
+Woman3 : when you hear me say the word America
+
+1054
+01:02:41,927 --> 01:02:43,164
+Citizen : George Washington
+
+1055
+01:02:43,188 --> 01:02:43,993
+Woman3 : Excellent
+
+1056
+01:02:44,086 --> 01:02:46,609
+Citizen : Abraham Lincoln Abraham Lincoln Okay
+
+1057
+01:02:46,853 --> 01:02:49,214
+Jonathan Larson : Empire racism genocide Vietnam
+
+1058
+01:02:49,319 --> 01:02:50,359
+Jonathan Larson : Grover Cleveland
+
+1059
+01:02:52,046 --> 01:02:53,662
+Citizen : The Constitution
+
+1060
+01:02:53,686 --> 01:02:54,565
+Woman3 : Yes
+
+1061
+01:02:54,645 --> 01:02:55,534
+Citizen : Yeah
+
+1062
+01:02:55,558 --> 01:02:56,564
+Jonathan Larson : Magna Carta
+
+1063
+01:02:56,924 --> 01:02:57,849
+Citizen : The Bill of Rights
+
+1064
+01:02:57,850 --> 01:02:58,268
+Woman3 : Mmhm
+
+1065
+01:02:58,269 --> 01:03:00,124
+Citizen : The right thing to do
+
+1066
+01:03:00,148 --> 01:03:00,621
+Woman3 : Ooh
+
+1067
+01:03:00,835 --> 01:03:02,201
+Citizen : The right stuff
+
+1068
+01:03:03,035 --> 01:03:04,385
+Woman3 : Right stuff
+
+1069
+01:03:05,068 --> 01:03:06,541
+Jonathan Larson : An open road at sunset
+
+1070
+01:03:09,088 --> 01:03:10,131
+Jonathan Larson : Wind in your hair
+
+1071
+01:03:11,865 --> 01:03:14,986
+Jonathan Larson : Nothing in your way except horizon
+
+1072
+01:03:19,490 --> 01:03:23,503
+Woman3 : That is beautiful Mr Larson
+
+1073
+01:03:23,733 --> 01:03:27,449
+Woman3 : Wow Okay That goes on the board
+
+1074
+01:03:27,699 --> 01:03:28,980
+Citizen : The sun
+
+1075
+01:03:29,037 --> 01:03:30,672
+Citizen : Sunrise
+
+1076
+01:03:31,235 --> 01:03:32,514
+Jonathan Larson : The dawn of a new day
+
+1077
+01:03:32,862 --> 01:03:38,763
+Citizen : Oh Where did you come from It all goes back You're amazing That is incredible
+
+1078
+01:03:38,788 --> 01:03:40,980
+Citizen : A window looking out on a field
+
+1079
+01:03:40,981 --> 01:03:44,601
+Citizen : Oh and I look out and I see the bunnies and little squirrelies
+
+1080
+01:03:44,602 --> 01:03:46,162
+Jonathan Larson : The beating heart of the nation
+
+1081
+01:03:47,253 --> 01:03:49,621
+Woman3 : Ooh Oh my gosh
+
+1082
+01:03:49,622 --> 01:03:51,869
+Woman3 : Absolutely That's absolutely what it is
+
+1083
+01:03:51,908 --> 01:03:55,625
+Citizen : Wow I've never even heard that before You are gifted
+
+1084
+01:03:56,740 --> 01:03:58,060
+Jonathan Larson : I could get used to this
+
+1085
+01:03:58,521 --> 01:04:00,739
+Jonathan Larson : I could get paid for this
+
+1086
+01:04:01,002 --> 01:04:02,688
+Jonathan Larson : I could get health care
+
+1087
+01:04:03,068 --> 01:04:04,928
+Jonathan Larson : A 401k
+
+1088
+01:04:05,522 --> 01:04:08,656
+Jonathan Larson : A BMW A luxury apartment
+
+1089
+01:04:08,746 --> 01:04:12,500
+Jonathan Larson : on Central Park West No no no East
+
+1090
+01:04:13,355 --> 01:04:17,915
+Jonathan Larson : I could actually be rewarded for my creativity
+
+1091
+01:04:18,221 --> 01:04:21,241
+Jonathan Larson : instead of rejected and ignored
+
+1092
+01:04:22,523 --> 01:04:24,176
+Jonathan Larson : This could be the rest of my life
+
+1093
+01:04:24,720 --> 01:04:29,281
+Woman3 : Now that we have all those fabulous ideas of yours in our heads
+
+1094
+01:04:29,282 --> 01:04:31,808
+Woman3 : we are going to turn to the task at hand
+
+1095
+01:04:31,964 --> 01:04:32,367
+Jonathan Larson : Umm
+
+1096
+01:04:32,368 --> 01:04:39,350
+Woman3 : We are here to develop a name of a revolutionary consumer product that is just about to hit your shelves
+
+1097
+01:04:39,375 --> 01:04:40,588
+Citizen : Oh Wow
+
+1098
+01:04:40,655 --> 01:04:43,868
+Woman3 : This is where we're gonna need that incredible imagination of yours Mr Larson
+
+1099
+01:04:44,634 --> 01:04:48,826
+Woman3 : So the product we're looking at is a tasteless odorless chemical compound
+
+1100
+01:04:48,827 --> 01:04:51,920
+Woman3 : that will be used as a fat substitute in cooking
+
+1101
+01:04:52,067 --> 01:04:52,442
+Citizen : Mm
+
+1102
+01:04:52,480 --> 01:04:57,073
+Woman3 : And it's been successfully tested on a number of mammals
+
+1103
+01:04:57,266 --> 01:04:58,716
+Citizen : Well that's good Mm
+
+1104
+01:04:59,074 --> 01:05:03,254
+Woman3 : There are some side effects associated with the product that I've been instructed to tell you about
+
+1105
+01:05:03,255 --> 01:05:05,120
+Woman3 : So it's skin scales
+
+1106
+01:05:05,305 --> 01:05:07,574
+Woman3 : Um full hair loss
+
+1107
+01:05:07,732 --> 01:05:10,284
+Woman3 : Hair eyebrows eyelashes
+
+1108
+01:05:10,285 --> 01:05:12,007
+Jonathan Larson : This could be the rest of my life
+
+1109
+01:05:13,020 --> 01:05:15,725
+Woman3 : And finally in a small number of users
+
+1110
+01:05:15,726 --> 01:05:17,993
+Woman3 : there were reports of toxic shock syndrome
+
+1111
+01:05:18,990 --> 01:05:22,350
+Woman3 : resulting in a brief hospitalization
+
+1112
+01:05:22,750 --> 01:05:23,978
+Citizen : Eh no big deal
+
+1113
+01:05:24,002 --> 01:05:25,422
+Woman3 : There are no bad ideas
+
+1114
+01:05:27,068 --> 01:05:29,355
+Citizen;Woman3 : Free oil Love it
+
+1115
+01:05:29,422 --> 01:05:31,221
+Citizen;Woman3 : Oil free Okay
+
+1116
+01:05:31,442 --> 01:05:33,507
+Jonathan Larson : That's the same thing she just said
+
+1117
+01:05:33,919 --> 01:05:35,273
+Citizen : I switched the words around
+
+1118
+01:05:35,274 --> 01:05:37,612
+Woman3 : That's totally fine Kim Thank you so much
+
+1119
+01:05:37,613 --> 01:05:38,955
+Citizen : The American Dream
+
+1120
+01:05:38,979 --> 01:05:39,493
+Woman3 : Okay well
+
+1121
+01:05:39,518 --> 01:05:40,727
+Citizen : Dreams of freedom
+
+1122
+01:05:40,751 --> 01:05:41,179
+Woman3 : Okay
+
+1123
+01:05:41,204 --> 01:05:42,159
+Citizen : Nutraoil
+
+1124
+01:05:42,183 --> 01:05:43,756
+Woman3 : That's not bad Todd
+
+1125
+01:05:43,802 --> 01:05:45,248
+Citizen : Waist oil No
+
+1126
+01:05:52,605 --> 01:05:53,135
+Jonathan Larson : I got it
+
+1127
+01:05:57,364 --> 01:05:58,861
+Jonathan Larson : I have it I have the exact
+
+1128
+01:05:58,862 --> 01:05:59,321
+Citizen : Go go
+
+1129
+01:05:59,322 --> 01:06:03,317
+Jonathan Larson : You wanna hear I got the exact right thing for this product
+
+1130
+01:06:04,386 --> 01:06:06,083
+Jonathan Larson : Chubstitute
+
+1131
+01:06:10,199 --> 01:06:11,247
+Michael : Chubstitute
+
+1132
+01:06:12,194 --> 01:06:13,302
+Jonathan Larson : It's a joke
+
+1133
+01:06:13,326 --> 01:06:14,247
+Michael : It's not funny
+
+1134
+01:06:15,021 --> 01:06:16,482
+Jonathan Larson : Well maybe not to you
+
+1135
+01:06:16,556 --> 01:06:18,530
+Michael : but I recommended you Jon
+
+1136
+01:06:19,301 --> 01:06:21,281
+Michael : I put my name on the line for you
+
+1137
+01:06:22,357 --> 01:06:24,039
+Jonathan Larson : Tell them I had a ???
+
+1138
+01:06:24,040 --> 01:06:25,246
+Michael : That' isn't funny
+
+1139
+01:06:26,743 --> 01:06:28,085
+Michael : This is my life
+
+1140
+01:06:28,086 --> 01:06:31,760
+Jonathan Larson : No it's not your life it's advertising
+
+1141
+01:06:31,761 --> 01:06:36,732
+Jonathan Larson : It's it's figuring out how to trick people into buying shit that they don't want
+
+1142
+01:06:36,772 --> 01:06:38,587
+Michael : Actually it's a lot more complicated than that
+
+1143
+01:06:38,612 --> 01:06:41,847
+Jonathan Larson : I don't understand how you can take any of this seriously
+
+1144
+01:06:41,880 --> 01:06:43,107
+Michael : Because they pay me to
+
+1145
+01:06:43,131 --> 01:06:44,199
+Jonathan Larson : Money isn't everything
+
+1146
+01:06:44,232 --> 01:06:45,072
+Michael : Well it doesn't hurt
+
+1147
+01:06:45,096 --> 01:06:46,496
+Jonathan Larson : Are you sure about that
+
+1148
+01:06:48,030 --> 01:06:50,997
+Michael : What are you doing with your life that's so noble
+
+1149
+01:06:52,087 --> 01:06:53,142
+Jonathan Larson : I'm making art
+
+1150
+01:06:53,144 --> 01:06:55,511
+Michael : Woo That's what the world needs More art
+
+1151
+01:06:55,536 --> 01:06:59,143
+Jonathan Larson : Actually yes And at least I'm not perpetuating a system
+
+1152
+01:07:00,896 --> 01:07:02,780
+Michael : Jon You're writing musicals in your living room
+
+1153
+01:07:02,781 --> 01:07:04,505
+Michael : you're not saving the rainforest
+
+1154
+01:07:07,269 --> 01:07:07,717
+Jonathan Larson : Wow
+
+1155
+01:07:09,422 --> 01:07:11,915
+Jonathan Larson : Gosh I wish I could be more like you
+
+1156
+01:07:12,008 --> 01:07:14,979
+Jonathan Larson : and spend my life caring about driving the right car
+
+1157
+01:07:15,088 --> 01:07:16,938
+Jonathan Larson : and wearing the right suits and living in a doorman building
+
+1158
+01:07:16,962 --> 01:07:20,434
+Michael : Why shouldn't I want those things Jon Not all of us have options you do
+
+1159
+01:07:20,461 --> 01:07:22,219
+Michael : All the things that you take for granted
+
+1160
+01:07:22,244 --> 01:07:22,983
+Jonathan Larson : What Like what
+
+1161
+01:07:23,007 --> 01:07:24,733
+Michael : Like a life with the person you love
+
+1162
+01:07:25,647 --> 01:07:27,702
+Michael : Do you know what I would give for that
+
+1163
+01:07:28,411 --> 01:07:30,433
+Michael : You You turn your nose up at it
+
+1164
+01:07:30,434 --> 01:07:32,875
+Jonathan Larson : If that's what you want what's stopping you
+
+1165
+01:07:33,119 --> 01:07:36,909
+Michael : What's stopping me How about Jesse Helms and the Moral Majority
+
+1166
+01:07:36,910 --> 01:07:39,215
+Michael : How about the people that run this country
+
+1167
+01:07:39,216 --> 01:07:41,680
+Michael : I can't get married I can't have kids
+
+1168
+01:07:41,689 --> 01:07:46,710
+Michael : Half our friends are dying and the other half are scared to death they are next
+
+1169
+01:07:46,735 --> 01:07:49,335
+Michael : So I'm sorry for getting a nice car Jon
+
+1170
+01:07:49,360 --> 01:07:52,660
+Michael : I'm sorry for moving into an apartment with central heating
+
+1171
+01:07:52,685 --> 01:07:56,125
+Michael : I'm sorry for enjoying my life while I still have time
+
+1172
+01:07:57,031 --> 01:07:57,904
+Michael : I gotta go
+
+1173
+01:07:58,117 --> 01:07:58,605
+Jonathan Larson : Hey
+
+1174
+01:08:00,347 --> 01:08:01,327
+Jonathan Larson : You wanna come take the subway
+
+1175
+01:08:01,355 --> 01:08:01,686
+Jonathan Larson : Come take the ...
+
+1176
+01:08:01,687 --> 01:08:02,669
+Michael : I'd rather walk
+
+1177
+01:08:02,726 --> 01:08:03,401
+Jonathan Larson : Michael
+
+1178
+01:08:03,986 --> 01:08:04,889
+Jonathan Larson : Michael
+
+1179
+01:08:14,498 --> 01:08:15,185
+Jonathan Larson : Hello
+
+1180
+01:08:15,584 --> 01:08:18,384
+Rosa Stevens : Jonny darling it's Rosa
+
+1181
+01:08:20,159 --> 01:08:20,858
+Rosa Stevens : Hello
+
+1182
+01:08:21,391 --> 01:08:22,458
+Jonathan Larson : Rosa Stevens
+
+1183
+01:08:22,459 --> 01:08:24,946
+Rosa Stevens : Are we excited for tomorrow
+
+1184
+01:08:25,076 --> 01:08:25,732
+Jonathan Larson : Tomorrow
+
+1185
+01:08:26,665 --> 01:08:28,766
+Jonathan Larson : The presentation You remembered the presentation
+
+1186
+01:08:28,791 --> 01:08:31,728
+Rosa Stevens : Remembered it I got every producer in town coming
+
+1187
+01:08:33,355 --> 01:08:34,943
+Rosa Stevens : So it better be good
+
+1188
+01:08:34,968 --> 01:08:39,783
+Jonathan Larson : Yeah it's uh it's gonna be amazing
+
+1189
+01:08:39,784 --> 01:08:40,254
+Rosa Stevens : Let's see
+
+1190
+01:08:40,255 --> 01:08:44,555
+Rosa Stevens : if we can get a bidding war started on this musical of yours What do you say
+
+1191
+01:08:46,035 --> 01:08:48,388
+Jonathan Larson : Yes sure
+
+1192
+01:08:48,413 --> 01:08:49,423
+Rosa Stevens : Okay
+
+1193
+01:08:49,447 --> 01:08:50,401
+Rosa Stevens : doll
+
+1194
+01:08:50,426 --> 01:08:53,726
+Rosa Stevens : Charlie get me Hal Prince on the line
+
+1195
+01:08:53,751 --> 01:08:55,046
+Jonathan Larson : Rosa Um I
+
+1196
+01:09:20,429 --> 01:09:22,242
+Jonathan Larson : I'm so sorry
+
+1197
+01:09:33,689 --> 01:09:35,243
+Jonathan Larson : Yeah I know I know I know
+
+1198
+01:09:54,688 --> 01:09:55,981
+Jonathan Larson : Oh no
+
+1199
+01:09:57,161 --> 01:10:02,080
+Jonathan Larson : Why wouldn't you have called me to tell me my payment was late before you just cut off my power
+
+1200
+01:10:02,105 --> 01:10:04,636
+Jonathan Larson : How is How does that make sense
+
+1201
+01:10:04,637 --> 01:10:06,273
+Man8 : Sir as I explained before you received a notice
+
+1202
+01:10:06,274 --> 01:10:08,314
+Jonathan Larson : No no no listen
+
+1203
+01:10:08,339 --> 01:10:10,478
+Jonathan Larson : You don't understand I have a workshop
+
+1204
+01:10:10,479 --> 01:10:14,687
+Jonathan Larson : I have a public presentation of my musical in 12 hours
+
+1205
+01:10:14,712 --> 01:10:18,615
+man8;Jonathan Larson : Sir if you are going to raise your voice I'm sorry I'm sorry
+
+1206
+01:10:18,640 --> 01:10:22,455
+Jonathan Larson : Look look look I can pay you over the phone right now
+
+1207
+01:10:22,480 --> 01:10:23,701
+Jonathan Larson : I have my credit card right here
+
+1208
+01:10:23,702 --> 01:10:25,815
+Man8 : The billing office is closed
+
+1209
+01:10:25,816 --> 01:10:28,240
+Jonathan Larson : I would love to figure it out right now
+
+1210
+01:10:28,653 --> 01:10:30,359
+Man8 : The billing office is closed for the night
+
+1211
+01:10:32,210 --> 01:10:33,152
+Jonathan Larson : What am I gonna do
+
+1212
+01:10:33,176 --> 01:10:35,789
+Man8 : Sir like I've said call
+
+1213
+01:10:49,287 --> 01:10:51,820
+Jonathan Larson : Hey Beth Hey
+
+1214
+01:10:52,293 --> 01:10:54,908
+Jonathan Larson : How are you It's Jon
+
+1215
+01:10:54,933 --> 01:10:55,593
+Beth : Hi Jon
+
+1216
+01:10:55,880 --> 01:10:58,793
+Jonathan Larson : Hi um is Susan there
+
+1217
+01:10:58,849 --> 01:11:00,382
+Beth : She doesn't wanna talk to you Jon
+
+1218
+01:11:03,173 --> 01:11:03,786
+Jonathan Larson : Yeah
+
+1219
+01:11:04,726 --> 01:11:05,395
+Jonathan Larson : Um
+
+1220
+01:11:06,753 --> 01:11:08,038
+Jonathan Larson : Sure sure Uh
+
+1221
+01:11:08,445 --> 01:11:12,532
+Jonathan Larson : Well can you um can you give her a message for me
+
+1222
+01:11:12,558 --> 01:11:13,190
+Beth : What is it
+
+1223
+01:11:13,811 --> 01:11:15,074
+Jonathan Larson : Well it's just you know
+
+1224
+01:11:16,344 --> 01:11:20,510
+Jonathan Larson : I just I wanted to remind her that tomorrow is my workshop and you know I
+
+1225
+01:11:21,104 --> 01:11:23,611
+Jonathan Larson : I know I don't have any right to ask this It's just that
+
+1226
+01:11:25,814 --> 01:11:28,150
+Jonathan Larson : I would just really love her to be there
+
+1227
+01:11:28,830 --> 01:11:30,028
+Beth : I'll tell her you called
+
+1228
+01:11:37,146 --> 01:11:38,486
+Jonathan Larson : Here I am
+
+1229
+01:11:41,386 --> 01:11:49,844
+Jonathan Larson : The musical to which I have devoted my youth is about to be put on public display for every producer in New York
+
+1230
+01:11:51,737 --> 01:11:54,130
+Jonathan Larson : I haven't written a single note
+
+1231
+01:11:55,003 --> 01:12:00,276
+Jonathan Larson : or a single lyric of the most important song in the show
+
+1232
+01:12:01,356 --> 01:12:03,343
+Jonathan Larson : I have no electricity
+
+1233
+01:12:04,179 --> 01:12:08,553
+Jonathan Larson : My best friend is furious with me My girlfriend isn't speaking to me
+
+1234
+01:12:09,559 --> 01:12:12,733
+Jonathan Larson : And there is only one thing I can think of to do
+
+1235
+01:12:15,639 --> 01:12:16,800
+Jonathan Larson : Swim
+
+1236
+01:12:24,756 --> 01:12:29,341
+Jonathan Larson : I hate this locker room Why won't Susan answer my calls
+
+1237
+01:12:29,342 --> 01:12:32,841
+Jonathan Larson : Sweat wet echo Smell hell rap
+
+1238
+01:12:32,842 --> 01:12:35,794
+Jonathan Larson : Pump up the volume Hot wet hot sweat
+
+1239
+01:12:35,801 --> 01:12:37,341
+Jonathan Larson : How's the water
+
+1240
+01:12:37,342 --> 01:12:39,583
+Jonathan Larson : Stretch stretch Spit in the mask
+
+1241
+01:12:39,592 --> 01:12:41,216
+Jonathan Larson : Cloudy vision Test the water
+
+1242
+01:12:41,217 --> 01:12:44,425
+Jonathan Larson : Contemplate the dive The shock to the skin
+
+1243
+01:12:44,426 --> 01:12:48,800
+Jonathan Larson : Anticipate the pain the pain the pain The pain the pain now
+
+1244
+01:12:48,801 --> 01:12:51,925
+Jonathan Larson : One two three Oh bite the air seven
+
+1245
+01:12:51,926 --> 01:12:54,009
+Jonathan Larson : There's that girl One two three
+
+1246
+01:12:54,010 --> 01:12:56,541
+Jonathan Larson : Oh bite the air Smooth soft skin
+
+1247
+01:12:56,551 --> 01:12:59,165
+Jonathan Larson : Two three Oh bite the Thirteen
+
+1248
+01:12:59,176 --> 01:13:02,374
+Jonathan Larson : Long legs brown skin and wet hair
+
+1249
+01:13:02,385 --> 01:13:05,831
+Jonathan Larson : Whoa and wet hair
+
+1250
+01:13:05,842 --> 01:13:08,875
+Jonathan Larson : Has Rosa even listened to my tape
+
+1251
+01:13:08,885 --> 01:13:12,541
+Jonathan Larson : Kick stretch windmill arms See the hand point the feet
+
+1252
+01:13:12,551 --> 01:13:16,384
+Jonathan Larson : Wet hair Relax this guy's too slow
+
+1253
+01:13:16,385 --> 01:13:18,509
+Jonathan Larson : Fifteen Can I make it to 40
+
+1254
+01:13:18,510 --> 01:13:20,466
+Jonathan Larson : Too slow Touch his heel move
+
+1255
+01:13:20,467 --> 01:13:22,597
+Jonathan Larson : Answer my calls Red thin stripe
+
+1256
+01:13:22,592 --> 01:13:26,350
+Jonathan Larson : Fifty feet sixty feet She looks like Susan
+
+1257
+01:13:26,342 --> 01:13:28,050
+Jonathan Larson : Susan's beautiful
+
+1258
+01:13:28,466 --> 01:13:31,759
+Jonathan Larson : Out don't think out out Let it out
+
+1259
+01:13:31,760 --> 01:13:35,048
+Jonathan Larson : Keep the shoulder down down
+
+1260
+01:13:35,048 --> 01:13:37,223
+Jonathan Larson : Easy not too hard
+
+1261
+01:13:37,217 --> 01:13:41,996
+Jonathan Larson : Find the movement's origin
+
+1262
+01:13:41,996 --> 01:13:45,045
+Jonathan Larson : Hands no Shoulder no
+
+1263
+01:13:45,051 --> 01:13:46,800
+Jonathan Larson : Elbows no
+
+1264
+01:13:46,801 --> 01:13:49,884
+Jonathan Larson : Lower from the back Yes lower
+
+1265
+01:13:49,885 --> 01:13:52,368
+Jonathan Larson : Thirtynine 40
+
+1266
+01:13:52,368 --> 01:13:54,464
+Jonathan Larson : Center center
+
+1267
+01:14:20,514 --> 01:14:23,614
+Jonathan Larson : Forward motion
+
+1268
+01:14:23,615 --> 01:14:26,722
+Jonathan Larson : Through the water
+
+1269
+01:14:26,747 --> 01:14:28,555
+Jonathan Larson : Come to your senses
+
+1270
+01:14:28,556 --> 01:14:29,755
+Jonathan Larson : Escape
+
+1271
+01:14:29,756 --> 01:14:31,422
+Jonathan Larson : Come to your senses
+
+1272
+01:14:31,423 --> 01:14:33,884
+Jonathan Larson : Come to your senses
+
+1273
+01:14:33,885 --> 01:14:37,144
+Jonathan Larson : I am soaring
+
+1274
+01:14:37,145 --> 01:14:39,261
+Jonathan Larson : I'm the water
+
+1275
+01:14:39,262 --> 01:14:40,321
+Jonathan Larson : You're on the air
+
+1276
+01:14:40,322 --> 01:14:41,696
+Jonathan Larson : You as the knight
+
+1277
+01:14:41,697 --> 01:14:42,729
+Jonathan Larson : Escape
+
+1278
+01:14:42,730 --> 01:14:43,724
+Jonathan Larson : I'm underground
+
+1279
+01:14:43,725 --> 01:14:47,241
+Jonathan Larson : Me as the queen
+
+1280
+01:15:27,010 --> 01:15:28,850
+Jonathan Larson : The show is about to begin
+
+1281
+01:15:29,749 --> 01:15:32,156
+Jonathan Larson : The room is completely empty
+
+1282
+01:15:34,576 --> 01:15:38,713
+Jonathan Larson : The show is about to begin and I am looking
+
+1283
+01:15:38,813 --> 01:15:44,004
+Jonathan Larson : at 60 empty folding chairs
+
+1284
+01:15:47,600 --> 01:15:49,030
+Jonathan Larson : Hi
+
+1285
+01:15:49,773 --> 01:15:51,388
+Karessa Johnson : Hey boy genius
+
+1286
+01:15:53,682 --> 01:15:55,848
+Jonathan Larson : I'm turning 30 on Sunday you know
+
+1287
+01:15:56,241 --> 01:15:58,107
+Karessa Johnson : Oh well happy birthday
+
+1288
+01:15:58,577 --> 01:15:59,463
+Jonathan Larson : Thank you
+
+1289
+01:16:00,721 --> 01:16:02,209
+Karessa Johnson : Thirty's still young you know
+
+1290
+01:16:02,233 --> 01:16:03,326
+Jonathan Larson : No one's here
+
+1291
+01:16:04,586 --> 01:16:06,813
+Karessa Johnson : Oh It's not even nine
+
+1292
+01:16:08,736 --> 01:16:11,360
+Karessa Johnson : The presentation doesn't start till ten
+
+1293
+01:16:16,574 --> 01:16:17,493
+Jonathan Larson : Oh
+
+1294
+01:16:18,416 --> 01:16:19,316
+Jonathan Larson : That's good
+
+1295
+01:16:20,418 --> 01:16:21,151
+Jonathan Larson : Cool
+
+1296
+01:16:22,181 --> 01:16:22,619
+Jonathan Larson : Okay
+
+1297
+01:16:25,311 --> 01:16:26,543
+Jonathan Larson : Can you sight read
+
+1298
+01:16:26,868 --> 01:16:27,801
+Karessa Johnson : Yeah
+
+1299
+01:16:33,030 --> 01:16:36,459
+Jonathan Larson : Slowly, miraculously
+
+1300
+01:16:36,460 --> 01:16:37,688
+Jonathan Larson : people start to show up
+
+1301
+01:16:37,721 --> 01:16:38,588
+Jonathan's parents : Johnny
+
+1302
+01:16:38,992 --> 01:16:39,678
+Jonathan's parents : Be right back
+
+1303
+01:16:40,418 --> 01:16:43,992
+Jonathan's parents : This is phenomenal Look at the space it's just phenomenal
+
+1304
+01:16:44,017 --> 01:16:47,363
+Jonathan Larson;Jonathan's parents : It's a rehearsal studio Dad It's a Broadway rehearsal studio
+
+1305
+01:16:47,882 --> 01:16:48,652
+Jonathan's parents : This is the real thing
+
+1306
+01:16:48,653 --> 01:16:50,523
+Jonathan's parents : so excited for you dear
+
+1307
+01:16:50,524 --> 01:16:51,813
+Jonathan Larson : Thank you thank you thank you
+
+1308
+01:16:51,814 --> 01:16:52,960
+Jonathan's parents : Are they paying you ???
+
+1309
+01:16:54,387 --> 01:16:55,041
+Jonathan Larson : No
+
+1310
+01:16:56,286 --> 01:16:57,674
+Jonathan's parents : Next time
+
+1311
+01:16:57,675 --> 01:16:58,126
+Jonathan Larson : Sure
+
+1312
+01:16:58,981 --> 01:16:59,969
+Jonathan's parents : Oh look for us
+
+1313
+01:17:00,046 --> 01:17:00,803
+Jonathan Larson : No that's not
+
+1314
+01:17:01,266 --> 01:17:02,761
+Jonathan Larson : That's for someone else actually
+
+1315
+01:17:02,762 --> 01:17:04,195
+Jonathan's parents : Mm Do you like that
+
+1316
+01:17:04,418 --> 01:17:08,195
+Jonathan Larson : You can you can  literally sit in any other seat
+
+1317
+01:17:09,345 --> 01:17:09,808
+Jonathan's parents : Okay
+
+1318
+01:17:09,809 --> 01:17:10,214
+Jonathan's parents : Shall we sit there
+
+1319
+01:17:10,215 --> 01:17:11,001
+Jonathan's parents : Shall we sit there
+
+1320
+01:17:11,022 --> 01:17:11,494
+Jonathan's parents : Break a leg
+
+1321
+01:17:11,495 --> 01:17:12,167
+Jonathan Larson : I love you
+
+1322
+01:17:12,168 --> 01:17:13,231
+Jonathan Larson : Thank you
+
+1323
+01:17:20,150 --> 01:17:22,050
+Jonathan's parents : His hair is ridiculous
+
+1324
+01:17:29,115 --> 01:17:30,142
+Michael : Good turnout
+
+1325
+01:17:32,268 --> 01:17:33,948
+Jonathan Larson : Yeah mostly friends
+
+1326
+01:17:35,015 --> 01:17:36,488
+Michael : Mm what a nightmare
+
+1327
+01:17:42,025 --> 01:17:45,404
+Jonathan Larson : Thank you for being here
+
+1328
+01:17:46,578 --> 01:17:49,412
+Michael : Wild horses Jon You know that
+
+1329
+01:17:52,905 --> 01:17:54,673
+Jonathan Larson : Oh Okay
+
+1330
+01:17:54,697 --> 01:17:55,578
+Michael : Break legs
+
+1331
+01:17:55,602 --> 01:17:56,229
+Jonathan Larson : Yeah
+
+1332
+01:17:59,629 --> 01:18:02,015
+Rosa Stevens : Oh Thank you Thank you
+
+1333
+01:18:02,551 --> 01:18:07,419
+Rosa Stevens : Ira you son of a gun Jonathan how are you
+
+1334
+01:18:07,443 --> 01:18:07,834
+Jonathan Larson : Rosa
+
+1335
+01:18:09,893 --> 01:18:10,935
+Jonathan Larson : Jon Larson
+
+1336
+01:18:10,959 --> 01:18:12,793
+Rosa Stevens : Oh there he is
+
+1337
+01:18:12,818 --> 01:18:16,753
+Rosa Stevens : Just the man I'm looking for You nervous Don't be nervous
+
+1338
+01:18:17,019 --> 01:18:18,686
+Jonathan Larson : Yeah A little nervous Sure
+
+1339
+01:18:18,710 --> 01:18:22,258
+Rosa Stevens : Of course you're nervous The first presentation of your musical is like
+
+1340
+01:18:22,282 --> 01:18:24,599
+Rosa Stevens : having a colonoscopy in Times Square
+
+1341
+01:18:24,968 --> 01:18:29,381
+Rosa Stevens : Only with a colonoscopy the worst thing that could happen is you find out you have cancer
+
+1342
+01:18:29,688 --> 01:18:32,967
+Rosa Stevens : With a musical you find out you're already dead
+
+1343
+01:18:35,802 --> 01:18:38,315
+Rosa Stevens : Have a good show Can't wait to see what you did
+
+1344
+01:18:44,824 --> 01:18:47,659
+Ira Weitzman : We can't keep waiting It's quarter past
+
+1345
+01:18:47,684 --> 01:18:49,104
+Jonathan Larson : I know I know I know
+
+1346
+01:18:49,864 --> 01:18:50,339
+Ira Weitzman : Break a leg
+
+1347
+01:18:50,363 --> 01:18:51,289
+Jonathan Larson : Okay
+
+1348
+01:18:52,403 --> 01:18:53,443
+Jonathan Larson : Come here Thank you
+
+1349
+01:19:10,565 --> 01:19:13,331
+Jonathan Larson : Hello Hi welcome
+
+1350
+01:19:14,438 --> 01:19:15,545
+Jonathan Larson : I'm Jonathan Larson
+
+1351
+01:19:19,744 --> 01:19:20,730
+Jonathan Larson : Hey well
+
+1352
+01:19:21,023 --> 01:19:24,670
+Jonathan Larson : You don't have to do that Thank you so much that was very kind Uh
+
+1353
+01:19:24,695 --> 01:19:27,498
+Jonathan Larson : Thank you for being here um this morning
+
+1354
+01:19:27,542 --> 01:19:28,882
+Jonathan Larson : This is um
+
+1355
+01:19:34,806 --> 01:19:36,704
+Singers : That's Stephen Sondheim
+
+1356
+01:19:36,705 --> 01:19:37,754
+Jonathan Larson : Right Like I was saying
+
+1357
+01:19:37,779 --> 01:19:41,198
+Jonathan Larson : Thank you all for being here This is my musical Superbia
+
+1358
+01:19:41,199 --> 01:19:45,012
+Jonathan Larson : and I've been working on it for a little while now
+
+1359
+01:19:46,730 --> 01:19:49,284
+Jonathan Larson : And I just really hope you all like it
+
+1360
+01:19:51,341 --> 01:19:52,005
+Jonathan Larson : Thank you
+
+1361
+01:20:01,023 --> 01:20:05,846
+Jonathan Larson : And the next hour and a half are a blur
+
+1362
+01:20:06,522 --> 01:20:12,148
+Singers : Everyone who ever has Or ever will be anyone will be there
+
+1363
+01:20:12,699 --> 01:20:19,447
+Singers : Never in the history of entertainment Will there be an affair quite like it
+
+1364
+01:20:19,448 --> 01:20:22,114
+Singers : The event of the century
+
+1365
+01:20:22,115 --> 01:20:24,378
+Singers : The quintessential social adventure
+
+1366
+01:20:24,379 --> 01:20:28,460
+Singers : We cannot afford to miss This night of bliss
+
+1367
+01:20:28,467 --> 01:20:31,841
+Singers : Everyone who's anyone knows Everyone who's anyone knows
+
+1368
+01:20:31,842 --> 01:20:34,962
+Singers : Everyone who's anyone Everyone who's anyone knows
+
+1369
+01:20:34,967 --> 01:20:42,042
+Singers : Everyone will be there
+
+1370
+01:20:43,361 --> 01:20:44,275
+Jonathan Larson : And then
+
+1371
+01:20:46,068 --> 01:20:49,561
+Jonathan Larson : Karessa steps forward to sing my new song
+
+1372
+01:20:50,475 --> 01:20:51,794
+Jonathan Larson : Not even 12 hours old
+
+1373
+01:20:52,812 --> 01:20:54,155
+Jonathan Larson : I close my eyes
+
+1374
+01:20:55,628 --> 01:20:57,008
+Jonathan Larson : I brace myself
+
+1375
+01:20:58,361 --> 01:20:59,826
+Jonathan Larson : I don't dare take a breath
+
+1376
+01:21:04,707 --> 01:21:06,098
+Jonathan Larson : But when I open my eyes
+
+1377
+01:21:07,879 --> 01:21:09,303
+Jonathan Larson : I don't see Karessa there
+
+1378
+01:21:22,509 --> 01:21:25,276
+Susan : You're on the air
+
+1379
+01:21:27,068 --> 01:21:30,322
+Susan : I'm underground
+
+1380
+01:21:32,261 --> 01:21:37,068
+Susan : Signal's fading
+
+1381
+01:21:37,069 --> 01:21:40,738
+Susan : Can't be found
+
+1382
+01:21:41,951 --> 01:21:45,958
+Susan : I finally open up
+
+1383
+01:21:47,297 --> 01:21:51,078
+Susan : For you I would do anything
+
+1384
+01:21:52,858 --> 01:21:57,046
+Susan : But you've turned off the volume
+
+1385
+01:21:57,267 --> 01:22:05,685
+Susan : Just when I've begun to sing
+
+1386
+01:22:05,686 --> 01:22:10,839
+Susan : Come to your senses Defenses are not the way
+
+1387
+01:22:10,863 --> 01:22:16,208
+Susan : to go And you know or at least you knew
+
+1388
+01:22:16,209 --> 01:22:20,034
+Susan : Can't you recall when this all began
+
+1389
+01:22:20,035 --> 01:22:22,581
+Susan : It was only you and me
+
+1390
+01:22:22,582 --> 01:22:29,935
+Susan : It was only me and you
+
+1391
+01:22:31,671 --> 01:22:35,121
+Karessa Johnson : I have to laugh
+
+1392
+01:22:35,953 --> 01:22:40,060
+Karessa Johnson : We sure put on a show
+
+1393
+01:22:40,772 --> 01:22:46,184
+Karessa Johnson : Love is passé in this day and age
+
+1394
+01:22:46,185 --> 01:22:50,551
+Karessa Johnson : How can we expect it to grow
+
+1395
+01:22:50,660 --> 01:22:55,145
+Karessa Johnson : You as the knight
+
+1396
+01:22:55,860 --> 01:23:00,377
+Karessa Johnson : Me as the queen
+
+1397
+01:23:01,350 --> 01:23:05,410
+Karessa Johnson : All I've got tonight
+
+1398
+01:23:06,183 --> 01:23:13,689
+Karessa Johnson : Is static on a screen
+
+1399
+01:23:13,983 --> 01:23:17,851
+Susan : Come to your senses Suspense is fine
+
+1400
+01:23:17,852 --> 01:23:23,702
+Susan : If you're just an empty image Emanating out of a screen
+
+1401
+01:23:23,936 --> 01:23:27,624
+Susan : Baby be real You can feel again
+
+1402
+01:23:27,649 --> 01:23:31,148
+Susan : You don't need a music box melody
+
+1403
+01:23:31,149 --> 01:23:34,950
+Susan : To know what I mean
+
+1404
+01:23:34,975 --> 01:23:39,603
+Karessa Johnson : Deep in my eyes What do you see
+
+1405
+01:23:39,628 --> 01:23:44,635
+Karessa Johnson : Deep in my sighs Listen to me
+
+1406
+01:23:44,635 --> 01:23:49,061
+Susan : Let the music commence from inside
+
+1407
+01:23:49,281 --> 01:23:54,069
+Susan;Karessa Johnson : Not only one sense but use all five
+
+1408
+01:23:54,094 --> 01:23:56,462
+Susan : Come to your senses
+
+1409
+01:23:56,507 --> 01:23:58,936
+Karessa Johnson : Come to your senses
+
+1410
+01:23:58,937 --> 01:24:01,282
+Susan : Come to your senses
+
+1411
+01:24:01,289 --> 01:24:02,599
+Karessa Johnson : Come to your senses
+
+1412
+01:24:02,600 --> 01:24:06,418
+Karessa Johnson;Susan : Come to your senses
+
+1413
+01:24:06,437 --> 01:24:13,443
+Karessa Johnson;Susan : Baby come back
+
+1414
+01:24:13,854 --> 01:24:26,216
+Susan;Karessa Johnson : Alive
+
+1415
+01:24:37,131 --> 01:24:38,337
+Jonathan's parents : Whoo
+
+1416
+01:24:50,520 --> 01:24:51,288
+Jonathan Larson : Hello
+
+1417
+01:24:51,305 --> 01:24:53,179
+Rosa Stevens : Hi honey it's Rosa
+
+1418
+01:24:53,276 --> 01:24:55,073
+Jonathan Larson : Hi Rosa Thank you so much for calling
+
+1419
+01:24:55,353 --> 01:24:57,897
+Rosa Stevens : Well you already left six messages
+
+1420
+01:24:57,898 --> 01:25:02,255
+Jonathan Larson : Yeah Um So have you heard anything yet
+
+1421
+01:25:02,280 --> 01:25:07,282
+Rosa Stevens : Honey I have heard nothing but raves all day long
+
+1422
+01:25:07,283 --> 01:25:09,998
+Rosa Stevens : I'm getting call after call after call
+
+1423
+01:25:10,924 --> 01:25:11,697
+Jonathan Larson : Wow
+
+1424
+01:25:12,061 --> 01:25:15,540
+Jonathan Larson : Okay Yes That's great news
+
+1425
+01:25:15,541 --> 01:25:19,310
+Rosa Stevens : Everyone is telling me the same thing That Jonathan Larson
+
+1426
+01:25:19,502 --> 01:25:21,537
+Rosa Stevens : I can't wait to see what he does next
+
+1427
+01:25:23,669 --> 01:25:27,242
+Jonathan Larson : What do you mean what I do next What about
+
+1428
+01:25:27,851 --> 01:25:31,250
+Rosa Stevens : I always told you it was a tough sell
+
+1429
+01:25:31,275 --> 01:25:33,269
+Rosa Stevens : It's too arty for Broadway
+
+1430
+01:25:33,270 --> 01:25:39,079
+Rosa Stevens : Tourists aren't gonna shell out 50 dollars to see a show about spaceships and robots
+
+1431
+01:25:39,079 --> 01:25:42,427
+Jonathan Larson : Um That's not what it's about
+
+1432
+01:25:42,980 --> 01:25:45,159
+Rosa Stevens : Well of course I know that Jonathan
+
+1433
+01:25:45,168 --> 01:25:49,604
+Rosa Stevens : But you know these producers they care about one thing and one thing only
+
+1434
+01:25:50,059 --> 01:25:54,597
+Jonathan Larson : Okay Uh So what about OffBroadway
+
+1435
+01:25:54,849 --> 01:25:57,152
+Rosa Stevens : It's too expensive for Off
+
+1436
+01:25:57,838 --> 01:26:01,208
+Rosa Stevens : You got a cast of thousands with the special effects
+
+1437
+01:26:01,208 --> 01:26:04,979
+Rosa Stevens : Uh Charlie tell him I'll be on in a sec Listen sweetie I gotta run
+
+1438
+01:26:04,980 --> 01:26:05,755
+Jonathan Larson : I'm sorry Rosa
+
+1439
+01:26:05,756 --> 01:26:08,782
+Rosa Stevens : Congratulations on a terrific presentation
+
+1440
+01:26:08,859 --> 01:26:10,414
+Jonathan Larson : Rosa Rosa hold on
+
+1441
+01:26:10,674 --> 01:26:12,582
+Jonathan Larson : So okay
+
+1442
+01:26:13,538 --> 01:26:15,320
+Jonathan Larson : So what am I supposed to do now
+
+1443
+01:26:19,201 --> 01:26:20,916
+Rosa Stevens : You start writing the next one
+
+1444
+01:26:21,871 --> 01:26:25,245
+Rosa Stevens : And after you finish that one you start on the next
+
+1445
+01:26:25,654 --> 01:26:30,946
+Rosa Stevens : And on and on and that's what it is to be a writer honey
+
+1446
+01:26:32,002 --> 01:26:39,072
+Rosa Stevens : You just keep throwing them against the wall and hoping against hope that eventually something sticks
+
+1447
+01:26:47,187 --> 01:26:47,816
+Rosa Stevens : Listen
+
+1448
+01:26:48,180 --> 01:26:52,258
+Rosa Stevens : Little advice from someone who's been in this business a long long time
+
+1449
+01:26:54,493 --> 01:26:59,830
+Rosa Stevens : On the next one maybe try writing about what you know
+
+1450
+01:27:04,101 --> 01:27:05,598
+Rosa Stevens : Okay kiddo
+
+1451
+01:27:07,384 --> 01:27:07,901
+Jonathan Larson : Yeah
+
+1452
+01:27:08,863 --> 01:27:10,724
+Rosa Stevens : Start sharpening those pencils
+
+1453
+01:27:12,137 --> 01:27:13,220
+Jonathan Larson : Yeah yeah
+
+1454
+01:27:23,584 --> 01:27:27,631
+Michael : I think let's give it a minute and see what happens next week
+
+1455
+01:27:28,138 --> 01:27:29,320
+Jonathan Larson : Hey I need a job
+
+1456
+01:27:29,988 --> 01:27:30,909
+Michael : Can you hold on a second
+
+1457
+01:27:30,933 --> 01:27:32,961
+Jonathan Larson : I'll apologize to the focus group lady
+
+1458
+01:27:32,986 --> 01:27:37,514
+Jonathan Larson : I will never say anything bad about marketing research ever again I swear to God
+
+1459
+01:27:37,539 --> 01:27:38,606
+Michael : I'm gonna call you right back
+
+1460
+01:27:39,185 --> 01:27:45,472
+Jonathan Larson : I wanna do what you do I wanna have what you have I want the BMW I want the doorman I want it I want all of it Okay
+
+1461
+01:27:45,473 --> 01:27:51,350
+Michael;Jonathan Larson : What's going on Oh it's good It's good I just spent the last eight years killing myself on a musical that's never gonna happen
+
+1462
+01:27:51,962 --> 01:27:54,963
+Michael : I find that very hard to believe It was incredible this morning
+
+1463
+01:27:56,133 --> 01:27:57,313
+Jonathan Larson : But not incredible enough
+
+1464
+01:27:58,486 --> 01:27:59,899
+Jonathan Larson : I can't do it again Mike
+
+1465
+01:28:00,026 --> 01:28:03,440
+Jonathan Larson : I can't stomach five more years of waiting tables
+
+1466
+01:28:03,465 --> 01:28:06,905
+Jonathan Larson : five more years of writing things that no one will ever see
+
+1467
+01:28:06,906 --> 01:28:12,413
+Jonathan Larson : while Broadway just churns out megamusicals without a hint of even the slightest thing original or
+
+1468
+01:28:12,438 --> 01:28:16,198
+Jonathan Larson : God forbid something to actually say about the world
+
+1469
+01:28:17,836 --> 01:28:18,716
+Michael : Are you done
+
+1470
+01:28:19,474 --> 01:28:20,294
+Jonathan Larson : No actually
+
+1471
+01:28:20,295 --> 01:28:22,921
+Michael : The presentation Jon it was amazing
+
+1472
+01:28:24,358 --> 01:28:26,552
+Michael : It would be a tragedy to give up what you have
+
+1473
+01:28:27,539 --> 01:28:28,613
+Jonathan Larson : You did it
+
+1474
+01:28:29,007 --> 01:28:30,568
+Michael : Please
+
+1475
+01:28:30,593 --> 01:28:32,873
+Michael : I was a mediocre actor
+
+1476
+01:28:33,054 --> 01:28:36,165
+Michael : Do you know how many mediocre actors there are in New York City
+
+1477
+01:28:36,322 --> 01:28:38,811
+Michael : Do you know how many Jonathan Larsons there are
+
+1478
+01:28:39,951 --> 01:28:40,635
+Michael : One
+
+1479
+01:28:43,209 --> 01:28:45,611
+Jonathan Larson : I can't keep wasting my time Mike
+
+1480
+01:28:46,024 --> 01:28:47,626
+Jonathan Larson : I turn 30 in two days
+
+1481
+01:28:47,650 --> 01:28:48,164
+Michael : And
+
+1482
+01:28:49,128 --> 01:28:53,723
+Jonathan Larson : And Stephen Sondheim was 27 when he had his first show on Broadway
+
+1483
+01:28:53,724 --> 01:28:56,673
+Michael : Well guess what You're not Stephen Sondheim Wait a little longer
+
+1484
+01:28:56,674 --> 01:28:59,228
+Jonathan Larson : I'm not waiting anymore I can't keep waiting This is my life
+
+1485
+01:28:59,229 --> 01:29:00,070
+Michael : I understand
+
+1486
+01:29:00,095 --> 01:29:02,575
+Jonathan Larson : No you don't I'm running out of time
+
+1487
+01:29:02,938 --> 01:29:05,299
+Michael : You are not running out of time
+
+1488
+01:29:05,300 --> 01:29:06,975
+Jonathan Larson : You don't know anything about it
+
+1489
+01:29:07,000 --> 01:29:08,435
+Michael : I'm HIV positive
+
+1490
+01:29:16,798 --> 01:29:17,297
+Jonathan Larson : What
+
+1491
+01:29:23,777 --> 01:29:25,411
+Jonathan Larson : How long... How long have you known
+
+1492
+01:29:25,412 --> 01:29:26,222
+Michael : A few days
+
+1493
+01:29:31,210 --> 01:29:32,083
+Michael : Who knows
+
+1494
+01:29:33,622 --> 01:29:35,307
+Michael : I might get lucky People do
+
+1495
+01:29:37,424 --> 01:29:39,918
+Michael : Live a year longer even
+
+1496
+01:29:42,873 --> 01:29:46,179
+Michael : Anyway I think I might know a thing or two about running out of time
+
+1497
+01:29:47,619 --> 01:29:49,140
+Jonathan Larson : Why didn't you tell me sooner
+
+1498
+01:29:55,750 --> 01:29:56,823
+Jonathan Larson : You tried
+
+1499
+01:30:06,398 --> 01:30:08,306
+Michael : I have to take that
+
+1500
+01:30:09,385 --> 01:30:11,395
+Michael : I can't talk about this now please
+
+1501
+01:30:15,378 --> 01:30:18,158
+Michael : Jill Hey it's Michael
+
+1502
+01:30:18,918 --> 01:30:21,064
+Michael : Yeah I just want to see how the Downy account was going
+
+1503
+01:30:22,482 --> 01:30:23,572
+Michael : Mmhm
+
+1504
+01:30:32,297 --> 01:30:33,977
+Jonathan Larson : I think of the day I met Michael
+
+1505
+01:30:36,078 --> 01:30:40,391
+Jonathan Larson : at sleepaway camp 22 years ago
+
+1506
+01:30:41,502 --> 01:30:42,585
+Jonathan Larson : We were eight
+
+1507
+01:30:43,924 --> 01:30:48,126
+Jonathan Larson : I think of high school all the shows we did together
+
+1508
+01:30:55,940 --> 01:31:02,082
+Michael : Is this real life
+
+1509
+01:31:02,819 --> 01:31:09,929
+Jonathan Larson : I think of the summer that our parents decided to stay in the same town in Cape Cod a mile away from each other
+
+1510
+01:31:10,129 --> 01:31:12,456
+Jonathan Larson : And we'd meet on the beach every night and um
+
+1511
+01:31:13,644 --> 01:31:19,365
+Jonathan Larson : we'd just sit there talking till three in the morning about our plans
+
+1512
+01:31:21,584 --> 01:31:25,450
+Jonathan Larson : About how one day we were gonna move to the city together and
+
+1513
+01:31:26,469 --> 01:31:32,188
+Jonathan Larson : find a cheap apartment and be discovered and change the world
+
+1514
+01:31:33,941 --> 01:31:36,190
+Beth : Hey you've reached Susan Beth
+
+1515
+01:31:39,338 --> 01:31:42,467
+Jonathan Larson : I think of the first summer back from college
+
+1516
+01:31:42,694 --> 01:31:46,800
+Jonathan Larson : We smoked a bowl on Kennedy breakwater and Michael told me he was gay
+
+1517
+01:31:47,606 --> 01:31:53,892
+Michael : Is this real life
+
+1518
+01:31:55,045 --> 01:31:58,831
+Michael : Is this real life
+
+1519
+01:31:58,832 --> 01:32:01,778
+Jonathan Larson : I think of our friends so many
+
+1520
+01:32:02,641 --> 01:32:04,108
+Jonathan Larson : I think of their funerals
+
+1521
+01:32:05,012 --> 01:32:09,316
+Jonathan Larson : I think of their parents not even 50   saying the Kaddish over their children
+
+1522
+01:32:09,355 --> 01:32:15,861
+Michael : Is this real life
+
+1523
+01:32:16,621 --> 01:32:18,807
+Jonathan Larson : I think of them and I think of Michael
+
+1524
+01:32:19,266 --> 01:32:22,609
+Jonathan Larson : And before I understand what's happening I start running
+
+1525
+01:32:23,276 --> 01:32:29,771
+Michael : Is this real life
+
+1526
+01:32:30,155 --> 01:32:33,791
+Jonathan Larson : Past the pond past the carousel
+
+1527
+01:32:37,293 --> 01:32:40,231
+Michael : Is this real life
+
+1528
+01:32:40,232 --> 01:32:44,054
+Jonathan Larson : The ticking is so loud now I can't hear anything
+
+1529
+01:32:44,103 --> 01:32:47,699
+Michael : Is this real Is this real
+
+1530
+01:32:47,700 --> 01:32:48,835
+Michael : Is this real
+
+1531
+01:32:48,860 --> 01:32:57,223
+Jonathan Larson : My heartbeat is pounding in my throat The wind is shrieking through the trees The sky is darkening
+
+1532
+01:32:57,248 --> 01:33:01,110
+Jonathan Larson : I want it to stop I want it all to stop
+
+1533
+01:34:25,033 --> 01:34:26,931
+Jonathan Larson : When I was nine
+
+1534
+01:34:28,141 --> 01:34:30,307
+Jonathan Larson : Michael and I
+
+1535
+01:34:31,716 --> 01:34:36,593
+Jonathan Larson : Entered a talent show down at the Y
+
+1536
+01:34:38,283 --> 01:34:43,736
+Jonathan Larson : Nine a. m Went to rehearse by some stairs
+
+1537
+01:34:44,625 --> 01:34:46,932
+Jonathan Larson : Mike couldn't sing
+
+1538
+01:34:46,933 --> 01:34:50,139
+Jonathan Larson : I said No one cares
+
+1539
+01:34:50,140 --> 01:34:55,626
+Jonathan Larson : We sang Yellow Bird
+
+1540
+01:34:56,579 --> 01:35:00,663
+Jonathan Larson : And Let's Go Fly a Kite
+
+1541
+01:35:01,313 --> 01:35:05,350
+Jonathan Larson : Over and over and over
+
+1542
+01:35:05,351 --> 01:35:09,737
+Jonathan Larson : Till we got it right
+
+1543
+01:35:10,362 --> 01:35:13,255
+Jonathan Larson : When we emerged
+
+1544
+01:35:13,839 --> 01:35:16,083
+Jonathan Larson : From the YMCA
+
+1545
+01:35:17,180 --> 01:35:24,518
+Jonathan Larson : Three o'clock sun Had made the grass hay
+
+1546
+01:35:26,353 --> 01:35:33,288
+Jonathan Larson : I thought Hey what a way to spend the day
+
+1547
+01:35:34,715 --> 01:35:40,401
+Jonathan Larson : Hey what a way to spend the day
+
+1548
+01:35:40,768 --> 01:35:44,209
+Jonathan Larson : I make a vow
+
+1549
+01:35:44,609 --> 01:35:47,818
+Jonathan Larson : Right here and now
+
+1550
+01:35:47,819 --> 01:35:50,852
+Jonathan Larson : I'm gonna spend
+
+1551
+01:35:52,000 --> 01:35:53,990
+Jonathan Larson : My time this way
+
+1552
+01:35:55,382 --> 01:35:57,941
+Jonathan Larson : When I was sixteen
+
+1553
+01:35:58,196 --> 01:36:01,118
+Jonathan Larson : Michael and I
+
+1554
+01:36:01,311 --> 01:36:04,240
+Jonathan Larson : Got parts in West Side
+
+1555
+01:36:04,241 --> 01:36:07,154
+Jonathan Larson : At White Plains High
+
+1556
+01:36:07,761 --> 01:36:13,100
+Jonathan Larson : Three o'clock Went to rehearse in the gym
+
+1557
+01:36:13,132 --> 01:36:17,434
+Jonathan Larson : Mike played duck Who did not sing
+
+1558
+01:36:17,812 --> 01:36:18,949
+Jonathan Larson : Fine with him
+
+1559
+01:36:18,950 --> 01:36:23,730
+Jonathan Larson : We sang Got a rocket in your pocket
+
+1560
+01:36:23,731 --> 01:36:26,946
+Jonathan Larson : And The Jets are gonna Have their day
+
+1561
+01:36:27,397 --> 01:36:31,832
+Jonathan Larson : tonight  Over and over and over
+
+1562
+01:36:31,833 --> 01:36:36,746
+Jonathan Larson : Till we got it right
+
+1563
+01:36:36,969 --> 01:36:39,961
+Jonathan Larson : When we emerged
+
+1564
+01:36:41,039 --> 01:36:43,279
+Jonathan Larson : Wiped out by that play
+
+1565
+01:36:44,380 --> 01:36:46,351
+Jonathan Larson : Nine o'clock stars
+
+1566
+01:36:46,964 --> 01:36:51,272
+Jonathan Larson : And moon lit the way
+
+1567
+01:36:53,780 --> 01:36:55,179
+Jonathan Larson : I thought hey
+
+1568
+01:36:56,031 --> 01:37:00,338
+Jonathan Larson : What a way to spend the day
+
+1569
+01:37:01,758 --> 01:37:06,851
+Jonathan Larson : Hey what a way to spend the day
+
+1570
+01:37:07,977 --> 01:37:10,744
+Jonathan Larson : I made a vow
+
+1571
+01:37:11,564 --> 01:37:14,158
+Jonathan Larson : I wonder now
+
+1572
+01:37:14,620 --> 01:37:20,050
+Jonathan Larson : Am I cut out To spend my time this way
+
+1573
+01:37:21,359 --> 01:37:23,852
+Jonathan Larson : I'm twentynine
+
+1574
+01:37:24,613 --> 01:37:26,711
+Jonathan Larson : Michael and I
+
+1575
+01:37:27,953 --> 01:37:33,444
+Jonathan Larson : Live on the West Side of SoHo NY
+
+1576
+01:37:34,460 --> 01:37:39,703
+Jonathan Larson : Nine o'clock I write a lyric or two
+
+1577
+01:37:40,664 --> 01:37:46,559
+Jonathan Larson : Mike sings his song now on Mad Avenue
+
+1578
+01:37:47,019 --> 01:37:50,965
+Jonathan Larson : I sing Come to your senses
+
+1579
+01:37:50,996 --> 01:37:57,379
+Jonathan Larson : Defenses are not the way to go
+
+1580
+01:37:58,599 --> 01:38:05,392
+Jonathan Larson : Over and over and over And over and over And over
+
+1581
+01:38:05,416 --> 01:38:11,162
+Jonathan Larson : and over Till I get it right
+
+1582
+01:38:11,163 --> 01:38:16,733
+Jonathan Larson : When I emerge from B Minor or A
+
+1583
+01:38:18,779 --> 01:38:21,586
+Jonathan Larson : Five o'clock diner calls
+
+1584
+01:38:22,886 --> 01:38:28,526
+Jonathan Larson : I'm on my way
+
+1585
+01:38:31,147 --> 01:38:32,637
+Jonathan Larson : I think hey
+
+1586
+01:38:33,259 --> 01:38:37,566
+Jonathan Larson : What a way to spend a day
+
+1587
+01:38:38,523 --> 01:38:44,254
+Jonathan Larson : Hey what a way to spend a day
+
+1588
+01:38:45,474 --> 01:38:48,160
+Jonathan Larson : I make a vow
+
+1589
+01:38:49,046 --> 01:38:56,781
+Jonathan Larson : Right here and now
+
+1590
+01:38:57,494 --> 01:39:00,135
+Jonathan Larson : I'm gonna spend
+
+1591
+01:39:01,321 --> 01:39:04,034
+Jonathan Larson : My time this way
+
+1592
+01:39:06,409 --> 01:39:09,387
+Jonathan Larson : I'm gonna spend
+
+1593
+01:39:10,900 --> 01:39:21,388
+Jonathan Larson : My time this way
+
+1594
+01:39:33,547 --> 01:39:37,877
+Jonathan Larson : Hey Whatever happens next I'm here I promise
+
+1595
+01:39:40,033 --> 01:39:43,599
+Jonathan Larson : There's um there's a support group it's called Friends In Deed
+
+1596
+01:39:43,600 --> 01:39:45,950
+Jonathan Larson : I just called them They have a meeting tomorrow morning
+
+1597
+01:39:45,994 --> 01:39:47,037
+Michael : You look like shit
+
+1598
+01:39:48,915 --> 01:39:49,905
+Jonathan Larson : I'm so cold
+
+1599
+01:39:51,637 --> 01:39:52,285
+Michael : Come on
+
+1600
+01:39:55,054 --> 01:39:55,924
+Jonathan Larson : Oh Mike
+
+1601
+01:39:57,790 --> 01:39:59,413
+Jonathan Larson : I'm sorry
+
+1602
+01:40:07,124 --> 01:40:08,106
+Jonathan Larson : Sunday
+
+1603
+01:40:10,714 --> 01:40:12,853
+Jonathan Larson : My 30th birthday
+
+1604
+01:40:31,967 --> 01:40:34,122
+Stephen Sondheim : Jon Steve Sondheim here
+
+1605
+01:40:34,163 --> 01:40:36,446
+Stephen Sondheim : Rosa gave me this number I hope it's okay to call you
+
+1606
+01:40:36,644 --> 01:40:41,625
+Stephen Sondheim : I didn't get a chance to speak with you after the reading but I just wanted to say it was really good
+
+1607
+01:40:42,120 --> 01:40:43,577
+Stephen Sondheim : Congratulations
+
+1608
+01:40:43,578 --> 01:40:46,708
+Stephen Sondheim : I'd love to get together and talk to you about it if you have any interest
+
+1609
+01:40:46,717 --> 01:40:47,603
+Stephen Sondheim : No pressure
+
+1610
+01:40:48,138 --> 01:40:52,226
+Stephen Sondheim : The main thing though is that it's firstrate work and has a future
+
+1611
+01:40:52,683 --> 01:40:53,834
+Stephen Sondheim : And so do you
+
+1612
+01:40:54,117 --> 01:40:56,450
+Stephen Sondheim : I'll call you later with some thoughts if that's okay
+
+1613
+01:40:56,717 --> 01:40:58,630
+Stephen Sondheim : Meanwhile be proud
+
+1614
+01:41:30,981 --> 01:41:34,948
+Carolyn : You know there was a small very very small piece of me
+
+1615
+01:41:34,949 --> 01:41:39,304
+Carolyn : that was the teensiest bit happy to hear you're not leaving
+
+1616
+01:41:39,542 --> 01:41:41,879
+Jonathan Larson : I'd have been sad not to see you every Sunday morning
+
+1617
+01:41:41,879 --> 01:41:43,079
+Carolyn : Oh Cheers
+
+1618
+01:41:44,201 --> 01:41:47,285
+Carolyn : I told Freddy He's pissed off at your agent
+
+1619
+01:41:49,266 --> 01:41:50,068
+Jonathan Larson : How is he
+
+1620
+01:41:51,045 --> 01:41:52,667
+Carolyn : He should be going home soon
+
+1621
+01:41:52,753 --> 01:41:53,512
+Jonathan Larson : Really
+
+1622
+01:41:53,537 --> 01:41:55,124
+Carolyn : Yes Yes
+
+1623
+01:41:57,117 --> 01:41:58,237
+Jonathan Larson : God
+
+1624
+01:42:07,738 --> 01:42:08,656
+Carolyn : Oh
+
+1625
+01:42:16,195 --> 01:42:17,540
+Jonathan Larson : Uh I'll be Yeah
+
+1626
+01:42:17,565 --> 01:42:18,668
+Carolyn : You go handle that
+
+1627
+01:42:22,737 --> 01:42:23,433
+Jonathan Larson : Hi
+
+1628
+01:42:23,457 --> 01:42:23,998
+Susan : Hi
+
+1629
+01:42:24,312 --> 01:42:25,834
+Jonathan Larson : I didn't know you were um
+
+1630
+01:42:25,859 --> 01:42:29,405
+Susan : I wasn't sure whether you would want me here
+
+1631
+01:42:33,203 --> 01:42:34,428
+Jonathan Larson : I'm so happy you're here
+
+1632
+01:42:36,716 --> 01:42:39,591
+Susan : So how was the reading Did anybody
+
+1633
+01:42:45,031 --> 01:42:46,290
+Susan : I'm sorry
+
+1634
+01:42:46,314 --> 01:42:47,782
+Jonathan Larson : No it's okay
+
+1635
+01:42:50,904 --> 01:42:52,779
+Susan : I really wanted to be there I just
+
+1636
+01:42:52,780 --> 01:42:53,592
+Jonathan Larson : Susan
+
+1637
+01:42:55,951 --> 01:42:56,579
+Jonathan Larson : I know
+
+1638
+01:43:01,976 --> 01:43:03,178
+Susan : What are you gonna do now
+
+1639
+01:43:05,971 --> 01:43:07,237
+Jonathan Larson : I'm gonna start the next one
+
+1640
+01:43:13,159 --> 01:43:14,487
+Susan : I decided to take the job
+
+1641
+01:43:17,648 --> 01:43:17,961
+Jonathan Larson : Okay
+
+1642
+01:43:22,843 --> 01:43:23,933
+Jonathan Larson : I'm happy for you
+
+1643
+01:43:28,277 --> 01:43:29,254
+Susan : Happy birthday
+
+1644
+01:43:32,573 --> 01:43:33,475
+Jonathan Larson : Thank you
+
+1645
+01:43:34,926 --> 01:43:36,875
+Jonathan Larson : You really didn't have to get me anything
+
+1646
+01:43:49,050 --> 01:43:50,438
+Susan : It's for the next one
+
+1647
+01:43:54,252 --> 01:43:55,322
+Susan : Got any ideas
+
+1648
+01:43:59,954 --> 01:44:01,051
+Jonathan Larson : Just questions
+
+1649
+01:44:02,811 --> 01:44:05,179
+Susan : That seems like a really good place to start
+
+1650
+01:44:15,962 --> 01:44:17,621
+Susan : Goodbye Jonathan
+
+1651
+01:44:25,983 --> 01:44:28,123
+Susan : The next one was Tick Tick Boom
+
+1652
+01:44:29,566 --> 01:44:34,234
+Susan : After that he went back to a project he'd started and put away called Rent
+
+1653
+01:44:35,685 --> 01:44:38,232
+Susan : It ran on Broadway for 12 years
+
+1654
+01:44:39,975 --> 01:44:42,875
+Susan : It changed the definition of what a musical could be
+
+1655
+01:44:44,294 --> 01:44:45,744
+Susan : What it could sound like
+
+1656
+01:44:47,399 --> 01:44:49,186
+Susan : The kinds of stories it could tell
+
+1657
+01:44:50,619 --> 01:44:52,835
+Susan : Jonathan never got to see it
+
+1658
+01:44:53,935 --> 01:44:57,786
+Susan : The night before first public performance he died
+
+1659
+01:44:58,376 --> 01:45:00,651
+Susan : from a sudden aortic aneurysm
+
+1660
+01:45:01,900 --> 01:45:03,649
+Susan : He was 35 years old
+
+1661
+01:45:16,453 --> 01:45:19,291
+Susan : He still had so many questions
+
+1662
+01:45:22,250 --> 01:45:26,975
+Jonathan Larson : Why do we play with fire
+
+1663
+01:45:27,508 --> 01:45:33,635
+Jonathan Larson : Why do we run our finger Through the flame
+
+1664
+01:45:34,332 --> 01:45:38,571
+Jonathan Larson : Why do we leave Our hand on the stove
+
+1665
+01:45:39,208 --> 01:45:43,053
+Jonathan Larson : Although we know We're in for some pain
+
+1666
+01:45:43,054 --> 01:45:50,345
+Jonathan Larson : Oh why do we refuse To hang a light
+
+1667
+01:45:50,706 --> 01:45:54,538
+Jonathan Larson : When the streets are dangerous
+
+1668
+01:45:55,790 --> 01:45:59,864
+Jonathan Larson : Why does it take an accident
+
+1669
+01:46:01,142 --> 01:46:05,534
+Jonathan Larson : Before the truth gets through to us
+
+1670
+01:46:06,223 --> 01:46:10,656
+Jonathan Larson : Cages or wings Which do you prefer
+
+1671
+01:46:11,288 --> 01:46:15,829
+Jonathan Larson : Ask the birds
+
+1672
+01:46:15,980 --> 01:46:17,978
+Jonathan Larson : Fear or love baby
+
+1673
+01:46:18,003 --> 01:46:20,350
+Jonathan Larson : Don't say the answer
+
+1674
+01:46:20,350 --> 01:46:27,523
+Jonathan Larson : Actions speak louder than words
+
+1675
+01:46:28,094 --> 01:46:34,092
+Jonathan Larson : Why should we try to be our best
+
+1676
+01:46:34,749 --> 01:46:39,224
+Jonathan Larson : When we can just get by And still gain
+
+1677
+01:46:39,967 --> 01:46:42,888
+Jonathan Larson : Why do we nod our heads
+
+1678
+01:46:43,295 --> 01:46:45,608
+Jonathan Larson;Michael : Although we know
+
+1679
+01:46:45,802 --> 01:46:50,028
+Michael : The boss is wrong as rain
+
+1680
+01:46:50,053 --> 01:46:53,134
+Jonathan Larson : Why should we blaze a trail
+
+1681
+01:46:53,140 --> 01:46:56,082
+Jonathan Larson : When the wellworn path Seems safe and
+
+1682
+01:46:56,083 --> 01:46:58,821
+Jonathan Larson;Susan : So inviting
+
+1683
+01:46:58,822 --> 01:47:02,511
+Susan : How as we travel
+
+1684
+01:47:02,512 --> 01:47:05,732
+Jonathan Larson;Susan : Can we see the dismay
+
+1685
+01:47:05,733 --> 01:47:09,433
+Jonathan Larson;Susan : And keep from fighting
+
+1686
+01:47:09,735 --> 01:47:14,940
+Jonathan Larson;Susan : Cages or wings Cages or wings Which do you prefer
+
+1687
+01:47:14,965 --> 01:47:19,085
+Jonathan Larson : Ask the birds
+
+1688
+01:47:19,185 --> 01:47:23,632
+Jonathan Larson;Susan;Michael : Fear or love baby Don't say the answer
+
+1689
+01:47:23,657 --> 01:47:26,145
+Jonathan Larson : Actions speak louder than words
+
+1690
+01:47:26,170 --> 01:47:28,754
+Michael;Susan;Jonathan Larson : Louder than louder than
+
+1691
+01:47:28,779 --> 01:47:33,537
+Jonathan Larson : What does it take To wake up a generation
+
+1692
+01:47:33,579 --> 01:47:38,242
+Susan;Michael : How can you make someone Take off and fly
+
+1693
+01:47:38,249 --> 01:47:43,338
+Jonathan Larson : If we don't wake up And shake up the nation
+
+1694
+01:47:43,521 --> 01:47:48,401
+Jonathan Larson : We'll eat the dust Of the world wondering
+
+1695
+01:47:48,426 --> 01:47:58,478
+Susan;Jonathan Larson;Michael : Why Why Why
+
+1696
+01:47:59,178 --> 01:48:02,620
+Susan : Why do we stay with lovers
+
+1697
+01:48:02,645 --> 01:48:05,265
+Susan : Who we know down deep
+
+1698
+01:48:05,266 --> 01:48:07,963
+Susan : Just aren't right
+
+1699
+01:48:08,266 --> 01:48:12,072
+Susan : Why Would we rather
+
+1700
+01:48:12,096 --> 01:48:15,282
+Jonathan Larson;Susan;Michael : Put ourselves through hell
+
+1701
+01:48:15,283 --> 01:48:19,491
+Jonathan Larson;Susan;Michael : Than sleep alone at night
+
+1702
+01:48:19,516 --> 01:48:24,602
+Jonathan Larson : Why do we follow leaders Who never lead
+
+1703
+01:48:24,627 --> 01:48:30,597
+Michael : Why does it take catastrophe To start a revolution
+
+1704
+01:48:30,598 --> 01:48:33,701
+Susan;Michael : If we're so free tell me why
+
+1705
+01:48:33,708 --> 01:48:38,583
+Jonathan Larson : Someone tell me why So many people bleed
+
+1706
+01:48:38,792 --> 01:48:44,983
+Jonathan Larson;Susan;Michael : Cages or wings Cages or wings Which do you prefer Ask the
+
+1707
+01:48:45,007 --> 01:48:48,135
+Jonathan Larson : birds
+
+1708
+01:48:48,160 --> 01:48:52,625
+Jonathan Larson;Susan;Michael : Fear or love baby Don't say the answer
+
+1709
+01:48:52,626 --> 01:48:55,034
+Jonathan Larson : Actions speak louder than
+
+1710
+01:48:55,044 --> 01:49:00,286
+Jonathan Larson;Susan;Michael : Louder than louder than Louder than louder than
+
+1711
+01:49:01,130 --> 01:49:03,385
+Jonathan Larson;Susan : Cages or wings
+
+1712
+01:49:03,664 --> 01:49:05,923
+Jonathan Larson;Susan : Which do you prefer
+
+1713
+01:49:06,210 --> 01:49:10,458
+Jonathan Larson;Susan;Michael : Ask the birds
+
+1714
+01:49:10,459 --> 01:49:14,939
+Jonathan Larson;Susan;Michael : Fear or love baby Don't say the answer
+
+1715
+01:49:14,988 --> 01:49:17,226
+Jonathan Larson : Actions speak louder
+
+1716
+01:49:17,220 --> 01:49:19,881
+Susan;Michael : Louder than louder than
+
+1717
+01:49:19,882 --> 01:49:22,228
+Jonathan Larson;Susan;Michael : They speak louder
+
+1718
+01:49:22,253 --> 01:49:24,746
+Susan;Michael : Louder than louder than
+
+1719
+01:49:24,747 --> 01:49:30,045
+Jonathan Larson;Susan;Michael : Actions speak louder than
+
+1720
+01:49:55,591 --> 01:49:56,864
+Michael : Make a wish
+
+1721
+01:50:26,814 --> 01:50:30,165
+You're on the air
+
+1722
+01:50:31,381 --> 01:50:35,916
+I'm underground
+
+1723
+01:50:36,476 --> 01:50:41,169
+Signal's fading
+
+1724
+01:50:41,550 --> 01:50:45,706
+Can't be found
+
+1725
+01:50:46,090 --> 01:50:51,417
+I finally open up
+
+1726
+01:50:51,426 --> 01:50:56,582
+For you I would do anything
+
+1727
+01:50:56,592 --> 01:51:00,916
+But you've turned off the volume
+
+1728
+01:51:01,300 --> 01:51:08,507
+Just when I've begun to sing
+
+1729
+01:51:09,640 --> 01:51:11,714
+Come to your senses
+
+1730
+01:51:11,717 --> 01:51:15,208
+Defenses are not the way to go
+
+1731
+01:51:15,217 --> 01:51:19,978
+And you know Or at least you knew
+
+1732
+01:51:19,967 --> 01:51:22,875
+Everything's strange you've changed
+
+1733
+01:51:22,885 --> 01:51:27,041
+And I don't know what to do To get through
+
+1734
+01:51:27,051 --> 01:51:34,125
+I don't know what to do
+
+1735
+01:51:35,716 --> 01:51:38,504
+I have to laugh
+
+1736
+01:51:39,843 --> 01:51:44,429
+You sure put on a show
+
+1737
+01:51:45,300 --> 01:51:50,255
+Love is passé in this day and age
+
+1738
+01:51:50,217 --> 01:51:55,070
+How can we expect it to grow
+
+1739
+01:51:55,615 --> 01:52:00,375
+You as the knight
+
+1740
+01:52:00,841 --> 01:52:04,632
+Me as the queen
+
+1741
+01:52:05,717 --> 01:52:10,447
+All I've got tonight
+
+1742
+01:52:10,426 --> 01:52:17,500
+Is static on a screen
+
+1743
+01:52:18,382 --> 01:52:20,533
+Come to your senses
+
+1744
+01:52:20,510 --> 01:52:24,239
+The fences inside are not for real
+
+1745
+01:52:24,176 --> 01:52:28,947
+If we feel as we did and I do
+
+1746
+01:52:28,885 --> 01:52:32,905
+Can't you recall when this all began
+
+1747
+01:52:32,842 --> 01:52:35,590
+It was only you and me
+
+1748
+01:52:35,592 --> 01:52:40,854
+It was only me and you
+
+1749
+01:52:45,277 --> 01:52:52,145
+But now the air is Filled with confusion
+
+1750
+01:52:55,052 --> 01:53:02,255
+We replace care with illusion
+
+1751
+01:53:04,599 --> 01:53:09,424
+How come it's cool to be cold
+
+1752
+01:53:09,424 --> 01:53:13,675
+When nothing lasts anymore
+
+1753
+01:53:14,300 --> 01:53:18,879
+When love becomes disposable
+
+1754
+01:53:18,885 --> 01:53:25,167
+This is the shape of things We cannot ignore
+
+1755
+01:53:28,590 --> 01:53:32,836
+Come to your senses Suspense is fine
+
+1756
+01:53:32,842 --> 01:53:35,413
+If you're just an empty image
+
+1757
+01:53:35,385 --> 01:53:39,114
+Emanating out of a screen
+
+1758
+01:53:39,051 --> 01:53:42,760
+Baby be real you can feel again
+
+1759
+01:53:42,760 --> 01:53:46,499
+You don't need a music box melody
+
+1760
+01:53:46,426 --> 01:53:50,083
+To know what I mean
+
+1761
+01:53:50,092 --> 01:53:53,840
+So come to your senses
+
+1762
+01:53:55,317 --> 01:54:00,473
+Will you come to your senses
+
+1763
+01:54:00,467 --> 01:54:05,808
+Yeah come to your senses
+
+1764
+01:54:05,801 --> 01:54:11,666
+Come to your senses
+
+1765
+01:54:36,152 --> 01:54:39,315
+Deep dark velvet hugs your silhouette
+
+1766
+01:54:39,301 --> 01:54:42,550
+Black silk stockings you're my Juliet
+
+1767
+01:54:42,551 --> 01:54:45,802
+Soft long hair Baby beautiful blue eyes
+
+1768
+01:54:45,801 --> 01:54:48,920
+Cool me down before I jump Into your thighs
+
+1769
+01:54:48,926 --> 01:54:51,913
+The green green dress Twenty buttons and a strap
+
+1770
+01:54:51,842 --> 01:54:55,707
+The green green dress What a pleasure to unwrap
+
+1771
+01:54:55,717 --> 01:54:58,905
+Green dress oh what it can do
+
+1772
+01:54:58,842 --> 01:55:04,003
+What the green green dress Does to me on you
+
+1773
+01:55:04,010 --> 01:55:06,916
+Me on you
+
+1774
+01:55:14,124 --> 01:55:17,364
+Let's find a chair Where we can sit and talk
+
+1775
+01:55:17,301 --> 01:55:20,527
+Or get some fresh air Maybe we could take a walk
+
+1776
+01:55:20,510 --> 01:55:23,700
+Tell me what you're thinkin Talk about your day
+
+1777
+01:55:23,676 --> 01:55:26,776
+Tell me what to do I'll do anything you say
+
+1778
+01:55:26,760 --> 01:55:29,915
+Yeah the green green dress Twenty buttons and a strap
+
+1779
+01:55:29,885 --> 01:55:33,622
+The green green dress What a pleasure to unwrap
+
+1780
+01:55:33,551 --> 01:55:36,697
+The green dress oh what it can do
+
+1781
+01:55:36,635 --> 01:55:41,672
+What the green green dress Does to me on you
+
+1782
+01:55:41,635 --> 01:55:45,090
+Me on you You
+
+1783
+01:55:45,538 --> 01:55:48,925
+Can I hear you laugh babe Can you make me smile
+
+1784
+01:55:48,925 --> 01:55:52,051
+I'll forget what's on my mind For a while
+
+1785
+01:55:52,051 --> 01:55:54,959
+Can I tie you up love If you tell me yes
+
+1786
+01:55:54,967 --> 01:55:58,466
+I'll unbutton every button Down your green green
+
+1787
+01:55:58,466 --> 01:56:04,590
+Dress
+
+1788
+01:56:04,592 --> 01:56:07,796
+The green green dress Twenty buttons and a strap
+
+1789
+01:56:07,796 --> 01:56:11,456
+The green green dress What a pleasure to unwrap
+
+1790
+01:56:11,385 --> 01:56:14,489
+Green dress oh what it can do
+
+1791
+01:56:14,426 --> 01:56:19,818
+What the green green dress Does to me on you
+
+1792
+01:56:19,760 --> 01:56:22,897
+Me on you You
+
+1793
+01:56:22,885 --> 01:56:26,239
+Me on the green green dress Green green dress
+
+1794
+01:56:26,176 --> 01:56:29,322
+Me on the green green dress Green green dress
+
+1795
+01:56:29,259 --> 01:56:32,671
+Me on you You
+
+1796
+01:56:38,534 --> 01:56:41,919
+The green green dress
+
+1797
+01:56:41,926 --> 01:56:45,247
+The green green dress
+
+1798
+01:56:45,176 --> 01:56:48,195
+The green green dress Green green dress
+
+1799
+01:56:48,195 --> 01:56:53,028
+The green green dress
+
+1800
+01:56:54,008 --> 01:56:56,519
+One two
+
+1801
+01:57:08,489 --> 01:57:14,757
+Almost missed this one he said I stared at the honkytonk piano
+
+1802
+01:57:15,301 --> 01:57:20,123
+Sure beats living in town The beach is a half a mile away
+
+1803
+01:57:20,697 --> 01:57:26,521
+Not much of the cat I said He stared down underneath the couch
+
+1804
+01:57:27,126 --> 01:57:31,684
+It doesn't matter much to me Not gonna beat it anyway
+
+1805
+01:57:33,266 --> 01:57:39,111
+It only takes a few cents more To go first class
+
+1806
+01:57:39,275 --> 01:57:43,415
+First class only takes a few
+
+1807
+01:57:45,107 --> 01:57:50,792
+It only takes a few cents more To go first class
+
+1808
+01:57:51,090 --> 01:57:54,583
+First class only takes a few
+

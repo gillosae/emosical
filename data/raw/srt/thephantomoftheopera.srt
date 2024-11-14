@@ -1,0 +1,7110 @@
+1
+00:01:33,136 --> 00:01:36,229
+Auctioneer : Sold Your number sir
+
+2
+00:01:37,253 --> 00:01:37,870
+Auctioneer : Thank you
+
+3
+00:01:38,780 --> 00:01:43,827
+Auctioneer : Lot 663 then Ladies and gentlemen a poster
+
+4
+00:01:43,927 --> 00:01:48,860
+Auctioneer : for this house's production of Hannibal by Chalumeau
+
+5
+00:01:48,907 --> 00:01:50,294
+Man : Showing here
+
+6
+00:01:52,039 --> 00:01:54,810
+Auctioneer : Do I have 10 francs
+
+7
+00:01:56,819 --> 00:02:00,209
+Auctioneer : Five then Five I am bid
+
+8
+00:02:00,219 --> 00:02:05,409
+Auctioneer : Six Six Do I see seven Seven
+
+9
+00:02:05,498 --> 00:02:09,459
+Auctioneer : Against you sir seven Eight Eight
+
+10
+00:02:10,659 --> 00:02:11,930
+Auctioneer : Eight once
+
+11
+00:02:13,050 --> 00:02:14,800
+Auctioneer : Selling twice
+
+12
+00:02:15,207 --> 00:02:19,180
+Auctioneer : Sold to Raoul Vicomte de Chagny
+
+13
+00:02:19,338 --> 00:02:21,217
+Auctioneer : Thank you very much
+
+14
+00:02:21,528 --> 00:02:24,949
+Auctioneer : Lot 664 Ladies and gentlemen
+
+15
+00:02:25,659 --> 00:02:29,008
+Auctioneer : a wooden pistol and three human skulls
+
+16
+00:02:29,018 --> 00:02:34,938
+Auctioneer : from the 1831 production of Robert le Diable by Meyerbeer
+
+17
+00:02:35,439 --> 00:02:36,960
+Auctioneer : Ten francs for this
+
+18
+00:02:38,897 --> 00:02:40,008
+Auctioneer : Ten thank you
+
+19
+00:02:41,200 --> 00:02:42,449
+Auctioneer : Ten I am bid
+
+20
+00:02:43,218 --> 00:02:44,609
+Auctioneer : Ten francs still
+
+21
+00:02:44,618 --> 00:02:46,889
+Auctioneer : Fifteen thank you sir
+
+22
+00:02:47,072 --> 00:02:49,079
+Auctioneer : Fifteen I am bid
+
+23
+00:02:50,499 --> 00:02:52,248
+Auctioneer : Going for 15
+
+24
+00:02:52,570 --> 00:02:54,859
+Auctioneer : Your number sir Thank you
+
+25
+00:02:55,926 --> 00:03:00,734
+Auctioneer : Lot 665 Ladies and gentlemen
+
+26
+00:03:01,230 --> 00:03:05,728
+Auctioneer : a papiermch musical box in the shape of a barrel organ
+
+27
+00:03:05,889 --> 00:03:11,973
+Auctioneer : Attached the figure of a monkey in Persian robes playing the cymbals
+
+28
+00:03:11,974 --> 00:03:14,938
+Auctioneer : This item discovered in the vaults of the theatre
+
+29
+00:03:14,947 --> 00:03:17,840
+Auctioneer : still in working order ladies and gentlemen
+
+30
+00:03:18,162 --> 00:03:19,508
+Auctioneer : Showing here
+
+31
+00:03:32,990 --> 00:03:37,119
+Auctioneer : May I commence at 20 francs
+
+32
+00:03:39,476 --> 00:03:42,310
+Auctioneer : Oh come come ladies and gentlemen Fifteen then
+
+33
+00:03:43,050 --> 00:03:45,355
+Auctioneer : Fifteen I am bid Thank you very much
+
+34
+00:03:45,646 --> 00:03:48,316
+Auctioneer : Yes 20 from you sir Thank you very much
+
+35
+00:03:48,317 --> 00:03:49,067
+Woman : Twentyfive
+
+36
+00:03:49,068 --> 00:03:50,680
+Auctioneer : Twentyfive on my right
+
+37
+00:03:50,689 --> 00:03:51,710
+Auctioneer : Thank you madam
+
+38
+00:03:51,858 --> 00:03:53,979
+Auctioneer : Twentyfive I am bid
+
+39
+00:03:54,112 --> 00:03:57,230
+Auctioneer : Thirty 30
+
+40
+00:03:57,239 --> 00:04:00,090
+Auctioneer : Selling at 30 francs then
+
+41
+00:04:00,917 --> 00:04:04,288
+Auctioneer : Thirty once 30 twice
+
+42
+00:04:04,417 --> 00:04:06,909
+Auctioneer : Sold for 30 francs
+
+43
+00:04:07,026 --> 00:04:09,325
+Auctioneer : to the Vicomte de Chagny
+
+44
+00:04:09,334 --> 00:04:10,968
+Auctioneer : Thank you very much sir
+
+45
+00:04:11,328 --> 00:04:11,987
+Raoul : Boy
+
+46
+00:04:21,518 --> 00:04:24,680
+Raoul : A collector's piece indeed
+
+47
+00:04:27,188 --> 00:04:31,972
+Raoul : Every detail exactly as she said
+
+48
+00:04:33,769 --> 00:04:36,994
+Raoul : She often spoke of you my friend
+
+49
+00:04:37,609 --> 00:04:42,921
+Raoul : Your velvet lining and your figurine of lead
+
+50
+00:04:45,749 --> 00:04:53,142
+Raoul : Will you still play when all the rest of us are dead
+
+51
+00:04:55,251 --> 00:04:57,924
+Auctioneer : Lot 666 then
+
+52
+00:04:58,885 --> 00:05:01,659
+Auctioneer : A chandelier in pieces
+
+53
+00:05:02,651 --> 00:05:07,350
+Auctioneer : Some of you may recall the strange affair of The Phantom of the Opera
+
+54
+00:05:07,811 --> 00:05:10,730
+Auctioneer : a mystery never fully explained
+
+55
+00:05:11,199 --> 00:05:14,659
+Auctioneer : We are told ladies and gentlemen that this is the very chandelier
+
+56
+00:05:14,949 --> 00:05:16,728
+Auctioneer : that figures in that famous disaster
+
+57
+00:05:17,429 --> 00:05:19,346
+Auctioneer : Our workshops have restored it
+
+58
+00:05:19,479 --> 00:05:23,670
+Auctioneer : and fitted parts of it with wiring for the new electric light
+
+59
+00:05:23,867 --> 00:05:27,415
+Auctioneer : so that we may get a hint of how it may look when reassembled
+
+60
+00:05:28,424 --> 00:05:33,202
+Auctioneer : Perhaps we may even frighten away the ghost of so many years ago
+
+61
+00:05:33,398 --> 00:05:36,917
+Auctioneer : with a little illumination gentlemen
+
+62
+00:07:44,332 --> 00:07:46,155
+Carlotta Giudicelli : This
+
+63
+00:07:46,156 --> 00:07:53,682
+Carlotta Giudicelli : Trophy
+
+64
+00:07:54,299 --> 00:08:00,273
+Carlotta Giudicelli : From our saviours
+
+65
+00:08:00,619 --> 00:08:09,698
+Carlotta Giudicelli : From our saviours
+
+66
+00:08:10,393 --> 00:08:15,663
+Carlotta Giudicelli : From the enslaving force
+
+67
+00:08:15,914 --> 00:08:20,411
+Carlotta Giudicelli : Of Rome
+
+68
+00:08:25,991 --> 00:08:28,583
+Ensemble : With feasting and dancing and song
+
+69
+00:08:28,795 --> 00:08:31,662
+Ensemble : Tonight in celebration
+
+70
+00:08:31,663 --> 00:08:34,254
+Ensemble : We greet the victorious throng
+
+71
+00:08:34,264 --> 00:08:37,359
+Ensemble : Returned to bring salvation
+
+72
+00:08:37,360 --> 00:08:39,970
+Ensemble : The trumpets of Carthage resound
+
+73
+00:08:40,171 --> 00:08:43,088
+Ensemble : Hear Romans now and tremble
+
+74
+00:08:43,322 --> 00:08:45,608
+Ensemble : Hark to our step on the ground
+
+75
+00:08:45,807 --> 00:08:55,519
+Ensemble : Hear the drums Hannibal comes
+
+76
+00:08:58,406 --> 00:09:02,877
+Ubaldo Piangi : Sad to return to find the land we love
+
+77
+00:09:03,087 --> 00:09:06,707
+Ubaldo Piangi : Threatened once more by Roma's farreaching grasp
+
+78
+00:09:06,708 --> 00:09:09,048
+Reyer : No no no no
+
+79
+00:09:09,503 --> 00:09:11,134
+Reyer : Signor if you please
+
+80
+00:09:11,318 --> 00:09:14,715
+Reyer : Rome We say Rome not Roma
+
+81
+00:09:14,855 --> 00:09:16,902
+Ubaldo Piangi : Rome Rome is very hard for me
+
+82
+00:09:16,903 --> 00:09:18,741
+Reyer : Well once again if you please signor Sad to return It's very very hard
+
+83
+00:09:18,787 --> 00:09:20,973
+Reyer : I am from Italy Just get it right please
+
+84
+00:09:20,980 --> 00:09:23,587
+Reyer : Rome Signor
+
+85
+00:09:27,987 --> 00:09:32,675
+Ubaldo Piangi : Sad to return to find the land we love
+
+86
+00:09:32,700 --> 00:09:37,820
+Ubaldo Piangi : Threatened once more by Rome's farreaching grasp
+
+87
+00:09:38,330 --> 00:09:43,277
+Ubaldo Piangi : Tomorrow we shall break the chains of Rome
+
+88
+00:09:43,397 --> 00:09:46,497
+Ubaldo Piangi : Tonight rejoice
+
+89
+00:09:46,504 --> 00:09:48,093
+Ubaldo Piangi : Your army
+
+90
+00:09:49,680 --> 00:09:54,897
+Ubaldo Piangi : Has come home
+
+91
+00:11:15,385 --> 00:11:18,294
+Ensemble : Bid welcome to Hannibal's guests
+
+92
+00:11:18,303 --> 00:11:21,453
+Ensemble : The elephants of Carthage
+
+93
+00:11:21,559 --> 00:11:24,217
+Ensemble : As guides on our conquering quests
+
+94
+00:11:24,226 --> 00:11:27,261
+Ensemble : Dido sends
+
+95
+00:11:27,270 --> 00:11:32,857
+Ensemble : Hannibal's friends
+
+96
+00:11:41,578 --> 00:11:44,779
+Carlotta Giudicelli : Once more to my welcoming arms
+
+97
+00:11:44,788 --> 00:11:47,902
+Carlotta Giudicelli : My love returns in splendour
+
+98
+00:11:47,949 --> 00:11:50,785
+Ubaldo Piangi : Once more to the sweetest of charms
+
+99
+00:11:50,794 --> 00:11:53,841
+Ubaldo Piangi : My heart and soul surrender
+
+100
+00:11:53,967 --> 00:11:56,777
+Ensemble : The trumpeting elephants sound
+
+101
+00:11:56,942 --> 00:12:00,169
+Ensemble : Hear Romans now and tremble
+
+102
+00:12:00,203 --> 00:12:02,746
+Ensemble : Hark to their step on the ground
+
+103
+00:12:02,747 --> 00:12:05,801
+Ensemble : Hear the drums
+
+104
+00:12:06,184 --> 00:12:09,479
+Ensemble : Hannibal
+
+105
+00:12:09,503 --> 00:12:15,129
+Ensemble : comes
+
+106
+00:12:23,300 --> 00:12:26,493
+Reyer : Hey Hey We're doing that all again
+
+107
+00:12:26,500 --> 00:12:27,360
+Reyer : Thank you very much
+
+108
+00:12:27,540 --> 00:12:29,644
+Reyer : You were very good This song is marvellous Thank you
+
+109
+00:12:29,645 --> 00:12:31,582
+Lefèvre : This way gentlemen this way
+
+110
+00:12:31,583 --> 00:12:31,940
+Reyer : Girls
+
+111
+00:12:32,288 --> 00:12:37,940
+Lefèvre : Rehearsals as you see are underway for a new production of Chalumeau's Hannibal
+
+112
+00:12:38,478 --> 00:12:40,739
+Lefèvre : Ladies and gentlemen
+
+113
+00:12:41,857 --> 00:12:43,557
+Lefèvre : Ladies and gentlemen please
+
+114
+00:12:44,718 --> 00:12:45,739
+Lefèvre : Ladies and
+
+115
+00:12:46,489 --> 00:12:47,738
+Lefèvre : Madame Giry
+
+116
+00:12:51,244 --> 00:12:51,860
+Lefèvre : Thank you
+
+117
+00:12:52,640 --> 00:12:55,142
+Lefèvre : May I have your attention please
+
+118
+00:12:55,644 --> 00:13:01,419
+Lefèvre : As you know for some weeks there have been rumours about my imminent retirement
+
+119
+00:13:01,770 --> 00:13:04,250
+Lefèvre : I can now tell you these were all true
+
+120
+00:13:04,650 --> 00:13:10,283
+Lefèvre : and it is now my pleasure to introduce you to the two gentlemen who now own the Opera Populaire
+
+121
+00:13:10,292 --> 00:13:13,701
+Lefèvre : Monsieur Richard Firmin and Monsieur Giles Andr
+
+122
+00:13:14,410 --> 00:13:15,614
+Monsieur Gilles André : ANDR Oh no please
+
+123
+00:13:17,259 --> 00:13:21,692
+Lefèvre : Gentlemen Signora Carlotta Giudicelli
+
+124
+00:13:21,800 --> 00:13:25,176
+Lefèvre : our leading soprano for 19 seasons now
+
+125
+00:13:25,220 --> 00:13:29,163
+Monsieur Gilles André : Of course of course I have experienced all your greatest roles signora
+
+126
+00:13:29,489 --> 00:13:31,616
+Lefèvre : And Signor Ubaldo Piangi
+
+127
+00:13:31,616 --> 00:13:32,637
+Ubaldo Piangi : An honour signor
+
+128
+00:13:33,560 --> 00:13:36,581
+Monsieur Gilles André : If I remember rightly Elissa has a rather fine aria
+
+129
+00:13:36,582 --> 00:13:37,841
+Monsieur Gilles André : in Act Three of Hannibal
+
+130
+00:13:38,172 --> 00:13:43,792
+Monsieur Gilles André : I wonder signora if as a personal favour you would oblige us with a private rendition
+
+131
+00:13:43,793 --> 00:13:45,570
+Monsieur Gilles André : Unless of course Monsieur Reyer objects
+
+132
+00:13:45,580 --> 00:13:47,732
+Carlotta Giudicelli : No my manager commands
+
+133
+00:13:48,454 --> 00:13:52,642
+Reyer : My diva commands Would two bars be sufficient introduction
+
+134
+00:13:52,643 --> 00:13:55,257
+Monsieur Richard Firmin : Two bars will be quite sufficient
+
+135
+00:13:59,986 --> 00:14:01,375
+Monsieur Gilles André : Signora
+
+136
+00:14:06,848 --> 00:14:09,633
+Carlotta Giudicelli : Think of me
+
+137
+00:14:09,643 --> 00:14:16,431
+Carlotta Giudicelli : Think of me fondly When we've said goodbye
+
+138
+00:14:16,857 --> 00:14:22,395
+Carlotta Giudicelli : Remember me Every so often
+
+139
+00:14:22,404 --> 00:14:27,149
+Carlotta Giudicelli : Promise me you'll try
+
+140
+00:14:27,535 --> 00:14:31,737
+Carlotta Giudicelli : On that day that not so distant day
+
+141
+00:14:31,748 --> 00:14:36,671
+Carlotta Giudicelli : When you are far away and free
+
+142
+00:14:36,835 --> 00:14:43,118
+Carlotta Giudicelli : If you ever find a moment
+
+143
+00:14:43,119 --> 00:14:49,135
+Carlotta Giudicelli : Spare a thought for me
+
+144
+00:14:51,767 --> 00:14:54,219
+Carlotta Giudicelli : Think of me
+
+145
+00:14:54,229 --> 00:14:56,791
+Carlotta Giudicelli : Think of me warmly j
+
+146
+00:14:56,816 --> 00:15:01,873
+Meg Giry : He's here The Phantom of the Opera
+
+147
+00:15:01,874 --> 00:15:06,404
+Meg Giry : He's there The Phantom of the Opera
+
+148
+00:15:06,405 --> 00:15:07,733
+Ensemble : He is with us It's the ghost j
+
+149
+00:15:07,734 --> 00:15:10,613
+Monsieur Gilles André : Good heavens will you show a little courtesy
+
+150
+00:15:10,614 --> 00:15:11,648
+Monsieur Richard Firmin : Mademoiselle please
+
+151
+00:15:11,649 --> 00:15:14,658
+Lefèvre : Signora Are you all right Buquet Where is Buquet
+
+152
+00:15:14,679 --> 00:15:16,190
+Lefèvre : Get that man down here
+
+153
+00:15:16,291 --> 00:15:20,110
+Lefèvre : Buquet chief of the flys He's responsible for this
+
+154
+00:15:20,170 --> 00:15:24,166
+Lefèvre : Buquet For God's sake man what's going on up there
+
+155
+00:15:25,543 --> 00:15:28,001
+Joseph Buquet : Please monsieur don't look at me
+
+156
+00:15:29,288 --> 00:15:33,548
+Joseph Buquet : As God's my witness I was not at my post
+
+157
+00:15:34,332 --> 00:15:36,909
+Joseph Buquet : Please monsieur there's no one there
+
+158
+00:15:36,910 --> 00:15:41,385
+Joseph Buquet : And if there is well then it must be a ghost
+
+159
+00:15:42,123 --> 00:15:45,997
+Meg Giry : He's there The Phantom of the Opera
+
+160
+00:15:46,022 --> 00:15:48,901
+Monsieur Richard Firmin : Good heavens I have never known such insolence
+
+161
+00:15:48,902 --> 00:15:51,126
+Monsieur Gilles André : Signora please
+
+162
+00:15:52,102 --> 00:15:54,810
+Monsieur Gilles André : These things do happen
+
+163
+00:15:55,224 --> 00:15:59,289
+Carlotta Giudicelli : These things do happen
+
+164
+00:16:00,984 --> 00:16:04,716
+Carlotta Giudicelli : You have been here five minutes What do you know
+
+165
+00:16:05,111 --> 00:16:11,618
+Carlotta Giudicelli : Si these things do happen all the time
+
+166
+00:16:11,860 --> 00:16:15,822
+Carlotta Giudicelli : For the past three years these things do happen
+
+167
+00:16:15,822 --> 00:16:18,541
+Carlotta Giudicelli : And did you stop them happening No
+
+168
+00:16:18,541 --> 00:16:21,741
+Carlotta Giudicelli : And you You're as bad as him
+
+169
+00:16:21,742 --> 00:16:24,983
+Carlotta Giudicelli : These things do happen
+
+170
+00:16:25,921 --> 00:16:30,854
+Carlotta Giudicelli : Well until you stop these things happening
+
+171
+00:16:30,973 --> 00:16:34,561
+Carlotta Giudicelli : this thing does not happen
+
+172
+00:16:34,629 --> 00:16:37,546
+Carlotta Giudicelli : Ubaldo andiamo
+
+173
+00:16:44,402 --> 00:16:45,649
+Ubaldo Piangi : Amateurs
+
+174
+00:16:47,998 --> 00:16:53,834
+Ubaldo Piangi : I don't think there's much more I can do to assist you gentlemen Good luck
+
+175
+00:16:54,036 --> 00:16:56,618
+Lefèvre : If you need me I shall be in Frankfurt
+
+176
+00:16:56,903 --> 00:16:57,970
+Monsieur Gilles André : But monsieur
+
+177
+00:16:57,971 --> 00:16:59,046
+Lefèvre : Move please Out of the way
+
+178
+00:17:01,461 --> 00:17:01,949
+Lefèvre : Oh
+
+179
+00:17:02,347 --> 00:17:04,167
+Monsieur Gilles André : La Carlotta will be back
+
+180
+00:17:04,259 --> 00:17:05,907
+Madame Giry : You think so monsieur
+
+181
+00:17:06,021 --> 00:17:06,310
+Monsieur Gilles André : Yes
+
+182
+00:17:07,214 --> 00:17:11,406
+Madame Giry : I have a message sir from the Opera Ghost
+
+183
+00:17:11,407 --> 00:17:13,708
+Monsieur Richard Firmin : Oh God in heaven you're all obsessed
+
+184
+00:17:13,884 --> 00:17:16,691
+Madame Giry : He merely welcomes you to his opera house
+
+185
+00:17:16,786 --> 00:17:22,043
+Madame Giry : Commands that you continue to leave Box Five empty for his use
+
+186
+00:17:22,337 --> 00:17:26,293
+Madame Giry : and reminds you that his salary is due
+
+187
+00:17:27,242 --> 00:17:28,838
+Monsieur Richard Firmin : His salary
+
+188
+00:17:28,839 --> 00:17:32,645
+Madame Giry : Monsieur Lefevre paid him 20000 francs a month
+
+189
+00:17:33,289 --> 00:17:38,549
+Madame Giry : Perhaps you could afford more with the Vicomte de Chagny as your patron
+
+190
+00:17:38,550 --> 00:17:41,425
+Monsieur Gilles André : Madame I had hoped to have made that announcement myself
+
+191
+00:17:41,460 --> 00:17:43,830
+Madame Giry : Will the Vicomte be at the performance this evening monsieur
+
+192
+00:17:43,831 --> 00:17:44,673
+Monsieur Richard Firmin : In our box
+
+193
+00:17:44,710 --> 00:17:47,453
+Monsieur Gilles André : Madame who is the understudy for the role
+
+194
+00:17:47,454 --> 00:17:50,979
+Reyer : There is no understudy monsieur The production is new
+
+195
+00:17:51,695 --> 00:17:53,811
+Meg Giry : Christine Daa could sing it sir
+
+196
+00:17:53,812 --> 00:17:55,271
+Monsieur Richard Firmin : A ballet girl
+
+197
+00:17:55,278 --> 00:17:57,536
+Meg Giry : Well she's been taking lessons from a great teacher
+
+198
+00:17:57,538 --> 00:17:58,918
+Monsieur Gilles André : Oh from whom
+
+199
+00:18:00,054 --> 00:18:01,022
+Christine Daaé : I don't know sir
+
+200
+00:18:01,023 --> 00:18:02,815
+Monsieur Richard Firmin : Oh not you as well Can you believe it
+
+201
+00:18:02,840 --> 00:18:05,119
+Monsieur Richard Firmin : A full house and we have to cancel
+
+202
+00:18:05,120 --> 00:18:08,411
+Monsieur Gilles André : Daa That's a curious name
+
+203
+00:18:08,505 --> 00:18:10,735
+Monsieur Gilles André : Any relation to the violinist
+
+204
+00:18:10,882 --> 00:18:12,291
+Christine Daaé : My father sir
+
+205
+00:18:12,484 --> 00:18:14,776
+Madame Giry : Let her sing for you monsieur
+
+206
+00:18:15,573 --> 00:18:18,606
+Madame Giry : She has been well taught
+
+207
+00:18:21,223 --> 00:18:21,886
+Monsieur Gilles André : Very well
+
+208
+00:18:21,887 --> 00:18:25,966
+Reyer : Oh from the beginning of the aria then mam'selle
+
+209
+00:18:26,563 --> 00:18:28,744
+Reyer : Gentlemen please
+
+210
+00:18:39,934 --> 00:18:41,160
+Christine Daaé : Think of me
+
+211
+00:18:42,262 --> 00:18:44,539
+Christine Daaé : Think of me fondly
+
+212
+00:18:44,771 --> 00:18:48,190
+Christine Daaé : When we've said goodbye
+
+213
+00:18:49,948 --> 00:18:51,704
+Christine Daaé : Remember me
+
+214
+00:18:52,383 --> 00:18:55,185
+Christine Daaé : Every so often
+
+215
+00:18:55,332 --> 00:18:57,686
+Christine Daaé : Promise me you'll try
+
+216
+00:18:57,687 --> 00:18:59,327
+Monsieur Richard Firmin : Andr this is doing nothing for my nerves
+
+217
+00:18:59,347 --> 00:19:00,580
+Monsieur Gilles André : Don't fret Firmin
+
+218
+00:19:00,630 --> 00:19:04,264
+Christine Daaé : On that day that not so distant day
+
+219
+00:19:04,524 --> 00:19:09,347
+Christine Daaé : When you are far away and free
+
+220
+00:19:09,348 --> 00:19:15,147
+Christine Daaé : If you ever find a moment
+
+221
+00:19:15,515 --> 00:19:19,745
+Christine Daaé : Spare a thought for me
+
+222
+00:19:19,918 --> 00:19:21,295
+Reyer : Madame Monsieur
+
+223
+00:19:32,267 --> 00:19:34,543
+Christine Daaé : Thank you Thank you so much
+
+224
+00:19:38,297 --> 00:19:40,557
+Christine Daaé : And though it's clear
+
+225
+00:19:40,558 --> 00:19:46,766
+Christine Daaé : Though it was always clear That this was never meant to be
+
+226
+00:19:46,767 --> 00:19:52,767
+Christine Daaé : If you happen to remember
+
+227
+00:19:52,777 --> 00:19:58,295
+Christine Daaé : Stop and think of me
+
+228
+00:19:59,020 --> 00:20:02,232
+Christine Daaé : Think of August
+
+229
+00:20:02,233 --> 00:20:06,457
+Christine Daaé : When the world was green
+
+230
+00:20:06,944 --> 00:20:10,801
+Christine Daaé : Don't think about the way
+
+231
+00:20:10,854 --> 00:20:15,539
+Christine Daaé : Things might have been
+
+232
+00:20:16,591 --> 00:20:18,250
+Christine Daaé : Think of me
+
+233
+00:20:18,445 --> 00:20:21,328
+Christine Daaé : Think of me waking
+
+234
+00:20:21,329 --> 00:20:24,650
+Christine Daaé : Silent and resigned
+
+235
+00:20:24,651 --> 00:20:26,974
+Christine Daaé : Imagine me
+
+236
+00:20:26,975 --> 00:20:29,438
+Christine Daaé : Trying too hard
+
+237
+00:20:29,439 --> 00:20:33,714
+Christine Daaé : To put you from my mind
+
+238
+00:20:33,776 --> 00:20:35,352
+Christine Daaé : Think of me
+
+239
+00:20:35,353 --> 00:20:37,511
+Christine Daaé : Please say you'll think of me
+
+240
+00:20:37,512 --> 00:20:41,649
+Christine Daaé : Whatever else you choose to do
+
+241
+00:20:41,650 --> 00:20:46,390
+Christine Daaé : There will never be a day
+
+242
+00:20:46,391 --> 00:20:54,837
+Christine Daaé : When I won't think of you
+
+243
+00:21:00,802 --> 00:21:05,527
+Raoul : Can it be Can it be Christine
+
+244
+00:21:05,724 --> 00:21:08,214
+Raoul : Brava Brava
+
+245
+00:21:09,290 --> 00:21:12,798
+Raoul : Long ago It seems so long ago
+
+246
+00:21:12,918 --> 00:21:16,689
+Raoul : How young and innocent we were
+
+247
+00:21:16,690 --> 00:21:21,399
+Raoul : She may not remember me
+
+248
+00:21:21,400 --> 00:21:27,145
+Raoul : But I remember her
+
+249
+00:21:27,199 --> 00:21:30,700
+Christine Daaé : Flowers fade The fruits of summer fade
+
+250
+00:21:30,701 --> 00:21:35,340
+Christine Daaé : They have their seasons So do we
+
+251
+00:21:35,426 --> 00:21:41,635
+Christine Daaé : But please promise me That sometimes
+
+252
+00:21:41,636 --> 00:21:47,493
+Christine Daaé : You will think
+
+253
+00:22:00,766 --> 00:22:09,421
+Christine Daaé : Of me j
+
+254
+00:22:09,625 --> 00:22:12,494
+Reyer : Brava Brava
+
+255
+00:22:44,921 --> 00:22:48,142
+Meg Giry : Christine Daa that was unbelievable
+
+256
+00:22:53,608 --> 00:22:56,137
+Madame Giry : Yes you did well
+
+257
+00:22:57,130 --> 00:22:59,281
+Madame Giry : He will be pleased
+
+258
+00:23:00,982 --> 00:23:05,721
+Madame Giry : And you You were a disgrace
+
+259
+00:23:06,023 --> 00:23:08,839
+Madame Giry : Such ronds de jambes Such temps de cuisse
+
+260
+00:23:08,846 --> 00:23:13,048
+Madame Giry : Come We rehearse Now
+
+261
+00:23:23,320 --> 00:23:26,198
+Erik (The Phantom) : Brava
+
+262
+00:23:26,358 --> 00:23:29,469
+Erik (The Phantom) : Brava
+
+263
+00:23:29,469 --> 00:23:35,768
+Erik (The Phantom) : Bravissima
+
+264
+00:23:35,768 --> 00:23:37,844
+Meg Giry : Christine
+
+265
+00:23:38,428 --> 00:23:40,653
+Meg Giry : Christine
+
+266
+00:23:40,970 --> 00:23:46,016
+Erik (The Phantom) : Christine
+
+267
+00:23:46,017 --> 00:23:49,761
+Meg Giry : Where in the world have you been hiding
+
+268
+00:23:49,762 --> 00:23:53,009
+Meg Giry : Really you were perfect
+
+269
+00:23:53,082 --> 00:23:57,040
+Meg Giry : I only wish I knew your secret
+
+270
+00:23:57,041 --> 00:24:00,483
+Meg Giry : Who is this new tutor
+
+271
+00:24:13,900 --> 00:24:18,883
+Christine Daaé : Father once spoke of an angel
+
+272
+00:24:19,432 --> 00:24:23,971
+Christine Daaé : I used to dream he'd appear
+
+273
+00:24:24,968 --> 00:24:29,117
+Christine Daaé : Now as I sing I can sense him
+
+274
+00:24:29,118 --> 00:24:35,631
+Christine Daaé : And I know he's here
+
+275
+00:24:35,632 --> 00:24:40,320
+Christine Daaé : Here in this room he calls me softly
+
+276
+00:24:40,321 --> 00:24:44,337
+Christine Daaé : Somewhere inside hiding
+
+277
+00:24:44,338 --> 00:24:49,269
+Christine Daaé : Somehow I know he's always with me
+
+278
+00:24:49,422 --> 00:24:53,661
+Christine Daaé : He the unseen genius
+
+279
+00:24:53,662 --> 00:24:57,918
+Meg Giry : I watched your face from the shadows
+
+280
+00:24:58,224 --> 00:25:02,083
+Meg Giry : Distant through all the applause
+
+281
+00:25:02,447 --> 00:25:05,787
+Meg Giry : I hear your voice in the darkness
+
+282
+00:25:06,124 --> 00:25:11,712
+Meg Giry : Yet the words aren't yours
+
+283
+00:25:12,138 --> 00:25:17,687
+Christine Daaé : Angel of Music guide and guardian
+
+284
+00:25:17,688 --> 00:25:20,860
+Christine Daaé : Grant to me your glory
+
+285
+00:25:20,861 --> 00:25:23,264
+Meg Giry : Who is this angel
+
+286
+00:25:23,417 --> 00:25:29,551
+Christine Daaé;Meg Giry : This Angel of Music hide no longer
+
+287
+00:25:29,552 --> 00:25:35,274
+Meg Giry;Christine Daaé : Secret and strange angel
+
+288
+00:25:35,744 --> 00:25:38,584
+Christine Daaé : He's with me even now
+
+289
+00:25:38,585 --> 00:25:40,000
+Meg Giry : Your hands are cold
+
+290
+00:25:40,001 --> 00:25:40,921
+Christine Daaé : All around
+
+291
+00:25:40,922 --> 00:25:43,072
+Meg Giry : Your face Christine it's white
+
+292
+00:25:43,097 --> 00:25:44,331
+Christine Daaé : It frightens me j
+
+293
+00:25:44,332 --> 00:25:46,838
+Meg Giry : Don't be frightened j
+
+294
+00:25:49,684 --> 00:25:53,657
+Madame Giry : Meg Giry Are you a dancer
+
+295
+00:25:54,256 --> 00:25:56,223
+Madame Giry : Then go and practice
+
+296
+00:26:02,261 --> 00:26:06,204
+Madame Giry : My dear I was asked to give you this
+
+297
+00:26:08,100 --> 00:26:09,279
+Christine Daaé : Thank you
+
+298
+00:26:12,133 --> 00:26:16,952
+Christine Daaé : A red scarf The attic Little Lotte
+
+299
+00:26:18,163 --> 00:26:21,281
+Monsieur Gilles André : ANDR A tour de force There's no other way to describe it
+
+300
+00:26:21,306 --> 00:26:24,281
+Monsieur Richard Firmin : What a relief Not a single refund
+
+301
+00:26:24,326 --> 00:26:24,913
+Woman : Greedy
+
+302
+00:26:24,914 --> 00:26:28,111
+Monsieur Richard Firmin : Richard I think we've made quite a discovery with Miss Daa
+
+303
+00:26:28,112 --> 00:26:29,481
+Monsieur Gilles André : Here we are Monsieur Vicomte
+
+304
+00:26:29,482 --> 00:26:31,586
+Raoul : Gentlemen if you wouldn't mind
+
+305
+00:26:31,587 --> 00:26:34,441
+Raoul : This is one visit I should prefer to make unaccompanied
+
+306
+00:26:34,442 --> 00:26:35,957
+Monsieur Gilles André : As you wish monsieur
+
+307
+00:26:36,021 --> 00:26:38,050
+Monsieur Richard Firmin : They appear to have met before
+
+308
+00:26:41,063 --> 00:26:45,664
+Raoul : Christine Daa where is your red scarf
+
+309
+00:26:45,664 --> 00:26:47,061
+Christine Daaé : Monsieur
+
+310
+00:26:47,062 --> 00:26:48,331
+Raoul : Well you can't have lost it
+
+311
+00:26:48,400 --> 00:26:50,396
+Raoul : After all the trouble I took
+
+312
+00:26:50,403 --> 00:26:52,872
+Raoul : I was just 14 and soaked to the skin
+
+313
+00:26:52,910 --> 00:26:56,271
+Christine Daaé : Because you had run into the sea to fetch my scarf
+
+314
+00:26:56,338 --> 00:26:58,229
+Christine Daaé : Oh Raoul So it is you
+
+315
+00:26:58,230 --> 00:26:59,375
+Raoul : Christine
+
+316
+00:27:00,845 --> 00:27:05,627
+Raoul : Little Lotte let her mind wander
+
+317
+00:27:05,628 --> 00:27:06,686
+Christine Daaé : You remember that too
+
+318
+00:27:06,728 --> 00:27:11,738
+Raoul : Little Lotte thought am I fonder of dolls
+
+319
+00:27:11,945 --> 00:27:14,515
+Christine Daaé;Raoul : Or of goblins of shoes
+
+320
+00:27:14,590 --> 00:27:16,468
+Christine Daaé : Or of riddles of frocks
+
+321
+00:27:16,469 --> 00:27:20,012
+Raoul : Those picnics in the attic Or of chocolates
+
+322
+00:27:20,502 --> 00:27:22,783
+Christine Daaé : Father playing the violin
+
+323
+00:27:22,784 --> 00:27:25,514
+Raoul : As we read to each other dark stories of the north
+
+324
+00:27:25,811 --> 00:27:30,273
+Christine Daaé : No what I love best Lotte said
+
+325
+00:27:30,274 --> 00:27:35,200
+Christine Daaé : Is when I'm asleep in my bed
+
+326
+00:27:35,201 --> 00:27:41,414
+Christine Daaé : And the Angel of Music sings songs in my head
+
+327
+00:27:41,542 --> 00:27:50,158
+Christine Daaé;Raoul : The Angel of Music sings songs in my head j
+
+328
+00:27:52,344 --> 00:27:55,640
+Christine Daaé : Father said When I'm in heaven child
+
+329
+00:27:56,278 --> 00:27:58,922
+Christine Daaé : I will send the Angel of Music to you
+
+330
+00:27:59,726 --> 00:28:01,444
+Christine Daaé : Well Father is dead Raoul
+
+331
+00:28:01,607 --> 00:28:04,509
+Christine Daaé : and I have been visited by the Angel of Music
+
+332
+00:28:04,519 --> 00:28:07,787
+Raoul : No doubt of it And now we go to supper
+
+333
+00:28:07,798 --> 00:28:10,748
+Christine Daaé : No Raoul the Angel of Music is very strict
+
+334
+00:28:10,749 --> 00:28:11,656
+Raoul : I shan't keep you up late
+
+335
+00:28:11,657 --> 00:28:11,988
+Christine Daaé : No
+
+336
+00:28:11,999 --> 00:28:15,528
+Raoul : You must change I must get my hat
+
+337
+00:28:15,856 --> 00:28:19,152
+Raoul : Two minutes Little Lotte
+
+338
+00:28:21,513 --> 00:28:22,202
+Christine Daaé : Raoul
+
+339
+00:28:30,072 --> 00:28:32,204
+Christine Daaé : Things have changed Raoul
+
+340
+00:28:32,670 --> 00:28:37,568
+Erik (The Phantom) : Insolent boy the slave of fashion
+
+341
+00:28:37,593 --> 00:28:42,693
+Erik (The Phantom) : Basking in your glory
+
+342
+00:28:42,718 --> 00:28:48,419
+Erik (The Phantom) : Ignorant fool this brave young suitor
+
+343
+00:28:48,420 --> 00:28:53,831
+Erik (The Phantom) : Sharing in my triumph
+
+344
+00:28:53,831 --> 00:28:59,011
+Christine Daaé : Angel I hear you Speak I listen
+
+345
+00:28:59,012 --> 00:29:04,562
+Christine Daaé : Stay by my side guide me
+
+346
+00:29:04,563 --> 00:29:09,773
+Christine Daaé : Angel my soul was weak forgive me
+
+347
+00:29:09,774 --> 00:29:15,244
+Christine Daaé : Enter at last master
+
+348
+00:29:15,397 --> 00:29:20,292
+Erik (The Phantom) : Flattering child you shall know me
+
+349
+00:29:20,293 --> 00:29:25,569
+Erik (The Phantom) : See why in shadow I hide
+
+350
+00:29:25,598 --> 00:29:30,119
+Erik (The Phantom) : Look at your face in the mirror
+
+351
+00:29:30,380 --> 00:29:37,552
+Erik (The Phantom) : I am there inside
+
+352
+00:29:37,553 --> 00:29:43,069
+Christine Daaé : Angel of Music guide and guardian
+
+353
+00:29:43,070 --> 00:29:48,973
+Christine Daaé : Grant to me your glory
+
+354
+00:29:49,189 --> 00:29:54,841
+Christine Daaé : Angel of Music hide no longer
+
+355
+00:29:54,842 --> 00:30:01,315
+Christine Daaé : Come to me strange angel
+
+356
+00:30:01,452 --> 00:30:07,281
+Erik (The Phantom) : I am your Angel of Music
+
+357
+00:30:07,597 --> 00:30:13,766
+Erik (The Phantom) : Come to me Angel of Music
+
+358
+00:30:13,767 --> 00:30:19,986
+Erik (The Phantom) : I am your Angel of Music
+
+359
+00:30:19,987 --> 00:30:28,627
+Erik (The Phantom) : Come to me Angel of Music j
+
+360
+00:30:30,667 --> 00:30:32,204
+Raoul : Christine
+
+361
+00:30:50,377 --> 00:30:55,086
+Christine Daaé : In sleep he sang to me
+
+362
+00:30:55,111 --> 00:30:58,722
+Christine Daaé : In dreams he came
+
+363
+00:30:59,040 --> 00:31:06,804
+Christine Daaé : That voice which calls to me And speaks my name
+
+364
+00:31:06,805 --> 00:31:10,887
+Christine Daaé : And do I dream again
+
+365
+00:31:10,888 --> 00:31:15,748
+Christine Daaé : For now I find
+
+366
+00:31:15,761 --> 00:31:22,782
+Christine Daaé : The Phantom of the Opera is there
+
+367
+00:31:23,154 --> 00:31:28,065
+Christine Daaé : Inside my mind
+
+368
+00:31:34,630 --> 00:31:38,577
+Erik (The Phantom) : Sing once again with me
+
+369
+00:31:38,838 --> 00:31:42,893
+Erik (The Phantom) : Our strange duet
+
+370
+00:31:42,930 --> 00:31:46,891
+Erik (The Phantom) : My power over you
+
+371
+00:31:47,002 --> 00:31:51,028
+Erik (The Phantom) : Grows stronger yet
+
+372
+00:31:51,086 --> 00:31:54,681
+Erik (The Phantom) : And though you turn from me
+
+373
+00:31:54,881 --> 00:31:59,826
+Erik (The Phantom) : To glance behind
+
+374
+00:31:59,945 --> 00:32:06,775
+Erik (The Phantom) : The Phantom of the Opera is there
+
+375
+00:32:06,832 --> 00:32:11,472
+Erik (The Phantom) : Inside your mind
+
+376
+00:32:18,480 --> 00:32:22,720
+Christine Daaé : Those who have seen your face
+
+377
+00:32:22,890 --> 00:32:26,766
+Christine Daaé : Draw back in fear
+
+378
+00:32:26,819 --> 00:32:30,987
+Christine Daaé : I am the mask you wear
+
+379
+00:32:31,094 --> 00:32:34,781
+Erik (The Phantom) : It's me they hear
+
+380
+00:32:34,994 --> 00:32:38,842
+Erik (The Phantom);Christine Daaé : My(Your) spirit and my(your) voice
+
+381
+00:32:38,911 --> 00:32:43,704
+Erik (The Phantom);Christine Daaé : In one combined
+
+382
+00:32:44,035 --> 00:32:50,761
+Erik (The Phantom);Christine Daaé : The Phantom of the Opera is there
+
+383
+00:32:51,051 --> 00:32:55,730
+Erik (The Phantom);Christine Daaé : Inside my(your) mind
+
+384
+00:33:00,110 --> 00:33:09,141
+Ensemble : Beware The Phantom of the Opera
+
+385
+00:33:10,698 --> 00:33:14,804
+Erik (The Phantom) : In all your fantasies
+
+386
+00:33:14,868 --> 00:33:18,780
+Erik (The Phantom) : You always knew
+
+387
+00:33:18,789 --> 00:33:22,756
+Erik (The Phantom) : That man and mystery
+
+388
+00:33:22,959 --> 00:33:26,872
+Erik (The Phantom) : Were both in you
+
+389
+00:33:26,882 --> 00:33:30,584
+Erik (The Phantom);Christine Daaé : And in this labyrinth
+
+390
+00:33:30,594 --> 00:33:35,839
+Erik (The Phantom);Christine Daaé : Where night is blind
+
+391
+00:33:35,848 --> 00:33:42,810
+Erik (The Phantom);Christine Daaé : The Phantom of the Opera is there
+
+392
+00:33:42,815 --> 00:33:47,601
+Erik (The Phantom);Christine Daaé : Inside my mind Inside your mind
+
+393
+00:33:47,602 --> 00:33:49,521
+Erik (The Phantom) : Sing for me
+
+394
+00:33:49,970 --> 00:33:52,252
+Erik (The Phantom) : My Angel of Music
+
+395
+00:33:52,253 --> 00:33:58,989
+Christine Daaé : He's there The Phantom of the Opera
+
+396
+00:34:00,035 --> 00:34:00,602
+Erik (The Phantom) : Sing
+
+397
+00:34:08,252 --> 00:34:09,228
+Erik (The Phantom) : Sing
+
+398
+00:34:43,455 --> 00:34:46,598
+Erik (The Phantom) : Sing for me
+
+399
+00:34:47,856 --> 00:34:51,498
+Erik (The Phantom) : I have brought you
+
+400
+00:34:51,611 --> 00:34:54,548
+Erik (The Phantom) : To the seat of sweet music's throne
+
+401
+00:34:54,573 --> 00:34:59,155
+Erik (The Phantom) : To this kingdom where all must pay homage to music
+
+402
+00:34:59,156 --> 00:35:02,554
+Erik (The Phantom) : Music
+
+403
+00:35:02,555 --> 00:35:06,300
+Erik (The Phantom) : You have come here
+
+404
+00:35:06,357 --> 00:35:10,052
+Erik (The Phantom) : For one purpose and one alone
+
+405
+00:35:10,258 --> 00:35:14,769
+Erik (The Phantom) : Since the moment I first heard you sing
+
+406
+00:35:14,770 --> 00:35:21,306
+Erik (The Phantom) : I have needed you with me to serve me
+
+407
+00:35:22,966 --> 00:35:33,012
+Erik (The Phantom) : To sing for my music
+
+408
+00:35:35,890 --> 00:35:45,976
+Erik (The Phantom) : My music
+
+409
+00:35:50,842 --> 00:35:56,067
+Erik (The Phantom) : Nighttime sharpens
+
+410
+00:35:56,073 --> 00:36:01,607
+Erik (The Phantom) : Heightens each sensation
+
+411
+00:36:01,608 --> 00:36:05,864
+Erik (The Phantom) : Darkness stirs
+
+412
+00:36:05,874 --> 00:36:11,080
+Erik (The Phantom) : And wakes imagination
+
+413
+00:36:11,081 --> 00:36:16,764
+Erik (The Phantom) : Silently the senses
+
+414
+00:36:16,765 --> 00:36:26,119
+Erik (The Phantom) : Abandon their defenses
+
+415
+00:36:34,600 --> 00:36:38,771
+Erik (The Phantom) : Slowly gently
+
+416
+00:36:38,772 --> 00:36:43,630
+Erik (The Phantom) : Night unfurls its splendour
+
+417
+00:36:43,631 --> 00:36:47,249
+Erik (The Phantom) : Grasp it sense it
+
+418
+00:36:47,249 --> 00:36:51,871
+Erik (The Phantom) : Tremulous and tender
+
+419
+00:36:51,964 --> 00:36:55,457
+Erik (The Phantom) : Turn your face away
+
+420
+00:36:55,458 --> 00:37:00,042
+Erik (The Phantom) : From the garish light of day
+
+421
+00:37:00,053 --> 00:37:02,774
+Erik (The Phantom) : Turn your thoughts away
+
+422
+00:37:02,775 --> 00:37:08,219
+Erik (The Phantom) : From cold unfeeling light
+
+423
+00:37:09,169 --> 00:37:13,899
+Erik (The Phantom) : And listen to the music
+
+424
+00:37:13,900 --> 00:37:18,012
+Erik (The Phantom) : Of the night
+
+425
+00:37:18,013 --> 00:37:22,614
+Erik (The Phantom) : Close your eyes and surrender
+
+426
+00:37:22,615 --> 00:37:25,766
+Erik (The Phantom) : To your darkest dreams
+
+427
+00:37:25,767 --> 00:37:33,779
+Erik (The Phantom) : Purge your thoughts of the life you knew before
+
+428
+00:37:33,780 --> 00:37:37,316
+Erik (The Phantom) : Close your eyes
+
+429
+00:37:37,317 --> 00:37:45,981
+Erik (The Phantom) : Let your spirit start to soar
+
+430
+00:37:54,702 --> 00:37:57,526
+Erik (The Phantom) : And you'll live
+
+431
+00:37:58,341 --> 00:38:09,502
+Erik (The Phantom) : As you've never lived before
+
+432
+00:38:11,149 --> 00:38:14,804
+Erik (The Phantom) : Softly deftly
+
+433
+00:38:14,805 --> 00:38:18,911
+Erik (The Phantom) : Music shall surround you
+
+434
+00:38:18,912 --> 00:38:22,325
+Erik (The Phantom) : Hear it feel it
+
+435
+00:38:22,326 --> 00:38:26,307
+Erik (The Phantom) : Closing in around you
+
+436
+00:38:26,308 --> 00:38:29,816
+Erik (The Phantom) : Open up your mind
+
+437
+00:38:29,817 --> 00:38:33,931
+Erik (The Phantom) : Let your fantasies unwind
+
+438
+00:38:33,932 --> 00:38:36,421
+Erik (The Phantom) : In this darkness
+
+439
+00:38:36,422 --> 00:38:41,553
+Erik (The Phantom) : Which you know you cannot fight
+
+440
+00:38:41,554 --> 00:38:46,671
+Erik (The Phantom) : The darkness of the music
+
+441
+00:38:46,672 --> 00:38:51,058
+Erik (The Phantom) : Of the night
+
+442
+00:38:51,059 --> 00:38:57,412
+Erik (The Phantom) : Let your mind start a journey through a strange new world
+
+443
+00:38:57,413 --> 00:39:04,154
+Erik (The Phantom) : Leave all thoughts of the world you knew before
+
+444
+00:39:04,286 --> 00:39:06,621
+Erik (The Phantom) : Let your soul
+
+445
+00:39:06,622 --> 00:39:17,548
+Erik (The Phantom) : Take you where you long to be
+
+446
+00:39:21,331 --> 00:39:29,745
+Erik (The Phantom) : Only then Can you belong
+
+447
+00:39:30,709 --> 00:39:37,678
+Erik (The Phantom) : To me
+
+448
+00:39:40,407 --> 00:39:44,641
+Erik (The Phantom) : Floating falling
+
+449
+00:39:44,642 --> 00:39:48,735
+Erik (The Phantom) : Sweet intoxication
+
+450
+00:39:48,954 --> 00:39:52,499
+Erik (The Phantom) : Touch me trust me
+
+451
+00:39:52,499 --> 00:39:56,981
+Erik (The Phantom) : Savour each sensation
+
+452
+00:39:56,982 --> 00:40:00,009
+Erik (The Phantom) : Let the dream begin
+
+453
+00:40:00,010 --> 00:40:04,617
+Erik (The Phantom) : Let your darker side give in
+
+454
+00:40:04,618 --> 00:40:08,896
+Erik (The Phantom) : To the power of the music
+
+455
+00:40:08,897 --> 00:40:12,697
+Erik (The Phantom) : That I write
+
+456
+00:40:12,698 --> 00:40:18,156
+Erik (The Phantom) : The power of the music
+
+457
+00:40:18,157 --> 00:40:25,897
+Erik (The Phantom) : Of the night
+
+458
+00:40:46,428 --> 00:40:50,055
+Erik (The Phantom) : You alone can make
+
+459
+00:40:50,056 --> 00:40:56,649
+Erik (The Phantom) : My song take flight
+
+460
+00:40:57,681 --> 00:41:04,725
+Erik (The Phantom) : Help me make the music
+
+461
+00:41:04,726 --> 00:41:08,987
+Erik (The Phantom) : Of the
+
+462
+00:41:11,512 --> 00:41:27,907
+Erik (The Phantom) : Night
+
+463
+00:42:32,165 --> 00:42:36,298
+Christine Daaé : I remember there was mist
+
+464
+00:42:37,802 --> 00:42:43,667
+Christine Daaé : Swirling mist upon a vast glassy lake
+
+465
+00:42:45,809 --> 00:42:49,755
+Christine Daaé : There were candles all around
+
+466
+00:42:49,756 --> 00:42:54,112
+Christine Daaé : And on the lake there was a boat
+
+467
+00:42:55,283 --> 00:43:03,322
+Christine Daaé : And in the boat there was a man
+
+468
+00:43:20,568 --> 00:43:26,189
+Christine Daaé : Who was that shape in the shadows
+
+469
+00:43:26,190 --> 00:43:29,764
+Christine Daaé : Whose is that face in the mask
+
+470
+00:43:39,821 --> 00:43:43,645
+Erik (The Phantom) : Damn you You little prying Pandora
+
+471
+00:43:44,060 --> 00:43:47,180
+Erik (The Phantom) : You little demon Is this what you wanted to see
+
+472
+00:43:47,180 --> 00:43:48,572
+Erik (The Phantom) : Curse you
+
+473
+00:43:49,040 --> 00:43:51,551
+Erik (The Phantom) : You little lying Delilah
+
+474
+00:43:51,552 --> 00:43:55,542
+Erik (The Phantom) : You little viper Now you cannot ever be free
+
+475
+00:43:56,158 --> 00:43:58,089
+Erik (The Phantom) : Damn you
+
+476
+00:43:59,318 --> 00:44:01,477
+Erik (The Phantom) : Curse you
+
+477
+00:44:06,034 --> 00:44:10,606
+Erik (The Phantom) : Stranger than you dreamt it
+
+478
+00:44:10,607 --> 00:44:15,325
+Erik (The Phantom) : Can you even dare to look
+
+479
+00:44:15,326 --> 00:44:18,954
+Erik (The Phantom) : Or bear to think of me
+
+480
+00:44:18,955 --> 00:44:26,173
+Erik (The Phantom) : This loathsome gargoyle who burns in hell
+
+481
+00:44:26,174 --> 00:44:31,250
+Erik (The Phantom) : But secretly yearns for heaven
+
+482
+00:44:31,251 --> 00:44:35,610
+Erik (The Phantom) : Secretly secretly
+
+483
+00:44:37,502 --> 00:44:39,289
+Erik (The Phantom) : But Christine
+
+484
+00:44:41,100 --> 00:44:45,020
+Erik (The Phantom) : Fear can turn to love
+
+485
+00:44:45,021 --> 00:44:47,889
+Erik (The Phantom) : You'll learn to see
+
+486
+00:44:47,890 --> 00:44:53,746
+Erik (The Phantom) : To find the man behind the monster
+
+487
+00:44:53,747 --> 00:44:58,209
+Erik (The Phantom) : This repulsive carcass
+
+488
+00:44:58,210 --> 00:45:01,440
+Erik (The Phantom) : Who seems a beast
+
+489
+00:45:01,441 --> 00:45:06,673
+Erik (The Phantom) : But secretly dreams of beauty
+
+490
+00:45:06,674 --> 00:45:13,197
+Erik (The Phantom) : Secretly secretly
+
+491
+00:45:17,178 --> 00:45:18,224
+Erik (The Phantom) : Oh Christine
+
+492
+00:45:19,398 --> 00:45:19,919
+Erik (The Phantom) : No
+
+493
+00:45:47,773 --> 00:45:49,278
+Erik (The Phantom) : Come we must return
+
+494
+00:45:49,419 --> 00:45:53,286
+Erik (The Phantom) : Those two fools who run my theatre will be missing you j
+
+495
+00:45:54,816 --> 00:45:56,925
+Meg Giry : Let's go this way
+
+496
+00:46:03,223 --> 00:46:05,318
+Meg Giry : Quick Come this way
+
+497
+00:46:12,022 --> 00:46:15,486
+Joseph Buquet : Like yellow parchment is his skin
+
+498
+00:46:16,219 --> 00:46:20,367
+Joseph Buquet : A great black hole serves as the nose which never grew
+
+499
+00:46:23,748 --> 00:46:26,909
+Joseph Buquet : You must be always on your guard
+
+500
+00:46:26,919 --> 00:46:31,207
+Joseph Buquet : Or he will catch you with his magical lasso
+
+501
+00:46:38,052 --> 00:46:40,856
+Madame Giry : Those who speak of what they know
+
+502
+00:46:40,857 --> 00:46:45,424
+Madame Giry : Find too late that prudent silence is wise
+
+503
+00:46:45,846 --> 00:46:49,088
+Madame Giry : Joseph Buquet hold your tongue
+
+504
+00:46:49,089 --> 00:46:56,324
+Madame Giry : He will burn you with the heat of his eyes
+
+505
+00:47:03,315 --> 00:47:06,077
+Monsieur Richard Firmin : Mystery after gala night
+
+506
+00:47:06,078 --> 00:47:08,599
+Monsieur Richard Firmin : It says Mystery of soprano's flight
+
+507
+00:47:08,600 --> 00:47:11,010
+Monsieur Richard Firmin : Mystified baffled Sret say
+
+508
+00:47:11,011 --> 00:47:13,681
+Monsieur Richard Firmin : We are mystified We suspect foul play
+
+509
+00:47:13,682 --> 00:47:16,216
+Monsieur Richard Firmin : Bad news on soprano scene
+
+510
+00:47:16,217 --> 00:47:18,563
+Monsieur Richard Firmin : First Carlotta now Christine
+
+511
+00:47:18,564 --> 00:47:21,718
+Monsieur Richard Firmin : Still at least the seats get sold
+
+512
+00:47:21,729 --> 00:47:26,646
+Monsieur Richard Firmin : Gossip's worth its weight in gold
+
+513
+00:47:27,910 --> 00:47:29,992
+Monsieur Richard Firmin : Diva tenders resignation
+
+514
+00:47:30,777 --> 00:47:32,722
+Monsieur Richard Firmin : Cover does a moonlight flit
+
+515
+00:47:32,723 --> 00:47:36,073
+Monsieur Richard Firmin : Half your cast disappears but the crowd still cheers
+
+516
+00:47:36,074 --> 00:47:40,520
+Monsieur Richard Firmin : Opera to hell with Gluck and Handel Have a scandal and you're sure to have a hit
+
+517
+00:47:40,654 --> 00:47:42,799
+Monsieur Gilles André : Damnable will they all walk out
+
+518
+00:47:42,824 --> 00:47:44,089
+Monsieur Gilles André : This is damnable
+
+519
+00:47:44,090 --> 00:47:49,267
+Monsieur Richard Firmin : Andr please don't shout It's publicity And the take is vast Free publicity
+
+520
+00:47:49,268 --> 00:47:50,514
+Monsieur Gilles André : But we have no cast
+
+521
+00:47:50,618 --> 00:47:53,429
+Monsieur Gilles André : But Andr have you seen the queue
+
+522
+00:47:53,430 --> 00:47:56,915
+Monsieur Richard Firmin : Oh it seems you've got one too
+
+523
+00:47:57,129 --> 00:47:58,670
+Monsieur Richard Firmin : Hmm
+
+524
+00:48:01,163 --> 00:48:04,754
+Monsieur Gilles André : Dear Andr what a charming gala
+
+525
+00:48:04,869 --> 00:48:07,348
+Monsieur Gilles André : Christine enjoyed a great success
+
+526
+00:48:07,349 --> 00:48:10,642
+Monsieur Gilles André : We were hardly bereft when Carlotta left
+
+527
+00:48:10,643 --> 00:48:15,352
+Monsieur Gilles André : Otherwise the chorus was entrancing But the dancing was a lamentable mess
+
+528
+00:48:15,368 --> 00:48:18,073
+Monsieur Gilles André : Dear Firmin just a brief reminder
+
+529
+00:48:18,074 --> 00:48:20,469
+Monsieur Richard Firmin : My salary has not been paid
+
+530
+00:48:20,681 --> 00:48:23,900
+Monsieur Richard Firmin : Send it care of the Ghost by return of post
+
+531
+00:48:23,910 --> 00:48:29,927
+Monsieur Richard Firmin : PTO no one likes a debtor So it's better if my orders are obeyed
+
+532
+00:48:29,928 --> 00:48:32,307
+Monsieur Richard Firmin : Who would have the gall to send this
+
+533
+00:48:32,490 --> 00:48:34,898
+Monsieur Richard Firmin;Monsieur Gilles André : Someone with a puerile brain
+
+534
+00:48:35,087 --> 00:48:38,090
+Monsieur Richard Firmin;Monsieur Gilles André : These are both signed O. G Who the hell is he
+
+535
+00:48:38,258 --> 00:48:39,326
+Monsieur Richard Firmin;Monsieur Gilles André : Opera Ghost
+
+536
+00:48:39,425 --> 00:48:40,689
+Monsieur Richard Firmin;Monsieur Gilles André : It's really not amusing
+
+537
+00:48:40,690 --> 00:48:42,054
+Monsieur Richard Firmin : He's abusing our position
+
+538
+00:48:42,055 --> 00:48:43,366
+Monsieur Gilles André : In addition he wants money
+
+539
+00:48:43,367 --> 00:48:44,811
+Monsieur Richard Firmin : He's a funny sort of spectre
+
+540
+00:48:44,812 --> 00:48:47,994
+Monsieur Gilles André : To expect a large retainer Nothing plainer He is clearly quite insane
+
+541
+00:48:47,995 --> 00:48:48,770
+Monsieur Gilles André;Monsieur Richard Firmin : Where is she
+
+542
+00:48:48,795 --> 00:48:49,531
+Monsieur Richard Firmin;Monsieur Gilles André : You mean Carlotta
+
+543
+00:48:49,584 --> 00:48:51,342
+Monsieur Gilles André : I mean Miss Daa Where is she
+
+544
+00:48:51,367 --> 00:48:52,266
+Raoul : Well how should we know
+
+545
+00:48:52,267 --> 00:48:53,211
+Raoul : I want an answer
+
+546
+00:48:53,212 --> 00:48:54,316
+Raoul : I take it that you sent me this note
+
+547
+00:48:54,317 --> 00:48:55,778
+Monsieur Richard Firmin : What's all this nonsense
+
+548
+00:48:55,803 --> 00:48:57,634
+Monsieur Gilles André : Of course not Don't look at us
+
+549
+00:48:57,635 --> 00:48:58,472
+Raoul : She's not with you then
+
+550
+00:48:58,473 --> 00:48:59,703
+Monsieur Richard Firmin : Of course not
+
+551
+00:48:59,704 --> 00:49:00,328
+Monsieur Gilles André : We're in the dark
+
+552
+00:49:00,329 --> 00:49:01,479
+Raoul : Monsieur don't argue
+
+553
+00:49:01,504 --> 00:49:03,055
+Raoul : Isn't this the letter you wrote
+
+554
+00:49:03,056 --> 00:49:05,718
+Monsieur Richard Firmin : And what is it that we're meant to have wrote
+
+555
+00:49:06,761 --> 00:49:08,653
+Monsieur Richard Firmin : Written
+
+556
+00:49:10,620 --> 00:49:13,644
+Monsieur Gilles André : Do not fear for Miss Daa
+
+557
+00:49:13,703 --> 00:49:18,238
+Monsieur Gilles André : The Angel of Music has her under his wing
+
+558
+00:49:18,256 --> 00:49:22,698
+Monsieur Gilles André : Make no attempt to see her again
+
+559
+00:49:22,730 --> 00:49:25,579
+Raoul : Well if you didn't write it who did
+
+560
+00:49:26,453 --> 00:49:28,184
+Carlotta Giudicelli : Where is he
+
+561
+00:49:28,185 --> 00:49:28,827
+Monsieur Gilles André : Ah welcome back
+
+562
+00:49:28,828 --> 00:49:29,795
+Carlotta Giudicelli : Your precious patron
+
+563
+00:49:29,806 --> 00:49:30,844
+Carlotta Giudicelli;Ubaldo Piangi : Where is he
+
+564
+00:49:30,845 --> 00:49:31,672
+Raoul : What is it now
+
+565
+00:49:31,674 --> 00:49:34,433
+Carlotta Giudicelli : I have your letter A letter which I rather resent
+
+566
+00:49:34,446 --> 00:49:35,207
+Monsieur Richard Firmin : Did you send it
+
+567
+00:49:35,208 --> 00:49:36,403
+Raoul : Of course not
+
+568
+00:49:36,404 --> 00:49:37,146
+Ubaldo Piangi : As if he would
+
+569
+00:49:37,147 --> 00:49:38,073
+Carlotta Giudicelli;Ubaldo Piangi : You didn't send it
+
+570
+00:49:38,074 --> 00:49:39,177
+Raoul : Of course not
+
+571
+00:49:39,178 --> 00:49:40,001
+Monsieur Richard Firmin : What's going on
+
+572
+00:49:40,002 --> 00:49:42,789
+Carlotta Giudicelli : You dare to tell me that this is not the letter you sent
+
+573
+00:49:42,790 --> 00:49:45,270
+Raoul : And what is it that I'm meant to have sent
+
+574
+00:49:48,917 --> 00:49:53,501
+Raoul : Your days at the Opera Populaire are numbered
+
+575
+00:49:54,008 --> 00:49:58,051
+Raoul : Christine Daa will be singing on your behalf tonight
+
+576
+00:49:58,052 --> 00:50:01,719
+Raoul : Be prepared for a great misfortune
+
+577
+00:50:01,720 --> 00:50:05,684
+Raoul : Should you attempt to take her place
+
+578
+00:50:06,254 --> 00:50:09,452
+Monsieur Richard Firmin;Monsieur Gilles André : Far too many notes for my taste
+
+579
+00:50:09,453 --> 00:50:11,769
+Monsieur Richard Firmin;Monsieur Gilles André : And most of them about Christine
+
+580
+00:50:11,770 --> 00:50:17,706
+Monsieur Richard Firmin;Monsieur Gilles André : All we've heard since we came is Miss Daas name
+
+581
+00:50:17,854 --> 00:50:19,406
+Madame Giry : Miss Daa has returned
+
+582
+00:50:19,407 --> 00:50:21,803
+Monsieur Richard Firmin : In which case I think our meeting is adjourned
+
+583
+00:50:21,804 --> 00:50:23,851
+Monsieur Gilles André : Where precisely is she now
+
+584
+00:50:23,959 --> 00:50:26,173
+Madame Giry : I thought it best that she went home
+
+585
+00:50:26,198 --> 00:50:27,898
+Meg Giry : She needed rest
+
+586
+00:50:28,200 --> 00:50:29,338
+Raoul : May I see her
+
+587
+00:50:29,346 --> 00:50:31,337
+Madame Giry : No monsieur she will see no one
+
+588
+00:50:31,338 --> 00:50:32,210
+Carlotta Giudicelli;Ubaldo Piangi : Will she sing
+
+589
+00:50:32,211 --> 00:50:33,422
+Carlotta Giudicelli : Will she sing
+
+590
+00:50:33,455 --> 00:50:34,828
+Madame Giry : Here I have a note
+
+591
+00:50:34,829 --> 00:50:35,276
+Carlotta Giudicelli;Ubaldo Piangi : Let me see it
+
+592
+00:50:35,277 --> 00:50:36,176
+Monsieur Richard Firmin : Please
+
+593
+00:50:42,435 --> 00:50:48,639
+Monsieur Richard Firmin : Gentlemen I have now sent you several notes of the most amiable nature
+
+594
+00:50:48,640 --> 00:50:53,776
+Monsieur Richard Firmin : detailing how my theatre is to be run
+
+595
+00:50:54,929 --> 00:50:56,230
+Monsieur Richard Firmin : Hmm
+
+596
+00:50:57,341 --> 00:51:00,787
+Monsieur Richard Firmin : You have not followed my instructions
+
+597
+00:51:01,244 --> 00:51:06,051
+Erik (The Phantom);Monsieur Richard Firmin : I shall give you one last chance
+
+598
+00:51:06,604 --> 00:51:10,969
+Erik (The Phantom) : Christine Daa has returned to you
+
+599
+00:51:11,361 --> 00:51:17,385
+Erik (The Phantom) : And I am anxious her career should progress
+
+600
+00:51:17,954 --> 00:51:22,307
+Erik (The Phantom) : In the new production of El Muto
+
+601
+00:51:22,332 --> 00:51:28,009
+Erik (The Phantom) : You will therefore cast Carlotta as the pageboy
+
+602
+00:51:28,897 --> 00:51:35,360
+Erik (The Phantom) : And put Miss Daa in the role of Countess
+
+603
+00:51:35,828 --> 00:51:43,871
+Erik (The Phantom) : The role which Miss Daa plays calls for charm and appeal
+
+604
+00:51:44,147 --> 00:51:48,118
+Erik (The Phantom) : The role of the pageboy is silent
+
+605
+00:51:48,232 --> 00:51:55,745
+Erik (The Phantom) : Which makes my casting in a word ideal
+
+606
+00:51:57,560 --> 00:52:02,453
+Erik (The Phantom) : I shall watch the performance from my normal seat in Box Five
+
+607
+00:52:02,454 --> 00:52:04,843
+Erik (The Phantom) : which will be kept empty for me
+
+608
+00:52:05,322 --> 00:52:07,784
+Erik (The Phantom);Monsieur Richard Firmin : Should these commands be ignored
+
+609
+00:52:07,794 --> 00:52:12,410
+Erik (The Phantom);Monsieur Richard Firmin : a disaster beyond your imagination will occur
+
+610
+00:52:13,068 --> 00:52:20,138
+Monsieur Richard Firmin : I remain gentlemen your obedient servant O. G
+
+611
+00:52:21,289 --> 00:52:26,161
+Meg Giry : Christine Christine
+
+612
+00:52:26,162 --> 00:52:27,324
+Carlotta Giudicelli : Christine
+
+613
+00:52:27,325 --> 00:52:28,070
+Raoul : Whatever next
+
+614
+00:52:28,095 --> 00:52:30,159
+Carlotta Giudicelli;Ubaldo Piangi : It's all a ploy to help Christine
+
+615
+00:52:30,181 --> 00:52:31,009
+Monsieur Gilles André : This is insane
+
+616
+00:52:31,010 --> 00:52:31,969
+Carlotta Giudicelli : I know who sent this
+
+617
+00:52:31,970 --> 00:52:33,370
+Carlotta Giudicelli : The Vicomte her lover
+
+618
+00:52:33,371 --> 00:52:34,645
+Raoul : Indeed Can you believe this
+
+619
+00:52:34,712 --> 00:52:35,355
+Monsieur Richard Firmin : Signora
+
+620
+00:52:35,356 --> 00:52:36,075
+Carlotta Giudicelli;Ubaldo Piangi : How can you do this
+
+621
+00:52:36,076 --> 00:52:37,542
+Carlotta Giudicelli;Ubaldo Piangi : O traditori O mentitori
+
+622
+00:52:37,543 --> 00:52:38,775
+Monsieur Richard Firmin : Signora
+
+623
+00:52:38,776 --> 00:52:40,314
+Monsieur Gilles André : You are our star
+
+624
+00:52:40,315 --> 00:52:41,059
+Monsieur Richard Firmin : And always will be
+
+625
+00:52:41,060 --> 00:52:42,392
+Monsieur Gilles André : Signora
+
+626
+00:52:42,393 --> 00:52:43,070
+Monsieur Richard Firmin : The man is mad
+
+627
+00:52:43,141 --> 00:52:46,817
+Monsieur Richard Firmin : We don't take orders Miss Daa will be playing the pageboy
+
+628
+00:52:46,818 --> 00:52:48,956
+Monsieur Richard Firmin : The silent role
+
+629
+00:52:48,957 --> 00:52:51,494
+Monsieur Richard Firmin;Monsieur Gilles André : Carlotta will be playing the lead
+
+630
+00:52:51,521 --> 00:52:53,391
+Ubaldo Piangi : You don't deserve her
+
+631
+00:52:53,464 --> 00:52:56,263
+Carlotta Giudicelli : It's useless trying to appease me
+
+632
+00:52:56,264 --> 00:52:58,050
+Ubaldo Piangi : Appease her
+
+633
+00:52:58,086 --> 00:52:59,950
+Carlotta Giudicelli : You're only saying this to please me
+
+634
+00:52:59,951 --> 00:53:01,609
+Ubaldo Piangi : To please her
+
+635
+00:53:01,687 --> 00:53:03,107
+Carlotta Giudicelli : Signori vero
+
+636
+00:53:03,242 --> 00:53:06,924
+Carlotta Giudicelli;Ubaldo Piangi : No no non voglio udire Lasciatemi morire
+
+637
+00:53:07,154 --> 00:53:10,591
+Carlotta Giudicelli;Ubaldo Piangi : O Padre mio Dio
+
+638
+00:53:10,592 --> 00:53:13,667
+Madame Giry : Who scorn his word beware to those
+
+639
+00:53:13,668 --> 00:53:14,653
+Madame Giry : The Angel sees The Angel knows
+
+640
+00:53:14,654 --> 00:53:16,120
+Raoul : Why did Christine fly from my arms
+
+641
+00:53:16,121 --> 00:53:17,902
+Carlotta Giudicelli : You have rebuked me
+
+642
+00:53:17,903 --> 00:53:19,501
+Monsieur Richard Firmin;Monsieur Gilles André : Signora pardon us
+
+643
+00:53:19,502 --> 00:53:21,536
+Carlotta Giudicelli : You have replaced me
+
+644
+00:53:21,561 --> 00:53:23,525
+Monsieur Richard Firmin;Monsieur Gilles André : Please signora we beseech you
+
+645
+00:53:23,593 --> 00:53:25,221
+Madame Giry : This hour shall see your darkest fears
+
+646
+00:53:25,222 --> 00:53:26,653
+Raoul : I must see her
+
+647
+00:53:26,663 --> 00:53:28,085
+Madame Giry : The Angel knows The Angel hears
+
+648
+00:53:28,086 --> 00:53:30,664
+Carlotta Giudicelli : Abbandonata desiderata O sventura disgraziata
+
+649
+00:53:30,689 --> 00:53:32,335
+Monsieur Richard Firmin;Monsieur Gilles André : Signora sing for us
+
+650
+00:53:32,336 --> 00:53:35,151
+Carlotta Giudicelli : Abbandonata Don't be unfeeling
+
+651
+00:53:35,304 --> 00:53:40,030
+All : What new surprises are in store Our star
+
+652
+00:53:48,719 --> 00:53:52,225
+Monsieur Gilles André : Your public needs you
+
+653
+00:53:53,088 --> 00:53:56,241
+Monsieur Richard Firmin : We need you too
+
+654
+00:53:56,982 --> 00:54:02,764
+Carlotta Giudicelli : Would you not rather have your precious little ingnue
+
+655
+00:54:02,789 --> 00:54:08,801
+Monsieur Richard Firmin;Monsieur Gilles André : Signora no The world wants you
+
+656
+00:54:11,290 --> 00:54:17,472
+Monsieur Richard Firmin;Monsieur Gilles André : Prima donna first lady of the stage
+
+657
+00:54:17,473 --> 00:54:23,919
+Monsieur Richard Firmin;Monsieur Gilles André : Your devotees are on their knees to implore you
+
+658
+00:54:24,021 --> 00:54:30,826
+Monsieur Gilles André : Can you bow out when they're shouting your name
+
+659
+00:54:31,028 --> 00:54:36,604
+Monsieur Richard Firmin : Think of how they all adore you
+
+660
+00:54:36,937 --> 00:54:43,329
+Monsieur Richard Firmin;Monsieur Gilles André : Prima donna enchant us once again
+
+661
+00:54:43,330 --> 00:54:44,814
+Monsieur Gilles André : Think of your muse
+
+662
+00:54:44,868 --> 00:54:49,773
+Monsieur Richard Firmin : And of the queues round the theatre
+
+663
+00:54:50,182 --> 00:54:55,767
+Monsieur Gilles André;Monsieur Richard Firmin : Can you deny us the triumph in store
+
+664
+00:54:55,768 --> 00:54:59,608
+Ubaldo Piangi;Monsieur Richard Firmin;Monsieur Gilles André : Sing prima donna once more
+
+665
+00:54:59,737 --> 00:55:02,961
+Raoul : Christine spoke of an angel
+
+666
+00:55:02,986 --> 00:55:08,764
+Carlotta Giudicelli : Prima donna your song shall live again
+
+667
+00:55:08,765 --> 00:55:09,554
+Carlotta Giudicelli : You took a snub
+
+668
+00:55:09,555 --> 00:55:10,388
+Ubaldo Piangi;Monsieur Richard Firmin;Monsieur Gilles André : Think of your public
+
+669
+00:55:10,389 --> 00:55:13,129
+Carlotta Giudicelli : But there's a public who needs you
+
+670
+00:55:13,269 --> 00:55:16,372
+Ubaldo Piangi;Monsieur Richard Firmin;Monsieur Gilles André : Those who hear your voice liken you to an angel
+
+671
+00:55:16,397 --> 00:55:17,448
+Madame Giry : Think of their cry of undying support
+
+672
+00:55:17,449 --> 00:55:21,244
+Raoul : Is this the Angel of Music
+
+673
+00:55:21,245 --> 00:55:22,770
+Monsieur Gilles André : We get our opera
+
+674
+00:55:22,931 --> 00:55:28,635
+Monsieur Richard Firmin : She gets her limelight Follow where the limelight leads you Leading ladies are a trial
+
+675
+00:55:28,660 --> 00:55:34,447
+Carlotta Giudicelli : Prima donna your song will never die
+
+676
+00:55:34,448 --> 00:55:40,864
+Carlotta Giudicelli : You'll sing again and to an unending ovation
+
+677
+00:55:41,379 --> 00:55:46,891
+Carlotta Giudicelli : Think how you'll shine in that final encore
+
+678
+00:55:46,916 --> 00:55:51,736
+Carlotta Giudicelli : Sing prima donna once more
+
+679
+00:55:51,761 --> 00:55:53,953
+Raoul;Madame Giry;Monsieur Richard Firmin : demands are rejected
+
+680
+00:55:53,978 --> 00:56:00,055
+Monsieur Richard Firmin;Monsieur Gilles André : Who'd believe a diva happy to relieve a chorus girl Who's gone and slept with the patron
+
+681
+00:56:00,080 --> 00:56:02,611
+Monsieur Gilles André;Monsieur Richard Firmin : Raoul and the soubrette entwined in love's duet
+
+682
+00:56:02,612 --> 00:56:05,672
+Monsieur Richard Firmin;Monsieur Gilles André : Although he may demur He must have been with her
+
+683
+00:56:05,673 --> 00:56:08,728
+Monsieur Richard Firmin;Monsieur Gilles André : You'd never get away with all this in a play
+
+684
+00:56:08,729 --> 00:56:11,717
+Monsieur Richard Firmin;Monsieur Gilles André : But if it's loudly sung and in a foreign tongue
+
+685
+00:56:11,742 --> 00:56:14,787
+Monsieur Richard Firmin;Monsieur Gilles André : It's just the sort of story audiences adore
+
+686
+00:56:14,788 --> 00:56:16,580
+Monsieur Richard Firmin;Monsieur Gilles André : In fact a perfect opera
+
+687
+00:56:16,581 --> 00:56:18,691
+Madame Giry : For if his curse is on this opera
+
+688
+00:56:18,716 --> 00:56:24,019
+Monsieur Richard Firmin;Monsieur Gilles André : Prima donna the world is at your feet
+
+689
+00:56:24,020 --> 00:56:31,035
+Monsieur Richard Firmin;Monsieur Gilles André : A nation waits and how it hates to be cheated
+
+690
+00:56:31,036 --> 00:56:37,620
+Monsieur Richard Firmin;Monsieur Gilles André;Carlotta Giudicelli;Ubaldo Piangi : Light up the stage with that ageold rapport
+
+691
+00:56:37,645 --> 00:56:42,516
+Carlotta Giudicelli;Ubaldo Piangi;Monsieur Richard Firmin;Monsieur Gilles André : Sing prima donna
+
+692
+00:56:42,668 --> 00:56:51,127
+Carlotta Giudicelli;Ubaldo Piangi;Monsieur Richard Firmin;Monsieur Gilles André : Once more
+
+693
+00:56:51,217 --> 00:56:54,405
+Erik (The Phantom) : So it is to be war between us
+
+694
+00:56:54,527 --> 00:56:57,081
+Erik (The Phantom) : If these demands are not met
+
+695
+00:56:57,227 --> 00:57:02,798
+Erik (The Phantom) : a disaster beyond imagination will occur
+
+696
+00:57:03,487 --> 00:57:13,652
+Carlotta Giudicelli;Ubaldo Piangi;Monsieur Richard Firmin;Monsieur Gilles André : Once more
+
+697
+00:57:34,931 --> 00:57:39,126
+Monsieur Richard Firmin : Gentlemen if you would care to take your seats We shall be sitting in Box Five
+
+698
+00:57:39,151 --> 00:57:41,570
+Monsieur Gilles André : Do you really think that's wise monsieur
+
+699
+00:57:41,571 --> 00:57:46,649
+Monsieur Richard Firmin : My dear Andr there would appear to be no seats available other than Box Five
+
+700
+00:58:01,032 --> 00:58:05,718
+Woman : They say that this youth has set my lady's heart aflame
+
+701
+00:58:05,719 --> 00:58:07,848
+Man : His Lordship sure would die of shock
+
+702
+00:58:07,873 --> 00:58:10,128
+Man : His Lordship is a laughing stock
+
+703
+00:58:10,129 --> 00:58:12,454
+Woman : Should he suspect her God protect her
+
+704
+00:58:12,455 --> 00:58:14,272
+Man;Woman : Shame shame shame
+
+705
+00:58:14,508 --> 00:58:19,760
+Woman;Man : This faithless lady's bound for Hades
+
+706
+00:58:19,761 --> 00:58:22,272
+Woman;Man : Shame shame shame
+
+707
+00:58:23,471 --> 00:58:26,944
+Carlotta Giudicelli : Serafimo your disguise is perfect
+
+708
+00:58:28,497 --> 00:58:31,791
+Carlotta Giudicelli : Why who can this be
+
+709
+00:58:31,943 --> 00:58:37,416
+Ubaldo Piangi : Gentle wife admit your loving husband
+
+710
+00:58:37,417 --> 00:58:38,741
+Monsieur Richard Firmin : Every seat sold
+
+711
+00:58:38,767 --> 00:58:41,868
+Monsieur Gilles André : Hardly a disaster beyond imagination
+
+712
+00:58:43,195 --> 00:58:49,684
+Ubaldo Piangi : My love I am called to England on affairs of State
+
+713
+00:58:49,992 --> 00:58:55,447
+Ubaldo Piangi : And must leave you with your new maid
+
+714
+00:58:56,467 --> 00:59:00,018
+Ubaldo Piangi : Though I'd happily take the maid with me
+
+715
+00:59:00,500 --> 00:59:04,168
+Carlotta Giudicelli : The old fool's leaving
+
+716
+00:59:05,294 --> 00:59:09,259
+Ubaldo Piangi : I suspect my young bride is untrue to me
+
+717
+00:59:09,260 --> 00:59:14,139
+Ubaldo Piangi : I shall not leave but shall hide over there
+
+718
+00:59:14,140 --> 00:59:21,676
+Ubaldo Piangi : To observe her
+
+719
+00:59:22,622 --> 00:59:25,752
+Ubaldo Piangi : Addio
+
+720
+00:59:33,520 --> 00:59:38,655
+Carlotta Giudicelli;Ubaldo Piangi : Addio
+
+721
+00:59:40,329 --> 00:59:44,466
+Carlotta Giudicelli : Serafimo away with this pretence
+
+722
+00:59:44,467 --> 00:59:47,014
+Carlotta Giudicelli : You cannot speak
+
+723
+00:59:47,014 --> 00:59:51,922
+Carlotta Giudicelli : But kiss me in my husband's absence
+
+724
+00:59:57,693 --> 01:00:02,332
+Carlotta Giudicelli : Poor fool he makes me laugh Ha ha ha ha ha
+
+725
+01:00:02,332 --> 01:00:07,124
+Carlotta Giudicelli : Ha ha ha ha ha ha ha ha Ha ha ha ha ha ha ha ha
+
+726
+01:00:07,125 --> 01:00:10,889
+Carlotta Giudicelli : Time I tried to get a better better half
+
+727
+01:00:10,890 --> 01:00:15,647
+Ensemble : Poor fool he doesn't know Ho ho ho ho ho
+
+728
+01:00:15,656 --> 01:00:20,198
+Ensemble : Ho ho ho ho ho ho ho ho Ho ho ho ho ho ho ho ho
+
+729
+01:00:20,223 --> 01:00:24,065
+Ensemble : If he knew the truth he'd never ever go
+
+730
+01:00:24,184 --> 01:00:29,660
+Erik (The Phantom) : Did I not instruct that Box Five was to be kept empty
+
+731
+01:00:29,661 --> 01:00:33,472
+Meg Giry : He's here The Phantom of the Opera
+
+732
+01:00:33,473 --> 01:00:35,730
+Christine Daaé : It's him I know it It's him
+
+733
+01:00:36,371 --> 01:00:36,971
+Monsieur Richard Firmin : Calm down
+
+734
+01:00:37,451 --> 01:00:41,056
+Carlotta Giudicelli : Your part is silent little toad
+
+735
+01:00:41,595 --> 01:00:43,834
+Erik (The Phantom) : A toad madame
+
+736
+01:00:44,602 --> 01:00:48,716
+Erik (The Phantom) : Perhaps it is you who are the toad
+
+737
+01:00:50,214 --> 01:00:52,956
+Carlotta Giudicelli : Maestro da capo per piacere
+
+738
+01:00:55,837 --> 01:01:00,136
+Carlotta Giudicelli : Serafimo away with this pretence
+
+739
+01:01:00,533 --> 01:01:05,909
+Carlotta Giudicelli : You cannot speak but kiss me in my
+
+740
+01:01:11,937 --> 01:01:17,026
+Carlotta Giudicelli : Poor fool he makes me laugh Ha ha ha ha ha
+
+741
+01:01:21,433 --> 01:01:23,135
+Man : Maestro Maestro no
+
+742
+01:01:23,136 --> 01:01:28,010
+Erik (The Phantom) : Behold She is singing to bring down the chandelier
+
+743
+01:01:28,358 --> 01:01:30,706
+Monsieur Richard Firmin : Ladies and gentlemen we apologise
+
+744
+01:01:30,728 --> 01:01:32,868
+Monsieur Richard Firmin : The performance will continue in 10 minutes time
+
+745
+01:01:32,869 --> 01:01:38,809
+Monsieur Richard Firmin : when the role of the Countess will be sung by Miss Christine Daa
+
+746
+01:01:38,810 --> 01:01:42,303
+Monsieur Gilles André : Ladies and gentlemen
+
+747
+01:01:44,821 --> 01:01:49,266
+Monsieur Gilles André : Oh In the meantime ladies and gentlemen
+
+748
+01:01:49,267 --> 01:01:52,147
+Monsieur Gilles André : we shall be giving you the ballet
+
+749
+01:01:52,171 --> 01:01:55,128
+Monsieur Gilles André : Uh from Act
+
+750
+01:01:58,360 --> 01:02:01,216
+Monsieur Gilles André : Three of tonight's opera
+
+751
+01:02:01,241 --> 01:02:05,156
+Monsieur Gilles André : Maestro bring the ballet forward
+
+752
+01:02:09,624 --> 01:02:13,367
+Monsieur Gilles André : The ballet Now
+
+753
+01:04:11,114 --> 01:04:15,308
+Monsieur Richard Firmin : Ladies and gentlemen please remain in your seats
+
+754
+01:04:15,309 --> 01:04:17,948
+Monsieur Richard Firmin : Do not panic It was an accident
+
+755
+01:04:17,949 --> 01:04:20,221
+Monsieur Richard Firmin : Simply an accident
+
+756
+01:04:34,439 --> 01:04:36,514
+Raoul : Why have you brought us here
+
+757
+01:04:36,515 --> 01:04:37,525
+Christine Daaé : Don't take me back there
+
+758
+01:04:37,526 --> 01:04:38,698
+Raoul : We must return
+
+759
+01:04:38,699 --> 01:04:39,481
+Christine Daaé : He'll kill me
+
+760
+01:04:39,481 --> 01:04:41,708
+Christine Daaé : His eyes will find me there
+
+761
+01:04:41,709 --> 01:04:42,558
+Raoul : Christine don't say that
+
+762
+01:04:42,559 --> 01:04:43,877
+Christine Daaé : Those eyes that burn
+
+763
+01:04:43,878 --> 01:04:44,258
+Raoul : Don't even think it
+
+764
+01:04:44,259 --> 01:04:47,782
+Christine Daaé : And if he has to kill a thousand men
+
+765
+01:04:47,783 --> 01:04:48,304
+Raoul : Forget this
+
+766
+01:04:48,305 --> 01:04:48,830
+Raoul : waking nightmare
+
+767
+01:04:48,831 --> 01:04:49,645
+Christine Daaé : The Phantom of the Opera will kill again
+
+768
+01:04:49,646 --> 01:04:54,265
+Raoul : The Phantom is a fable Believe me there is no Phantom of the Opera
+
+769
+01:04:54,332 --> 01:04:56,049
+Christine Daaé : My God who is this man
+
+770
+01:04:56,069 --> 01:04:57,551
+Raoul : My God who is this man
+
+771
+01:04:57,552 --> 01:04:59,038
+Christine Daaé : Who hunts to kill
+
+772
+01:04:59,039 --> 01:05:00,478
+Raoul : This mask of death
+
+773
+01:05:00,479 --> 01:05:02,219
+Christine Daaé : I can't escape from him
+
+774
+01:05:02,220 --> 01:05:03,634
+Raoul : Whose is this voice you hear
+
+775
+01:05:03,635 --> 01:05:05,187
+Christine Daaé : I never will
+
+776
+01:05:05,188 --> 01:05:06,635
+Raoul : With every breath
+
+777
+01:05:06,636 --> 01:05:12,142
+Christine Daaé;Raoul : And in this labyrinth where night is blind
+
+778
+01:05:12,143 --> 01:05:17,265
+Christine Daaé;Raoul : The Phantom of the Opera is here The Phantom of the Opera is there
+
+779
+01:05:17,490 --> 01:05:18,450
+Christine Daaé : Inside my mind
+
+780
+01:05:18,451 --> 01:05:19,328
+Raoul : Inside your mind
+
+781
+01:05:19,329 --> 01:05:23,033
+Raoul : There is no Phantom of the Opera
+
+782
+01:05:23,108 --> 01:05:26,446
+Christine Daaé : Raoul I've been there
+
+783
+01:05:26,446 --> 01:05:29,367
+Christine Daaé : To his world of unending night
+
+784
+01:05:29,514 --> 01:05:34,308
+Christine Daaé : To a world where the daylight dissolves into darkness
+
+785
+01:05:34,361 --> 01:05:36,895
+Christine Daaé : Darkness
+
+786
+01:05:36,896 --> 01:05:40,631
+Christine Daaé : Raoul I've seen him
+
+787
+01:05:40,632 --> 01:05:44,301
+Christine Daaé : Can I ever forget that sight
+
+788
+01:05:44,302 --> 01:05:47,829
+Christine Daaé : Can I ever escape from that face
+
+789
+01:05:47,830 --> 01:05:50,717
+Christine Daaé : So distorted deformed
+
+790
+01:05:50,718 --> 01:05:57,634
+Christine Daaé : It was hardly a face in that darkness
+
+791
+01:05:58,523 --> 01:06:01,913
+Christine Daaé : Darkness
+
+792
+01:06:04,687 --> 01:06:12,234
+Christine Daaé : But his voice filled my spirit
+
+793
+01:06:12,235 --> 01:06:15,640
+Christine Daaé : With a strange sweet sound
+
+794
+01:06:15,902 --> 01:06:20,135
+Christine Daaé : In that night there was music
+
+795
+01:06:20,145 --> 01:06:23,678
+Christine Daaé : In my mind
+
+796
+01:06:23,984 --> 01:06:27,490
+Christine Daaé : And through music
+
+797
+01:06:27,491 --> 01:06:38,276
+Christine Daaé : My soul began to soar
+
+798
+01:06:39,640 --> 01:06:42,975
+Christine Daaé : And I heard
+
+799
+01:06:43,000 --> 01:06:45,044
+Christine Daaé : As I'd never heard before
+
+800
+01:06:45,045 --> 01:06:51,680
+Raoul : What you heard was a dream and nothing more
+
+801
+01:06:54,269 --> 01:06:58,075
+Christine Daaé : Yet in his eyes
+
+802
+01:06:58,100 --> 01:07:05,771
+Christine Daaé : All the sadness of the world
+
+803
+01:07:07,194 --> 01:07:12,816
+Christine Daaé : Those pleading eyes
+
+804
+01:07:13,147 --> 01:07:17,302
+Christine Daaé : That both threaten
+
+805
+01:07:17,599 --> 01:07:24,602
+Christine Daaé : And adore
+
+806
+01:07:25,350 --> 01:07:29,124
+Erik (The Phantom) : Christine Christine
+
+807
+01:07:29,656 --> 01:07:34,277
+Erik (The Phantom) : Christine
+
+808
+01:07:34,278 --> 01:07:35,758
+Christine Daaé : What was that
+
+809
+01:07:45,564 --> 01:07:47,817
+Raoul : Christine come here
+
+810
+01:08:10,015 --> 01:08:13,648
+Raoul : No more talk of darkness
+
+811
+01:08:13,649 --> 01:08:17,527
+Raoul : Forget these wideeyed fears
+
+812
+01:08:17,528 --> 01:08:21,495
+Raoul : I'm here nothing will harm you
+
+813
+01:08:21,496 --> 01:08:25,534
+Raoul : My words will warm and calm you
+
+814
+01:08:26,298 --> 01:08:29,836
+Raoul : Let me be your freedom
+
+815
+01:08:29,837 --> 01:08:34,019
+Raoul : Let daylight dry your tears
+
+816
+01:08:34,020 --> 01:08:37,800
+Raoul : I'm here with you beside you
+
+817
+01:08:37,801 --> 01:08:41,845
+Raoul : To guard you and to guide you
+
+818
+01:08:42,638 --> 01:08:50,231
+Christine Daaé : Say you'll love me every waking moment
+
+819
+01:08:50,817 --> 01:08:58,050
+Christine Daaé : Turn my head with talk of summertime
+
+820
+01:08:58,220 --> 01:09:06,508
+Christine Daaé : Say you need me with you now and always
+
+821
+01:09:07,048 --> 01:09:13,010
+Christine Daaé : Promise me that all you say is true
+
+822
+01:09:13,887 --> 01:09:17,460
+Christine Daaé : That's all I ask of you
+
+823
+01:09:17,461 --> 01:09:20,691
+Raoul : Let me be your shelter
+
+824
+01:09:20,692 --> 01:09:23,587
+Raoul : Let me be your light
+
+825
+01:09:23,588 --> 01:09:27,191
+Raoul : You're safe no one can find you
+
+826
+01:09:27,192 --> 01:09:31,026
+Raoul : Your fears are far behind you
+
+827
+01:09:31,027 --> 01:09:33,706
+Christine Daaé : All I want is freedom
+
+828
+01:09:33,707 --> 01:09:37,529
+Christine Daaé : A world with no more night
+
+829
+01:09:37,530 --> 01:09:40,924
+Christine Daaé : And you always beside me
+
+830
+01:09:40,925 --> 01:09:44,545
+Christine Daaé : To hold me and to hide me
+
+831
+01:09:44,546 --> 01:09:49,658
+Raoul : Then say you'll share with me one love
+
+832
+01:09:49,659 --> 01:09:52,386
+Raoul : One lifetime
+
+833
+01:09:52,386 --> 01:09:59,763
+Raoul : Let me lead you from your solitude
+
+834
+01:09:59,879 --> 01:10:07,343
+Raoul : Say you need me with you Here beside you
+
+835
+01:10:07,497 --> 01:10:14,268
+Raoul : Anywhere you go let me go too
+
+836
+01:10:14,641 --> 01:10:20,761
+Raoul : Christine that's all I ask of you
+
+837
+01:10:20,809 --> 01:10:28,324
+Christine Daaé : Say you'll share with me one love One lifetime
+
+838
+01:10:28,325 --> 01:10:34,794
+Christine Daaé : Say the word and I will follow you
+
+839
+01:10:35,820 --> 01:10:44,008
+Christine Daaé;Raoul : Share each day with me Each night each morning
+
+840
+01:10:44,275 --> 01:10:47,048
+Christine Daaé : Say you love me
+
+841
+01:10:47,126 --> 01:10:51,446
+Raoul : You know I do
+
+842
+01:10:51,447 --> 01:10:53,825
+Christine Daaé;Raoul : Love me
+
+843
+01:10:53,833 --> 01:11:01,388
+Christine Daaé;Raoul : That's all I ask of you
+
+844
+01:11:22,406 --> 01:11:31,383
+Christine Daaé : Anywhere you go let me go too
+
+845
+01:11:31,384 --> 01:11:33,948
+Christine Daaé;Raoul : Love me
+
+846
+01:11:33,958 --> 01:11:39,528
+Christine Daaé;Raoul : That's all I ask
+
+847
+01:11:40,099 --> 01:11:48,648
+Christine Daaé;Raoul : Of you
+
+848
+01:12:15,568 --> 01:12:17,906
+Christine Daaé : I must go
+
+849
+01:12:17,907 --> 01:12:21,646
+Christine Daaé : They'll wonder where I am Wait for me Raoul
+
+850
+01:12:21,949 --> 01:12:26,630
+Raoul : Christine I love you
+
+851
+01:12:26,998 --> 01:12:29,992
+Christine Daaé : Order your fine horses
+
+852
+01:12:29,993 --> 01:12:33,000
+Christine Daaé : Be with them at the door
+
+853
+01:12:33,001 --> 01:12:36,106
+Raoul : And soon you'll be beside me
+
+854
+01:12:36,107 --> 01:12:40,876
+Christine Daaé : You'll guard me and you'll guide me
+
+855
+01:13:00,590 --> 01:13:07,179
+Erik (The Phantom) : I gave you my music
+
+856
+01:13:09,794 --> 01:13:18,447
+Erik (The Phantom) : Made your song take wing
+
+857
+01:13:18,448 --> 01:13:21,704
+Erik (The Phantom) : And now
+
+858
+01:13:22,371 --> 01:13:26,154
+Erik (The Phantom) : How you've repaid me
+
+859
+01:13:27,044 --> 01:13:34,556
+Erik (The Phantom) : Denied me and betrayed me
+
+860
+01:13:36,496 --> 01:13:42,181
+Erik (The Phantom) : He was bound to love you
+
+861
+01:13:43,073 --> 01:13:50,367
+Erik (The Phantom) : When he heard you sing
+
+862
+01:14:03,119 --> 01:14:05,139
+Erik (The Phantom) : Christine
+
+863
+01:14:06,022 --> 01:14:13,765
+Christine Daaé;Raoul : Say you'll share with me one love
+
+864
+01:14:13,790 --> 01:14:17,612
+Christine Daaé;Raoul : One lifetime
+
+865
+01:14:18,306 --> 01:14:26,711
+Christine Daaé;Raoul : Say the word and I will follow you
+
+866
+01:14:30,517 --> 01:14:35,719
+Christine Daaé;Raoul : Share each day with me
+
+867
+01:14:35,857 --> 01:14:41,800
+Christine Daaé;Raoul : Each night each morning
+
+868
+01:14:42,479 --> 01:14:50,675
+Erik (The Phantom) : You will curse the day you did not do
+
+869
+01:14:51,332 --> 01:14:56,564
+Erik (The Phantom) : All that the Phantom
+
+870
+01:14:56,643 --> 01:15:07,832
+Erik (The Phantom) : Asked of you
+
+871
+01:19:12,173 --> 01:19:14,128
+Monsieur Gilles André : Monsieur Firmin
+
+872
+01:19:14,291 --> 01:19:16,233
+Monsieur Richard Firmin : Monsieur Andr
+
+873
+01:19:21,285 --> 01:19:24,856
+Monsieur Richard Firmin : Dear Andr what a splendid party
+
+874
+01:19:24,857 --> 01:19:27,654
+Monsieur Gilles André : The prologue to a bright new year
+
+875
+01:19:27,655 --> 01:19:30,723
+Monsieur Richard Firmin : Quite a night I'm impressed Well one does one's best
+
+876
+01:19:30,724 --> 01:19:31,862
+Monsieur Richard Firmin;Monsieur Gilles André : Here's to us
+
+877
+01:19:31,942 --> 01:19:33,259
+Monsieur Gilles André
+: A toast to all the city
+
+878
+01:19:33,260 --> 01:19:35,335
+Monsieur Richard Firmin : Such a pity that The
+Phantom can't be here
+
+879
+01:20:09,357 --> 01:20:11,958
+Ensemble : Masquerade
+
+880
+01:20:11,959 --> 01:20:14,133
+Ensemble : Paper faces on parade
+
+881
+01:20:14,182 --> 01:20:15,770
+Ensemble : Masquerade
+
+882
+01:20:15,771 --> 01:20:19,940
+Ensemble : Hide your face so the world will never find you
+
+883
+01:20:20,831 --> 01:20:23,293
+Ensemble : Masquerade
+
+884
+01:20:23,318 --> 01:20:25,614
+Ensemble : Every face a different shade
+
+885
+01:20:25,615 --> 01:20:27,145
+Ensemble : Masquerade
+
+886
+01:20:27,187 --> 01:20:31,423
+Ensemble : Look around There's another mask behind you
+
+887
+01:20:31,431 --> 01:20:34,598
+Ensemble : Flash of mauve Splash of puce Fool and king Ghoul and goose
+
+888
+01:20:34,599 --> 01:20:38,169
+Ensemble;Madame Giry;Carlotta Giudicelli;Ubaldo Piangi : Green and black Queen and priest Trace of rouge Face of beast
+
+889
+01:20:38,200 --> 01:20:39,548
+Ensemble : Faces
+
+890
+01:20:39,573 --> 01:20:45,169
+Ensemble : Take your turn Take a ride On the merrygoround In an inhuman race
+
+891
+01:20:45,196 --> 01:20:46,066
+Ensemble : Thigh of blue
+
+892
+01:20:46,067 --> 01:20:46,858
+Ensemble : True is false
+
+893
+01:20:46,859 --> 01:20:47,644
+Ensemble : Who is who
+
+894
+01:20:47,645 --> 01:20:49,262
+Monsieur Gilles André : Curl of lip Swirl of gown
+
+895
+01:20:49,263 --> 01:20:51,139
+Carlotta Giudicelli;Ubaldo Piangi : Ace of hearts Face of clown
+
+896
+01:20:51,216 --> 01:20:52,556
+Ensemble : Faces
+
+897
+01:20:52,557 --> 01:20:54,177
+Ensemble : Drink it in Drink it up
+
+898
+01:20:54,202 --> 01:20:56,438
+Ensemble : Till you've drowned in the light In the sound
+
+899
+01:20:56,439 --> 01:20:58,261
+Raoul;Christine Daaé : But who can name the face
+
+900
+01:20:58,286 --> 01:21:00,695
+Ensemble : Masquerade
+
+901
+01:21:00,720 --> 01:21:03,013
+Ensemble : Grinning yellows Spinning reds
+
+902
+01:21:03,014 --> 01:21:04,642
+Ensemble : Masquerade
+
+903
+01:21:04,643 --> 01:21:08,697
+Ensemble : Take your fill Let the spectacle astound you
+
+904
+01:21:09,678 --> 01:21:12,153
+Ensemble : Masquerade
+
+905
+01:21:12,178 --> 01:21:14,503
+Ensemble : Burning glances Turning heads
+
+906
+01:21:14,528 --> 01:21:16,001
+Ensemble : Masquerade
+
+907
+01:21:16,125 --> 01:21:20,526
+Ensemble : Stop and stare at the sea of smiles around you
+
+908
+01:21:21,273 --> 01:21:22,973
+Ensemble : Masquerade
+
+909
+01:21:23,488 --> 01:21:25,767
+Ensemble : Seething shadows Breathing lies
+
+910
+01:21:25,792 --> 01:21:31,720
+Ensemble : Masquerade You can fool any friend who ever knew you
+
+911
+01:21:32,445 --> 01:21:34,951
+Ensemble : Masquerade
+
+912
+01:21:34,976 --> 01:21:37,235
+Ensemble : Leering satyrs Peering eyes
+
+913
+01:21:37,260 --> 01:21:42,981
+Ensemble : Masquerade Run and hide But the face will still pursue you
+
+914
+01:21:43,006 --> 01:21:43,888
+Madame Giry : What a night
+
+915
+01:21:43,889 --> 01:21:44,723
+Christine Daaé : What a crowd
+
+916
+01:21:44,724 --> 01:21:45,486
+Monsieur Gilles André : Makes you glad
+
+917
+01:21:45,487 --> 01:21:46,304
+Monsieur Richard Firmin : Makes you proud
+
+918
+01:21:46,305 --> 01:21:47,672
+Monsieur Richard Firmin : All the crme de la
+
+919
+01:21:47,673 --> 01:21:48,526
+Carlotta Giudicelli : crme Watching us
+
+920
+01:21:48,527 --> 01:21:48,629
+And watching them
+
+921
+01:21:48,630 --> 01:21:49,885
+Madame Giry : And all our fears are in the past
+
+922
+01:21:49,886 --> 01:21:51,016
+Monsieur Richard Firmin : Six months
+
+923
+01:21:51,017 --> 01:21:51,695
+Monsieur Gilles André : Of relief
+
+924
+01:21:51,696 --> 01:21:52,573
+Madame Giry : Of delight
+
+925
+01:21:52,598 --> 01:21:54,893
+Monsieur Gilles André : Of Elysian peace
+
+926
+01:21:54,894 --> 01:21:55,859
+Madame Giry;Meg Giry : And we can breathe at last
+
+927
+01:21:55,860 --> 01:21:56,538
+Carlotta Giudicelli : No more notes
+
+928
+01:21:56,539 --> 01:21:57,555
+Ubaldo Piangi : No more ghost
+
+929
+01:21:57,556 --> 01:21:58,247
+Carlotta Giudicelli : Here's a health
+
+930
+01:21:58,248 --> 01:21:59,065
+Ubaldo Piangi : Here's a toast
+
+931
+01:21:59,090 --> 01:22:00,496
+Monsieur Richard Firmin : To a prosperous year
+
+932
+01:22:00,548 --> 01:22:01,841
+Monsieur Gilles André : To the new chandelier
+
+933
+01:22:01,842 --> 01:22:04,490
+Carlotta Giudicelli;Ubaldo Piangi : And may its splendour never fade
+
+934
+01:22:04,491 --> 01:22:05,222
+Ensemble : What a change
+
+935
+01:22:05,223 --> 01:22:07,509
+Monsieur Richard Firmin;Monsieur Gilles André : What a blessed release
+
+936
+01:22:07,534 --> 01:22:09,294
+Monsieur Richard Firmin : And what a masquerade
+
+937
+01:22:09,319 --> 01:22:10,680
+Christine Daaé : Think of it
+
+938
+01:22:10,704 --> 01:22:13,055
+Christine Daaé : A secret engagement Look
+
+939
+01:22:13,056 --> 01:22:16,936
+Christine Daaé : Your future bride Just think of it
+
+940
+01:22:16,937 --> 01:22:21,393
+Raoul : But why is it secret What have we to hide
+
+941
+01:22:21,394 --> 01:22:22,139
+Christine Daaé : You promised me
+
+942
+01:22:22,140 --> 01:22:22,896
+Raoul : You promised me
+
+943
+01:22:22,921 --> 01:22:23,761
+Christine Daaé : No Raoul please don't They'll see
+
+944
+01:22:23,762 --> 01:22:24,574
+Raoul : Well let them see
+
+945
+01:22:24,575 --> 01:22:27,228
+Raoul : It's an engagement not a crime
+
+946
+01:22:27,519 --> 01:22:31,500
+Raoul : Christine what are you afraid of
+
+947
+01:22:31,501 --> 01:22:32,967
+Christine Daaé : Let's not argue
+
+948
+01:22:32,968 --> 01:22:34,944
+Raoul : Let's not argue
+
+949
+01:22:34,945 --> 01:22:35,777
+Christine Daaé : Please pretend
+
+950
+01:22:35,778 --> 01:22:37,251
+Raoul : I can only hope
+
+951
+01:22:37,252 --> 01:22:37,800
+Christine Daaé : You will understand in time
+
+952
+01:22:37,801 --> 01:22:42,687
+Raoul : I'll understand in time
+
+953
+01:23:54,782 --> 01:23:58,592
+Ensemble : Masquerade
+
+954
+01:23:58,617 --> 01:24:01,597
+Ensemble : Paper faces on parade
+
+955
+01:24:01,622 --> 01:24:03,324
+Ensemble : Masquerade
+
+956
+01:24:03,349 --> 01:24:08,134
+Ensemble : Hide your face So the world will never find you
+
+957
+01:24:09,625 --> 01:24:12,607
+Ensemble : Masquerade
+
+958
+01:24:12,632 --> 01:24:15,332
+Ensemble : Every face a different shade
+
+959
+01:24:15,357 --> 01:24:17,171
+Ensemble : Masquerade
+
+960
+01:24:17,196 --> 01:24:21,940
+Ensemble : Look around There's another mask behind you
+
+961
+01:24:23,095 --> 01:24:26,005
+Ensemble : Masquerade
+
+962
+01:24:26,030 --> 01:24:28,689
+Ensemble : Burning glances Turning heads
+
+963
+01:24:28,714 --> 01:24:30,580
+Ensemble : Masquerade
+
+964
+01:24:30,581 --> 01:24:35,027
+Ensemble : Stop and stare At the sea of smiles around you
+
+965
+01:24:36,411 --> 01:24:39,294
+Ensemble : Masquerade
+
+966
+01:24:39,319 --> 01:24:41,987
+Ensemble : Grinning yellows Spinning reds
+
+967
+01:24:41,988 --> 01:24:43,895
+Ensemble : Masquerade
+
+968
+01:24:43,920 --> 01:24:49,090
+Ensemble : Take your fill Let the spectacle astound you
+
+969
+01:25:11,974 --> 01:25:16,668
+Erik (The Phantom) : Why so silent good messieurs
+
+970
+01:25:17,669 --> 01:25:23,514
+Erik (The Phantom) : Did you think that I had left you for good
+
+971
+01:25:25,205 --> 01:25:28,977
+Erik (The Phantom) : Have you missed me good messieurs
+
+972
+01:25:29,002 --> 01:25:33,144
+Erik (The Phantom) : I have written you an opera
+
+973
+01:25:36,479 --> 01:25:40,566
+Erik (The Phantom) : Here I bring the finished score
+
+974
+01:25:41,037 --> 01:25:44,935
+Erik (The Phantom) : Don Juan Triumphant
+
+975
+01:25:47,858 --> 01:25:51,490
+Erik (The Phantom) : I advise you to comply
+
+976
+01:25:51,491 --> 01:25:55,336
+Erik (The Phantom) : My instructions should be clear
+
+977
+01:25:55,337 --> 01:26:03,305
+Erik (The Phantom) : Remember there are worse things than a shattered chandelier
+
+978
+01:26:16,798 --> 01:26:22,502
+Erik (The Phantom) : Your chains are still mine You will sing for me
+
+979
+01:26:29,303 --> 01:26:30,609
+Raoul : Madame Giry
+
+980
+01:26:31,583 --> 01:26:32,767
+Raoul : Madame Giry
+
+981
+01:26:32,768 --> 01:26:34,555
+Madame Giry : Monsieur don't ask me
+
+982
+01:26:34,580 --> 01:26:36,697
+Madame Giry : I know no more than anyone else
+
+983
+01:26:36,698 --> 01:26:38,661
+Raoul : That's not true You know something don't you
+
+984
+01:26:38,743 --> 01:26:41,391
+Madame Giry : I know nothing
+
+985
+01:26:41,673 --> 01:26:45,006
+Madame Giry : Please monsieur don't ask me
+
+986
+01:26:45,775 --> 01:26:48,409
+Raoul : Madame for all our sakes
+
+987
+01:26:53,834 --> 01:26:55,191
+Madame Giry : Very well
+
+988
+01:26:58,543 --> 01:27:01,117
+Madame Giry : It was years ago
+
+989
+01:27:01,354 --> 01:27:04,825
+Madame Giry : There was a travelling fair in the city
+
+990
+01:27:05,247 --> 01:27:10,320
+Madame Giry : Tumblers conjurers human oddities
+
+991
+01:27:10,569 --> 01:27:11,366
+Raoul : Go on
+
+992
+01:27:11,390 --> 01:27:16,171
+Madame Giry : And there was I shall never forget him
+
+993
+01:27:16,240 --> 01:27:20,003
+Madame Giry : A man locked in a cage
+
+994
+01:27:20,285 --> 01:27:21,260
+Raoul : In a cage
+
+995
+01:27:21,261 --> 01:27:22,978
+Madame Giry : Aprodigy monsieur
+
+996
+01:27:23,168 --> 01:27:26,974
+Madame Giry : Scholar architect musician
+
+997
+01:27:26,975 --> 01:27:27,622
+Raoul : A composer
+
+998
+01:27:27,623 --> 01:27:29,572
+Madame Giry : And an inventor too monsieur
+
+999
+01:27:30,311 --> 01:27:34,380
+Madame Giry : They boasted he had once built for the Shah of Persia
+
+1000
+01:27:34,546 --> 01:27:36,657
+Madame Giry : a maze of mirrors
+
+1001
+01:27:36,658 --> 01:27:37,997
+Raoul : Who was this man
+
+1002
+01:27:37,998 --> 01:27:40,192
+Madame Giry : A freak of nature
+
+1003
+01:27:40,241 --> 01:27:42,808
+Madame Giry : More monster than man
+
+1004
+01:27:42,809 --> 01:27:43,758
+Raoul : Deformed
+
+1005
+01:27:43,782 --> 01:27:44,955
+Madame Giry : From birth it seemed
+
+1006
+01:27:44,956 --> 01:27:45,603
+Raoul : My God
+
+1007
+01:27:45,651 --> 01:27:47,671
+Madame Giry : Then he went missing
+
+1008
+01:27:48,577 --> 01:27:49,495
+Madame Giry : He escaped
+
+1009
+01:27:49,496 --> 01:27:50,417
+Raoul : Go on
+
+1010
+01:27:50,442 --> 01:27:52,157
+Madame Giry : They never found him
+
+1011
+01:27:52,181 --> 01:27:54,758
+Madame Giry : It was said he had died
+
+1012
+01:27:54,759 --> 01:27:56,211
+Raoul : But he didn't die did he
+
+1013
+01:27:56,236 --> 01:28:00,660
+Madame Giry : The world forgot him But I never can
+
+1014
+01:28:00,777 --> 01:28:02,705
+Madame Giry : For in this darkness
+
+1015
+01:28:02,706 --> 01:28:03,069
+Raoul : And so our phantom's this man
+
+1016
+01:28:03,070 --> 01:28:06,311
+Madame Giry : I have seen him again
+
+1017
+01:28:06,360 --> 01:28:08,437
+Madame Giry : I have said too much monsieur too much
+
+1018
+01:28:08,438 --> 01:28:08,793
+Raoul : No Wait
+
+1019
+01:28:08,794 --> 01:28:10,808
+Madame Giry : And there have been too many accidents
+
+1020
+01:28:10,833 --> 01:28:13,014
+Raoul : Accidents Madame Giry
+
+1021
+01:28:15,773 --> 01:28:18,219
+Monsieur Richard Firmin : Ludicrous Have you seen the score
+
+1022
+01:28:18,220 --> 01:28:19,463
+Monsieur Gilles André : Simply ludicrous
+
+1023
+01:28:19,464 --> 01:28:20,822
+Monsieur Gilles André : It's the final straw
+
+1024
+01:28:20,847 --> 01:28:22,071
+Monsieur Richard Firmin : This is lunacy
+
+1025
+01:28:22,072 --> 01:28:23,304
+Monsieur Richard Firmin : Well you know my views
+
+1026
+01:28:23,305 --> 01:28:24,581
+Monsieur Gilles André : Utter lunacy
+
+1027
+01:28:24,582 --> 01:28:26,132
+Monsieur Richard Firmin : But we daren't refuse
+
+1028
+01:28:26,157 --> 01:28:28,489
+Monsieur Gilles André : Not another chandelier
+
+1029
+01:28:28,514 --> 01:28:32,141
+Monsieur Richard Firmin : Look my friend what we have here
+
+1030
+01:28:34,185 --> 01:28:38,020
+Monsieur Gilles André : Dear Andr Re my orchestrations
+
+1031
+01:28:38,021 --> 01:28:40,822
+Monsieur Gilles André : We need another first bassoon
+
+1032
+01:28:40,823 --> 01:28:45,202
+Monsieur Gilles André : Every note's overblown And that third trombone has to go
+
+1033
+01:28:45,203 --> 01:28:48,473
+Monsieur Gilles André : The man could not be deafer So please preferably one who plays in tune
+
+1034
+01:28:48,474 --> 01:28:51,284
+Monsieur Richard Firmin : Dear Firmin Visvis my opera
+
+1035
+01:28:51,285 --> 01:28:53,614
+Monsieur Richard Firmin : Some chorus members must be sacked
+
+1036
+01:28:54,059 --> 01:28:57,151
+Monsieur Richard Firmin : If you could find out which has a sense of pitch
+
+1037
+01:28:57,176 --> 01:28:58,569
+Monsieur Richard Firmin : Wisely though
+
+1038
+01:28:58,570 --> 01:29:01,805
+Monsieur Richard Firmin : I've managed to assign a rather minor role to those who cannot act
+
+1039
+01:29:02,161 --> 01:29:03,040
+Carlotta Giudicelli : Outrage
+
+1040
+01:29:03,041 --> 01:29:03,814
+Monsieur Richard Firmin : What is it now
+
+1041
+01:29:03,815 --> 01:29:05,693
+Carlotta Giudicelli : This whole affair is an outrage
+
+1042
+01:29:05,694 --> 01:29:06,604
+Monsieur Richard Firmin : Signora please
+
+1043
+01:29:06,605 --> 01:29:07,651
+Monsieur Richard Firmin : Now what's the matter
+
+1044
+01:29:07,676 --> 01:29:09,036
+Carlotta Giudicelli : Have you seen the size of my part
+
+1045
+01:29:09,037 --> 01:29:10,101
+Monsieur Gilles André : Signora listen
+
+1046
+01:29:10,126 --> 01:29:11,398
+Ubaldo Piangi : It's an insult
+
+1047
+01:29:11,399 --> 01:29:12,133
+Monsieur Richard Firmin : Not you as well
+
+1048
+01:29:12,134 --> 01:29:12,849
+Ubaldo Piangi : Just look at this
+
+1049
+01:29:12,874 --> 01:29:14,248
+Ubaldo Piangi : It's an insult
+
+1050
+01:29:14,307 --> 01:29:15,030
+Monsieur Richard Firmin : Please understand
+
+1051
+01:29:15,031 --> 01:29:15,788
+Monsieur Gilles André : Signor Signora
+
+1052
+01:29:15,789 --> 01:29:18,198
+Carlotta Giudicelli : The things I have to do for my art
+
+1053
+01:29:18,645 --> 01:29:22,756
+Ubaldo Piangi : If you can call this gibberish art
+
+1054
+01:29:22,757 --> 01:29:26,354
+Carlotta Giudicelli : Ah here's our little flower
+
+1055
+01:29:26,355 --> 01:29:29,511
+Monsieur Richard Firmin : Ah Miss Daa Quite the lady of the hour
+
+1056
+01:29:29,548 --> 01:29:32,774
+Monsieur Gilles André : You have secured the largest role in this Don Juan
+
+1057
+01:29:32,799 --> 01:29:35,340
+Carlotta Giudicelli : Christine Daa She doesn't have the voice
+
+1058
+01:29:35,365 --> 01:29:37,091
+Monsieur Gilles André : Signora please
+
+1059
+01:29:37,116 --> 01:29:38,653
+Raoul : Then I take it you're agreeing
+
+1060
+01:29:38,654 --> 01:29:39,458
+Carlotta Giudicelli : She's behind this
+
+1061
+01:29:39,459 --> 01:29:40,972
+Monsieur Gilles André : It appears we have no choice
+
+1062
+01:29:40,973 --> 01:29:43,905
+Carlotta Giudicelli : She's the one behind this Christine Daa
+
+1063
+01:29:43,925 --> 01:29:45,052
+Christine Daaé : How dare you
+
+1064
+01:29:45,053 --> 01:29:45,726
+Carlotta Giudicelli : I'm not a fool
+
+1065
+01:29:45,751 --> 01:29:47,926
+Christine Daaé : You evil woman How dare you
+
+1066
+01:29:47,940 --> 01:29:48,653
+Carlotta Giudicelli : You think I'm blind
+
+1067
+01:29:48,682 --> 01:29:49,603
+Christine Daaé : This isn't my fault
+
+1068
+01:29:49,604 --> 01:29:51,412
+Christine Daaé : I don't want any part in this plot
+
+1069
+01:29:51,413 --> 01:29:52,432
+Monsieur Richard Firmin : Miss Daa surely
+
+1070
+01:29:52,433 --> 01:29:53,554
+Monsieur Gilles André : But why not
+
+1071
+01:29:53,555 --> 01:29:54,187
+Monsieur Richard Firmin : What does she say It's
+
+1072
+01:29:54,188 --> 01:29:55,032
+Monsieur Richard Firmin : your decision
+
+1073
+01:29:55,033 --> 01:29:56,235
+Monsieur Richard Firmin : But why not
+
+1074
+01:29:56,260 --> 01:29:57,056
+Carlotta Giudicelli : She's backing out
+
+1075
+01:29:57,057 --> 01:29:58,082
+Monsieur Richard Firmin : You have a duty
+
+1076
+01:29:58,083 --> 01:30:00,647
+Christine Daaé : I cannot sing it duty or not
+
+1077
+01:30:01,320 --> 01:30:04,115
+Raoul : Christine Christine
+
+1078
+01:30:04,140 --> 01:30:08,317
+Raoul : You don't have to They can't make you
+
+1079
+01:30:08,577 --> 01:30:11,280
+Madame Giry : Please monsieur Another note
+
+1080
+01:30:14,401 --> 01:30:19,178
+Madame Giry : Fondest greetings to you all
+
+1081
+01:30:19,286 --> 01:30:24,969
+Madame Giry : A few instructions just before rehearsal starts
+
+1082
+01:30:25,705 --> 01:30:29,329
+Madame Giry : Carlotta must be taught to act
+
+1083
+01:30:29,330 --> 01:30:34,651
+Madame Giry;Erik (The Phantom) : Not her normal trick of Strutting round the stage
+
+1084
+01:30:35,988 --> 01:30:39,273
+Erik (The Phantom) : Our Don Juan must lose some weight
+
+1085
+01:30:39,274 --> 01:30:44,660
+Erik (The Phantom) : It's not healthy in a man of Piangi's age
+
+1086
+01:30:45,802 --> 01:30:48,995
+Erik (The Phantom) : And my managers must learn
+
+1087
+01:30:49,020 --> 01:30:54,946
+Erik (The Phantom) : That their place is in an office Not the arts
+
+1088
+01:30:56,646 --> 01:31:00,976
+Erik (The Phantom) : As for Miss Christine Daa
+
+1089
+01:31:01,544 --> 01:31:05,405
+Erik (The Phantom) : No doubt she'll do her best
+
+1090
+01:31:05,430 --> 01:31:10,424
+Erik (The Phantom) : It's true her voice is good She knows
+
+1091
+01:31:10,425 --> 01:31:14,755
+Erik (The Phantom) : Though should she wish to excel
+
+1092
+01:31:14,804 --> 01:31:18,511
+Erik (The Phantom) : She has much still to learn
+
+1093
+01:31:18,512 --> 01:31:24,518
+Erik (The Phantom) : If pride will let her return to me
+
+1094
+01:31:24,567 --> 01:31:30,355
+Erik (The Phantom) : Her teacher her teacher
+
+1095
+01:31:32,902 --> 01:31:36,979
+Erik (The Phantom) : Your obedient friend and Angel
+
+1096
+01:31:38,255 --> 01:31:41,669
+Christine Daaé : I can't I won't do it
+
+1097
+01:31:42,576 --> 01:31:45,430
+Raoul : We have all been blind
+
+1098
+01:31:45,908 --> 01:31:48,879
+Raoul : And yet the answer is staring us in the face
+
+1099
+01:31:49,113 --> 01:31:52,170
+Raoul : This could be the chance
+
+1100
+01:31:52,533 --> 01:31:54,955
+Raoul : To ensnare our clever friend
+
+1101
+01:31:54,976 --> 01:31:55,815
+Monsieur Richard Firmin : We're listening
+
+1102
+01:31:55,816 --> 01:31:56,696
+Monsieur Gilles André : Go on
+
+1103
+01:31:56,721 --> 01:31:59,239
+Raoul : We shall play his game
+
+1104
+01:31:59,264 --> 01:32:02,291
+Raoul : Perform his work But remember we hold the ace
+
+1105
+01:32:02,316 --> 01:32:05,240
+Raoul : For if Miss Daa sings
+
+1106
+01:32:05,241 --> 01:32:07,029
+Raoul : He is certain to attend
+
+1107
+01:32:07,123 --> 01:32:08,440
+Monsieur Gilles André : We make certain the doors are barred
+
+1108
+01:32:08,441 --> 01:32:10,048
+Monsieur Richard Firmin : We make certain our men are there
+
+1109
+01:32:10,049 --> 01:32:11,647
+Monsieur Gilles André : We make certain they're armed
+
+1110
+01:32:11,648 --> 01:32:13,456
+Monsieur Richard Firmin;Monsieur Gilles André;Raoul : The curtain falls
+
+1111
+01:32:13,457 --> 01:32:15,333
+Raoul;Monsieur Richard Firmin;Monsieur Gilles André : His reign will end
+
+1112
+01:32:15,334 --> 01:32:16,310
+Madame Giry : Madness
+
+1113
+01:32:16,342 --> 01:32:17,059
+Monsieur Gilles André : I'm not so sure
+
+1114
+01:32:17,060 --> 01:32:17,753
+Monsieur Richard Firmin : Not if it works
+
+1115
+01:32:17,754 --> 01:32:18,955
+Madame Giry : This is madness
+
+1116
+01:32:18,956 --> 01:32:19,703
+Monsieur Gilles André : The tide will turn
+
+1117
+01:32:19,704 --> 01:32:20,765
+Madame Giry : Monsieur believe me
+
+1118
+01:32:20,766 --> 01:32:22,547
+Madame Giry : There is no way of turning the tide
+
+1119
+01:32:22,608 --> 01:32:23,337
+Monsieur Richard Firmin : You stick to ballet
+
+1120
+01:32:23,338 --> 01:32:24,535
+Raoul : Then help us
+
+1121
+01:32:24,585 --> 01:32:25,243
+Madame Giry : Monsieur I can't
+
+1122
+01:32:25,244 --> 01:32:26,363
+Raoul : Instead of warning us
+
+1123
+01:32:26,364 --> 01:32:27,237
+Raoul;Monsieur Richard Firmin;Monsieur Gilles André : Help us
+
+1124
+01:32:27,262 --> 01:32:28,031
+Madame Giry : I wish I could
+
+1125
+01:32:28,032 --> 01:32:29,042
+Monsieur Richard Firmin;Monsieur Gilles André : Don't make excuses
+
+1126
+01:32:29,043 --> 01:32:30,772
+Raoul : Or could it be that you're on his side
+
+1127
+01:32:30,797 --> 01:32:31,918
+Carlotta Giudicelli;Ubaldo Piangi : She's his accomplice
+
+1128
+01:32:31,919 --> 01:32:34,445
+Madame Giry : Monsieur believe me I intend no ill
+
+1129
+01:32:34,446 --> 01:32:36,383
+Madame Giry : But messieurs be careful We have seen him kill
+
+1130
+01:32:36,384 --> 01:32:37,601
+Raoul;Monsieur Richard Firmin;Monsieur Gilles André : We'll say he'll fall And fall he will
+
+1131
+01:32:37,602 --> 01:32:39,126
+Carlotta Giudicelli : She's the one behind this
+
+1132
+01:32:39,140 --> 01:32:39,769
+Carlotta Giudicelli : Christine
+
+1133
+01:32:39,770 --> 01:32:40,519
+Ubaldo Piangi : This is the truth
+
+1134
+01:32:40,520 --> 01:32:41,158
+Carlotta Giudicelli : This is all her doing
+
+1135
+01:32:41,159 --> 01:32:41,847
+Ubaldo Piangi;Carlotta Giudicelli : Christine Daa
+
+1136
+01:32:41,848 --> 01:32:42,927
+Monsieur Richard Firmin : This is his undoing
+
+1137
+01:32:42,928 --> 01:32:43,284
+Monsieur Richard Firmin : If you succeed you free us all
+
+1138
+01:32:43,285 --> 01:32:45,887
+Raoul : Angel of Music fear my fury
+
+1139
+01:32:46,013 --> 01:32:47,118
+Monsieur Richard Firmin;Monsieur Gilles André : This socalled Angel has to fall
+
+1140
+01:32:47,119 --> 01:32:48,703
+Madame Giry : Hear my warning
+
+1141
+01:32:48,728 --> 01:32:51,419
+Madame Giry : Hear his fury
+
+1142
+01:32:51,420 --> 01:32:54,957
+Christine Daaé : Please don't
+
+1143
+01:32:54,958 --> 01:32:56,987
+Christine Daaé : If you don't stop this I'll go mad
+
+1144
+01:32:56,988 --> 01:33:00,182
+Christine Daaé : Raoul I'm frightened Don't make me do this
+
+1145
+01:33:00,183 --> 01:33:04,077
+Christine Daaé : Raoul it scares me Don't put me through this ordeal
+
+1146
+01:33:04,078 --> 01:33:06,608
+Christine Daaé : By fire He'll take me I know
+
+1147
+01:33:06,609 --> 01:33:11,337
+Christine Daaé : We'll be parted forever He won't let me go
+
+1148
+01:33:11,973 --> 01:33:15,712
+Christine Daaé : What I once used to dream I now dread
+
+1149
+01:33:15,713 --> 01:33:19,407
+Christine Daaé : If he finds me it won't ever end
+
+1150
+01:33:19,408 --> 01:33:24,110
+Christine Daaé : And he'll always be there Singing songs in my head
+
+1151
+01:33:24,111 --> 01:33:27,587
+Christine Daaé : He'll always be there
+
+1152
+01:33:27,588 --> 01:33:32,979
+Christine Daaé : Singing songs in my head
+
+1153
+01:33:34,421 --> 01:33:36,078
+Carlotta Giudicelli : She's mad
+
+1154
+01:33:37,610 --> 01:33:42,464
+Raoul : You said yourself
+
+1155
+01:33:42,686 --> 01:33:48,551
+Raoul : He was nothing but a man
+
+1156
+01:33:51,135 --> 01:33:55,566
+Raoul : Yet while he lives
+
+1157
+01:33:55,567 --> 01:34:03,502
+Raoul : He will haunt us till we're dead
+
+1158
+01:34:07,553 --> 01:34:13,417
+Christine Daaé : Twisted every way What answer can I give
+
+1159
+01:34:13,418 --> 01:34:18,819
+Christine Daaé : Am I to risk my life to win the chance to live
+
+1160
+01:34:18,844 --> 01:34:24,700
+Christine Daaé : Can I betray the man who once inspired my voice
+
+1161
+01:34:24,701 --> 01:34:27,512
+Christine Daaé : Do I become his prey
+
+1162
+01:34:27,513 --> 01:34:29,958
+Christine Daaé : Do I have any choice
+
+1163
+01:34:29,959 --> 01:34:32,713
+Christine Daaé : He kills without a thought
+
+1164
+01:34:32,714 --> 01:34:38,311
+Christine Daaé : He murders all that's good I know I can't refuse
+
+1165
+01:34:38,312 --> 01:34:44,230
+Christine Daaé : And yet I wish I could Oh God if I agree
+
+1166
+01:34:44,231 --> 01:34:46,937
+Christine Daaé : What horrors wait for me
+
+1167
+01:34:46,962 --> 01:34:54,599
+Christine Daaé : In this The Phantom's opera
+
+1168
+01:34:54,648 --> 01:34:58,769
+Raoul : Christine Christine
+
+1169
+01:34:58,770 --> 01:35:02,632
+Raoul : Don't think that I don't care
+
+1170
+01:35:02,657 --> 01:35:06,369
+Raoul : But every hope and every prayer
+
+1171
+01:35:06,394 --> 01:35:10,552
+Raoul : Rests on you now
+
+1172
+01:35:20,138 --> 01:35:21,250
+Christine Daaé : I can't
+
+1173
+01:35:21,719 --> 01:35:23,470
+Raoul : Christine
+
+1174
+01:35:28,429 --> 01:35:31,533
+Raoul : So it is to be war between us
+
+1175
+01:35:31,770 --> 01:35:37,975
+Raoul : But this time my clever friend the disaster will be yours
+
+1176
+01:35:45,314 --> 01:35:48,276
+Ensemble : Hide your sword now wounded knight
+
+1177
+01:35:48,301 --> 01:35:51,710
+Ensemble : Your vainglorious gasconade
+
+1178
+01:35:51,735 --> 01:35:53,983
+Ensemble : Brought you to your final fight
+
+1179
+01:35:54,138 --> 01:35:58,215
+Ensemble : For your pride high price you've paid
+
+1180
+01:36:00,104 --> 01:36:04,607
+Christine Daaé : Silken couch and hayfilled barn
+
+1181
+01:36:04,908 --> 01:36:07,692
+Christine Daaé : Both have been his battlefield
+
+1182
+01:36:09,158 --> 01:36:11,543
+Ubaldo Piangi : Those who tangle with Don Juan
+
+1183
+01:36:11,544 --> 01:36:13,002
+Reyer : No no no
+
+1184
+01:36:13,199 --> 01:36:14,901
+Reyer : Chorus rest please
+
+1185
+01:36:15,109 --> 01:36:17,598
+Reyer : Don Juan Signor Piangi
+
+1186
+01:36:17,908 --> 01:36:20,859
+Ubaldo Piangi : Si This is the phrase
+
+1187
+01:36:22,843 --> 01:36:25,774
+Reyer : Those who tangle with Don Juan
+
+1188
+01:36:25,799 --> 01:36:27,033
+Reyer : If you please
+
+1189
+01:36:27,058 --> 01:36:29,581
+Ubaldo Piangi : Those who tangle with Don Juan
+
+1190
+01:36:32,608 --> 01:36:34,637
+Reyer : Nearly but no
+
+1191
+01:36:36,273 --> 01:36:37,545
+Reyer : Those who tang Tang Tang
+
+1192
+01:36:37,546 --> 01:36:38,927
+Ubaldo Piangi : Those who tang Tang Tang
+
+1193
+01:36:38,946 --> 01:36:44,084
+Carlotta Giudicelli : His way is better At least he makes it sound like music
+
+1194
+01:36:45,192 --> 01:36:50,526
+Madame Giry : Signora would you speak that way in the presence of the composer
+
+1195
+01:36:50,551 --> 01:36:52,734
+Carlotta Giudicelli : The composer is not here
+
+1196
+01:36:53,361 --> 01:36:54,468
+Carlotta Giudicelli : And if he were here I would
+
+1197
+01:36:54,469 --> 01:36:57,166
+Madame Giry : Can you be certain of that
+
+1198
+01:36:57,541 --> 01:37:00,039
+Madame Giry : signora
+
+1199
+01:37:08,044 --> 01:37:12,183
+Reyer : Once again if you please Signor Piangi After seven
+
+1200
+01:37:15,572 --> 01:37:16,832
+Reyer : Five six seven
+
+1201
+01:37:19,611 --> 01:37:22,513
+Ubaldo Piangi : Those who have been tangling with Don Juan
+
+1202
+01:37:23,291 --> 01:37:25,441
+Carlotta Giudicelli : What does it matter what notes we sing
+
+1203
+01:37:25,466 --> 01:37:28,450
+Carlotta Giudicelli : No one will know if it is right or wrong
+
+1204
+01:37:28,703 --> 01:37:31,198
+Carlotta Giudicelli : No one will care
+
+1205
+01:37:45,781 --> 01:37:50,155
+Ensemble : Poor young maiden For the thrill on your tongue of stolen sweets
+
+1206
+01:37:50,180 --> 01:37:53,802
+Ensemble : You will have to pay the bill
+
+1207
+01:37:53,827 --> 01:37:58,575
+Ensemble : Tangled in the winding sheets
+
+1208
+01:38:15,738 --> 01:38:20,312
+Christine Daaé : In sleep he sang to me
+
+1209
+01:38:20,866 --> 01:38:25,901
+Christine Daaé : In dreams he came
+
+1210
+01:38:25,902 --> 01:38:30,482
+Christine Daaé : That voice which calls to me
+
+1211
+01:38:30,607 --> 01:38:36,596
+Christine Daaé : And speaks my name
+
+1212
+01:39:06,764 --> 01:39:11,411
+Christine Daaé : Little Lotte thought of everything and nothing
+
+1213
+01:39:12,772 --> 01:39:17,841
+Christine Daaé : Her father promised her that he would send her the Angel of Music
+
+1214
+01:39:19,806 --> 01:39:22,198
+Christine Daaé : Her father promised her
+
+1215
+01:39:23,585 --> 01:39:26,655
+Christine Daaé : Her father promised her
+
+1216
+01:39:33,142 --> 01:39:36,202
+Christine Daaé : You were once
+
+1217
+01:39:36,389 --> 01:39:39,764
+Christine Daaé : My one companion
+
+1218
+01:39:40,538 --> 01:39:46,579
+Christine Daaé : You were all that mattered
+
+1219
+01:39:47,738 --> 01:39:54,294
+Christine Daaé : You were once a friend and father
+
+1220
+01:39:56,116 --> 01:40:01,221
+Christine Daaé : Then my world was shattered
+
+1221
+01:40:03,583 --> 01:40:09,384
+Christine Daaé : Wishing you were somehow here again
+
+1222
+01:40:09,385 --> 01:40:15,259
+Christine Daaé : Wishing you were somehow near
+
+1223
+01:40:15,764 --> 01:40:22,334
+Christine Daaé : Sometimes it seemed If I just dreamed
+
+1224
+01:40:22,359 --> 01:40:29,119
+Christine Daaé : Somehow you would be here
+
+1225
+01:40:29,144 --> 01:40:34,986
+Christine Daaé : Wishing I could hear your voice again
+
+1226
+01:40:35,231 --> 01:40:40,681
+Christine Daaé : Knowing that I never would
+
+1227
+01:40:41,186 --> 01:40:47,136
+Christine Daaé : Dreaming of you won't help me to do
+
+1228
+01:40:47,274 --> 01:40:54,063
+Christine Daaé : All that you dreamed I could
+
+1229
+01:40:54,391 --> 01:41:00,600
+Christine Daaé : Passing bells and sculpted angels
+
+1230
+01:41:00,625 --> 01:41:06,341
+Christine Daaé : Cold and monumental
+
+1231
+01:41:06,512 --> 01:41:12,914
+Christine Daaé : Seemed for you the wrong companions
+
+1232
+01:41:13,889 --> 01:41:20,028
+Christine Daaé : You were warm and gentle
+
+1233
+01:41:32,370 --> 01:41:38,438
+Christine Daaé : Too many years fighting back tears
+
+1234
+01:41:38,439 --> 01:41:45,255
+Christine Daaé : Why can't the past just die
+
+1235
+01:41:45,466 --> 01:41:52,152
+Christine Daaé : Wishing you were somehow here again
+
+1236
+01:41:52,247 --> 01:41:58,744
+Christine Daaé : Knowing we must say goodbye
+
+1237
+01:41:58,745 --> 01:42:04,831
+Christine Daaé : Try to forgive teach me to live
+
+1238
+01:42:04,856 --> 01:42:10,721
+Christine Daaé : Give me the strength to try
+
+1239
+01:42:10,779 --> 01:42:14,410
+Christine Daaé : No more memories
+
+1240
+01:42:14,411 --> 01:42:17,818
+Christine Daaé : No more silent tears
+
+1241
+01:42:17,819 --> 01:42:22,029
+Christine Daaé : No more gazing across
+
+1242
+01:42:22,030 --> 01:42:28,445
+Christine Daaé : The wasted years
+
+1243
+01:42:29,603 --> 01:42:33,205
+Christine Daaé : Help me say
+
+1244
+01:42:33,370 --> 01:42:38,611
+Christine Daaé : Goodbye
+
+1245
+01:42:39,323 --> 01:42:43,057
+Christine Daaé : Help me say
+
+1246
+01:42:43,551 --> 01:42:57,182
+Christine Daaé : Goodbye
+
+1247
+01:43:56,587 --> 01:44:03,328
+Erik (The Phantom) : Wandering child So lost so helpless
+
+1248
+01:44:03,329 --> 01:44:10,787
+Erik (The Phantom) : Yearning for my guidance
+
+1249
+01:44:10,906 --> 01:44:16,722
+Christine Daaé : Angel or father Friend or phantom
+
+1250
+01:44:16,764 --> 01:44:20,150
+Christine Daaé : Who is it there
+
+1251
+01:44:20,161 --> 01:44:20,421
+Christine Daaé : Staring
+
+1252
+01:44:20,422 --> 01:44:23,496
+Erik (The Phantom) : Have you forgotten your angel
+
+1253
+01:44:23,497 --> 01:44:25,951
+Erik (The Phantom) : Angel oh speak
+
+1254
+01:44:25,952 --> 01:44:29,494
+Christine Daaé : What endless longings
+
+1255
+01:44:29,519 --> 01:44:35,487
+Christine Daaé : Echo in this whisper
+
+1256
+01:44:35,512 --> 01:44:38,766
+Erik (The Phantom) : Too long you've wandered in Winter
+
+1257
+01:44:38,767 --> 01:44:40,981
+Raoul : Once again she is His
+
+1258
+01:44:40,982 --> 01:44:44,002
+Erik (The Phantom) : Far from my fathering gaze
+
+1259
+01:44:44,003 --> 01:44:46,140
+Raoul : Once again she returns
+
+1260
+01:44:46,141 --> 01:44:47,920
+Christine Daaé : Wildly my mind
+
+1261
+01:44:47,921 --> 01:44:49,209
+Christine Daaé : Beats against you
+
+1262
+01:44:49,210 --> 01:44:50,364
+Erik (The Phantom) : You resist
+
+1263
+01:44:50,382 --> 01:44:54,161
+Christine Daaé;Erik (The Phantom) : Yet my(your) soul obeys
+
+1264
+01:44:54,169 --> 01:44:57,499
+Raoul : Into the arms of her
+
+1265
+01:44:57,524 --> 01:44:58,899
+Christine Daaé : Angel of Music
+
+1266
+01:44:58,900 --> 01:45:00,532
+Christine Daaé : I denied you
+
+1267
+01:45:00,533 --> 01:45:01,515
+Erik (The Phantom) : Angel of Music you denied me
+
+1268
+01:45:01,516 --> 01:45:01,728
+Erik (The Phantom);Christine Daaé : Angel or demon
+
+1269
+01:45:01,729 --> 01:45:03,430
+Raoul : still he calls her
+
+1270
+01:45:03,505 --> 01:45:07,040
+Erik (The Phantom);Christine Daaé : Turning from true beauty
+
+1271
+01:45:07,041 --> 01:45:09,895
+Raoul : Luring her back from the grave
+
+1272
+01:45:09,896 --> 01:45:13,064
+Raoul : Turning from true beauty
+
+1273
+01:45:13,097 --> 01:45:14,431
+Raoul;Erik (The Phantom) : Angel of Music do not shun me Angel or dark seducer
+
+1274
+01:45:14,454 --> 01:45:15,931
+Christine Daaé : Angel of Music my protector
+
+1275
+01:45:15,932 --> 01:45:21,357
+Christine Daaé : Come to me strange angel
+
+1276
+01:45:21,382 --> 01:45:27,001
+Erik (The Phantom) : I am your Angel of Music
+
+1277
+01:45:27,002 --> 01:45:32,404
+Erik (The Phantom) : Come to me Angel of Music
+
+1278
+01:45:32,479 --> 01:45:33,622
+Raoul : Angel of darkness cease this torment
+
+1279
+01:45:33,623 --> 01:45:35,528
+Erik (The Phantom) : I am your Angel of Music
+
+1280
+01:45:35,529 --> 01:45:36,123
+Raoul : Christine
+
+1281
+01:45:36,817 --> 01:45:38,882
+Raoul : Christine Listen to me
+
+1282
+01:45:39,161 --> 01:45:44,332
+Raoul : whatever you may believe this man This This thing is not your father
+
+1283
+01:45:44,333 --> 01:45:45,081
+Erik (The Phantom) : I am your Angel of Music
+
+1284
+01:45:45,082 --> 01:45:49,430
+Raoul : Let her go For God's sake let her go Christine
+
+1285
+01:45:49,810 --> 01:45:51,087
+Christine Daaé : Raoul
+
+1286
+01:45:52,907 --> 01:45:57,068
+Erik (The Phantom) : Bravo monsieur such spirited words
+
+1287
+01:45:57,076 --> 01:45:58,439
+Raoul : More tricks monsieur
+
+1288
+01:45:58,440 --> 01:46:01,932
+Erik (The Phantom) : Let's see monsieur how far you dare go
+
+1289
+01:46:01,933 --> 01:46:03,912
+Raoul : More deception more violence
+
+1290
+01:46:03,913 --> 01:46:05,076
+Erik (The Phantom) : That's right that's right
+
+1291
+01:46:05,077 --> 01:46:06,534
+Erik (The Phantom) : keep walking this way
+
+1292
+01:46:06,535 --> 01:46:09,583
+Raoul : You can't win her love by making her your prisoner
+
+1293
+01:46:09,696 --> 01:46:13,563
+Erik (The Phantom) : I'm here I'm here monsieur The angel of death
+
+1294
+01:46:14,558 --> 01:46:17,774
+Erik (The Phantom) : Come on Come on Don't stop Don't stop
+
+1295
+01:46:18,264 --> 01:46:19,839
+Erik (The Phantom) : So be it
+
+1296
+01:46:20,909 --> 01:46:24,902
+Erik (The Phantom) : Now let it be war upon you both
+
+1297
+01:46:32,971 --> 01:46:35,035
+Joseph Buquet : You understand your instructions
+
+1298
+01:46:35,997 --> 01:46:38,314
+Joseph Buquet : When you hear the whistle take up your positions
+
+1299
+01:46:38,343 --> 01:46:40,552
+Joseph Buquet : I shall then instruct you to secure the doors
+
+1300
+01:46:40,553 --> 01:46:44,592
+Joseph Buquet : It is essential that all doors are properly secured
+
+1301
+01:46:44,617 --> 01:46:46,788
+Monsieur Richard Firmin : Andr are we doing the right thing
+
+1302
+01:46:46,823 --> 01:46:48,690
+Monsieur Gilles André : Well have you got a better idea
+
+1303
+01:46:49,228 --> 01:46:52,359
+Joseph Buquet : Monsieur Vicomte am I to give the order
+
+1304
+01:46:52,703 --> 01:46:54,292
+Raoul : Give the order
+
+1305
+01:46:59,527 --> 01:47:04,121
+Raoul : You in the pit do you have a clear view of that box
+
+1306
+01:47:04,175 --> 01:47:04,846
+Guard : Yes sir
+
+1307
+01:47:05,124 --> 01:47:07,601
+Raoul : Remember when the time comes shoot
+
+1308
+01:47:07,626 --> 01:47:10,622
+Raoul : Only if you have to but shoot to kill
+
+1309
+01:47:10,796 --> 01:47:12,308
+Guard : How will I know sir
+
+1310
+01:47:12,309 --> 01:47:13,082
+Raoul : You'll know
+
+1311
+01:47:13,083 --> 01:47:15,186
+Monsieur Richard Firmin : Monsieur le Vicomte are you confident this will work
+
+1312
+01:47:15,211 --> 01:47:16,553
+Monsieur Richard Firmin : Will Miss Daa sing
+
+1313
+01:47:16,554 --> 01:47:18,984
+Raoul : Don't worry Firmin Andr
+
+1314
+01:47:18,985 --> 01:47:20,811
+Monsieur Gilles André : We're in your hands monsieur
+
+1315
+01:47:21,163 --> 01:47:23,279
+Joseph Buquet : My men are now in position sir
+
+1316
+01:47:24,178 --> 01:47:25,214
+Raoul : Go ahead then
+
+1317
+01:47:29,049 --> 01:47:33,534
+Joseph Buquet : Are the doors secure
+
+1318
+01:47:33,559 --> 01:47:35,376
+Guard : Secure
+
+1319
+01:47:36,119 --> 01:47:37,214
+Guard : Secure
+
+1320
+01:47:37,514 --> 01:47:39,180
+Guard : Secure
+
+1321
+01:47:39,343 --> 01:47:40,437
+Guard : Secure
+
+1322
+01:47:40,979 --> 01:47:42,259
+Guard : Secure
+
+1323
+01:47:42,627 --> 01:47:50,400
+Erik (The Phantom) : I'm here The Phantom of the Opera
+
+1324
+01:47:50,425 --> 01:47:57,314
+Erik (The Phantom) : I'm here The Phantom of the Opera
+
+1325
+01:47:57,339 --> 01:48:01,347
+Erik (The Phantom) : I'm here I'm here I'm here
+
+1326
+01:48:02,074 --> 01:48:04,696
+Raoul : Idiot I said only when the time comes
+
+1327
+01:48:04,697 --> 01:48:05,806
+Guard : But Monsieur le Vicomte
+
+1328
+01:48:05,807 --> 01:48:07,515
+Erik (The Phantom) : No buts
+
+1329
+01:48:07,540 --> 01:48:12,403
+Erik (The Phantom) : For once Monsieur Vicomte is right
+
+1330
+01:48:12,611 --> 01:48:15,695
+Erik (The Phantom) : Seal my fate tonight
+
+1331
+01:48:15,696 --> 01:48:20,650
+Erik (The Phantom) : I hate to have to cut the fun short
+
+1332
+01:48:20,675 --> 01:48:23,867
+Erik (The Phantom) : But the joke's wearing thin
+
+1333
+01:48:23,892 --> 01:48:31,356
+Erik (The Phantom) : Let my opera begin
+
+1334
+01:48:45,735 --> 01:48:48,927
+Ensemble : Here the sire may serve the dam
+
+1335
+01:48:48,952 --> 01:48:52,497
+Ensemble : Here the master takes his meat
+
+1336
+01:48:52,498 --> 01:48:55,718
+Ensemble : Here the sacrificial lamb
+
+1337
+01:48:55,719 --> 01:48:58,858
+Ensemble : Utters one despairing bleat
+
+1338
+01:48:58,907 --> 01:49:01,035
+Carlotta Giudicelli : Poor young maiden
+
+1339
+01:49:01,060 --> 01:49:04,543
+Carlotta Giudicelli : For the thrill on your tongue of stolen sweets
+
+1340
+01:49:04,568 --> 01:49:07,153
+Carlotta Giudicelli : You will have to pay the bill
+
+1341
+01:49:07,178 --> 01:49:10,749
+Carlotta Giudicelli;Ensemble : Tangled in the winding sheets
+
+1342
+01:49:10,892 --> 01:49:16,264
+Ensemble : Serve the meal and serve the maid Serve the meal and serve the maid Serve the master so that
+
+1343
+01:49:16,289 --> 01:49:19,892
+Carlotta Giudicelli;Ensemble : When tables plans and maids are laid
+
+1344
+01:49:19,917 --> 01:49:22,723
+Carlotta Giudicelli;Ensemble : Don Juan triumphs
+
+1345
+01:49:22,817 --> 01:49:28,219
+Carlotta Giudicelli;Ensemble : Once again
+
+1346
+01:49:29,677 --> 01:49:31,274
+Carlotta Giudicelli : Shoo
+
+1347
+01:49:39,438 --> 01:49:42,208
+Ubaldo Piangi : Passarino faithful friend
+
+1348
+01:49:42,270 --> 01:49:45,068
+Ubaldo Piangi : Once again recite the plan
+
+1349
+01:49:45,093 --> 01:49:47,912
+Man : Your young guest believes I'm you
+
+1350
+01:49:47,937 --> 01:49:51,124
+Man : I the master you the man
+
+1351
+01:49:51,290 --> 01:49:55,603
+Ubaldo Piangi : When you met you wore my cloak She could not have seen your face
+
+1352
+01:49:55,628 --> 01:49:57,664
+Ubaldo Piangi : She believes she dines with me
+
+1353
+01:49:57,689 --> 01:50:00,102
+Ubaldo Piangi : In her master's borrowed place
+
+1354
+01:50:00,294 --> 01:50:04,256
+Ubaldo Piangi : Furtively we'll scoff and quaff Stealing what in truth is mine
+
+1355
+01:50:04,257 --> 01:50:06,313
+Ubaldo Piangi : When it's late and modesty
+
+1356
+01:50:06,314 --> 01:50:10,162
+Ubaldo Piangi : Starts to mellow with the wine You come home I use your voice
+
+1357
+01:50:10,163 --> 01:50:12,284
+Man : Slam the door like crack of doom
+
+1358
+01:50:12,285 --> 01:50:14,210
+Ubaldo Piangi : I will say Come hide with me
+
+1359
+01:50:14,235 --> 01:50:16,917
+Ubaldo Piangi : Where oh where Of course my room
+
+1360
+01:50:17,094 --> 01:50:19,393
+Man : Poor thing hasn't got a chance
+
+1361
+01:50:19,394 --> 01:50:21,066
+Ubaldo Piangi : Here's my hat my cloak and sword
+
+1362
+01:50:21,132 --> 01:50:26,496
+Ubaldo Piangi : Conquest is assured if I do not forget myself and laugh
+
+1363
+01:50:26,683 --> 01:50:28,530
+Ubaldo Piangi : Ha Ha Ha
+
+1364
+01:50:29,259 --> 01:50:33,123
+Christine Daaé : No thoughts within her head
+
+1365
+01:50:33,124 --> 01:50:36,396
+Christine Daaé : But thoughts of joy
+
+1366
+01:50:36,397 --> 01:50:40,668
+Christine Daaé : No dreams within her heart
+
+1367
+01:50:40,701 --> 01:50:47,475
+Christine Daaé : But dreams of love
+
+1368
+01:50:49,441 --> 01:50:53,994
+Erik (The Phantom) : Master Passarino
+
+1369
+01:50:54,257 --> 01:50:59,765
+Erik (The Phantom) : Go away for the trap is set
+
+1370
+01:50:59,766 --> 01:51:07,561
+Erik (The Phantom) : And waits for its prey
+
+1371
+01:51:09,223 --> 01:51:14,140
+Erik (The Phantom) : You have come here
+
+1372
+01:51:14,314 --> 01:51:19,092
+Erik (The Phantom) : In pursuit of your deepest urge
+
+1373
+01:51:19,229 --> 01:51:25,530
+Erik (The Phantom) : In pursuit of that wish which till now has been silent
+
+1374
+01:51:26,059 --> 01:51:28,599
+Erik (The Phantom) : Silent
+
+1375
+01:51:29,303 --> 01:51:33,935
+Erik (The Phantom) : I have brought you
+
+1376
+01:51:33,982 --> 01:51:38,942
+Erik (The Phantom) : That our passion may fuse and merge
+
+1377
+01:51:38,990 --> 01:51:43,848
+Erik (The Phantom) : In your mind you've already succumbed to me
+
+1378
+01:51:43,873 --> 01:51:50,117
+Erik (The Phantom) : Dropped all defenses Completely succumbed to me
+
+1379
+01:51:50,351 --> 01:51:53,497
+Erik (The Phantom) : Now you are here with me
+
+1380
+01:51:53,642 --> 01:51:56,851
+Erik (The Phantom) : No second thoughts
+
+1381
+01:51:56,852 --> 01:52:02,807
+Erik (The Phantom) : You've decided
+
+1382
+01:52:03,617 --> 01:52:10,043
+Erik (The Phantom) : Decided
+
+1383
+01:52:12,803 --> 01:52:18,980
+Erik (The Phantom) : Past the point of no return
+
+1384
+01:52:21,629 --> 01:52:24,576
+Erik (The Phantom) : No backward glances
+
+1385
+01:52:24,601 --> 01:52:29,349
+Erik (The Phantom) : Our games of make believe
+
+1386
+01:52:29,398 --> 01:52:34,196
+Erik (The Phantom) : Are at an end
+
+1387
+01:52:36,978 --> 01:52:42,493
+Erik (The Phantom) : Past all thought of if or when
+
+1388
+01:52:44,298 --> 01:52:47,322
+Erik (The Phantom) : No use resisting
+
+1389
+01:52:47,512 --> 01:52:50,019
+Erik (The Phantom) : Abandon thought
+
+1390
+01:52:50,044 --> 01:52:55,974
+Erik (The Phantom) : And let the dream descend
+
+1391
+01:52:55,975 --> 01:53:00,973
+Erik (The Phantom) : What raging fire shall flood the soul
+
+1392
+01:53:00,974 --> 01:53:05,430
+Erik (The Phantom) : What rich desire unlocks its door
+
+1393
+01:53:05,431 --> 01:53:13,930
+Erik (The Phantom) : What sweet seduction lies before us
+
+1394
+01:53:15,963 --> 01:53:21,937
+Erik (The Phantom) : Past the point of no return
+
+1395
+01:53:23,588 --> 01:53:26,909
+Erik (The Phantom) : The final threshold
+
+1396
+01:53:26,910 --> 01:53:32,412
+Erik (The Phantom) : What warm unspoken secrets
+
+1397
+01:53:32,413 --> 01:53:36,580
+Erik (The Phantom) : Will we learn
+
+1398
+01:53:36,581 --> 01:53:40,143
+Erik (The Phantom) : Beyond the point
+
+1399
+01:53:40,168 --> 01:53:46,749
+Erik (The Phantom) : Of no return
+
+1400
+01:53:50,177 --> 01:53:54,291
+Christine Daaé : You have brought me
+
+1401
+01:53:55,094 --> 01:53:59,348
+Christine Daaé : To that moment when words run dry
+
+1402
+01:54:00,016 --> 01:54:05,507
+Christine Daaé : To that moment when speech Disappears into silence
+
+1403
+01:54:06,219 --> 01:54:08,492
+Christine Daaé : Silence
+
+1404
+01:54:08,816 --> 01:54:13,353
+Christine Daaé : I have come here
+
+1405
+01:54:13,354 --> 01:54:18,149
+Christine Daaé : Hardly knowing the reason why
+
+1406
+01:54:18,150 --> 01:54:26,054
+Christine Daaé : In my mind I've already imagined our bodies entwining
+
+1407
+01:54:26,055 --> 01:54:29,283
+Christine Daaé : Defenseless and silent
+
+1408
+01:54:29,508 --> 01:54:32,888
+Christine Daaé : And now I am here with you
+
+1409
+01:54:32,889 --> 01:54:36,402
+Christine Daaé : No second thoughts
+
+1410
+01:54:36,616 --> 01:54:41,658
+Christine Daaé : I've decided
+
+1411
+01:54:43,050 --> 01:54:48,750
+Christine Daaé : Decided
+
+1412
+01:54:50,705 --> 01:54:56,224
+Christine Daaé : Past the point of no return
+
+1413
+01:54:57,043 --> 01:54:59,671
+Christine Daaé : No going back now
+
+1414
+01:54:59,672 --> 01:55:04,313
+Christine Daaé : Our passion play has now
+
+1415
+01:55:04,314 --> 01:55:08,827
+Christine Daaé : At last begun
+
+1416
+01:55:10,561 --> 01:55:15,414
+Christine Daaé : Past all thought of right or wrong
+
+1417
+01:55:16,596 --> 01:55:19,513
+Christine Daaé : One final question
+
+1418
+01:55:19,514 --> 01:55:23,887
+Christine Daaé : How long should we two wait
+
+1419
+01:55:23,888 --> 01:55:27,968
+Christine Daaé : Before we're one
+
+1420
+01:55:27,969 --> 01:55:32,526
+Christine Daaé : When will the blood begin to race
+
+1421
+01:55:32,527 --> 01:55:36,634
+Christine Daaé : The sleeping bud burst into bloom
+
+1422
+01:55:36,635 --> 01:55:40,078
+Christine Daaé : When will the flames at last
+
+1423
+01:55:40,079 --> 01:55:44,934
+Christine Daaé : Consume us
+
+1424
+01:55:45,767 --> 01:55:51,072
+Erik (The Phantom);Christine Daaé : Past the point of no return
+
+1425
+01:55:51,073 --> 01:55:54,528
+Erik (The Phantom);Christine Daaé : The final threshold
+
+1426
+01:55:54,529 --> 01:55:57,629
+Erik (The Phantom);Christine Daaé : The bridge is crossed
+
+1427
+01:55:57,648 --> 01:56:03,643
+Erik (The Phantom);Christine Daaé : So stand and watch it burn
+
+1428
+01:56:03,644 --> 01:56:07,073
+Erik (The Phantom);Christine Daaé : We've passed the point
+
+1429
+01:56:07,074 --> 01:56:12,742
+Erik (The Phantom);Christine Daaé : Of no return
+
+1430
+01:56:30,258 --> 01:56:36,096
+Erik (The Phantom) : Say you'll share with me
+
+1431
+01:56:36,097 --> 01:56:41,391
+Erik (The Phantom) : One love one lifetime
+
+1432
+01:56:42,184 --> 01:56:47,621
+Erik (The Phantom) : Lead me save me
+
+1433
+01:56:47,622 --> 01:56:50,942
+Erik (The Phantom) : From my solitude
+
+1434
+01:56:55,135 --> 01:56:59,997
+Erik (The Phantom) : Say you want me
+
+1435
+01:56:59,998 --> 01:57:02,873
+Erik (The Phantom) : With you here
+
+1436
+01:57:03,891 --> 01:57:05,781
+Erik (The Phantom) : Beside you
+
+1437
+01:57:07,202 --> 01:57:11,320
+Erik (The Phantom) : Anywhere you go
+
+1438
+01:57:11,345 --> 01:57:15,548
+Erik (The Phantom) : Let me go too
+
+1439
+01:57:15,883 --> 01:57:18,234
+Erik (The Phantom) : Christine
+
+1440
+01:57:18,235 --> 01:57:24,528
+Erik (The Phantom) : That's all I ask of
+
+1441
+01:57:24,529 --> 01:57:25,851
+Erik (The Phantom) : No
+
+1442
+01:57:27,902 --> 01:57:29,683
+Raoul : No Don't shoot
+
+1443
+01:57:29,708 --> 01:57:31,996
+Raoul : No What are you doing there
+
+1444
+01:57:42,813 --> 01:57:46,867
+Raoul : Give me this monsieur Get water monsieur Upstairs monsieur Come
+
+1445
+01:57:47,211 --> 01:57:50,463
+Raoul : Monsieur Firmin come Open the doors monsieur
+
+1446
+01:57:50,488 --> 01:57:53,911
+Madame Giry : Monsieur Vicomte come with me I know where they are
+
+1447
+01:57:53,936 --> 01:57:54,612
+Raoul : Can I trust you
+
+1448
+01:57:54,613 --> 01:57:55,264
+Madame Giry : You must
+
+1449
+01:57:55,289 --> 01:57:58,001
+Madame Giry : But remember keep your hand at the level of your eyes
+
+1450
+01:57:58,002 --> 01:57:58,503
+Raoul : But why
+
+1451
+01:57:58,504 --> 01:57:59,996
+Madame Giry : The Punjab lasso monsieur
+
+1452
+01:58:00,021 --> 01:58:02,055
+Madame Giry : First Buquet now Piangi
+
+1453
+01:58:02,080 --> 01:58:04,185
+Meg Giry : Like this monsieur Look I'II go with you
+
+1454
+01:58:04,210 --> 01:58:06,670
+Madame Giry : No Meg No You stay here
+
+1455
+01:58:06,695 --> 01:58:08,439
+Madame Giry : Come with me monsieur do as I say
+
+1456
+01:58:08,440 --> 01:58:10,377
+Madame Giry : But hurry or we shall be too late
+
+1457
+01:58:16,293 --> 01:58:18,835
+Erik (The Phantom) : Down once more
+
+1458
+01:58:18,836 --> 01:58:23,271
+Erik (The Phantom) : To the dungeon of my black despair
+
+1459
+01:58:23,272 --> 01:58:28,543
+Erik (The Phantom) : Down we plunge to the prison of my mind
+
+1460
+01:58:29,401 --> 01:58:33,306
+Erik (The Phantom) : Down that path into darkness
+
+1461
+01:58:33,331 --> 01:58:40,172
+Erik (The Phantom) : Deep as hell
+
+1462
+01:58:40,596 --> 01:58:43,220
+Erik (The Phantom) : Why you ask was I bound and chained
+
+1463
+01:58:43,221 --> 01:58:45,195
+Erik (The Phantom) : In this cold and dismal place
+
+1464
+01:58:45,220 --> 01:58:47,563
+Erik (The Phantom) : Not for any mortal sin
+
+1465
+01:58:47,588 --> 01:58:49,712
+Erik (The Phantom) : But the wickedness of my abhorrent face
+
+1466
+01:58:49,713 --> 01:58:52,725
+Erik (The Phantom) : Track down this murderer He must be found
+
+1467
+01:58:52,750 --> 01:58:54,740
+Erik (The Phantom) : Hounded out by everyone
+
+1468
+01:58:54,765 --> 01:58:56,705
+Erik (The Phantom) : Met with hatred everywhere
+
+1469
+01:58:56,706 --> 01:58:58,986
+Erik (The Phantom) : No kind word from anyone
+
+1470
+01:58:58,987 --> 01:59:01,052
+Erik (The Phantom) : No compassion anywhere
+
+1471
+01:59:01,053 --> 01:59:02,300
+Erik (The Phantom) : Christine
+
+1472
+01:59:02,330 --> 01:59:06,142
+Erik (The Phantom) : Christine why Why
+
+1473
+01:59:11,024 --> 01:59:13,271
+Madame Giry : Your hand at the level of your eyes
+
+1474
+01:59:13,272 --> 01:59:15,641
+Raoul : At the level of your eyes
+
+1475
+01:59:15,642 --> 01:59:18,224
+Ensemble : At the level of your eyes
+
+1476
+01:59:18,249 --> 01:59:20,632
+Ensemble : Level of your eyes
+
+1477
+01:59:20,711 --> 01:59:23,292
+Madame Giry : He lives across the lake monsieur
+
+1478
+01:59:23,908 --> 01:59:26,149
+Madame Giry : This is as far as I dare go
+
+1479
+01:59:26,853 --> 01:59:27,717
+Raoul : Madame Giry
+
+1480
+01:59:29,728 --> 01:59:30,689
+Raoul : thank you
+
+1481
+01:59:31,513 --> 01:59:37,202
+Ensemble : Track down this murderer He must be found Track down this murderer He must be found
+
+1482
+01:59:37,227 --> 01:59:40,205
+Ensemble : Hunt down this animal who runs to ground
+
+1483
+01:59:40,230 --> 01:59:42,305
+Ensemble : Too long he's preyed on us
+
+1484
+01:59:42,330 --> 01:59:44,488
+Ensemble : But now we know
+
+1485
+01:59:44,513 --> 01:59:51,176
+Ensemble : The Phantom of the Opera is here Deep down below
+
+1486
+01:59:54,053 --> 02:00:00,311
+Ensemble : He's here The Phantom of the Opera
+
+1487
+02:00:06,087 --> 02:00:12,260
+Christine Daaé : Have you gorged yourself at last in your lust for blood
+
+1488
+02:00:13,365 --> 02:00:19,596
+Christine Daaé : Am I now to be prey to your lust for flesh
+
+1489
+02:00:19,597 --> 02:00:24,406
+Erik (The Phantom) : That fate which condemns me to wallow in blood
+
+1490
+02:00:25,117 --> 02:00:28,021
+Erik (The Phantom) : Has also denied me
+
+1491
+02:00:28,045 --> 02:00:31,730
+Erik (The Phantom) : the joys of the flesh
+
+1492
+02:00:37,406 --> 02:00:38,629
+Erik (The Phantom) : This face
+
+1493
+02:00:39,153 --> 02:00:43,857
+Erik (The Phantom) : The infection which poisons our love
+
+1494
+02:00:50,715 --> 02:00:53,523
+Erik (The Phantom) : This face
+
+1495
+02:00:54,388 --> 02:01:01,821
+Erik (The Phantom) : Which earned a mother's fear and loathing
+
+1496
+02:01:02,553 --> 02:01:06,281
+Erik (The Phantom) : A mask my first
+
+1497
+02:01:07,203 --> 02:01:12,674
+Erik (The Phantom) : Unfeeling scrap of clothing
+
+1498
+02:01:13,462 --> 02:01:16,158
+Erik (The Phantom) : Pity comes too late
+
+1499
+02:01:16,183 --> 02:01:19,439
+Erik (The Phantom) : Turn around and face your fate
+
+1500
+02:01:19,440 --> 02:01:23,045
+Erik (The Phantom) : An eternity of this
+
+1501
+02:01:23,070 --> 02:01:26,789
+Erik (The Phantom) : Before your eyes
+
+1502
+02:01:27,554 --> 02:01:31,090
+Christine Daaé : This haunted face
+
+1503
+02:01:31,115 --> 02:01:37,785
+Christine Daaé : Holds no horror for me now
+
+1504
+02:01:38,143 --> 02:01:41,957
+Christine Daaé : It's in your soul
+
+1505
+02:01:42,187 --> 02:01:48,795
+Christine Daaé : That the true distortion lies
+
+1506
+02:01:49,666 --> 02:01:54,075
+Erik (The Phantom) : Wait I think my dear we have a guest
+
+1507
+02:01:55,119 --> 02:01:55,543
+Christine Daaé : Raoul
+
+1508
+02:01:55,544 --> 02:01:59,947
+Erik (The Phantom) : Sir this is indeed an unparalleled delight
+
+1509
+02:02:00,705 --> 02:02:04,191
+Erik (The Phantom) : I had rather hoped that you would come
+
+1510
+02:02:04,534 --> 02:02:05,519
+Raoul : No
+
+1511
+02:02:05,520 --> 02:02:08,187
+Erik (The Phantom) : And now my wish comes true
+
+1512
+02:02:08,938 --> 02:02:11,921
+Erik (The Phantom) : You have truly made my night
+
+1513
+02:02:11,946 --> 02:02:13,451
+Raoul : Free her
+
+1514
+02:02:13,674 --> 02:02:16,162
+Raoul : Do what you will only free her
+
+1515
+02:02:16,312 --> 02:02:17,346
+Raoul : Have you no pity
+
+1516
+02:02:17,382 --> 02:02:19,346
+Erik (The Phantom) : Your lover makes a passionate plea
+
+1517
+02:02:19,347 --> 02:02:20,511
+Christine Daaé : Please Raoul it's useless
+
+1518
+02:02:20,536 --> 02:02:22,175
+Raoul : I love her
+
+1519
+02:02:22,199 --> 02:02:24,625
+Raoul : Does that mean nothing I love her
+
+1520
+02:02:24,674 --> 02:02:25,880
+Raoul : Show some compassion
+
+1521
+02:02:25,881 --> 02:02:28,277
+Erik (The Phantom) : The world showed no compassion to me
+
+1522
+02:02:28,302 --> 02:02:30,679
+Raoul : Christine Christine
+
+1523
+02:02:30,680 --> 02:02:31,987
+Raoul : Let me see her
+
+1524
+02:02:31,988 --> 02:02:33,723
+Erik (The Phantom) : Be my guest
+
+1525
+02:02:35,761 --> 02:02:37,023
+Raoul : sir
+
+1526
+02:02:39,613 --> 02:02:41,333
+Raoul : Christine
+
+1527
+02:02:45,423 --> 02:02:51,352
+Erik (The Phantom) : Monsieur I bid you welcome
+
+1528
+02:02:51,408 --> 02:02:55,920
+Erik (The Phantom) : Did you think that I would harm her
+
+1529
+02:02:56,064 --> 02:02:59,772
+Erik (The Phantom) : Why should I make her pay
+
+1530
+02:02:59,773 --> 02:03:03,724
+Erik (The Phantom) : For the sins which are yours
+
+1531
+02:03:03,725 --> 02:03:04,244
+Christine Daaé : No
+
+1532
+02:03:05,457 --> 02:03:08,174
+Erik (The Phantom) : Order your fine horses now
+
+1533
+02:03:08,199 --> 02:03:10,863
+Erik (The Phantom) : Raise up your hand to the level of your eyes
+
+1534
+02:03:10,864 --> 02:03:12,917
+Erik (The Phantom) : Nothing can save you now
+
+1535
+02:03:12,918 --> 02:03:15,803
+Erik (The Phantom) : Except perhaps Christine
+
+1536
+02:03:17,041 --> 02:03:20,035
+Erik (The Phantom) : Start a new life with me
+
+1537
+02:03:20,060 --> 02:03:22,597
+Erik (The Phantom) : Buy his freedom with your love
+
+1538
+02:03:22,598 --> 02:03:26,056
+Erik (The Phantom) : Refuse me and you send your lover to his death
+
+1539
+02:03:26,057 --> 02:03:27,924
+Erik (The Phantom) : This is the choice
+
+1540
+02:03:27,925 --> 02:03:38,047
+Erik (The Phantom) : This is the point of no return
+
+1541
+02:03:39,939 --> 02:03:44,556
+Christine Daaé : The tears I might have shed
+
+1542
+02:03:44,557 --> 02:03:48,303
+Christine Daaé : For your dark fate
+
+1543
+02:03:48,304 --> 02:03:51,618
+Christine Daaé : Grow cold
+
+1544
+02:03:51,619 --> 02:03:58,177
+Christine Daaé : And turn to tears of hate
+
+1545
+02:03:59,609 --> 02:04:03,890
+Raoul : Christine forgive me Please forgive me
+
+1546
+02:04:04,577 --> 02:04:05,388
+Raoul : I did it all for you and all for nothing
+
+1547
+02:04:05,389 --> 02:04:11,002
+Christine Daaé : Farewell my fallen idol and false friend
+
+1548
+02:04:11,027 --> 02:04:11,320
+Erik (The Phantom) : Too late for turning back
+
+1549
+02:04:11,321 --> 02:04:12,637
+Christine Daaé : We had such hopes And now such hopes are shattered
+
+1550
+02:04:12,638 --> 02:04:14,745
+Erik (The Phantom) : Too late for prayers and useless pity
+
+1551
+02:04:14,784 --> 02:04:16,243
+Raoul : Say you love him and Past
+
+1552
+02:04:16,244 --> 02:04:18,305
+Erik (The Phantom) : all hopes of cries for help
+
+1553
+02:04:18,330 --> 02:04:19,893
+Raoul : My life is over
+
+1554
+02:04:19,894 --> 02:04:22,213
+Erik (The Phantom) : No point in fighting
+
+1555
+02:04:22,214 --> 02:04:24,582
+Raoul : Either way you choose he has to win
+
+1556
+02:04:24,583 --> 02:04:28,570
+Erik (The Phantom) : Either way you choose you cannot win
+
+1557
+02:04:28,836 --> 02:04:32,727
+Erik (The Phantom) : So do you end your days with me
+
+1558
+02:04:32,728 --> 02:04:35,658
+Erik (The Phantom) : Or do you send him to his grave
+
+1559
+02:04:35,659 --> 02:04:38,394
+Raoul : Why make her lie to you
+
+1560
+02:04:38,395 --> 02:04:41,229
+Raoul : To save me
+
+1561
+02:04:42,817 --> 02:04:44,550
+Erik (The Phantom) : Past the point of no return
+
+1562
+02:04:44,551 --> 02:04:46,092
+Christine Daaé : Angel of Music
+
+1563
+02:04:46,093 --> 02:04:47,297
+Raoul : For pity's sake
+
+1564
+02:04:47,298 --> 02:04:48,303
+Christine Daaé : Who deserve this
+
+1565
+02:04:48,304 --> 02:04:50,533
+Erik (The Phantom) : Christine The final threshold
+
+1566
+02:04:50,558 --> 02:04:55,057
+Erik (The Phantom) : His life is now the prize which you must earn
+
+1567
+02:04:55,058 --> 02:04:58,409
+Raoul : I fought so hard to free you
+
+1568
+02:04:58,540 --> 02:05:00,764
+Erik (The Phantom) : You've past the point of no return
+
+1569
+02:05:00,765 --> 02:05:04,613
+Christine Daaé : Angel of Music
+
+1570
+02:05:04,614 --> 02:05:07,085
+Christine Daaé : You deceived me
+
+1571
+02:05:07,086 --> 02:05:12,414
+Christine Daaé : I gave my mind blindly
+
+1572
+02:05:17,136 --> 02:05:18,490
+Erik (The Phantom) : Blindly
+
+1573
+02:05:33,937 --> 02:05:38,948
+Erik (The Phantom) : You try my patience
+
+1574
+02:05:45,672 --> 02:05:47,498
+Erik (The Phantom) : Make your choice
+
+1575
+02:05:54,264 --> 02:06:00,858
+Christine Daaé : Pitiful creature of darkness
+
+1576
+02:06:03,408 --> 02:06:09,221
+Christine Daaé : What kind of life have you known
+
+1577
+02:06:11,774 --> 02:06:17,894
+Christine Daaé : God give me courage to show you
+
+1578
+02:06:17,895 --> 02:06:27,895
+Christine Daaé : You are not alone
+
+1579
+02:08:12,096 --> 02:08:14,765
+Ensemble : Track down this murderer
+
+1580
+02:08:15,311 --> 02:08:16,433
+Ensemble : He must be found
+
+1581
+02:08:16,434 --> 02:08:19,317
+Erik (The Phantom) : Take her forget me forget all of this
+
+1582
+02:08:21,126 --> 02:08:25,077
+Erik (The Phantom) : Leave me alone Forget all you've seen
+
+1583
+02:08:25,102 --> 02:08:27,287
+Erik (The Phantom) : Go now don't let them find you
+
+1584
+02:08:28,402 --> 02:08:29,247
+Ensemble : Revenge for Buquet
+
+1585
+02:08:29,248 --> 02:08:30,293
+Erik (The Phantom) : Take the boat
+
+1586
+02:08:30,318 --> 02:08:32,190
+Erik (The Phantom) : Swear to me never to tell
+
+1587
+02:08:34,399 --> 02:08:36,019
+Erik (The Phantom) : Of the secret you know
+
+1588
+02:08:37,315 --> 02:08:40,423
+Ensemble : The Phantom of the Opera
+
+1589
+02:08:40,424 --> 02:08:44,264
+Erik (The Phantom) : of this Angel of Hell
+
+1590
+02:08:45,769 --> 02:08:46,976
+Erik (The Phantom) : Go
+
+1591
+02:08:50,410 --> 02:08:56,877
+Erik (The Phantom) : Go now and leave me
+
+1592
+02:09:18,734 --> 02:09:20,629
+Erik (The Phantom) : Masquerade
+
+1593
+02:09:22,983 --> 02:09:26,810
+Erik (The Phantom) : Paper faces on parade
+
+1594
+02:09:26,993 --> 02:09:29,605
+Erik (The Phantom) : Masquerade
+
+1595
+02:09:31,507 --> 02:09:34,856
+Erik (The Phantom) : Hide your face So the world
+
+1596
+02:09:38,103 --> 02:09:39,997
+Erik (The Phantom) : Will never find you
+
+1597
+02:10:02,530 --> 02:10:04,783
+Erik (The Phantom) : Christine
+
+1598
+02:10:06,678 --> 02:10:18,859
+Erik (The Phantom) : I love you
+
+1599
+02:10:52,897 --> 02:10:59,070
+Christine Daaé : Say you'll share with me
+
+1600
+02:10:59,071 --> 02:11:05,249
+Christine Daaé : One love one lifetime
+
+1601
+02:11:06,008 --> 02:11:10,548
+Erik (The Phantom) : Say the word
+
+1602
+02:11:10,549 --> 02:11:15,171
+Erik (The Phantom) : And I will follow you
+
+1603
+02:11:18,875 --> 02:11:24,236
+Christine Daaé : Share each day with me
+
+1604
+02:11:24,237 --> 02:11:31,620
+Christine Daaé : Each night each morning
+
+1605
+02:11:31,621 --> 02:11:35,915
+Erik (The Phantom) : You alone can make
+
+1606
+02:11:35,916 --> 02:11:41,288
+Erik (The Phantom) : My song take flight
+
+1607
+02:11:41,289 --> 02:11:45,467
+Erik (The Phantom) : It's over now
+
+1608
+02:11:45,468 --> 02:11:49,011
+Erik (The Phantom) : The music
+
+1609
+02:11:49,012 --> 02:11:53,486
+Erik (The Phantom) : Of the
+
+1610
+02:11:53,487 --> 02:12:02,560
+Erik (The Phantom) : night
+
+1611
+02:18:07,159 --> 02:18:08,276
+Thank you
+
+1612
+02:18:14,925 --> 02:18:16,626
+Oh thank you Thank you
+
+1613
+02:18:17,380 --> 02:18:21,444
+Gosh uh do sit down for goodness sake I might talk for too long
+
+1614
+02:18:22,059 --> 02:18:25,692
+Gosh when I was a little boy and I was first brought here by my mother
+
+1615
+02:18:25,717 --> 02:18:29,049
+when I was five I think to a Promenade concert
+
+1616
+02:18:29,074 --> 02:18:32,033
+I think I heard Beethoven's Third Symphony
+
+1617
+02:18:32,058 --> 02:18:35,424
+and I don't think I could have ever ever believed
+
+1618
+02:18:35,449 --> 02:18:38,677
+sitting somewhere up there
+
+1619
+02:18:38,702 --> 02:18:41,872
+that anything like this would ever happen to my music
+
+1620
+02:18:41,953 --> 02:18:47,841
+And I have to thank immediately Cameron Mackintosh What an extraordinary production he's put together
+
+1621
+02:18:51,158 --> 02:18:53,580
+Thank you Cameron We'll meet him in a moment
+
+1622
+02:18:55,199 --> 02:19:01,224
+But before I go any further the wonderful thing about musicals is that
+
+1623
+02:19:01,486 --> 02:19:03,872
+something has to happen that brings them all together
+
+1624
+02:19:03,897 --> 02:19:07,156
+I mean you can have a really great musical and
+
+1625
+02:19:07,180 --> 02:19:11,142
+One aspect of it could be wrong whether it be the production whether it be something to do
+
+1626
+02:19:11,196 --> 02:19:15,458
+With how it's staged or anything and it might get buried and then take years to find again
+
+1627
+02:19:15,483 --> 02:19:21,973
+But what happened so extraordinarily with this is that everything came together with Cameron as the producer
+
+1628
+02:19:22,844 --> 02:19:25,063
+Before we go any further I have to say that
+
+1629
+02:19:25,088 --> 02:19:28,969
+it would have never happened without Maria Bjrnson and of course
+
+1630
+02:19:30,314 --> 02:19:32,017
+Maria Bjrnson
+
+1631
+02:19:36,144 --> 02:19:39,835
+was as all of you know the incredible designer of the show
+
+1632
+02:19:39,860 --> 02:19:42,967
+It was her vision combined I think with everything else
+
+1633
+02:19:42,992 --> 02:19:47,468
+that really brought us along She tragically died some years ago
+
+1634
+02:19:47,493 --> 02:19:50,198
+One of the greatest sadnesses is that she's not here tonight
+
+1635
+02:19:50,223 --> 02:19:52,900
+but I hope we've honoured her spirit in every way
+
+1636
+02:19:53,257 --> 02:19:56,798
+So Maria thank you
+
+1637
+02:20:00,946 --> 02:20:07,427
+And I ought to say tonight's rather extraordinary because I know that there are many companies of The Phantom of the Opera
+
+1638
+02:20:07,452 --> 02:20:11,405
+watching this performance around the world because it's being beamed around the world tonight
+
+1639
+02:20:11,699 --> 02:20:15,817
+And none I suppose more important than the director who made it possible
+
+1640
+02:20:15,842 --> 02:20:19,716
+who's in New York at the moment with the New York Broadway company
+
+1641
+02:20:19,804 --> 02:20:21,424
+Hal Prince So hello Hal
+
+1642
+02:20:25,246 --> 02:20:27,465
+And thank you for everything Hal
+
+1643
+02:20:28,845 --> 02:20:32,938
+So without any more ado let's bring on the original creative team from London
+
+1644
+02:20:32,963 --> 02:20:35,931
+Here they come led by Sir Cameron Mackintosh
+
+1645
+02:20:40,391 --> 02:20:42,537
+Charles Hart our lyricist of course
+
+1646
+02:20:43,033 --> 02:20:46,961
+Andy Bridge our lighting and above all Gillian Lynne who staged tonight
+
+1647
+02:20:47,027 --> 02:20:48,080
+Thank you Gillian
+
+1648
+02:20:53,447 --> 02:20:57,080
+And the creative team from the Albert Hall tonight
+
+1649
+02:20:57,105 --> 02:20:57,966
+Here they all are
+
+1650
+02:21:03,420 --> 02:21:04,954
+Laurence the director in the middle
+
+1651
+02:21:15,446 --> 02:21:16,142
+Now
+
+1652
+02:21:17,507 --> 02:21:21,432
+Next I have to thank our fantastic company What a fantastic show
+
+1653
+02:21:21,457 --> 02:21:25,245
+Ramin Sierra you couldn't have done me more proud
+
+1654
+02:21:26,269 --> 02:21:30,312
+And Anthony Inglis and the fantastic orchestra
+
+1655
+02:21:37,204 --> 02:21:38,529
+Just before we move on
+
+1656
+02:21:38,554 --> 02:21:45,590
+I'm going to introduce you in a second to the original London company but I just would like you to remember John Aron
+
+1657
+02:21:45,615 --> 02:21:48,764
+Steve Barton who of course played Raoul and Mary Millar
+
+1658
+02:21:49,036 --> 02:21:53,577
+who sadly are no longer with us but they were wonderful members of our original team
+
+1659
+02:21:53,620 --> 02:21:56,566
+So a small appreciation to them please
+
+1660
+02:22:01,891 --> 02:22:05,886
+And here is our original London company
+
+1661
+02:22:36,196 --> 02:22:41,484
+We have one other member of the company tonight
+
+1662
+02:22:41,576 --> 02:22:44,410
+who has hotfooted it from the London Palladium
+
+1663
+02:22:44,617 --> 02:22:45,672
+Michael Crawford
+
+1664
+02:23:36,911 --> 02:23:37,752
+Finally
+
+1665
+02:23:39,291 --> 02:23:41,218
+And I suppose this is very special for me
+
+1666
+02:23:41,497 --> 02:23:44,364
+It is a great joy for me to welcome tonight
+
+1667
+02:23:44,882 --> 02:23:47,132
+my Angel of Music Sarah Brightman
+
+1668
+02:24:25,419 --> 02:24:25,636
+But
+
+1669
+02:24:31,808 --> 02:24:33,771
+Without these two we would not be here
+
+1670
+02:24:33,796 --> 02:24:37,740
+Uh we have one slight additional surprise
+
+1671
+02:24:37,765 --> 02:24:39,621
+Sarah has agreed to sing
+
+1672
+02:24:39,646 --> 02:24:41,355
+So I'm going to leave you
+
+1673
+02:24:43,564 --> 02:24:46,365
+in the hands of the Angel of Music
+
+1674
+02:24:46,584 --> 02:24:48,752
+Maestro take it away
+
+1675
+02:25:08,676 --> 02:25:12,558
+In sleep he sang to me
+
+1676
+02:25:12,583 --> 02:25:15,788
+In dreams he came
+
+1677
+02:25:16,573 --> 02:25:20,692
+That voice which calls to me
+
+1678
+02:25:20,717 --> 02:25:23,709
+And speaks my name
+
+1679
+02:25:24,713 --> 02:25:28,671
+And do I dream again
+
+1680
+02:25:28,696 --> 02:25:33,691
+For now I find
+
+1681
+02:25:33,716 --> 02:25:40,218
+The Phantom of the Opera is there
+
+1682
+02:25:40,559 --> 02:25:46,677
+Inside my mind
+
+1683
+02:25:52,699 --> 02:25:56,442
+Sing once again with me
+
+1684
+02:25:56,746 --> 02:26:00,255
+Our strange duet
+
+1685
+02:26:00,901 --> 02:26:04,481
+My power over you
+
+1686
+02:26:04,506 --> 02:26:08,736
+Grows stronger yet
+
+1687
+02:26:08,761 --> 02:26:12,504
+And though you turn from me
+
+1688
+02:26:12,529 --> 02:26:17,715
+To glance behind
+
+1689
+02:26:17,740 --> 02:26:24,707
+The Phantom of the Opera is there
+
+1690
+02:26:24,732 --> 02:26:29,518
+Inside your mind
+
+1691
+02:26:36,511 --> 02:26:40,739
+Those who have seen your face
+
+1692
+02:26:40,764 --> 02:26:44,793
+Draw back in fear
+
+1693
+02:26:44,818 --> 02:26:48,772
+I am the mask you wear
+
+1694
+02:26:48,797 --> 02:26:52,358
+It's me they hear
+
+1695
+02:26:52,773 --> 02:26:56,752
+My spirit and your voice Your spirit and my voice
+
+1696
+02:26:56,777 --> 02:27:01,663
+In one combined
+
+1697
+02:27:01,688 --> 02:27:08,719
+The Phantom of the Opera is there
+
+1698
+02:27:08,744 --> 02:27:17,542
+Inside your mind Inside my mind He's there The Phantom of the Opera
+
+1699
+02:27:17,760 --> 02:27:26,749
+Beware The Phantom of the Opera
+
+1700
+02:27:28,709 --> 02:27:32,667
+In all your fantasies
+
+1701
+02:27:32,692 --> 02:27:36,788
+You always knew
+
+1702
+02:27:36,813 --> 02:27:40,950
+That man and mystery
+
+1703
+02:27:40,975 --> 02:27:44,439
+Were both in you
+
+1704
+02:27:44,761 --> 02:27:48,675
+And in this labyrinth
+
+1705
+02:27:48,700 --> 02:27:53,778
+Where night is blind
+
+1706
+02:27:53,803 --> 02:28:00,467
+The Phantom of the Opera is there
+
+1707
+02:28:00,492 --> 02:28:06,163
+Inside your mind Sing
+
+1708
+02:28:06,950 --> 02:28:11,743
+Sing my Angel of Music He's there
+
+1709
+02:28:11,768 --> 02:28:18,242
+The Phantom of the Opera
+
+1710
+02:28:18,267 --> 02:28:21,961
+Sing for me
+
+1711
+02:28:26,643 --> 02:28:28,989
+Sing for me
+
+1712
+02:29:01,742 --> 02:29:06,021
+Sing for me
+
+1713
+02:29:24,941 --> 02:29:28,581
+We have brought you
+
+1714
+02:29:28,606 --> 02:29:31,985
+To the seat of sweet music's throne
+
+1715
+02:29:32,010 --> 02:29:37,697
+To this kingdom where all must pay homage to music
+
+1716
+02:29:37,722 --> 02:29:40,946
+Music
+
+1717
+02:29:41,328 --> 02:29:45,173
+We have come here
+
+1718
+02:29:45,266 --> 02:29:48,923
+For one purpose and one alone
+
+1719
+02:29:48,948 --> 02:29:53,027
+Since the moment you first heard us sing
+
+1720
+02:29:53,052 --> 02:29:58,234
+We have needed you with us to serve him
+
+1721
+02:29:58,373 --> 02:30:05,380
+To sing for his music
+
+1722
+02:30:06,840 --> 02:30:14,799
+His music
+
+1723
+02:30:17,998 --> 02:30:23,284
+Nighttime sharpens
+
+1724
+02:30:23,309 --> 02:30:27,953
+Heightens each sensation
+
+1725
+02:30:28,330 --> 02:30:32,603
+Darkness stirs
+
+1726
+02:30:32,628 --> 02:30:37,804
+And wakes imagination
+
+1727
+02:30:37,829 --> 02:30:42,617
+Silently the senses
+
+1728
+02:30:42,755 --> 02:30:50,156
+Abandon their defenses
+
+1729
+02:30:59,624 --> 02:31:03,823
+Slowly gently
+
+1730
+02:31:03,848 --> 02:31:08,574
+Night unfurls its splendour
+
+1731
+02:31:08,904 --> 02:31:12,273
+Grasp it sense it
+
+1732
+02:31:12,693 --> 02:31:17,437
+Tremulous and tender
+
+1733
+02:31:17,488 --> 02:31:20,778
+Turn your face away
+
+1734
+02:31:20,803 --> 02:31:25,355
+From the garish light of day
+
+1735
+02:31:25,688 --> 02:31:27,930
+Turn your thoughts away
+
+1736
+02:31:28,069 --> 02:31:33,730
+From cold unfeeling light
+
+1737
+02:31:33,966 --> 02:31:42,126
+And listen to the music of the night
+
+1738
+02:31:42,261 --> 02:31:46,199
+Close your eyes and surrender
+
+1739
+02:31:46,224 --> 02:31:49,383
+To your darkest dreams
+
+1740
+02:31:49,408 --> 02:31:52,982
+Purge your thoughts of the life
+
+1741
+02:31:53,007 --> 02:31:57,335
+You knew before
+
+1742
+02:31:57,360 --> 02:32:02,795
+Close your eyes let your spirit
+
+1743
+02:32:03,014 --> 02:32:17,508
+Start to soar
+
+1744
+02:32:19,250 --> 02:32:22,501
+And you'll live
+
+1745
+02:32:22,526 --> 02:32:31,339
+As you've never lived before
+
+1746
+02:32:33,401 --> 02:32:37,479
+Softly deftly
+
+1747
+02:32:37,504 --> 02:32:41,456
+Music shall caress you
+
+1748
+02:32:41,481 --> 02:32:45,078
+Hear it feel it
+
+1749
+02:32:45,103 --> 02:32:49,295
+Secretly possess you
+
+1750
+02:32:49,320 --> 02:32:52,440
+Open up your mind
+
+1751
+02:32:52,465 --> 02:32:56,501
+Let your fantasies unwind
+
+1752
+02:32:56,526 --> 02:33:03,871
+In this darkness that you know you cannot fight
+
+1753
+02:33:04,279 --> 02:33:08,776
+The darkness of the music
+
+1754
+02:33:08,801 --> 02:33:13,615
+Of the night
+
+1755
+02:33:13,640 --> 02:33:17,176
+Let you mind start a journey
+
+1756
+02:33:17,201 --> 02:33:19,863
+To a strange new world
+
+1757
+02:33:19,960 --> 02:33:26,373
+Leave all thoughts of the world you knew before
+
+1758
+02:33:26,687 --> 02:33:30,461
+Let you soul take you where
+
+1759
+02:33:30,486 --> 02:33:39,962
+You long to be
+
+1760
+02:33:46,980 --> 02:33:50,510
+Only then
+
+1761
+02:33:51,198 --> 02:33:55,360
+Can you belong
+
+1762
+02:33:55,456 --> 02:34:01,597
+To me
+
+1763
+02:34:04,011 --> 02:34:07,986
+Floating falling
+
+1764
+02:34:08,011 --> 02:34:11,753
+Sweet intoxication
+
+1765
+02:34:12,177 --> 02:34:16,004
+Touch me trust me
+
+1766
+02:34:16,029 --> 02:34:20,336
+Savour each sensation
+
+1767
+02:34:20,361 --> 02:34:23,435
+Let the dream begin
+
+1768
+02:34:23,601 --> 02:34:27,847
+Let your darker side give in
+
+1769
+02:34:27,872 --> 02:34:31,949
+To the power of the music
+
+1770
+02:34:31,974 --> 02:34:35,634
+That I write
+
+1771
+02:34:36,063 --> 02:34:41,386
+The power of the music
+
+1772
+02:34:41,411 --> 02:34:50,162
+Of the night
+
+1773
+02:35:09,011 --> 02:35:12,463
+You alone can make
+
+1774
+02:35:12,531 --> 02:35:17,881
+Our song take flight
+
+1775
+02:35:18,172 --> 02:35:21,888
+It's over now
+
+1776
+02:35:21,913 --> 02:35:26,821
+The music of
+
+1777
+02:35:26,846 --> 02:35:44,781
+The night
+

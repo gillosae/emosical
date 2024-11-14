@@ -1,0 +1,4148 @@
+1
+00:03:57,902 --> 00:04:00,189
+Munkustrap : Are you blind when you're born
+
+2
+00:04:01,416 --> 00:04:04,119
+Demeter : Can you see in the dark
+
+3
+00:04:05,661 --> 00:04:07,568
+Skimbleshanks : Can you look at a king
+
+4
+00:04:07,569 --> 00:04:09,875
+Asparagus : Would you sit on his throne
+
+5
+00:04:11,510 --> 00:04:15,800
+Rum Tum Tugger : Can you say of your bite That it's worse than your bark
+
+6
+00:04:17,185 --> 00:04:19,555
+Munkustrap;Alonzo : Are you cock of the walk
+
+7
+00:04:20,926 --> 00:04:22,988
+Chorus Cat : When you're walking alone
+
+8
+00:04:22,989 --> 00:04:26,511
+All Cats : Because Jellicles are And Jellicles do
+
+9
+00:04:26,517 --> 00:04:29,451
+All Cats : Jellicles do and Jellicles would
+
+10
+00:04:29,452 --> 00:04:32,110
+All Cats : Jellicles would and Jellicles can
+
+11
+00:04:32,111 --> 00:04:35,307
+All Cats : Jellicles can and Jellicles do
+
+12
+00:04:37,769 --> 00:04:41,329
+Jellylorum : When you fall on your head Do you land on your feet
+
+13
+00:04:43,242 --> 00:04:47,326
+Coricopat : Are you tense when you sense There's a storm in the air
+
+14
+00:04:48,629 --> 00:04:52,315
+Jemima : Can you find your way blind When you're lost in the street
+
+15
+00:04:52,316 --> 00:04:56,045
+Old Deuteronomy : Do you know how to go To the Heaviside Layer
+
+16
+00:04:56,046 --> 00:04:59,402
+All Cats : Because Jellicles can And Jellicles do
+
+17
+00:04:59,403 --> 00:05:02,106
+All Cats : Jellicles do and Jellicles can
+
+18
+00:05:02,107 --> 00:05:04,647
+All Cats : Jellicles can and Jellicles do
+
+19
+00:05:04,798 --> 00:05:07,291
+All Cats : Jellicles do and Jellicles can
+
+20
+00:05:07,292 --> 00:05:10,119
+All Cats : Jellicles can and Jellicles do
+
+21
+00:05:10,120 --> 00:05:13,979
+Tantomile : Can you ride on a broomstick To places far distant
+
+22
+00:05:13,980 --> 00:05:15,848
+Jennyanydots;Victoria : Familiar with candle
+
+23
+00:05:15,858 --> 00:05:17,340
+Electra : With book and with bell
+
+24
+00:05:17,341 --> 00:05:19,142
+Bombalurina : Were you Whittington's friend
+
+25
+00:05:19,144 --> 00:05:20,909
+Mistoffelees : The Pied Piper's assistant
+
+26
+00:05:20,910 --> 00:05:24,442
+Tumblebrutus : Have you been an alumnus Of heaven and hell
+
+27
+00:05:24,443 --> 00:05:26,048
+Mungojerrie : Are you mean like a minx
+
+28
+00:05:26,049 --> 00:05:27,974
+Rumpleteazer : Are you lean like a lynx
+
+29
+00:05:27,975 --> 00:05:31,444
+Etcetera : Are you keen to be seen When you're smelling a rat
+
+30
+00:05:31,445 --> 00:05:34,991
+Cassandra : Were you there when the pharaohs Commissioned the Sphinx
+
+31
+00:05:34,992 --> 00:05:38,439
+All Cats : If you were and you are You're a Jellicle Cat
+
+32
+00:05:38,440 --> 00:05:40,965
+All Cats : Jellicle Songs for Jellicle Cats
+
+33
+00:05:41,103 --> 00:05:46,295
+All Cats : Jellicle Songs for Jellicle Cats Jellicle Songs for Jellicle Cats
+
+34
+00:05:46,305 --> 00:05:48,888
+All Cats : Jellicle Songs for Jellicle Cats
+
+35
+00:05:48,889 --> 00:05:51,538
+All Cats : Jellicle Songs for Jellicle Cats
+
+36
+00:05:51,539 --> 00:05:53,844
+All Cats : We can dive through the air
+
+37
+00:05:54,993 --> 00:05:57,495
+All Cats : Like a flying trapeze
+
+38
+00:05:58,545 --> 00:06:02,659
+All Cats : We can turn double somersaults Bounce on a tyre
+
+39
+00:06:03,824 --> 00:06:07,289
+All Cats : We can run up a wall We can swing through the trees
+
+40
+00:06:08,977 --> 00:06:12,714
+All Cats : We can balance on bars We can walk on a wire
+
+41
+00:06:13,512 --> 00:06:16,161
+All Cats : Jellicles can and Jellicles do
+
+42
+00:06:16,181 --> 00:06:18,670
+All Cats : Jellicles can and Jellicles do
+
+43
+00:06:18,799 --> 00:06:21,382
+All Cats : Jellicles can and Jellicles do
+
+44
+00:06:21,383 --> 00:06:23,966
+All Cats : Jellicles can and Jellicles do
+
+45
+00:06:23,983 --> 00:06:26,592
+All Cats : Jellicle Songs for Jellicle Cats
+
+46
+00:06:26,593 --> 00:06:29,095
+All Cats : Jellicle Songs for Jellicle Cats
+
+47
+00:06:29,220 --> 00:06:31,749
+All Cats : Jellicle Songs for Jellicle Cats
+
+48
+00:06:31,774 --> 00:06:34,352
+All Cats : Jellicle Songs for Jellicle Cats
+
+49
+00:06:34,353 --> 00:06:37,914
+Queens : Can you sing at the same time In more than one key
+
+50
+00:06:37,915 --> 00:06:39,746
+Queens : Duets by Rossini
+
+51
+00:06:39,747 --> 00:06:41,934
+Toms : And waltzes by Strauss
+
+52
+00:06:43,576 --> 00:06:46,949
+Toms : And can you as cats do Begin with a C
+
+53
+00:06:47,783 --> 00:06:51,209
+All Cats : That always triumphantly Brings down the house
+
+54
+00:06:51,568 --> 00:06:54,862
+All Cats : Jellicle Cats Are queens of the night
+
+55
+00:06:54,873 --> 00:06:58,199
+All Cats : Singing at astronomical heights
+
+56
+00:06:58,513 --> 00:07:01,798
+All Cats : Handling pieces from The Messiah
+
+57
+00:07:01,921 --> 00:07:06,040
+All Cats : Hallelujah angelical choir
+
+58
+00:07:10,051 --> 00:07:13,182
+All Cats : Jellicle Cats Are queens of the night
+
+59
+00:07:13,524 --> 00:07:16,774
+All Cats : Singing at astronomical heights
+
+60
+00:07:16,894 --> 00:07:20,170
+All Cats : Handling pieces from The Messiah
+
+61
+00:07:20,373 --> 00:07:25,142
+All Cats : Hallelujah angelical choir
+
+62
+00:07:32,072 --> 00:07:37,875
+All Cats : The mystical divinity
+
+63
+00:07:37,876 --> 00:07:44,594
+All Cats : Of unashamed felinity
+
+64
+00:07:44,595 --> 00:07:50,718
+All Cats : Round the cathedral
+
+65
+00:07:50,719 --> 00:07:56,748
+All Cats : Rang vivat
+
+66
+00:07:57,249 --> 00:07:59,639
+All Cats : Life to
+
+67
+00:07:59,640 --> 00:08:09,314
+All Cats : The everlasting cat
+
+68
+00:08:10,787 --> 00:08:14,483
+All Cats : Feline fearless
+
+69
+00:08:15,271 --> 00:08:17,287
+All Cats : Faithful and true
+
+70
+00:08:17,288 --> 00:08:23,659
+All Cats : To others who do what
+
+71
+00:08:24,438 --> 00:08:27,422
+All Cats : Jellicles do and Jellicles can
+
+72
+00:08:27,423 --> 00:08:29,957
+All Cats : Jellicles can and Jellicles do
+
+73
+00:08:29,966 --> 00:08:32,452
+All Cats : Jellicle Cats sing Jellicle Chants
+
+74
+00:08:32,453 --> 00:08:34,760
+All Cats : Jellicles old and Jellicles new
+
+75
+00:08:34,930 --> 00:08:37,424
+All Cats : Jellicle Song and Jellicle Dance
+
+76
+00:08:37,425 --> 00:08:39,910
+All Cats : Jellicle Songs for Jellicle Cats
+
+77
+00:08:39,911 --> 00:08:42,238
+All Cats : Jellicle Songs for Jellicle Cats
+
+78
+00:08:42,305 --> 00:08:44,674
+All Cats : Jellicle Songs for Jellicle Cats
+
+79
+00:08:44,900 --> 00:08:47,579
+All Cats : Jellicle Songs for Jellicle Cats
+
+80
+00:08:47,636 --> 00:08:50,471
+All Cats : Practical cats dramatical cats
+
+81
+00:08:50,594 --> 00:08:53,825
+All Cats : Pragmatical cats fanatical cats
+
+82
+00:08:53,826 --> 00:08:57,336
+All Cats : Oratorical cats DelphicOracle cats
+
+83
+00:08:57,633 --> 00:09:00,372
+All Cats : Sceptical cats dyspeptical cats
+
+84
+00:09:00,373 --> 00:09:03,827
+All Cats : Romantical cats pedantical cats
+
+85
+00:09:03,834 --> 00:09:06,307
+All Cats : Critical and parasitical cats
+
+86
+00:09:06,308 --> 00:09:09,396
+All Cats : Allegorical cats metaphorical cats
+
+87
+00:09:09,397 --> 00:09:12,003
+All Cats : Statistical cats and mystical cats
+
+88
+00:09:12,094 --> 00:09:15,228
+All Cats : Political cats hypocritical cats
+
+89
+00:09:15,229 --> 00:09:17,659
+All Cats : Clerical cats hysterical cats
+
+90
+00:09:17,660 --> 00:09:20,178
+All Cats : Cynical cats rabbinical cats
+
+91
+00:09:22,638 --> 00:09:24,957
+All Cats : Jellicle Songs for Jellicle Cats
+
+92
+00:09:25,077 --> 00:09:27,391
+All Cats : Jellicle Songs for Jellicle Cats
+
+93
+00:09:27,525 --> 00:09:30,001
+All Cats : Jellicle Songs for Jellicle Cats
+
+94
+00:09:30,071 --> 00:09:35,245
+All Cats : Jellicle Songs for Jellicle Cats Jellicle Songs for Jellicle Cats
+
+95
+00:09:36,652 --> 00:09:41,531
+Asparagus : There's a man over there With a look of surprise
+
+96
+00:09:41,998 --> 00:09:46,334
+Asparagus : As much as to say Well now how about that
+
+97
+00:09:46,688 --> 00:09:51,559
+Munkustrap : Do I actually see With my own very eyes
+
+98
+00:09:52,757 --> 00:09:56,953
+Munkustrap : A man who's not heard Of a Jellicle Cat
+
+99
+00:09:58,308 --> 00:10:01,596
+Munkustrap : What's a Jellicle Cat
+
+100
+00:10:02,301 --> 00:10:05,763
+All Cats : What's a Jellicle Cat
+
+101
+00:10:06,333 --> 00:10:09,857
+All Cats : What's a Jellicle Cat
+
+102
+00:10:20,915 --> 00:10:26,234
+All Cats : The naming of cats Is a difficult matter
+
+103
+00:10:26,501 --> 00:10:31,422
+All Cats : It isn't just one Of your holiday games
+
+104
+00:10:31,901 --> 00:10:36,925
+All Cats : You may think at first I'm as mad as a hatter
+
+105
+00:10:37,275 --> 00:10:42,465
+All Cats : When I tell you a cat Must have three different names
+
+106
+00:10:42,663 --> 00:10:47,471
+All Cats : First of all there's the name That the family use daily
+
+107
+00:10:47,615 --> 00:10:53,081
+All Cats : Such as Peter Augustus Alonzo or James
+
+108
+00:10:53,132 --> 00:10:58,561
+All Cats : Such as Victor or Jonathan George or Bill Bailey
+
+109
+00:10:58,656 --> 00:11:03,766
+All Cats : All of them Sensible everyday names
+
+110
+00:11:03,848 --> 00:11:08,844
+All Cats : There are fancier names If you think they sound sweeter
+
+111
+00:11:09,023 --> 00:11:14,048
+All Cats : Some for the gentlemen Some for the dames
+
+112
+00:11:14,049 --> 00:11:19,367
+All Cats : Such as Plato Admetus Electra Demeter
+
+113
+00:11:19,368 --> 00:11:24,675
+All Cats : But all of them Sensible everyday names
+
+114
+00:11:24,728 --> 00:11:29,244
+All Cats : But I tell you A cat needs a name that's particular
+
+115
+00:11:29,245 --> 00:11:33,687
+All Cats : A name that's peculiar And more dignified
+
+116
+00:11:33,715 --> 00:11:38,360
+All Cats : Else how can he keep up His tail perpendicular
+
+117
+00:11:38,361 --> 00:11:43,061
+All Cats : Or spread out his whiskers Or cherish his pride
+
+118
+00:11:43,299 --> 00:11:47,832
+All Cats : Of names of this kind I can give you a quorum
+
+119
+00:11:47,833 --> 00:11:52,500
+All Cats : Such as Munkustrap Quaxo Or Coricopat
+
+120
+00:11:52,501 --> 00:11:57,672
+All Cats : Such as Bombalurina Or else Jellylorum
+
+121
+00:11:57,673 --> 00:12:02,740
+All Cats : Names that never belong To more than one cat
+
+122
+00:12:02,741 --> 00:12:07,885
+All Cats : But above and beyond There's still one name left over
+
+123
+00:12:07,886 --> 00:12:12,660
+All Cats : And that is the name That you never will guess
+
+124
+00:12:12,795 --> 00:12:17,486
+All Cats : The name that no human research Can discover
+
+125
+00:12:17,742 --> 00:12:22,660
+All Cats : But the cat himself knows And will never confess
+
+126
+00:12:22,830 --> 00:12:27,355
+All Cats : When you notice a cat In profound meditation
+
+127
+00:12:27,624 --> 00:12:32,157
+All Cats : The reason I tell you Is always the same
+
+128
+00:12:32,321 --> 00:12:37,156
+All Cats : His mind is engaged In a rapt contemplation
+
+129
+00:12:37,157 --> 00:12:41,533
+All Cats : Of the thought of the thought
+
+130
+00:12:42,323 --> 00:12:46,584
+All Cats : Of the thought of his name
+
+131
+00:12:47,354 --> 00:12:49,534
+All Cats : His ineffable
+
+132
+00:12:50,462 --> 00:12:52,332
+All Cats : Effable
+
+133
+00:12:53,257 --> 00:12:57,579
+All Cats : Effanineffable
+
+134
+00:12:58,753 --> 00:13:03,294
+All Cats : Deep and inscrutable
+
+135
+00:13:03,915 --> 00:13:06,156
+All Cats : Singular
+
+136
+00:13:07,522 --> 00:13:12,265
+All Cats : Name Name Name Name
+
+137
+00:14:42,033 --> 00:14:44,786
+Mr. Mistoffelees : Jellicle Cats come out tonight
+
+138
+00:14:44,787 --> 00:14:47,374
+Mr. Mistoffelees : Jellicle Cats come one come all
+
+139
+00:14:47,375 --> 00:14:50,335
+Mr. Mistoffelees : The Jellicle Moon is shining bright
+
+140
+00:14:50,336 --> 00:14:53,050
+Mr. Mistoffelees : Jellicles come to the Jellicle Ball
+
+141
+00:14:53,050 --> 00:14:55,676
+Mr. Mistoffelees : Jellicle Cats come out tonight
+
+142
+00:14:55,685 --> 00:15:02,564
+Mr. Mistoffelees : Jellicles come to the Jellicle Ball
+
+143
+00:15:03,235 --> 00:15:07,618
+Munkustrap : Jellicle Cats meet once a year
+
+144
+00:15:07,954 --> 00:15:13,062
+Munkustrap : At the Jellicle Ball Where we all rejoice
+
+145
+00:15:13,063 --> 00:15:17,642
+Munkustrap : And the Jellicle Leader Will soon appear
+
+146
+00:15:17,815 --> 00:15:22,564
+Munkustrap : And make what is known As the Jellicle Choice
+
+147
+00:15:22,832 --> 00:15:27,728
+Munkustrap : When Old Deuteronomy Just before dawn
+
+148
+00:15:28,088 --> 00:15:32,684
+Munkustrap : Through a silence you feel You could cut with a knife
+
+149
+00:15:33,185 --> 00:15:37,754
+Munkustrap : Announces the cat Who can now be reborn
+
+150
+00:15:37,985 --> 00:15:42,401
+Munkustrap : And come back to a different Jellicle Life
+
+151
+00:15:43,042 --> 00:15:48,171
+Munkustrap : For waiting up there Is the Heaviside Layer
+
+152
+00:15:48,344 --> 00:15:53,582
+Munkustrap : Full of wonders One Jellicle only will see
+
+153
+00:15:53,809 --> 00:15:58,543
+Munkustrap : And Jellicles ask Because Jellicles dare
+
+154
+00:15:59,133 --> 00:16:01,276
+Munkustrap : Who will it be
+
+155
+00:16:02,177 --> 00:16:04,765
+All Cats : Who will it be
+
+156
+00:16:28,138 --> 00:16:33,176
+Munkustrap : I have a Gumbie Cat in mind
+
+157
+00:16:33,467 --> 00:16:37,714
+Munkustrap : Her name is Jennyanydots
+
+158
+00:16:38,187 --> 00:16:42,583
+Munkustrap : Her coat is of the tabby kind
+
+159
+00:16:42,584 --> 00:16:47,373
+Munkustrap : With tiger stripes And leopard spots
+
+160
+00:16:47,773 --> 00:16:52,189
+Munkustrap : All day she sits beneath the stair
+
+161
+00:16:52,190 --> 00:16:56,515
+Munkustrap : Or on the steps or on the mat
+
+162
+00:16:56,635 --> 00:17:02,396
+Munkustrap : She sits and sits and sits and sits
+
+163
+00:17:02,397 --> 00:17:06,541
+Munkustrap : And that's what makes a Gumbie Cat
+
+164
+00:17:07,488 --> 00:17:14,518
+Munkustrap : That's what makes a Gumbie Cat
+
+165
+00:17:16,009 --> 00:17:19,680
+Demeter;Bombalurina;Jellylorum : But when the day's hustle And bustle is done
+
+166
+00:17:19,681 --> 00:17:22,852
+Bombalurina;Demeter;Jellylorum : Then the Gumbie Cat's work Is but hardly begun
+
+167
+00:17:23,056 --> 00:17:26,011
+Bombalurina;Demeter;Jellylorum : And when all the family's In bed and asleep
+
+168
+00:17:26,012 --> 00:17:28,575
+Jellylorum;Demeter;Bombalurina : She tucks up her skirts To the basement to creep
+
+169
+00:17:28,581 --> 00:17:31,885
+Jellylorum;Bombalurina;Demeter : She is deeply concerned With the ways of the mice
+
+170
+00:17:31,886 --> 00:17:35,190
+Jennyanydots : Their behaviour's not good And their manners not nice
+
+171
+00:17:35,191 --> 00:17:38,109
+Bombalurina;Demeter;Jellylorum : So when she has got them Lined up on the matting
+
+172
+00:17:38,110 --> 00:17:39,063
+Jellylorum;Demeter;Bombalurina : She teaches them
+
+173
+00:17:39,064 --> 00:17:41,669
+Jennyanydots : Music crocheting and tatting
+
+174
+00:17:47,195 --> 00:17:53,175
+Munkustrap : I have a Gumbie Cat in mind
+
+175
+00:17:53,176 --> 00:17:57,888
+Munkustrap : Her name is Jennyanydots
+
+176
+00:17:57,889 --> 00:18:02,420
+Munkustrap : The curtain cord she likes to wind
+
+177
+00:18:02,421 --> 00:18:06,921
+Munkustrap : And tie it into sailor knots
+
+178
+00:18:07,377 --> 00:18:11,553
+She sits upon the windowsill
+
+179
+00:18:11,917 --> 00:18:16,187
+Munkustrap : Or anything that's smooth and flat
+
+180
+00:18:16,188 --> 00:18:21,890
+Munkustrap : She sits and sits and sits and sits
+
+181
+00:18:22,335 --> 00:18:27,380
+Munkustrap : And that's what makes a Gumbie Cat
+
+182
+00:18:27,925 --> 00:18:35,686
+Munkustrap : That's what makes a Gumbie Cat
+
+183
+00:18:36,550 --> 00:18:40,428
+Demeter;Bombalurina;Jellylorum : But when the day's hustle And bustle is done
+
+184
+00:18:40,429 --> 00:18:43,492
+Bombalurina;Demeter;Jellylorum : Then the Gumbie Cat's work Is but hardly begun
+
+185
+00:18:43,916 --> 00:18:46,774
+Demeter;Bombalurina;Jellylorum;Jennyanydots : She thinks that the cockroaches Just need employment
+
+186
+00:18:46,775 --> 00:18:47,971
+Bombalurina;Demeter;Jellylorum : To prevent them from
+
+187
+00:18:47,972 --> 00:18:49,857
+Jennyanydots : Idle and wanton destroyment
+
+188
+00:18:49,904 --> 00:18:53,127
+Bombalurina;Demeter;Jellylorum : So she's formed from that lot Of disorderly louts
+
+189
+00:18:53,132 --> 00:18:55,941
+Bombalurina;Demeter;Jellylorum : A troop of welldisciplined Helpful Boy Scouts
+
+190
+00:18:55,942 --> 00:18:59,102
+Jennyanydots : With a purpose in life And a good deed to do
+
+191
+00:18:59,176 --> 00:19:01,684
+Bombalurina;Demeter;Jellylorum : And she's even created
+
+192
+00:19:02,510 --> 00:19:05,092
+Bombalurina;Demeter;Jellylorum : A beetles tattoo
+
+193
+00:19:51,819 --> 00:19:53,892
+Jennyanydots : Squad salute
+
+194
+00:20:09,628 --> 00:20:15,577
+All Cats : For she's a jolly good fellow
+
+195
+00:20:16,807 --> 00:20:18,364
+Jennyanydots : Thank you my dears
+
+196
+00:20:34,288 --> 00:20:37,800
+All Cats : The Rum Tum Tugger is a curious cat
+
+197
+00:20:38,228 --> 00:20:41,320
+Rum Tum Tugger : If you offer me pheasant I'd rather have grouse
+
+198
+00:20:42,073 --> 00:20:46,105
+Rum Tum Tugger : If you put me in a house I would much prefer a flat
+
+199
+00:20:46,106 --> 00:20:50,106
+Rum Tum Tugger : If you put me in a flat Then I'd rather have a house
+
+200
+00:20:50,194 --> 00:20:54,209
+Rum Tum Tugger : If you set me on a mouse Then I only want a rat
+
+201
+00:20:54,604 --> 00:20:57,297
+Rum Tum Tugger : If you set me on a rat Then I'd rather chase a mouse
+
+202
+00:20:58,558 --> 00:21:02,210
+All Cats : The Rum Tum Tugger is a curious cat
+
+203
+00:21:02,211 --> 00:21:05,226
+Rum Tum Tugger : And there isn't any call For me to shout it
+
+204
+00:21:06,183 --> 00:21:09,888
+All Cats : For he will do as he do do
+
+205
+00:21:09,889 --> 00:21:14,554
+Rum Tum Tugger : And there's no doing Anything about it
+
+206
+00:21:21,659 --> 00:21:25,493
+Mr. Mistoffelees : The Rum Tum Tugger Is a terrible bore
+
+207
+00:21:25,494 --> 00:21:28,032
+Rum Tum Tugger : When you let me in Then I want to go out
+
+208
+00:21:29,434 --> 00:21:33,671
+Rum Tum Tugger : I'm always on the wrong side Of every door
+
+209
+00:21:33,672 --> 00:21:37,678
+Rum Tum Tugger : And as soon as I get home Then I'd like to get about
+
+210
+00:21:37,679 --> 00:21:41,506
+Rum Tum Tugger : I like to lie in a bureau drawer
+
+211
+00:21:41,507 --> 00:21:44,303
+Rum Tum Tugger : But I make such a fuss If I can't get out
+
+212
+00:21:45,576 --> 00:21:49,017
+All Cats : The Rum Tum Tugger is a curious cat
+
+213
+00:21:49,644 --> 00:21:52,353
+Rum Tum Tugger : And there isn't any use For you to doubt it
+
+214
+00:21:53,437 --> 00:21:56,944
+All Cats : For he will do as he do do
+
+215
+00:21:56,945 --> 00:22:02,538
+Rum Tum Tugger : And there's no doing Anything about it
+
+216
+00:22:10,415 --> 00:22:14,629
+Bombalurina : The Rum Tum Tugger Is a curious beast
+
+217
+00:22:14,630 --> 00:22:18,284
+Rum Tum Tugger : My disobliging ways Are a matter of habit
+
+218
+00:22:18,285 --> 00:22:22,277
+Rum Tum Tugger : Now if you offer me fish Then I always want a feast
+
+219
+00:22:22,278 --> 00:22:26,263
+Rum Tum Tugger : And if there isn't any fish Then I won't eat rabbit
+
+220
+00:22:26,264 --> 00:22:30,485
+Rum Tum Tugger : If you offer me cream Then I sniff and sneer
+
+221
+00:22:30,719 --> 00:22:35,162
+Rum Tum Tugger : For I only like What I find for myself
+
+222
+00:22:35,497 --> 00:22:36,654
+Rum Tum Tugger : No
+
+223
+00:22:36,655 --> 00:22:41,453
+Rum Tum Tugger : So you catch me in it right up to my ears And you put it away on the larder shelf
+
+224
+00:22:42,705 --> 00:22:46,657
+All Cats : The Rum Tum Tugger Is artful and knowing
+
+225
+00:22:46,655 --> 00:22:50,707
+All Cats;Rum Tum Tugger : The Rum Tum Tugger Doesn't care for a cuddle
+
+226
+00:22:50,708 --> 00:22:55,562
+Rum Tum Tugger : So I'll leap up on your lap In the middle of your sewing Cause there's nothing I enjoy like a horrible muddle
+
+227
+00:23:18,750 --> 00:23:22,250
+All Cats : The Rum Tum Tugger is a curious cat
+
+228
+00:23:22,735 --> 00:23:27,064
+All Cats : The Rum Tum Tugger Doesn't care for a cuddle
+
+229
+00:23:38,565 --> 00:23:42,510
+All Cats : The Rum Tum Tugger is a curious cat
+
+230
+00:23:42,511 --> 00:23:45,492
+Rum Tum Tugger : And there isn't any need For me to spout it
+
+231
+00:23:46,535 --> 00:23:50,233
+All Cats : For he will do as he do do
+
+232
+00:23:50,234 --> 00:23:54,616
+Rum Tum Tugger : And there's no
+
+233
+00:23:54,617 --> 00:23:57,143
+Rum Tum Tugger : Doing anything
+
+234
+00:23:57,272 --> 00:24:01,171
+Rum Tum Tugger : About
+
+235
+00:24:03,770 --> 00:24:10,604
+Rum Tum Tugger : About
+
+236
+00:24:12,247 --> 00:24:18,051
+Rum Tum Tugger : About
+
+237
+00:24:23,252 --> 00:24:24,976
+Rum Tum Tugger : About it
+
+238
+00:25:48,966 --> 00:25:52,588
+Grizabella : Remark the cat
+
+239
+00:25:53,600 --> 00:26:00,053
+Grizabella : Who hesitates towards you
+
+240
+00:26:01,516 --> 00:26:05,715
+Grizabella : In the light of the door
+
+241
+00:26:05,716 --> 00:26:09,557
+Grizabella : Which opens on her
+
+242
+00:26:10,903 --> 00:26:13,520
+Grizabella : Like a grin
+
+243
+00:26:17,910 --> 00:26:22,016
+Grizabella : You see the border
+
+244
+00:26:22,017 --> 00:26:26,105
+Grizabella : Of her coat is torn
+
+245
+00:26:26,106 --> 00:26:29,772
+Grizabella : And stained with sand
+
+246
+00:26:32,392 --> 00:26:39,400
+Grizabella : And you see the corner of her eye
+
+247
+00:26:39,901 --> 00:26:44,804
+Grizabella : Twist like a crooked pin
+
+248
+00:26:51,879 --> 00:26:58,831
+Demeter : She haunted many a low resort
+
+249
+00:26:59,253 --> 00:27:05,777
+Demeter : Near the grimy road Of Tottenham Court
+
+250
+00:27:06,111 --> 00:27:12,594
+Demeter : She flitted about the no man's land
+
+251
+00:27:12,595 --> 00:27:19,663
+Demeter : From The Rising Sun To The Friend at Hand
+
+252
+00:27:19,664 --> 00:27:25,971
+Demeter : And the postman sighed As he scratched his head
+
+253
+00:27:26,534 --> 00:27:32,671
+Demeter : You'd really have thought She'd ought to be dead
+
+254
+00:27:33,436 --> 00:27:38,144
+Demeter : And who would ever suppose
+
+255
+00:27:38,145 --> 00:27:44,508
+Demeter : That that
+
+256
+00:27:44,509 --> 00:27:48,600
+Demeter : Was Grizabella
+
+257
+00:27:48,601 --> 00:27:52,600
+Demeter : The Glamour Cat
+
+258
+00:27:52,601 --> 00:27:58,676
+Bombalurina : Grizabella the Glamour Cat
+
+259
+00:27:58,677 --> 00:28:05,022
+Bombalurina;Demeter : Grizabella the Glamour Cat
+
+260
+00:28:05,920 --> 00:28:10,241
+All Cats : Who would have ever supposed
+
+261
+00:28:10,242 --> 00:28:16,642
+All Cats : That that
+
+262
+00:28:16,831 --> 00:28:20,697
+All Cats : Was Grizabella
+
+263
+00:28:20,698 --> 00:28:28,193
+All Cats : The Glamour Cat
+
+264
+00:28:37,979 --> 00:28:42,138
+Jennyanydots : Bustopher Jones Is not skin and bones
+
+265
+00:28:42,139 --> 00:28:45,565
+Bombalurina : In fact he's remarkably fat
+
+266
+00:28:46,258 --> 00:28:50,093
+Jellylorum;Jennyanydots : He doesn't haunt pubs He has eight or nine clubs
+
+267
+00:28:50,094 --> 00:28:53,817
+Jennyanydots;Bombalurina;Jellylorum : For he's the St James's Street Cat
+
+268
+00:28:53,818 --> 00:28:57,862
+Jennyanydots : He's the cat we all greet As he walks down the street
+
+269
+00:28:57,863 --> 00:29:01,870
+Jennyanydots : In his coat of fastidious black
+
+270
+00:29:01,871 --> 00:29:06,342
+Bombalurina : No commonplace mousers Have such wellcut trousers
+
+271
+00:29:06,343 --> 00:29:09,296
+Jellylorum : Or such an impeccable back
+
+272
+00:29:09,695 --> 00:29:14,361
+Jennyanydots : In the whole of St James's The smartest of names is
+
+273
+00:29:14,362 --> 00:29:17,609
+Jennyanydots : The name of this Brummell of cats
+
+274
+00:29:18,007 --> 00:29:22,010
+Jennyanydots;Bombalurina;Jellylorum : And we're all of us proud To be nodded or bowed to
+
+275
+00:29:22,011 --> 00:29:25,539
+Jennyanydots;Bombalurina;Jellylorum : By Bustopher Jones in white spats
+
+276
+00:29:25,975 --> 00:29:29,806
+Toms : In the whole of St James's The smartest of names
+
+277
+00:29:30,030 --> 00:29:33,925
+Toms : is The name of this Brummell of cats
+
+278
+00:29:33,926 --> 00:29:38,067
+Toms : And we're all of us proud To be nodded or bowed to
+
+279
+00:29:38,068 --> 00:29:42,290
+Toms : By Bustopher Jones In white spats
+
+280
+00:29:48,224 --> 00:29:54,288
+Bustopher Jones : My visits are occasional To the Senior Educational
+
+281
+00:29:54,289 --> 00:29:59,316
+Bustopher Jones : And it is against the rules
+
+282
+00:29:59,488 --> 00:30:04,838
+Bustopher Jones : For any one cat To belong both to that
+
+283
+00:30:04,839 --> 00:30:10,115
+Bustopher Jones : And the Joint Superior Schools
+
+284
+00:30:10,399 --> 00:30:16,151
+Bustopher Jones : For a similar reason When game is in season
+
+285
+00:30:16,152 --> 00:30:20,863
+Bustopher Jones : I'm found not at Fox's but Blimp's
+
+286
+00:30:20,864 --> 00:30:25,991
+Bustopher Jones : I am frequently seen At the gay Stage and Screen
+
+287
+00:30:25,992 --> 00:30:30,034
+Bustopher Jones : Which is famous For winkles and shrimps
+
+288
+00:30:31,269 --> 00:30:36,957
+Bustopher Jones : In the season of venison I give my ben'son
+
+289
+00:30:37,021 --> 00:30:41,987
+Bustopher Jones : To the Pothunter's succulent bones
+
+290
+00:30:42,401 --> 00:30:47,381
+Bustopher Jones : And just before noon's Not a moment too soon
+
+291
+00:30:47,515 --> 00:30:49,776
+Bustopher Jones : To drop in for a drink
+
+292
+00:30:49,777 --> 00:30:55,253
+Bustopher Jones : At the Drones
+
+293
+00:30:55,386 --> 00:31:00,470
+Bustopher Jones : When I'm seen in a hurry There's probably curry
+
+294
+00:31:00,625 --> 00:31:05,432
+Bustopher Jones : At the Siamese or at the Glutton
+
+295
+00:31:05,498 --> 00:31:12,264
+Bustopher Jones : If I look full of gloom Then I've lunched at the Tomb
+
+296
+00:31:12,265 --> 00:31:16,545
+Bustopher Jones : On cabbage rice pudding
+
+297
+00:31:16,618 --> 00:31:19,453
+Bustopher Jones : And mutton
+
+298
+00:31:19,454 --> 00:31:23,661
+All Cats : In the whole of St James's The smartest of names is
+
+299
+00:31:23,662 --> 00:31:27,688
+All Cats : The name of this Brummell of cats
+
+300
+00:31:27,689 --> 00:31:31,771
+All Cats : And we're all of us proud To be nodded or bowed to
+
+301
+00:31:31,772 --> 00:31:34,245
+All Cats : By Bustopher Jones in white
+
+302
+00:31:34,246 --> 00:31:36,386
+All Cats : Bustopher Jones in white
+
+303
+00:31:36,387 --> 00:31:39,669
+All Cats : Bustopher Jones in white spats
+
+304
+00:31:43,454 --> 00:31:47,466
+Jennyanydots : So much in this way Passes Bustopher's day
+
+305
+00:31:47,467 --> 00:31:51,170
+Jennyanydots : At one club or another he's found
+
+306
+00:31:51,230 --> 00:31:55,552
+Jennyanydots : It can be no surprise That under our eyes
+
+307
+00:31:55,553 --> 00:31:59,034
+Jennyanydots : He has grown unmistakably round
+
+308
+00:31:59,035 --> 00:32:01,744
+Jennyanydots : He's a 25pounder
+
+309
+00:32:01,745 --> 00:32:03,416
+Bustopher Jones : Or I am a bounder
+
+310
+00:32:03,417 --> 00:32:07,291
+Jennyanydots : And he's putting on weight Every day
+
+311
+00:32:07,292 --> 00:32:11,120
+Bustopher Jones : But I'm so wellpreserved Because I've observed
+
+312
+00:32:11,121 --> 00:32:15,084
+Bustopher Jones : All me life a routine and I'd say
+
+313
+00:32:15,085 --> 00:32:19,499
+Bustopher Jones : I am still in me prime I shall last out me time
+
+314
+00:32:19,500 --> 00:32:23,807
+Jennyanydots : That's the word From this stoutest of cats
+
+315
+00:32:23,916 --> 00:32:28,538
+All Cats : It must and it shall Be spring in Pall Mall
+
+316
+00:32:28,539 --> 00:32:31,200
+All Cats : While Bustopher Jones wears white
+
+317
+00:32:31,276 --> 00:32:34,768
+All Cats : Bustopher Jones wears white
+
+318
+00:32:34,769 --> 00:32:39,889
+All Cats : Bustopher Jones Wears white spats
+
+319
+00:32:41,273 --> 00:32:43,317
+Bustopher Jones : Toodlepip
+
+320
+00:32:57,812 --> 00:32:58,967
+Demeter : Macavity
+
+321
+00:33:54,215 --> 00:33:56,222
+Mungojerrie : Mungojerrie
+
+322
+00:33:56,223 --> 00:33:58,914
+Rumpleteazer : And Rumpleteazer
+
+323
+00:33:58,915 --> 00:34:03,275
+Mungojerrie;Rumpleteazer : We're a notorious couple of cats
+
+324
+00:34:03,276 --> 00:34:08,062
+Rumpleteazer : As knockabout clowns Quickchange comedians
+
+325
+00:34:08,063 --> 00:34:11,691
+Rumpleteazer : Tightrope walkers and acrobats
+
+326
+00:34:12,258 --> 00:34:16,819
+Mungojerrie : We have an extensive reputation
+
+327
+00:34:16,820 --> 00:34:21,005
+Mungojerrie : We make our home in Victoria Grove
+
+328
+00:34:21,006 --> 00:34:25,400
+Mungojerrie : This is merely our centre of operation
+
+329
+00:34:25,401 --> 00:34:29,621
+Mungojerrie;Rumpleteazer : For we are incurably given to rove
+
+330
+00:34:31,838 --> 00:34:35,229
+Mungojerrie;Rumpleteazer : When the family assembles For Sunday dinner
+
+331
+00:34:35,230 --> 00:34:38,024
+Rumpleteazer : Their minds made up That they won't get thinner
+
+332
+00:34:38,025 --> 00:34:39,675
+Mungojerrie : On Argentine joint
+
+333
+00:34:39,676 --> 00:34:40,994
+Rumpleteazer : Potatoes and greens
+
+334
+00:34:40,995 --> 00:34:44,144
+Rumpleteazer : And the cook would appear From behind the scenes
+
+335
+00:34:44,145 --> 00:34:47,299
+Mungojerrie : And say in a voice That is broken with sorrow
+
+336
+00:34:47,300 --> 00:34:50,324
+Mungojerrie : I'm afraid you must wait And have dinner tomorrow
+
+337
+00:34:50,325 --> 00:34:53,280
+Mungojerrie : The joint has gone from the oven like that
+
+338
+00:34:53,624 --> 00:34:58,772
+Mungojerrie;Rumpleteazer : Then the family will say It's that horrible cat
+
+339
+00:34:58,773 --> 00:35:03,476
+Mungojerrie;Rumpleteazer : Was it Mungojerrie Or Rumpleteazer
+
+340
+00:35:03,477 --> 00:35:07,646
+Mungojerrie;Rumpleteazer : And most of the time They leave it at that
+
+341
+00:35:07,647 --> 00:35:11,630
+Mungojerrie;Rumpleteazer : Mungojerrie and Rumpleteazer
+
+342
+00:35:11,631 --> 00:35:16,130
+Mungojerrie;Rumpleteazer : Have a wonderful way Of working together
+
+343
+00:35:16,131 --> 00:35:20,343
+Mungojerrie;Rumpleteazer : And some of the time You would say it was luck
+
+344
+00:35:20,344 --> 00:35:24,307
+Mungojerrie;Rumpleteazer : And some of the time You would say it was weather
+
+345
+00:35:24,490 --> 00:35:28,075
+Mungojerrie;Rumpleteazer : We'd go through the house Like a hurricane
+
+346
+00:35:28,677 --> 00:35:32,284
+Mungojerrie;Rumpleteazer : And no sober person Could take his oath
+
+347
+00:35:32,457 --> 00:35:34,596
+Mungojerrie : Was it Mungojerrie
+
+348
+00:35:34,597 --> 00:35:37,062
+Rumpleteazer : Or Rumpleteazer
+
+349
+00:35:37,063 --> 00:35:40,879
+Mungojerrie;Rumpleteazer : Or could you have sworn That it might have been both
+
+350
+00:35:40,880 --> 00:35:45,253
+Mungojerrie;Rumpleteazer : And when you hear A dining room smash
+
+351
+00:35:45,254 --> 00:35:49,310
+Mungojerrie;Rumpleteazer : Or up from the pantry There comes a loud crash
+
+352
+00:35:49,311 --> 00:35:54,307
+Mungojerrie;Rumpleteazer : Or down from the library Came a loud ping
+
+353
+00:35:54,308 --> 00:35:56,869
+Mungojerrie;Rumpleteazer : From a vase which was commonly
+
+354
+00:35:56,870 --> 00:36:01,326
+Mungojerrie;Rumpleteazer : Said to be Ming
+
+355
+00:36:08,492 --> 00:36:13,265
+Mungojerrie;Rumpleteazer : Then the family will say Now which was which cat
+
+356
+00:36:16,022 --> 00:36:20,579
+Mungojerrie : It was Mungojerrie
+
+357
+00:36:21,873 --> 00:36:25,707
+Rumpleteazer : And Rumpleteazer
+
+358
+00:36:33,864 --> 00:36:38,108
+Mungojerrie;Rumpleteazer : And there's nothing at all To be done about that
+
+359
+00:36:49,680 --> 00:36:54,885
+All Cats : And there's nothing at all To be done about that
+
+360
+00:37:08,618 --> 00:37:10,828
+Mr. Mistoffelees : Old Deuteronomy
+
+361
+00:37:17,502 --> 00:37:24,473
+Tantomile;Coricopat : I believe it is Old Deuteronomy
+
+362
+00:37:24,474 --> 00:37:27,446
+All Cats : Well of all things
+
+363
+00:37:28,973 --> 00:37:32,206
+All Cats : Can it be really
+
+364
+00:37:32,207 --> 00:37:37,543
+All Cats : Yes No Ho Hi Oh my eye
+
+365
+00:37:37,808 --> 00:37:44,014
+All Cats : My mind may be wandering But I confess
+
+366
+00:37:44,015 --> 00:37:50,001
+All Cats : I believe it is Old Deuteronomy
+
+367
+00:37:54,002 --> 00:38:00,164
+Munkustrap : Old Deuteronomy's lived a long time
+
+368
+00:38:00,165 --> 00:38:06,713
+Munkustrap : He's a cat who has lived Many lives in succession
+
+369
+00:38:06,714 --> 00:38:12,770
+Munkustrap : He was famous in proverb And famous in rhyme
+
+370
+00:38:12,771 --> 00:38:19,789
+Munkustrap : A long while before Queen Victoria's accession
+
+371
+00:38:20,085 --> 00:38:26,336
+Rum Tum Tugger : Old Deuteronomy's buried nine wives
+
+372
+00:38:26,337 --> 00:38:32,219
+Rum Tum Tugger : And more I am tempted To say ninetynine
+
+373
+00:38:32,220 --> 00:38:39,304
+Rum Tum Tugger : And his numerous progeny Prospers and thrives
+
+374
+00:38:39,305 --> 00:38:45,524
+Rum Tum Tugger : And the village is proud of him In his decline
+
+375
+00:38:45,525 --> 00:38:51,967
+Munkustrap : At the sight of that placid And bland physiognomy
+
+376
+00:38:51,968 --> 00:38:56,198
+Munkustrap : When he sits in the sun
+
+377
+00:38:56,199 --> 00:39:00,674
+Munkustrap : On the vicarage wall
+
+378
+00:39:00,793 --> 00:39:05,724
+Munkustrap : The oldest inhabitant croaks
+
+379
+00:39:05,976 --> 00:39:11,531
+Rum Tum Tugger;Munkustrap : Well of all things
+
+380
+00:39:11,780 --> 00:39:14,346
+Rum Tum Tugger;Munkustrap : Can it be really
+
+381
+00:39:14,669 --> 00:39:20,359
+Rum Tum Tugger;Munkustrap : Yes No Ho Hi Oh my eye
+
+382
+00:39:20,694 --> 00:39:26,836
+Rum Tum Tugger;Munkustrap : My mind may be wandering But I confess
+
+383
+00:39:26,837 --> 00:39:33,276
+Rum Tum Tugger;Munkustrap : I believe it is Old Deuteronomy
+
+384
+00:39:33,277 --> 00:39:37,411
+All Cats : Well of all things
+
+385
+00:39:37,412 --> 00:39:40,477
+All Cats : Can it be really
+
+386
+00:39:40,478 --> 00:39:46,213
+All Cats : Yes No Ho Hi Oh my eye
+
+387
+00:39:46,525 --> 00:39:52,661
+All Cats : My mind may be wandering But I confess
+
+388
+00:39:52,698 --> 00:39:58,329
+All Cats : I believe it is Old Deuteronomy
+
+389
+00:39:58,330 --> 00:40:05,373
+All Cats : Well of all things Can it be really
+
+390
+00:40:05,631 --> 00:40:11,022
+All Cats : Yes No Ho Hi Oh my eye
+
+391
+00:40:11,023 --> 00:40:17,235
+All Cats : My mind may be wandering But I confess
+
+392
+00:40:17,236 --> 00:40:22,973
+All Cats : I believe it is Old Deuteronomy
+
+393
+00:40:22,974 --> 00:40:27,315
+All Cats : Well of all things
+
+394
+00:40:27,316 --> 00:40:30,451
+All Cats : Can it be really
+
+395
+00:40:30,452 --> 00:40:35,052
+All Cats : Yes No Ho Hi Oh my eye
+
+396
+00:40:36,028 --> 00:40:43,499
+Old Deuteronomy : My legs may be tottery I must go slow
+
+397
+00:40:43,500 --> 00:40:46,033
+Old Deuteronomy : And be careful
+
+398
+00:40:46,034 --> 00:40:55,052
+Old Deuteronomy : Of Old Deuteronomy
+
+399
+00:40:56,117 --> 00:40:59,493
+Munkustrap : Jellicle Cats meet once a year
+
+400
+00:40:59,620 --> 00:41:03,361
+Munkustrap : On the night we make The Jellicle Choice
+
+401
+00:41:03,704 --> 00:41:07,797
+Munkustrap : And now that the Jellicle Leader is here
+
+402
+00:41:07,798 --> 00:41:13,594
+Munkustrap : Jellicle Cats can all rejoice
+
+403
+00:41:23,722 --> 00:41:29,966
+Munkustrap : Of the awefull battle of the Pekes And the Pollicles
+
+404
+00:41:30,192 --> 00:41:34,223
+Munkustrap : Together with some account
+
+405
+00:41:34,281 --> 00:41:40,169
+Munkustrap : Of the participation Of the Pugs and the Poms
+
+406
+00:41:40,170 --> 00:41:43,681
+Munkustrap : And the intervention
+
+407
+00:41:43,682 --> 00:41:46,348
+Munkustrap : Of the Great
+
+408
+00:41:46,765 --> 00:41:52,179
+Munkustrap : Rumpus Cat
+
+409
+00:41:53,651 --> 00:41:56,459
+Munkustrap : The Pekes and the Pollicles Everyone knows
+
+410
+00:41:56,460 --> 00:41:58,798
+Munkustrap : Are proud and implacable Passionate foes
+
+411
+00:41:58,799 --> 00:42:01,118
+Munkustrap : It is always the same Wherever one goes
+
+412
+00:42:01,119 --> 00:42:03,530
+Munkustrap : And the Pugs and the Poms Are the most people say
+
+413
+00:42:03,531 --> 00:42:05,784
+Munkustrap : That they do not like fighting Yet once in a way
+
+414
+00:42:05,785 --> 00:42:08,534
+Munkustrap : They now and again Join into the fray and they
+
+415
+00:42:08,535 --> 00:42:13,108
+All Cats : Bark Bark Bark Bark Bark Bark Bark Bark
+
+416
+00:42:13,109 --> 00:42:15,472
+Munkustrap : Until you can hear them All over the park
+
+417
+00:42:15,473 --> 00:42:18,050
+Munkustrap : Now on the occasion Of which I shall speak
+
+418
+00:42:18,051 --> 00:42:20,482
+Munkustrap : Almost nothing had happened For nearly a week
+
+419
+00:42:20,483 --> 00:42:22,766
+Munkustrap : And that's a long time For a Pol or a Peke
+
+420
+00:42:22,767 --> 00:42:24,891
+Munkustrap : The big Police Dog Was away from his beat
+
+421
+00:42:24,892 --> 00:42:27,168
+Munkustrap : I don't know the reason But most people think
+
+422
+00:42:27,169 --> 00:42:29,817
+Munkustrap : He slipped into the Wellington Arms for a drink
+
+423
+00:42:30,870 --> 00:42:35,308
+Munkustrap : And no one at all Was about on the street
+
+424
+00:42:35,587 --> 00:42:40,677
+Munkustrap : When a Peke and a Pollicle Happened to meet
+
+425
+00:42:46,405 --> 00:42:51,046
+Munkustrap : They did not advance Or exactly retreat
+
+426
+00:42:51,070 --> 00:42:56,473
+Munkustrap : But they glared at each other And scraped their hind feet
+
+427
+00:42:56,897 --> 00:42:58,234
+Munkustrap : And started to
+
+428
+00:42:58,235 --> 00:42:58,748
+Peke : Bark
+
+429
+00:42:58,749 --> 00:42:59,322
+Pollicle : Bark
+
+430
+00:42:59,323 --> 00:42:59,965
+Peke : Bark
+
+431
+00:42:59,966 --> 00:43:00,505
+Pollicle : Bark
+
+432
+00:43:00,506 --> 00:43:01,153
+Pollicle : Bark
+
+433
+00:43:01,154 --> 00:43:01,656
+Peke : Bark
+
+434
+00:43:01,657 --> 00:43:02,331
+Pollicle : Bark
+
+435
+00:43:02,332 --> 00:43:02,764
+Peke : Bark
+
+436
+00:43:02,765 --> 00:43:05,374
+Munkustrap : Until you could hear them All over the park and they'd
+
+437
+00:43:05,375 --> 00:43:05,895
+Pekes : Bark
+
+438
+00:43:05,896 --> 00:43:06,545
+Pollicles;All Cats : Bark
+
+439
+00:43:06,546 --> 00:43:07,079
+Pekes : Bark
+
+440
+00:43:07,080 --> 00:43:07,691
+Pollicles : Bark
+
+441
+00:43:07,692 --> 00:43:08,249
+Pollicles : Bark
+
+442
+00:43:08,250 --> 00:43:08,879
+Pekes : Bark
+
+443
+00:43:08,880 --> 00:43:09,522
+Pollicles : Bark
+
+444
+00:43:09,523 --> 00:43:09,994
+Pekes : Bark
+
+445
+00:43:09,995 --> 00:43:12,271
+Munkustrap : Until you could hear them All over the park
+
+446
+00:43:12,272 --> 00:43:14,839
+Munkustrap : Now the Peke although people May say what they please
+
+447
+00:43:14,840 --> 00:43:17,487
+Munkustrap : Is no British dog But a heathen Chinese
+
+448
+00:43:17,488 --> 00:43:20,105
+Munkustrap : And so all the Pekes When they heard the uproar
+
+449
+00:43:20,106 --> 00:43:22,501
+Munkustrap : Some came to the window Some came to the door
+
+450
+00:43:22,502 --> 00:43:25,051
+Munkustrap : There were surely a dozen More likely a score
+
+451
+00:43:25,052 --> 00:43:27,795
+Munkustrap : And together they started To grumble and wheeze
+
+452
+00:43:27,796 --> 00:43:30,601
+Munkustrap : In their hufferysnuffery Heathen Chinese
+
+453
+00:43:30,602 --> 00:43:33,236
+Munkustrap : But a terrible din Is what Pollicles like
+
+454
+00:43:33,237 --> 00:43:35,859
+Munkustrap : For your Pollicle dog Is a dour Yorkshire tyke
+
+455
+00:43:38,057 --> 00:43:43,039
+All Cats : There are dogs out of every nation The Irish the Welsh and the Dane
+
+456
+00:43:43,139 --> 00:43:48,052
+All Cats : The Russian the Dutch and Dalmatian And even from China and Spain
+
+457
+00:43:48,053 --> 00:43:50,550
+All Cats : From the Poodle the Pom The Alsatian
+
+458
+00:43:50,551 --> 00:43:53,016
+All Cats : And the Mastiff Who walks on a chain
+
+459
+00:43:53,017 --> 00:43:55,469
+Munkustrap : And to those that are frisky And frolicle
+
+460
+00:43:55,470 --> 00:43:58,097
+Munkustrap : That my meaning be perfectly plain
+
+461
+00:43:58,098 --> 00:44:02,929
+All Cats : That my name is just Little Tom Pollicle And you better not do it again
+
+462
+00:44:02,930 --> 00:44:05,658
+Munkustrap : And his braw Scottish cousins Are snappers and biters
+
+463
+00:44:05,659 --> 00:44:08,045
+Munkustrap : And every dogjack of them Notable fighters
+
+464
+00:44:08,046 --> 00:44:10,317
+Munkustrap : And so they stepped out With their pipers in order
+
+465
+00:44:10,318 --> 00:44:13,120
+Munkustrap : Playin When the Blue Bonnets Come Over the Border
+
+466
+00:44:23,516 --> 00:44:25,896
+Munkustrap : Then the Pugs and the Poms Held no longer aloof
+
+467
+00:44:25,897 --> 00:44:28,110
+Munkustrap : But some from the balcony Some from the roof
+
+468
+00:44:28,111 --> 00:44:29,640
+Munkustrap : Joined into the din with a
+
+469
+00:44:29,641 --> 00:44:30,106
+All Cats : Bark
+
+470
+00:44:30,107 --> 00:44:30,599
+All Cats : Bark
+
+471
+00:44:30,600 --> 00:44:31,133
+All Cats : Bark
+
+472
+00:44:31,134 --> 00:44:31,715
+All Cats : Bark
+
+473
+00:44:31,716 --> 00:44:32,309
+All Cats : Bark
+
+474
+00:44:32,310 --> 00:44:32,824
+All Cats : Bark
+
+475
+00:44:32,825 --> 00:44:33,327
+All Cats : Bark
+
+476
+00:44:33,328 --> 00:44:33,830
+All Cats : Bark
+
+477
+00:44:33,831 --> 00:44:36,135
+Munkustrap : Until you could hear them All over the park
+
+478
+00:44:36,136 --> 00:44:38,404
+All Cats : Hufferysnuffery hufferysnuffery
+
+479
+00:44:38,405 --> 00:44:40,491
+All Cats : Hufferysnuffery hufferysnuff
+
+480
+00:44:40,492 --> 00:44:42,700
+Munkustrap : Until you could hear them All over the park
+
+481
+00:44:48,469 --> 00:44:49,901
+Munkustrap : Now
+
+482
+00:44:51,164 --> 00:44:54,156
+Munkustrap : When these bold heroes Together assembled
+
+483
+00:44:54,655 --> 00:44:58,126
+Munkustrap : The traffic all stopped And the Underground trembled
+
+484
+00:44:58,414 --> 00:45:01,860
+Munkustrap : And some of the neighbours Were so much afraid
+
+485
+00:45:01,861 --> 00:45:05,016
+Munkustrap : That they started to ring up The fire brigade
+
+486
+00:45:05,017 --> 00:45:08,729
+Munkustrap : When suddenly up From a small basement flat
+
+487
+00:45:08,963 --> 00:45:11,900
+Munkustrap : Why who should stalk out
+
+488
+00:45:11,901 --> 00:45:22,058
+All Cats : But the Great Rumpus Cat
+
+489
+00:45:26,381 --> 00:45:30,774
+Munkustrap : His eyes were like fireballs
+
+490
+00:45:30,775 --> 00:45:34,230
+Munkustrap : Fearfully blazing
+
+491
+00:45:35,582 --> 00:45:38,809
+Munkustrap : He gave a great yawn
+
+492
+00:45:39,199 --> 00:45:43,467
+Munkustrap : And his jaws were amazing
+
+493
+00:45:45,369 --> 00:45:51,197
+Munkustrap : And when he looked out Through the bars of the area
+
+494
+00:45:52,112 --> 00:45:55,802
+Munkustrap : You never saw anything
+
+495
+00:45:55,920 --> 00:45:58,866
+Munkustrap : Fiercer
+
+496
+00:46:00,208 --> 00:46:01,859
+Munkustrap : Or hairier
+
+497
+00:46:03,993 --> 00:46:06,884
+Munkustrap : And what with the glare Of his eyes and his yawning
+
+498
+00:46:06,885 --> 00:46:09,411
+Munkustrap : The Pekes and the Pollicles Quickly took warning
+
+499
+00:46:09,412 --> 00:46:11,553
+Munkustrap : He looked to the sky And he gave a great leap
+
+500
+00:46:11,554 --> 00:46:14,118
+Munkustrap : And they every last one of them Scattered like sheep
+
+501
+00:46:18,654 --> 00:46:21,064
+Munkustrap : And when the Police Dog Returned to his beat
+
+502
+00:46:21,187 --> 00:46:23,636
+Munkustrap : There wasn't a single one Left on the street
+
+503
+00:46:38,488 --> 00:46:43,345
+All Cats : All hail and all bow to
+
+504
+00:46:43,346 --> 00:46:53,554
+All Cats : The Great Rumpus Cat
+
+505
+00:47:01,067 --> 00:47:06,312
+Old Deuteronomy : Jellicle Cats and dogs all must
+
+506
+00:47:06,787 --> 00:47:13,608
+Old Deuteronomy : Pollicle Dogs and cats all must
+
+507
+00:47:13,609 --> 00:47:20,326
+Old Deuteronomy : Like undertakers come to dust
+
+508
+00:47:22,014 --> 00:47:23,064
+Demeter : Macavity
+
+509
+00:48:31,753 --> 00:48:36,757
+Old Deuteronomy : Jellicle Cats come out tonight
+
+510
+00:48:36,758 --> 00:48:41,559
+Old Deuteronomy : Jellicle Cats come one come all
+
+511
+00:48:41,560 --> 00:48:46,564
+Old Deuteronomy;Victoria;Jemima;Munkustrap : The Jellicle Moon is shining bright
+
+512
+00:48:46,565 --> 00:48:51,465
+Old Deuteronomy;Munkustrap;Jemima;Victoria : Jellicles come to the Jellicle Ball
+
+513
+00:48:51,466 --> 00:48:56,153
+Alonzo : Jellicle Cats are black and white
+
+514
+00:48:56,327 --> 00:49:00,875
+Alonzo : Jellicle Cats are rather small
+
+515
+00:49:00,876 --> 00:49:05,659
+Alonzo : Jellicle Cats are merry And bright
+
+516
+00:49:05,660 --> 00:49:10,337
+Victoria;Jemima : And pleasant to hear When we caterwaul
+
+517
+00:49:10,459 --> 00:49:14,780
+Skimbleshanks : Jellicle Cats have cheerful faces
+
+518
+00:49:14,781 --> 00:49:18,718
+Tumblebrutus : Jellicle Cats Have bright black eyes
+
+519
+00:49:18,719 --> 00:49:22,922
+Mr. Mistoffelees : We like to practise Our airs and graces
+
+520
+00:49:22,971 --> 00:49:27,137
+All Cats : And wait for the Jellicle Moon to rise
+
+521
+00:49:27,138 --> 00:49:30,716
+Munkustrap;Plato;Admetus : Jellicle Cats develop slowly
+
+522
+00:49:30,745 --> 00:49:34,135
+Tumblebrutus : Jellicle Cats are not too big
+
+523
+00:49:34,136 --> 00:49:37,597
+Asparagus : Jellicle Cats are rolypoly
+
+524
+00:49:37,598 --> 00:49:40,760
+Mr. Mistoffelees;Skimbleshanks : We know how to dance A gavotte and a jig
+
+525
+00:49:40,955 --> 00:49:44,404
+Demeter : Until the Jellicle Moon appears
+
+526
+00:49:44,405 --> 00:49:48,008
+Bombalurina : We make our toilette And take our repose
+
+527
+00:49:48,009 --> 00:49:51,354
+Jennyanydots : Jellicles wash behind their ears
+
+528
+00:49:51,355 --> 00:49:54,692
+Jellylorum : Jellicles dry between their toes
+
+529
+00:49:54,693 --> 00:49:58,012
+Coricopat;Tantomile : Jellicle Cats are white and black
+
+530
+00:49:58,013 --> 00:50:01,251
+Rumpleteazer;Mungojerrie : Jellicle Cats are of moderate size
+
+531
+00:50:01,252 --> 00:50:04,536
+Tumblebrutus;Skimbleshanks;Pouncival : Jellicles jump like a jumping jack
+
+532
+00:50:04,537 --> 00:50:08,088
+Cassandra : Jellicle Cats have moonlit eyes
+
+533
+00:50:08,089 --> 00:50:11,101
+All Cats : We're quiet enough In the morning hours
+
+534
+00:50:11,102 --> 00:50:14,201
+All Cats : We're quiet enough In the afternoon
+
+535
+00:50:14,322 --> 00:50:17,622
+Munkustrap;Mr. Mistoffelees : Reserving our terpsichorean powers
+
+536
+00:50:17,623 --> 00:50:20,643
+All Cats : To dance by the light Of the Jellicle Moon
+
+537
+00:50:20,644 --> 00:50:23,571
+Alonzo;Victoria;Electra;Rumpleteazer : Jellicle Cats are black And white
+
+538
+00:50:23,572 --> 00:50:26,091
+Tumblebrutus;Skimbleshanks;Mr. Mistoffelees : Jellicle Cats As we said are small
+
+539
+00:50:26,092 --> 00:50:28,913
+Admetus;Munkustrap;Plato : If it happens to be a stormy night
+
+540
+00:50:28,914 --> 00:50:31,711
+Tumblebrutus;Skimbleshanks;Mr. Mistoffelees : We will practise a caper Or two in the hall
+
+541
+00:50:31,712 --> 00:50:34,522
+All Cats : If it happens the sun Is shining bright
+
+542
+00:50:34,523 --> 00:50:37,263
+Rum Tum Tugger : You would say we had Nothing to do at all
+
+543
+00:50:37,264 --> 00:50:39,924
+All Cats : We are resting and saving Ourselves to be right
+
+544
+00:50:39,925 --> 00:50:42,771
+All Cats : For the Jellicle Moon And the Jellicle Ball
+
+545
+00:50:42,772 --> 00:50:45,642
+All Cats : Jellicle Cats come out tonight
+
+546
+00:50:45,643 --> 00:50:48,372
+All Cats : Jellicle Cats come one come all
+
+547
+00:50:48,373 --> 00:50:51,829
+All Cats : The Jellicle Moon is shining bright
+
+548
+00:50:52,187 --> 00:51:01,074
+All Cats : Jellicles come to the Jellicle Ball
+
+549
+00:51:02,251 --> 00:51:08,051
+All Cats : Jellicle Cats come out tonight
+
+550
+00:51:08,648 --> 00:51:15,280
+All Cats : Jellicle Cats come one come all
+
+551
+00:51:15,281 --> 00:51:21,169
+All Cats : The Jellicle Moon is shining bright
+
+552
+00:51:21,988 --> 00:51:33,244
+All Cats : Jellicles come to the Jellicle Ball
+
+553
+01:01:58,724 --> 01:02:05,688
+Jellylorum : You see the border of her coat
+
+554
+01:02:05,689 --> 01:02:11,438
+Jellylorum : Is torn and stained with sand
+
+555
+01:02:13,823 --> 01:02:17,579
+Jemima : And you see
+
+556
+01:02:17,580 --> 01:02:22,210
+Jemima : The corner of her eye
+
+557
+01:02:22,211 --> 01:02:27,669
+Jemima : Twist like a crooked pin
+
+558
+01:04:12,627 --> 01:04:15,720
+Grizabella : Midnight
+
+559
+01:04:15,721 --> 01:04:19,464
+Jellylorum;Grizabella : Not a sound from the pavement
+
+560
+01:04:20,065 --> 01:04:24,976
+Grizabella : Has the moon lost her memory
+
+561
+01:04:24,977 --> 01:04:30,114
+Grizabella : She is smiling alone
+
+562
+01:04:31,212 --> 01:04:34,674
+Grizabella : In the lamplight
+
+563
+01:04:34,675 --> 01:04:39,972
+Grizabella : The withered leaves Collect at my feet
+
+564
+01:04:41,011 --> 01:04:45,235
+Grizabella : And the wind
+
+565
+01:04:45,236 --> 01:04:49,810
+Grizabella : Begins to moan
+
+566
+01:04:49,811 --> 01:04:53,552
+Grizabella : Every street lamp
+
+567
+01:04:53,553 --> 01:04:57,045
+Grizabella : Seems to beat
+
+568
+01:04:57,046 --> 01:05:05,272
+Grizabella : A fatalistic warning
+
+569
+01:05:05,941 --> 01:05:09,374
+Grizabella : Someone mutters
+
+570
+01:05:09,375 --> 01:05:13,633
+Grizabella : And the street lamp gutters
+
+571
+01:05:13,634 --> 01:05:22,454
+Grizabella : And soon it will be morning
+
+572
+01:05:22,455 --> 01:05:26,550
+Grizabella : Memory
+
+573
+01:05:26,551 --> 01:05:30,959
+Grizabella : All alone in the moonlight
+
+574
+01:05:30,960 --> 01:05:36,097
+Grizabella : I can smile at the old days
+
+575
+01:05:36,098 --> 01:05:41,914
+Grizabella : I was beautiful then
+
+576
+01:05:41,915 --> 01:05:47,666
+Grizabella : I remember the time I knew
+
+577
+01:05:47,667 --> 01:05:51,417
+Grizabella : What happiness was
+
+578
+01:05:51,731 --> 01:05:57,633
+Grizabella : Let the memory
+
+579
+01:05:57,864 --> 01:06:07,618
+Grizabella : Live again
+
+580
+01:08:42,688 --> 01:08:49,743
+Old Deuteronomy : The moments of happiness
+
+581
+01:08:50,360 --> 01:08:55,235
+Old Deuteronomy : We had the experience
+
+582
+01:08:55,236 --> 01:08:58,973
+Old Deuteronomy : But missed the meaning
+
+583
+01:08:58,974 --> 01:09:04,254
+Old Deuteronomy : And approach to the meaning
+
+584
+01:09:04,255 --> 01:09:11,329
+Old Deuteronomy : Restores the experience In a different form
+
+585
+01:09:11,330 --> 01:09:16,322
+Old Deuteronomy : Beyond any meaning
+
+586
+01:09:16,323 --> 01:09:22,541
+Old Deuteronomy : We can assign to happiness
+
+587
+01:09:23,345 --> 01:09:27,918
+Old Deuteronomy : The past experience
+
+588
+01:09:27,919 --> 01:09:31,836
+Old Deuteronomy : Revived in the meaning
+
+589
+01:09:31,837 --> 01:09:35,503
+Old Deuteronomy : Is not the experience
+
+590
+01:09:35,504 --> 01:09:39,580
+Old Deuteronomy : Of one life only
+
+591
+01:09:39,581 --> 01:09:47,743
+Old Deuteronomy : But of many generations
+
+592
+01:09:51,838 --> 01:09:56,366
+Old Deuteronomy : Not forgetting
+
+593
+01:09:56,367 --> 01:09:58,783
+Old Deuteronomy : Something that is
+
+594
+01:09:58,784 --> 01:10:04,959
+Old Deuteronomy : Probably quite ineffable
+
+595
+01:10:22,634 --> 01:10:25,587
+Jemima : Moonlight
+
+596
+01:10:25,588 --> 01:10:30,585
+Jemima : Turn your face to the moonlight
+
+597
+01:10:30,586 --> 01:10:35,479
+Jemima : Let your memory lead you
+
+598
+01:10:35,480 --> 01:10:40,190
+Jemima : Open up enter in
+
+599
+01:10:40,966 --> 01:10:43,991
+Jemima : If you find there
+
+600
+01:10:43,992 --> 01:10:50,567
+Jemima : The meaning of what happiness is
+
+601
+01:10:50,568 --> 01:10:55,639
+Jemima : Then a new life
+
+602
+01:10:55,640 --> 01:10:58,290
+Jemima : Will begin
+
+603
+01:10:58,442 --> 01:10:59,799
+Moonlight
+
+604
+01:10:59,800 --> 01:11:04,575
+All Cats : Turn your face to the moonlight
+
+605
+01:11:04,576 --> 01:11:09,685
+All Cats : Let your memory lead you
+
+606
+01:11:09,686 --> 01:11:14,760
+All Cats : Open up enter in
+
+607
+01:11:15,170 --> 01:11:18,653
+All Cats : If you find there
+
+608
+01:11:18,654 --> 01:11:24,855
+All Cats : The meaning of what happiness is
+
+609
+01:11:24,856 --> 01:11:29,469
+All Cats : Then a new life
+
+610
+01:11:29,470 --> 01:11:33,772
+All Cats : Will begin
+
+611
+01:12:46,271 --> 01:12:51,929
+Jellylorum : Gus is the cat At the theatre door
+
+612
+01:12:52,476 --> 01:12:58,200
+Jellylorum : His name as I ought to Have told you before
+
+613
+01:12:58,201 --> 01:13:01,445
+Jellylorum : Is really Asparagus
+
+614
+01:13:01,494 --> 01:13:05,418
+Jellylorum : But that's such a fuss to pronounce
+
+615
+01:13:05,507 --> 01:13:11,107
+Jellylorum : That we usually call him just Gus
+
+616
+01:13:11,776 --> 01:13:17,439
+Jellylorum : His coat's very shabby He's thin as a rake
+
+617
+01:13:17,656 --> 01:13:23,105
+Jellylorum : And he suffers from palsy That makes his paws shake
+
+618
+01:13:23,486 --> 01:13:29,249
+Jellylorum : Yet he was in his youth Quite the smartest of cats
+
+619
+01:13:29,400 --> 01:13:36,087
+Jellylorum : But no longer a terror To mice or to rats
+
+620
+01:13:36,405 --> 01:13:42,434
+Jellylorum : For he isn't the cat That he was in his prime
+
+621
+01:13:42,435 --> 01:13:45,483
+Jellylorum : Though his name was quite famous
+
+622
+01:13:45,484 --> 01:13:47,926
+Jellylorum : He says in his time
+
+623
+01:13:48,878 --> 01:13:53,960
+Jellylorum : And whenever he joins His friends at their club
+
+624
+01:13:53,961 --> 01:13:59,787
+Jellylorum : Which takes place at the back Of the neighbouring pub
+
+625
+01:14:00,682 --> 01:14:05,930
+Jellylorum : He loves to regale them If someone else pays
+
+626
+01:14:06,237 --> 01:14:11,537
+Jellylorum : With anecdotes drawn From his palmiest days
+
+627
+01:14:11,834 --> 01:14:16,929
+Jellylorum : For he once was a star Of the highest degree
+
+628
+01:14:17,055 --> 01:14:23,091
+Jellylorum : He has acted with Irving He has acted with Tree
+
+629
+01:14:23,334 --> 01:14:28,972
+Jellylorum : And he likes to relate His success on the halls
+
+630
+01:14:28,973 --> 01:14:32,301
+Jellylorum : Where the gallery once gave him
+
+631
+01:14:32,302 --> 01:14:35,295
+Jellylorum : Seven cat calls
+
+632
+01:14:35,950 --> 01:14:40,310
+Jellylorum : But his grandest creation
+
+633
+01:14:40,520 --> 01:14:44,790
+Jellylorum : As he loves to tell
+
+634
+01:14:44,791 --> 01:14:48,417
+Jellylorum : Was Firefrorefiddle
+
+635
+01:14:48,418 --> 01:14:53,924
+Jellylorum : The Fiend of the Fell
+
+636
+01:15:03,069 --> 01:15:07,403
+Gus : I have played in my time
+
+637
+01:15:07,807 --> 01:15:10,741
+Gus : Every possible part
+
+638
+01:15:11,828 --> 01:15:17,980
+Gus : And I used to know seventy Speeches by heart
+
+639
+01:15:18,832 --> 01:15:22,391
+Gus : I'd extemporise backchat
+
+640
+01:15:22,772 --> 01:15:25,991
+Gus : I knew how to gag
+
+641
+01:15:26,588 --> 01:15:31,966
+Gus : And I knew how to let the cat Out of the bag
+
+642
+01:15:32,536 --> 01:15:39,187
+Gus : I knew how to act With my back and my tail
+
+643
+01:15:39,728 --> 01:15:45,009
+Gus : With an hour of rehearsal I never could fail
+
+644
+01:15:45,776 --> 01:15:51,542
+Gus : I'd a voice that would soften The hardest of hearts
+
+645
+01:15:52,042 --> 01:15:57,984
+Gus : Whether I took the lead Or in character parts
+
+646
+01:15:58,884 --> 01:16:04,992
+Gus : I have sat by the bedside Of poor little Nell
+
+647
+01:16:05,181 --> 01:16:10,019
+Gus : When the curfew was rung Then I swung on the bell
+
+648
+01:16:10,208 --> 01:16:14,798
+Gus : In the pantomime season I never fell flat
+
+649
+01:16:15,088 --> 01:16:20,723
+Gus : And I once understudied Dick Whittington's Cat
+
+650
+01:16:21,316 --> 01:16:24,799
+Gus : But my grandest creation
+
+651
+01:16:25,408 --> 01:16:28,723
+Gus : As history will tell
+
+652
+01:16:29,460 --> 01:16:33,419
+Gus : Was Firefrorefiddle
+
+653
+01:16:34,120 --> 01:16:38,821
+Gus : The Fiend of the Fell
+
+654
+01:16:41,451 --> 01:16:46,206
+Jellylorum : Then if someone will give him A toothful of gin
+
+655
+01:16:46,207 --> 01:16:50,568
+Jellylorum : He will tell how he once played A part in East Lynne
+
+656
+01:16:50,569 --> 01:16:55,233
+Jellylorum : At a Shakespeare performance He once walked on pat
+
+657
+01:16:55,234 --> 01:17:00,998
+Jellylorum : When some actor suggested The need for a cat
+
+658
+01:17:00,999 --> 01:17:06,073
+Gus : And I say that these kittens They do not get trained
+
+659
+01:17:06,074 --> 01:17:12,402
+Gus : As we did in the days When Victoria reigned
+
+660
+01:17:12,830 --> 01:17:17,310
+Gus : They never get drilled In a regular troupe
+
+661
+01:17:17,534 --> 01:17:22,343
+Gus : And they think they are smart Just to jump through a hoop
+
+662
+01:17:23,094 --> 01:17:29,127
+Jellylorum : And he says as he scratches himself With his claws
+
+663
+01:17:29,128 --> 01:17:35,425
+Gus : Well the theatre is certainly Not what it was
+
+664
+01:17:36,165 --> 01:17:41,658
+Gus : These modern productions Are all very well
+
+665
+01:17:42,396 --> 01:17:48,433
+Gus : But there's nothing to equal From what I hear tell
+
+666
+01:17:49,385 --> 01:17:53,405
+Gus : That moment of mystery
+
+667
+01:17:54,284 --> 01:17:57,632
+Gus : When I made history
+
+668
+01:17:59,047 --> 01:18:03,124
+Gus : As Firefrorefiddle
+
+669
+01:18:03,846 --> 01:18:09,320
+Gus : The Fiend of the Fell
+
+670
+01:18:34,585 --> 01:18:39,366
+Gus : These modern productions
+
+671
+01:18:39,367 --> 01:18:43,041
+Gus : Are all very well
+
+672
+01:18:44,045 --> 01:18:48,123
+Gus : But there's nothing to equal
+
+673
+01:18:48,124 --> 01:18:51,530
+Gus : From what I hear tell
+
+674
+01:18:52,604 --> 01:18:57,280
+Gus : That moment of mystery
+
+675
+01:18:57,995 --> 01:18:59,101
+Gus : When I
+
+676
+01:19:27,290 --> 01:19:32,525
+All Cats : Skimbleshanks the Railway Cat
+
+677
+01:19:32,526 --> 01:19:37,318
+All Cats : The cat of the railway train
+
+678
+01:19:38,070 --> 01:19:41,469
+All Cats : There's a whisper down the line At 1139
+
+679
+01:19:41,470 --> 01:19:44,591
+All Cats : When the Night Mail's Ready to depart
+
+680
+01:19:44,592 --> 01:19:48,139
+All Cats : Saying Skimble where is Skimble Has he gone to hunt the thimble
+
+681
+01:19:48,176 --> 01:19:51,417
+All Cats : We must find him Or the train can't start
+
+682
+01:19:51,418 --> 01:19:54,834
+Skimbleshanks : All the guards and all the porters And the stationmaster's daughters
+
+683
+01:19:54,835 --> 01:19:57,857
+Skimbleshanks : Would be searching high and low
+
+684
+01:19:58,105 --> 01:20:01,445
+Skimbleshanks : Saying Skimble where is Skimble For unless he's very nimble
+
+685
+01:20:01,446 --> 01:20:04,331
+Skimbleshanks : Then the Night Mail just can't go
+
+686
+01:20:04,768 --> 01:20:08,109
+Skimbleshanks : At 1142 With the signal overdue
+
+687
+01:20:08,110 --> 01:20:11,372
+Skimbleshanks : And the passengers All frantic to a man
+
+688
+01:20:11,373 --> 01:20:14,853
+Skimbleshanks : That's when I would appear And I'd saunter to the rear
+
+689
+01:20:14,854 --> 01:20:18,983
+Skimbleshanks : I'd been busy in the luggage van
+
+690
+01:20:19,446 --> 01:20:23,184
+All Cats : Then he gave one flash Of his glassgreen eyes
+
+691
+01:20:23,185 --> 01:20:26,429
+All Cats : And the signal went all clear
+
+692
+01:20:26,430 --> 01:20:29,863
+Skimbleshanks : They'd be off at last For the northern part
+
+693
+01:20:29,864 --> 01:20:32,080
+Skimbleshanks : Of the Northern Hemisphere
+
+694
+01:20:32,081 --> 01:20:36,753
+All Cats : Skimbleshanks the Railway Cat
+
+695
+01:20:36,754 --> 01:20:42,000
+All Cats : The cat of the railway train
+
+696
+01:20:42,001 --> 01:20:45,714
+Skimbleshanks : You could say that by and large It was me who was in charge
+
+697
+01:20:45,715 --> 01:20:48,593
+Skimbleshanks : Of the Sleeping Car Express
+
+698
+01:20:48,999 --> 01:20:52,501
+Skimbleshanks : From the driver and the guards To the bagmen playing cards
+
+699
+01:20:52,502 --> 01:20:55,390
+Skimbleshanks : I'd supervise them all More or less
+
+700
+01:20:55,596 --> 01:21:02,008
+All Cats : Down the corridor he paces And examines all the faces Of the travellers In the First and the Third
+
+701
+01:21:02,179 --> 01:21:05,380
+All Cats : He establishes control By a regular patrol
+
+702
+01:21:05,493 --> 01:21:08,755
+All Cats : And he'd know at once If anything occurred
+
+703
+01:21:08,756 --> 01:21:12,102
+All Cats : He would watch you without winking And he saw what you were thinking
+
+704
+01:21:12,103 --> 01:21:15,415
+All Cats : And it's certain That he didn't approve
+
+705
+01:21:15,416 --> 01:21:18,846
+All Cats : Of hilarity and riot So that folk were very quiet
+
+706
+01:21:18,847 --> 01:21:23,410
+All Cats : When Skimble was about And on the move
+
+707
+01:21:23,411 --> 01:21:27,261
+All Cats : You could play no pranks With Skimbleshanks
+
+708
+01:21:27,262 --> 01:21:30,508
+All Cats : He's a cat that cannot be ignored
+
+709
+01:21:30,509 --> 01:21:34,022
+All Cats : So nothing went wrong On the Northern Mail
+
+710
+01:21:34,023 --> 01:21:36,535
+All Cats : When Skimbleshanks was aboard
+
+711
+01:21:39,393 --> 01:21:42,251
+Skimbleshanks : It was very pleasant When they found their little den
+
+712
+01:21:42,252 --> 01:21:44,785
+Skimbleshanks : With their name Written up on the door
+
+713
+01:21:45,595 --> 01:21:48,953
+Skimbleshanks : And the berth was very neat With a newly folded sheet
+
+714
+01:21:48,954 --> 01:21:51,810
+Skimbleshanks : And not a speck of dust On the floor
+
+715
+01:21:52,003 --> 01:21:55,501
+Skimbleshanks : There was every sort of light You could make it dark or bright
+
+716
+01:21:55,502 --> 01:21:58,475
+Skimbleshanks : And a button you could turn To make a breeze
+
+717
+01:21:58,682 --> 01:22:01,971
+Skimbleshanks : And a funny little basin You're supposed to wash your face in
+
+718
+01:22:02,149 --> 01:22:04,868
+Skimbleshanks : And a crank to shut The window should you sneeze
+
+719
+01:22:05,115 --> 01:22:08,560
+Skimbleshanks : Then the guard looked in politely And would ask you very brightly
+
+720
+01:22:08,561 --> 01:22:10,231
+Skimbleshanks : Do you like your morning tea
+
+721
+01:22:10,232 --> 01:22:11,443
+All Cats : Weak or strong
+
+722
+01:22:11,763 --> 01:22:15,453
+Skimbleshanks : But I was just behind him And was ready to remind him
+
+723
+01:22:15,454 --> 01:22:19,854
+Skimbleshanks : For Skimble won't let Anything go wrong
+
+724
+01:22:20,017 --> 01:22:23,719
+All Cats : When they crept into Their cosy berths
+
+725
+01:22:23,720 --> 01:22:27,053
+All Cats : And pulled down the counterpane
+
+726
+01:22:27,054 --> 01:22:30,361
+All Cats : They ought to reflect It was very nice
+
+727
+01:22:30,578 --> 01:22:33,446
+All Cats : To know that they wouldn't Be bothered by mice
+
+728
+01:22:33,699 --> 01:22:37,119
+All Cats : They would leave all that To the Railway Cat
+
+729
+01:22:37,264 --> 01:22:40,026
+All Cats : The cat of the railway train
+
+730
+01:22:40,027 --> 01:22:44,481
+All Cats : Skimbleshanks the Railway Cat
+
+731
+01:22:44,963 --> 01:22:49,842
+All Cats : The cat of the railway train
+
+732
+01:22:50,604 --> 01:22:55,051
+All Cats : Skimbleshanks the Railway Cat
+
+733
+01:22:55,770 --> 01:23:00,423
+All Cats : The cat of the railway train
+
+734
+01:23:01,115 --> 01:23:04,448
+Skimbleshanks : In the watches of the night I was always fresh and bright
+
+735
+01:23:04,449 --> 01:23:07,457
+Skimbleshanks : Every now and then I'd have a cup of tea
+
+736
+01:23:07,458 --> 01:23:11,027
+Skimbleshanks : With perhaps a drop of Scotch When I was keeping on the watch
+
+737
+01:23:11,028 --> 01:23:14,074
+Skimbleshanks : Only stopping here and there To catch a flea
+
+738
+01:23:14,225 --> 01:23:17,527
+Skimbleshanks : They were fast asleep at Crewe And so they never knew
+
+739
+01:23:17,528 --> 01:23:20,682
+Skimbleshanks : That I was walking Up and down the station
+
+740
+01:23:21,018 --> 01:23:24,438
+Skimbleshanks : They were sleeping all the while I was busy at Carlisle
+
+741
+01:23:24,439 --> 01:23:27,478
+Skimbleshanks : Where I met the station master With elation
+
+742
+01:23:27,479 --> 01:23:30,984
+Skimbleshanks : They might see me at Dumfries If I summoned the police
+
+743
+01:23:30,985 --> 01:23:34,213
+Skimbleshanks : If there was anything They ought to know about
+
+744
+01:23:34,355 --> 01:23:37,779
+All Cats : When they got to Gallowgate There they did not have to wait
+
+745
+01:23:37,780 --> 01:23:44,077
+All Cats : For Skimbleshanks will help them To get out
+
+746
+01:23:51,449 --> 01:23:55,301
+All Cats : And he
+
+747
+01:23:55,428 --> 01:23:58,543
+All Cats : Gives you a wave Of his long brown tail
+
+748
+01:23:58,544 --> 01:24:01,709
+All Cats : Which says I'll see you again
+
+749
+01:24:01,865 --> 01:24:05,261
+All Cats : You will meet without fail On the Midnight Mail
+
+750
+01:24:05,422 --> 01:24:07,729
+All Cats : The cat of the railway train
+
+751
+01:24:20,897 --> 01:24:27,165
+All Cats : The cat of the railway
+
+752
+01:24:27,383 --> 01:24:33,210
+All Cats : Train
+
+753
+01:24:48,934 --> 01:24:49,584
+Demeter : Macavity
+
+754
+01:25:49,139 --> 01:25:51,983
+Demeter : Macavity's a mystery cat
+
+755
+01:25:51,984 --> 01:25:55,110
+Demeter : He's called the Hidden Paw
+
+756
+01:25:55,111 --> 01:25:58,115
+Demeter : For he's the master criminal
+
+757
+01:25:58,116 --> 01:26:00,554
+Demeter : Who can defy the law
+
+758
+01:26:00,555 --> 01:26:04,209
+Demeter : He's the bafflement Of Scotland Yard
+
+759
+01:26:04,210 --> 01:26:06,752
+Demeter : The Flying Squad's despair
+
+760
+01:26:07,169 --> 01:26:10,040
+Demeter : For when they reach The scene of crime
+
+761
+01:26:10,041 --> 01:26:12,336
+Demeter : Macavity's not there
+
+762
+01:26:37,036 --> 01:26:40,476
+Demeter : Macavity Macavity
+
+763
+01:26:40,477 --> 01:26:43,438
+Demeter : There's no one like Macavity
+
+764
+01:26:43,439 --> 01:26:46,436
+Demeter : He's broken every human law
+
+765
+01:26:46,437 --> 01:26:49,055
+Demeter : He breaks the law of gravity
+
+766
+01:26:49,056 --> 01:26:52,276
+Demeter : His powers of levitation
+
+767
+01:26:52,277 --> 01:26:55,121
+Demeter : Would make a fakir stare
+
+768
+01:26:55,334 --> 01:26:58,321
+Demeter : And when you reach the scene of crime
+
+769
+01:26:58,322 --> 01:27:00,539
+Demeter : Macavity's not there
+
+770
+01:27:00,880 --> 01:27:04,134
+Demeter : You may seek him in the basement
+
+771
+01:27:04,135 --> 01:27:11,252
+Demeter : You may look up in the air
+
+772
+01:27:13,474 --> 01:27:18,950
+Demeter : But I tell you once and once again Macavity's not there
+
+773
+01:27:19,569 --> 01:27:22,409
+Bombalurina : Macavity's a ginger cat
+
+774
+01:27:22,410 --> 01:27:25,195
+Bombalurina : He's very tall and thin
+
+775
+01:27:25,196 --> 01:27:28,430
+Bombalurina : You would know him if you saw him
+
+776
+01:27:28,431 --> 01:27:31,352
+Bombalurina : For his eyes are sunken in
+
+777
+01:27:31,353 --> 01:27:34,730
+Bombalurina : His brow is deeply Lined with thought
+
+778
+01:27:34,731 --> 01:27:37,454
+Bombalurina : His head is highly domed
+
+779
+01:27:37,455 --> 01:27:40,638
+Bombalurina : His coat is dusty from neglect
+
+780
+01:27:40,746 --> 01:27:43,519
+Bombalurina : His whiskers are uncombed
+
+781
+01:27:43,751 --> 01:27:46,679
+Bombalurina : He sways his head from side to side
+
+782
+01:27:46,680 --> 01:27:49,510
+Bombalurina : With movements like a snake
+
+783
+01:27:49,511 --> 01:27:52,771
+Bombalurina : And when you think he's half asleep
+
+784
+01:27:52,772 --> 01:27:55,824
+Bombalurina : He's always wide awake
+
+785
+01:27:55,825 --> 01:27:58,675
+Bombalurina : Macavity Macavity
+
+786
+01:27:58,676 --> 01:28:01,768
+Bombalurina : There's no one like Macavity
+
+787
+01:28:01,769 --> 01:28:04,576
+Bombalurina : For he's a fiend in feline shape
+
+788
+01:28:04,821 --> 01:28:07,318
+Bombalurina : A monster of depravity
+
+789
+01:28:07,768 --> 01:28:10,470
+Bombalurina : You may meet him in a bystreet
+
+790
+01:28:10,737 --> 01:28:13,761
+Bombalurina : You may see him in the square
+
+791
+01:28:13,762 --> 01:28:16,352
+Bombalurina : But when a crime's discovered
+
+792
+01:28:16,353 --> 01:28:19,566
+Bombalurina : Then Macavity's not there
+
+793
+01:28:19,567 --> 01:28:25,949
+Demeter : He's outwardly respectable
+
+794
+01:28:25,950 --> 01:28:30,087
+Bombalurina : I know he cheats at cards
+
+795
+01:28:31,355 --> 01:28:36,407
+Demeter : And his footprints are not found in
+
+796
+01:28:36,408 --> 01:28:42,650
+Demeter : Any files of Scotland Yard's
+
+797
+01:28:43,360 --> 01:28:46,560
+Bombalurina : And when the larder's looted
+
+798
+01:28:46,561 --> 01:28:50,004
+Demeter : Or the jewel case is rifled
+
+799
+01:28:50,005 --> 01:28:52,341
+Bombalurina : Or when the milk is missing
+
+800
+01:28:52,342 --> 01:28:55,934
+Demeter : Or another Peke's been stifled
+
+801
+01:28:55,935 --> 01:28:59,478
+Bombalurina : Or the greenhouse glass is broken
+
+802
+01:29:00,052 --> 01:29:03,358
+Demeter : And the trellis past repair
+
+803
+01:29:03,928 --> 01:29:06,659
+Bombalurina;Demeter : There's the wonder of the thing
+
+804
+01:29:06,660 --> 01:29:10,030
+Bombalurina;Demeter : Macavity's not there
+
+805
+01:29:12,572 --> 01:29:15,493
+Bombalurina;Demeter : Macavity Macavity
+
+806
+01:29:15,494 --> 01:29:18,699
+Bombalurina;Demeter : There's no one like Macavity
+
+807
+01:29:18,700 --> 01:29:20,779
+Bombalurina;Demeter : There never was a cat
+
+808
+01:29:20,932 --> 01:29:24,061
+Bombalurina;Demeter : Of such deceitfulness and suavity
+
+809
+01:29:24,636 --> 01:29:27,451
+Bombalurina;Demeter : He always has an alibi
+
+810
+01:29:27,637 --> 01:29:30,287
+Bombalurina;Demeter : And one or two to spare
+
+811
+01:29:30,672 --> 01:29:36,285
+Bombalurina;Demeter : Whatever time the deed took place Macavity wasn't there
+
+812
+01:29:36,286 --> 01:29:38,989
+Bombalurina;Demeter : And they say that all the cats
+
+813
+01:29:38,990 --> 01:29:42,565
+Bombalurina;Demeter : Whose wicked deeds are widely known
+
+814
+01:29:42,566 --> 01:29:45,534
+Demeter : I might mention Mungojerrie
+
+815
+01:29:45,535 --> 01:29:48,811
+Bombalurina : I might mention Griddlebone
+
+816
+01:29:48,812 --> 01:29:51,386
+Bombalurina;Demeter : Are nothing more than agents
+
+817
+01:29:51,387 --> 01:29:54,343
+Bombalurina;Demeter : For the cat who all the time
+
+818
+01:29:54,344 --> 01:29:57,704
+Bombalurina;Demeter : Just controls the operations
+
+819
+01:29:57,705 --> 01:30:01,415
+Bombalurina;Demeter : The Napoleon of Crime
+
+820
+01:30:06,702 --> 01:30:09,954
+Queens : Macavity Macavity
+
+821
+01:30:09,955 --> 01:30:13,177
+Queens : There's no one like Macavity
+
+822
+01:30:13,178 --> 01:30:15,520
+Queens : He's a fiend in feline shape
+
+823
+01:30:15,874 --> 01:30:18,389
+Queens : A monster of depravity
+
+824
+01:30:18,755 --> 01:30:21,570
+Queens : You may meet him in a bystreet
+
+825
+01:30:21,614 --> 01:30:24,776
+Queens : You may see him in the square
+
+826
+01:30:24,910 --> 01:30:27,391
+Queens : But when a crime's discovered
+
+827
+01:30:27,392 --> 01:30:30,557
+Queens : Then Macavity
+
+828
+01:30:30,797 --> 01:30:33,666
+Queens : Macavity
+
+829
+01:30:33,901 --> 01:30:36,095
+Queens : Macavity
+
+830
+01:30:36,957 --> 01:30:41,479
+Queens : Macavity
+
+831
+01:30:46,356 --> 01:30:48,565
+Queens : When a crime's discovered
+
+832
+01:30:48,566 --> 01:30:51,652
+Bombalurina;Demeter : Then Macavity's not there
+
+833
+01:31:52,646 --> 01:31:55,808
+All Cats : Macavity
+
+834
+01:33:57,709 --> 01:34:00,971
+All Cats : Macavity's not there
+
+835
+01:34:23,777 --> 01:34:27,053
+All Cats : We have to find
+
+836
+01:34:27,217 --> 01:34:35,794
+All Cats : Old Deuteronomy
+
+837
+01:34:35,795 --> 01:34:39,544
+Rum Tum Tugger : You ought to ask Magical Mr Mistoffelees
+
+838
+01:34:39,545 --> 01:34:44,943
+Rum Tum Tugger : The original Conjuring Cat there can be no doubt about that
+
+839
+01:34:44,944 --> 01:34:49,778
+Rum Tum Tugger : Please listen to me and don't scoff
+
+840
+01:34:50,308 --> 01:34:53,987
+Rum Tum Tugger : All his inventions are off his own bat
+
+841
+01:34:55,751 --> 01:35:01,059
+Rum Tum Tugger : There's no such cat in the metropolis He holds all the patent monopolies
+
+842
+01:35:01,060 --> 01:35:05,570
+Rum Tum Tugger : for performing surprising illusions
+
+843
+01:35:05,571 --> 01:35:11,629
+Rum Tum Tugger : and creating eccentric confusions
+
+844
+01:35:12,229 --> 01:35:16,300
+Rum Tum Tugger : The greatest magicians Have something to learn
+
+845
+01:35:16,523 --> 01:35:22,232
+Rum Tum Tugger : From Mr Mistoffelees Conjuring turn
+
+846
+01:35:23,002 --> 01:35:25,215
+Rum Tum Tugger : And we all say
+
+847
+01:35:25,216 --> 01:35:30,989
+Rum Tum Tugger : Oh Well I never Was there ever a cat so clever
+
+848
+01:35:30,990 --> 01:35:36,109
+Rum Tum Tugger : As Magical Mr Mistoffelees
+
+849
+01:35:36,839 --> 01:35:39,867
+Rum Tum Tugger : He is quiet he is small He is black
+
+850
+01:35:39,868 --> 01:35:42,963
+Rum Tum Tugger : From his ears To the tip of his tail
+
+851
+01:35:42,964 --> 01:35:45,965
+Rum Tum Tugger : He can creep Through the tiniest crack
+
+852
+01:35:45,966 --> 01:35:48,832
+Rum Tum Tugger : He can walk on the narrowest rail
+
+853
+01:35:48,833 --> 01:35:51,804
+Rum Tum Tugger : He can pick any card from the pack
+
+854
+01:35:52,051 --> 01:35:55,118
+Rum Tum Tugger : He's equally cunning with dice
+
+855
+01:35:55,119 --> 01:35:58,480
+Rum Tum Tugger : He's always deceiving you Into believing
+
+856
+01:35:58,481 --> 01:36:00,666
+Rum Tum Tugger : That he's only hunting for mice
+
+857
+01:36:01,271 --> 01:36:04,216
+Rum Tum Tugger : He can play any trick with a cork
+
+858
+01:36:04,555 --> 01:36:07,378
+Rum Tum Tugger : Or a spoon and a bit of fish paste
+
+859
+01:36:07,379 --> 01:36:10,370
+Rum Tum Tugger : If you look for a knife or a fork
+
+860
+01:36:10,371 --> 01:36:13,657
+Rum Tum Tugger : And you think That it's merely misplaced
+
+861
+01:36:13,658 --> 01:36:18,131
+Rum Tum Tugger : You have seen it one moment But then it is gone
+
+862
+01:36:18,132 --> 01:36:24,113
+Rum Tum Tugger : But you'll find it next week Laying out on the lawn
+
+863
+01:36:24,528 --> 01:36:26,711
+Rum Tum Tugger : And we all say
+
+864
+01:36:26,712 --> 01:36:32,365
+Rum Tum Tugger : Oh Well I never Was there ever a cat so clever
+
+865
+01:36:32,366 --> 01:36:37,436
+Rum Tum Tugger : As Magical Mr Mistoffelees
+
+866
+01:36:37,437 --> 01:36:38,879
+Mr. Mistoffelees : Presto
+
+867
+01:36:38,880 --> 01:36:44,658
+All Cats : Oh Well I never Was there ever a cat so clever
+
+868
+01:36:44,659 --> 01:36:49,705
+All Cats : As Magical Mr Mistoffelees
+
+869
+01:36:50,850 --> 01:36:56,859
+All Cats : Oh Well I never Was there ever a cat so clever
+
+870
+01:36:56,860 --> 01:37:01,828
+All Cats : As Magical Mr Mistoffelees
+
+871
+01:37:02,761 --> 01:37:05,481
+Rum Tum Tugger : His manner is vague and aloof
+
+872
+01:37:05,856 --> 01:37:09,004
+Rum Tum Tugger : And you would think There was nobody shyer
+
+873
+01:37:09,005 --> 01:37:11,763
+Rum Tum Tugger : But his voice can be Heard on the roof
+
+874
+01:37:11,764 --> 01:37:14,688
+Rum Tum Tugger : While he was curled up by the fire
+
+875
+01:37:14,730 --> 01:37:17,838
+Rum Tum Tugger : And he's sometimes Been heard by the fire
+
+876
+01:37:17,839 --> 01:37:20,711
+Rum Tum Tugger : While he was about on the roof
+
+877
+01:37:20,712 --> 01:37:24,160
+Rum Tum Tugger : At least we all heard That somebody purred
+
+878
+01:37:24,161 --> 01:37:26,839
+Rum Tum Tugger : Which is incontestable proof
+
+879
+01:37:27,078 --> 01:37:30,173
+Rum Tum Tugger : And of his singular magical powers
+
+880
+01:37:30,442 --> 01:37:33,511
+Rum Tum Tugger : I've known the family to call
+
+881
+01:37:33,512 --> 01:37:36,545
+Rum Tum Tugger : Him in from the garden for hours
+
+882
+01:37:36,546 --> 01:37:39,374
+Rum Tum Tugger : While he was asleep in the hall
+
+883
+01:37:39,375 --> 01:37:43,580
+Rum Tum Tugger : And not long ago This phenomenal cat
+
+884
+01:37:43,581 --> 01:37:46,485
+Rum Tum Tugger : Produced seven kittens
+
+885
+01:37:46,486 --> 01:37:51,473
+Rum Tum Tugger : Right out of a hat
+
+886
+01:37:51,556 --> 01:37:53,785
+Rum Tum Tugger : And we all say
+
+887
+01:37:53,786 --> 01:37:59,565
+All Cats : Oh Well I never Was there ever a cat so clever
+
+888
+01:37:59,566 --> 01:38:04,680
+All Cats : As Magical Mr Mistoffelees
+
+889
+01:38:43,921 --> 01:38:45,789
+Rum Tum Tugger : Magical
+
+890
+01:38:51,658 --> 01:38:55,567
+Rum Tum Tugger : And not long ago This phenomenal cat
+
+891
+01:38:55,568 --> 01:38:58,038
+Rum Tum Tugger : Produced seven kittens
+
+892
+01:38:58,073 --> 01:39:03,114
+Rum Tum Tugger : Right out of a hat
+
+893
+01:39:47,715 --> 01:39:51,119
+Rum Tum Tugger : And we all say
+
+894
+01:39:51,120 --> 01:39:54,483
+Rum Tum Tugger : Oh Well I never
+
+895
+01:39:54,484 --> 01:40:00,241
+Rum Tum Tugger : Was there ever a cat so clever
+
+896
+01:40:00,242 --> 01:40:07,458
+Rum Tum Tugger : As Magical Mr Mistoffelees
+
+897
+01:40:08,672 --> 01:40:14,017
+All Cats : Oh Well I never Was there ever a cat so clever
+
+898
+01:40:14,018 --> 01:40:18,731
+All Cats : As Magical Mr Mistoffelees
+
+899
+01:40:20,099 --> 01:40:25,486
+All Cats : Oh Well I never Was there ever a cat so clever
+
+900
+01:40:25,487 --> 01:40:27,268
+All Cats : As Magical Mr Mistoffelees
+
+901
+01:40:27,269 --> 01:40:28,261
+All Cats : Mystical
+
+902
+01:40:31,493 --> 01:40:36,861
+All Cats : Oh Well I never Was there ever a cat so clever
+
+903
+01:40:36,862 --> 01:40:38,599
+All Cats : As Magical Mr Mistoffelees Magical
+
+904
+01:40:38,600 --> 01:40:40,265
+All Cats : Mystical
+
+905
+01:40:42,803 --> 01:40:48,198
+All Cats : Oh Well I never Was there ever a cat so clever
+
+906
+01:40:48,199 --> 01:40:53,985
+All Cats : As Magical Mr Mistoffelees
+
+907
+01:40:54,545 --> 01:40:57,297
+Rum Tum Tugger : I give you the Magical
+
+908
+01:40:58,253 --> 01:41:00,019
+Rum Tum Tugger : The Marvellous
+
+909
+01:41:00,195 --> 01:41:02,670
+Rum Tum Tugger : Mr Mistoffelees
+
+910
+01:41:15,777 --> 01:41:18,672
+Jemima : Daylight
+
+911
+01:41:18,673 --> 01:41:23,532
+Jemima : See the dew on a sunflower
+
+912
+01:41:23,806 --> 01:41:28,957
+Jemima : And a rose that is fading
+
+913
+01:41:28,958 --> 01:41:34,153
+Jemima : Roses wither away
+
+914
+01:41:34,631 --> 01:41:38,320
+Jemima : Like the sunflower
+
+915
+01:41:38,321 --> 01:41:43,893
+Jemima : I yearn to turn my face to the dawn
+
+916
+01:41:44,450 --> 01:41:49,704
+Jemima : I am waiting
+
+917
+01:41:49,705 --> 01:41:56,198
+Jemima : For the day
+
+918
+01:42:04,113 --> 01:42:10,131
+Munkustrap : Now Old Deuteronomy just before dawn
+
+919
+01:42:11,212 --> 01:42:15,592
+Munkustrap : through a silence you feel you could cut with a knife
+
+920
+01:42:16,416 --> 01:42:21,475
+Munkustrap : announces the cat who can now be reborn
+
+921
+01:42:21,476 --> 01:42:26,504
+Munkustrap : and come back to a different Jellicle Life
+
+922
+01:43:13,357 --> 01:43:16,621
+Grizabella : Memory
+
+923
+01:43:16,622 --> 01:43:22,026
+Grizabella : Turn your face to the moonlight
+
+924
+01:43:22,027 --> 01:43:27,175
+Grizabella : Let your memory lead you
+
+925
+01:43:27,176 --> 01:43:33,514
+Grizabella : Open up enter in
+
+926
+01:43:33,515 --> 01:43:36,739
+Grizabella : If you find there
+
+927
+01:43:36,740 --> 01:43:42,233
+Grizabella : The meaning of what happiness is
+
+928
+01:43:42,905 --> 01:43:47,885
+Grizabella : Then a new life
+
+929
+01:43:47,886 --> 01:43:51,817
+Grizabella : Will begin
+
+930
+01:43:51,818 --> 01:43:55,065
+Grizabella : Memory
+
+931
+01:43:55,066 --> 01:44:00,272
+Grizabella : All alone in the moonlight
+
+932
+01:44:00,273 --> 01:44:05,450
+Grizabella : I can smile at the old days
+
+933
+01:44:05,451 --> 01:44:10,696
+Grizabella : I was beautiful then
+
+934
+01:44:10,836 --> 01:44:14,706
+Grizabella : I remember
+
+935
+01:44:14,707 --> 01:44:20,963
+Grizabella : A time I knew what happiness was
+
+936
+01:44:21,116 --> 01:44:25,583
+Grizabella : Let the memory
+
+937
+01:44:26,276 --> 01:44:29,639
+Grizabella : Live again
+
+938
+01:44:29,707 --> 01:44:36,841
+Grizabella : Burnt out ends of smoky days
+
+939
+01:44:37,046 --> 01:44:44,254
+Grizabella : The stale cold smell Of morning
+
+940
+01:44:44,255 --> 01:44:47,562
+Grizabella : The street lamp dies
+
+941
+01:44:47,563 --> 01:44:51,808
+Grizabella : Another night is over
+
+942
+01:44:51,809 --> 01:44:54,888
+Grizabella : Another day
+
+943
+01:44:54,889 --> 01:45:00,754
+Grizabella : Is dawning
+
+944
+01:45:00,755 --> 01:45:03,544
+Grizabella : Daylight
+
+945
+01:45:03,545 --> 01:45:08,063
+Grizabella : I must wait for the sunrise
+
+946
+01:45:08,064 --> 01:45:11,629
+Grizabella : I must think of the new life
+
+947
+01:45:11,630 --> 01:45:16,959
+Grizabella : And I mustn't give in
+
+948
+01:45:17,627 --> 01:45:20,744
+Grizabella : When the dawn comes
+
+949
+01:45:20,745 --> 01:45:26,451
+Grizabella : Tonight will be a memory too
+
+950
+01:45:26,452 --> 01:45:31,465
+Grizabella : And the new day
+
+951
+01:45:31,466 --> 01:45:35,490
+Grizabella : Will begin
+
+952
+01:45:49,957 --> 01:45:56,896
+Jemima : Sunlight through the trees In summer
+
+953
+01:45:56,897 --> 01:46:02,956
+Jemima : Endless masquerading
+
+954
+01:46:03,745 --> 01:46:10,640
+Grizabella;Jemima : Like a flower As the dawn is breaking
+
+955
+01:46:10,641 --> 01:46:13,561
+Grizabella : The memory
+
+956
+01:46:13,562 --> 01:46:19,393
+Grizabella : Is fading
+
+957
+01:46:20,048 --> 01:46:23,051
+Grizabella : Touch me
+
+958
+01:46:23,052 --> 01:46:28,280
+Grizabella : It's so easy to leave me
+
+959
+01:46:28,317 --> 01:46:33,689
+Grizabella : All alone with the memory
+
+960
+01:46:33,690 --> 01:46:39,882
+Grizabella : Of my days in the sun
+
+961
+01:46:39,883 --> 01:46:43,383
+Grizabella : If you touch me
+
+962
+01:46:43,384 --> 01:46:49,741
+Grizabella : You'll understand what happiness is
+
+963
+01:46:50,540 --> 01:46:57,959
+Grizabella : Look a new day
+
+964
+01:46:58,096 --> 01:47:10,741
+Grizabella : Has begun
+
+965
+01:48:17,584 --> 01:48:23,559
+All Cats : Up up up Past the Russell Hotel
+
+966
+01:48:23,560 --> 01:48:29,559
+All Cats : Up up up up To the Heaviside Layer
+
+967
+01:48:29,560 --> 01:48:35,514
+All Cats : Up up up Past the Russell Hotel
+
+968
+01:48:35,515 --> 01:48:41,422
+All Cats : Up up up up To the Heaviside Layer
+
+969
+01:48:41,423 --> 01:48:47,222
+All Cats : Up up up Past the Russell Hotel
+
+970
+01:48:47,223 --> 01:48:52,901
+All Cats : Up up up up To the Heaviside Layer
+
+971
+01:48:52,902 --> 01:48:58,894
+All Cats : Up up up Past the Russell Hotel
+
+972
+01:48:58,895 --> 01:49:04,435
+All Cats : Up up up up To the Heaviside Layer
+
+973
+01:49:04,686 --> 01:49:10,564
+All Cats : Up up up Past the Jellicle Moon
+
+974
+01:49:10,565 --> 01:49:16,216
+All Cats : Up up up up To the Heaviside Layer
+
+975
+01:49:16,551 --> 01:49:22,465
+All Cats : Up up up Past the Jellicle Moon
+
+976
+01:49:22,466 --> 01:49:29,505
+All Cats : Up up up up To the Heaviside Layer
+
+977
+01:50:16,645 --> 01:50:24,192
+All Cats : The mystical divinity
+
+978
+01:50:24,193 --> 01:50:31,289
+All Cats : Of unashamed felinity
+
+979
+01:50:31,555 --> 01:50:38,256
+All Cats : Round the cathedral
+
+980
+01:50:38,257 --> 01:50:45,297
+All Cats : Rang vivat
+
+981
+01:50:45,449 --> 01:50:48,133
+All Cats : Life to
+
+982
+01:50:48,134 --> 01:50:55,633
+All Cats : The everlasting
+
+983
+01:50:55,634 --> 01:51:00,405
+All Cats : Cat
+
+984
+01:51:06,961 --> 01:51:12,672
+Old Deuteronomy : You've heard of Several kinds of cat
+
+985
+01:51:12,673 --> 01:51:18,156
+Old Deuteronomy : And my opinion now is that
+
+986
+01:51:18,157 --> 01:51:24,185
+Old Deuteronomy : You should need no interpreter
+
+987
+01:51:24,186 --> 01:51:29,389
+Old Deuteronomy : To understand our character
+
+988
+01:51:29,390 --> 01:51:34,853
+Old Deuteronomy : You've learned enough To take the view
+
+989
+01:51:35,025 --> 01:51:40,466
+Old Deuteronomy : That cats are very much like you
+
+990
+01:51:40,467 --> 01:51:45,743
+Old Deuteronomy : You've seen us both At work and games
+
+991
+01:51:45,744 --> 01:51:51,290
+Old Deuteronomy : And learnt about our proper names
+
+992
+01:51:51,291 --> 01:51:56,338
+Old Deuteronomy : Our habits and our habitat
+
+993
+01:51:56,339 --> 01:51:59,363
+Old Deuteronomy : But how would you
+
+994
+01:51:59,364 --> 01:52:05,695
+Old Deuteronomy : Address a cat
+
+995
+01:52:06,361 --> 01:52:09,067
+Old Deuteronomy : So first
+
+996
+01:52:09,068 --> 01:52:13,986
+Old Deuteronomy : Your memory I'll jog
+
+997
+01:52:13,987 --> 01:52:16,960
+Old Deuteronomy : And say a cat
+
+998
+01:52:16,961 --> 01:52:21,791
+Old Deuteronomy : Is not a dog
+
+999
+01:52:21,792 --> 01:52:24,193
+All Cats : So first
+
+1000
+01:52:24,194 --> 01:52:29,385
+All Cats : Your memory I'll jog
+
+1001
+01:52:29,386 --> 01:52:32,304
+All Cats : And say a cat
+
+1002
+01:52:32,305 --> 01:52:38,718
+All Cats : Is not a dog
+
+1003
+01:52:40,466 --> 01:52:43,233
+Old Deuteronomy : With cats
+
+1004
+01:52:43,234 --> 01:52:48,784
+Old Deuteronomy : Some say one rule is true
+
+1005
+01:52:48,785 --> 01:52:52,805
+Old Deuteronomy : Don't speak till you
+
+1006
+01:52:52,923 --> 01:52:59,184
+Old Deuteronomy : Are spoken to
+
+1007
+01:53:00,556 --> 01:53:06,288
+Old Deuteronomy : Myself I do not hold with that
+
+1008
+01:53:06,289 --> 01:53:11,691
+Old Deuteronomy : I say you should address a cat
+
+1009
+01:53:11,692 --> 01:53:17,451
+Old Deuteronomy : But always keep in mind that he
+
+1010
+01:53:17,452 --> 01:53:27,819
+Old Deuteronomy : Resents familiarity
+
+1011
+01:53:28,733 --> 01:53:31,416
+Old Deuteronomy : You bow
+
+1012
+01:53:31,417 --> 01:53:37,272
+Old Deuteronomy : And taking off your hat
+
+1013
+01:53:37,273 --> 01:53:42,233
+Old Deuteronomy : Address him in
+
+1014
+01:53:42,234 --> 01:53:46,271
+Old Deuteronomy : This form
+
+1015
+01:53:46,769 --> 01:53:53,339
+Old Deuteronomy : Oh Cat
+
+1016
+01:53:54,240 --> 01:53:59,103
+Old Deuteronomy : Before a cat will condescend
+
+1017
+01:53:59,104 --> 01:54:03,720
+Old Deuteronomy : To treat you as a trusted friend
+
+1018
+01:54:03,721 --> 01:54:08,675
+Old Deuteronomy : Some little token of esteem
+
+1019
+01:54:08,676 --> 01:54:13,270
+Old Deuteronomy : Is needed like a dish of cream
+
+1020
+01:54:13,271 --> 01:54:18,146
+Old Deuteronomy : And you might now and then supply
+
+1021
+01:54:18,295 --> 01:54:23,105
+Old Deuteronomy : Some caviar or Strassburg Pie
+
+1022
+01:54:23,106 --> 01:54:27,495
+Old Deuteronomy : Some potted grouse or salmon paste
+
+1023
+01:54:27,496 --> 01:54:32,177
+Old Deuteronomy : He's sure to have His personal taste
+
+1024
+01:54:32,178 --> 01:54:37,131
+Old Deuteronomy : And so in time you reach your aim
+
+1025
+01:54:37,132 --> 01:54:39,916
+Old Deuteronomy : And call him
+
+1026
+01:54:39,917 --> 01:54:46,147
+Old Deuteronomy : By his name
+
+1027
+01:54:46,148 --> 01:54:51,651
+All Cats : A cat's entitled to expect
+
+1028
+01:54:51,652 --> 01:54:56,410
+All Cats : These evidences of respect
+
+1029
+01:54:56,411 --> 01:54:59,914
+All Cats : So this is this
+
+1030
+01:54:59,915 --> 01:55:03,911
+All Cats : And that is that
+
+1031
+01:55:03,912 --> 01:55:10,950
+All Cats : And there's how you address a cat
+
+1032
+01:55:11,092 --> 01:55:17,267
+All Cats : A cat's entitled to expect
+
+1033
+01:55:17,268 --> 01:55:22,245
+All Cats : These evidences of respect
+
+1034
+01:55:22,246 --> 01:55:26,019
+All Cats : So this is this
+
+1035
+01:55:26,020 --> 01:55:30,452
+All Cats : And that is that
+
+1036
+01:55:30,453 --> 01:55:36,566
+All Cats : And there's how you address
+
+1037
+01:55:36,567 --> 01:55:47,130
+All Cats : A Cat
+
