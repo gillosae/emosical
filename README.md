@@ -32,10 +32,14 @@ Supported movies in current version (download links) :
 
 
 ### How to 
-1. Download movie files from provided link above.
-2. Place your movie file under ```data/raw/theatre/```.
+1. Clone our repository recursively for <a href="https://github.com/facebookresearch/demucs">Demucs</a> and <a href="https://github.com/sp-uhh/sgmse">SGMSE</a> audio processing.
+
+        git clone --recursive https://github.com/gillosae/emosical.git
+
+2. Download movie files from provided link above.
+3. Place your movie file under ```data/raw/theatre/```.
 The name of placed movie files should match the name of srt files in ```data/raw/srt/```.
-3. Then run the following code to produce data automatically.
+4. Then run the following code to produce data automatically.
     
         python run.py
 
