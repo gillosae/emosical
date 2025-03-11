@@ -1,3 +1,5 @@
+.DS_Store
+
 data/raw/theatre/
 !data/raw/theatre/.gitkeep
 data/audio/*
