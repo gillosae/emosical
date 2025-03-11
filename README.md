@@ -35,12 +35,7 @@ Supported movies in current version (download links) :
 1. Download movie files from provided link above.
 2. Place your movie file under ```data/raw/theatre/```.
 The name of placed movie files should match the name of srt files in ```data/raw/srt/```.
-3. Clone Demucs and SGMSE repository for audio processing.
-
-        git clone https://github.com/facebookresearch/demucs.git
-        git clone https://github.com/sp-uhh/sgmse.git
-
-4. Then run the following code to produce data automatically.
+3. Then run the following code to produce data automatically.
     
         python run.py
 
