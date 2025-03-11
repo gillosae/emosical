@@ -1,4 +1,7 @@
 # Emosical: An Emotion-Annotated Musical Theatre Dataset
+
+(Pending)
+
 Accepted to EMNLP Findings, 2024
 
 
@@ -14,7 +17,7 @@ Supported movies in current version (download links) :
 <a href="https://www.microsoft.com/en-au/p/frozen-2013/8d6kgwzkhjg9?activetab=pivot%3Aoverviewtab">Frozen (2014)</a>, 
 <a href="https://www.microsoft.com/en-us/p/frozen-ii/8d6kgwxn0hk0">Frozen2 (2019)</a>, 
 <a href="https://www.microsoft.com/en-us/p/frozen-fever/8d6kgx02bg5t?activetab=pivot%3Aoverviewtab">Frozen Fever (2015)</a>, 
-<a href="https://www.microsoft.com/nl-nl/p/jesus-christ-superstar/8d6kgwzl60ks">JesusChristSuperstar (2012)</a>, 
+<a href="https://www.microsoft.com/nl-nl/p/jesus-christ-superstar/8d6kgwzl60ks">Jesus Christ Superstar (2012)</a>, 
 <a href="https://www.microsoft.com/en-us/p/kinky-boots-the-musical/8d6kgwxn6zn4?activetab=pivot%3Aoverviewtab">Kinky Boots (2019)</a>, 
 <a href="https://www.microsoft.com/en-us/p/la-la-land/8d6kgwx614c0?activetab=pivot%3Aoverviewtab">La la Land (2016)</a>, 
 <a href="https://www.microsoft.com/en-us/p/moana/8d6kgx0m8tzw?activetab=pivot%3Aoverviewtab">Moana (2016)</a>, 
@@ -32,9 +35,14 @@ Supported movies in current version (download links) :
 1. Download movie files from provided link above.
 2. Place your movie file under ```data/raw/theatre/```.
 The name of placed movie files should match the name of srt files in ```data/raw/srt/```.
-3. Then run the following code to produce data automatically.
+3. Clone Demucs and SGMSE repository for audio processing.
+
+        git clone https://github.com/facebookresearch/demucs.git
+        git clone https://github.com/sp-uhh/sgmse.git
+
+4. Then run the following code to produce data automatically.
     
-        ./run.sh
+        python run.py
 
 
 
@@ -45,18 +53,18 @@ Before:
     ├── data/
     │   └── raw/
     │       ├── theatre/
-    │       │   ├── frozen.mov
+    │       │   ├── aladdin.mov
     │       │   └── ...
     │       └── srt/
-    │           ├── frozen.srt
+    │           ├── aladdin.srt
     │           └── ...
     └── metadata/
         ├── number_info.csv
         └── global_persona/
-        │       ├── frozen.yaml   
+        │       ├── aladdin.yaml
         │       └── ...
         └── scene_summarization/
-                ├── frozen.yaml   
+                ├── aladdin.yaml
                 └── ...
 
 After:
@@ -64,13 +72,13 @@ After:
     ├── data/
     │   ├── raw/
     │   │   ├── theatre/
-    │   │   │   ├── frozen.mov
+    │   │   │   ├── aladdin.mov
     │   │   │   └── ...
     │   │   └── srt/
-    │   │       ├── frozen.srt
+    │   │       ├── aladdin.srt
     │   │       └── ...
     │   ├── audio/ 
-    │   │   ├── frozen/
+    │   │   ├── aladdin/
     │   │   │   ├── 1.wav
     │   │   │   └── ...
     │   │   └── ...
@@ -79,8 +87,8 @@ After:
     └── metadata/
         ├── number_info.csv
         └── global_persona/
-        │       ├── frozen.yaml   
+        │       ├── aladdin.yaml   
         │       └── ...
         └── scene_summarization/
-                ├── frozen.yaml   
+                ├── aladdin.yaml   
                 └── ...
