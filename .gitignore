@@ -4,6 +4,7 @@ data/raw/theatre/
 !data/raw/theatre/.gitkeep
 data/audio/*
 data/video/*
+data/audio_demucs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

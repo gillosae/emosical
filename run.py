@@ -1,8 +1,15 @@
 import os
 import subprocess
+import sys
 
 import srt
 from tqdm import tqdm
+
+import demucs.demucs.htdemucs as htdemucs
+
+# Alias the module so that unpickling can find 'demucs.htdemucs'
+sys.modules["demucs.htdemucs"] = htdemucs
+from demucs.demucs import separate
 
 opj = os.path.join
 
@@ -152,7 +159,24 @@ def parse_av_ffmpeg(movie):
 
 # Vocal separation
 def demucs_audio_processing(file_path):
-    print(f"Gentle audio processing for file: {file_path}")
+    print(f"Demucs audio processing for file: {file_path}")
+
+    # Run Demucs to separate only vocals using the --two-stems=vocals flag.
+    # This is equivalent to: demucs --two-stems=vocals myfile.mp3
+    separate.main(["--two-stems=vocals", file_path])
+
+
+def demucs_audio_processing(file_path):
+    print(f"Demucs audio processing for file: {file_path}")
+
+    # Derive the movie name from the audio file's parent directory.
+    movie_name = os.path.basename(os.path.dirname(file_path))
+    output_dir = os.path.join("data", "audio_demucs", movie_name)
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Run Demucs to separate only vocals (using --two-stems=vocals)
+    # and direct the output to the corresponding folder.
+    separate.main(["--two-stems=vocals", "--out", output_dir, file_path])
 
 
 # Speech enhancement
@@ -161,6 +185,18 @@ def sgmse_audio_processing(file_path):
 
 
 if __name__ == "__main__":
-    existing_movies = check_files()
-    for movie in existing_movies:
-        parse_av_ffmpeg(movie)
+    # existing_movies = check_files()
+    # for movie in existing_movies:
+    #     parse_av_ffmpeg(movie)
+
+    # Perform demucs on all audio at /data/audio/{movie_name}/{index}.wav
+    # and save to /data/audio_demucs/{movie_name}/{index}.wav
+
+    # Now, process all audio segments in data/audio/{movie_name}/{index}.wav with Demucs.
+    for movie_name in os.listdir(audio_dir):
+        movie_audio_dir = opj(audio_dir, movie_name)
+        if os.path.isdir(movie_audio_dir):
+            for file in os.listdir(movie_audio_dir):
+                if file.lower().endswith(".wav"):
+                    file_path = opj(movie_audio_dir, file)
+                    demucs_audio_processing(file_path)
